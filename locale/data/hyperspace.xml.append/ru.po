@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-07 10:44+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
+"datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:1657
 msgid ""
@@ -21,7 +29,7 @@ msgstr "Дар абляции"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/secretDescription"
-msgstr "Получите дар Абляционной брони от Корби."
+msgstr "Получите дар абляции от Корби."
 
 #: src-en/data/hyperspace.xml.append:1661
 msgid ""
@@ -47,7 +55,7 @@ msgstr "Дар нацеливания"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/secretDescription"
-msgstr "Получите дар Нацеливания от Корби."
+msgstr "Получите дар нацеливания от Корби."
 
 #: src-en/data/hyperspace.xml.append:1669
 msgid ""
@@ -74,7 +82,7 @@ msgstr "Дар инфузии"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/secretDescription"
-msgstr "Получите дар Инфузии от Корби."
+msgstr "Получите дар инфузии от Корби."
 
 #: src-en/data/hyperspace.xml.append:1677
 msgid ""
@@ -101,7 +109,7 @@ msgstr "Дар нейтрализации"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/secretDescription"
-msgstr "Получите дар Шокового нейтрализатора от Корби."
+msgstr "Получите дар нейтрализации от Корби."
 
 #: src-en/data/hyperspace.xml.append:1685
 msgid ""
@@ -128,7 +136,7 @@ msgstr "Дар наручей"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/secretDescription"
-msgstr "Получите дар Система наручи от Корби."
+msgstr "Получите дар наручей от Корби."
 
 #: src-en/data/hyperspace.xml.append:1693
 msgid ""
@@ -148,19 +156,21 @@ msgstr "Дар получен"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/name"
-msgstr ""
+msgstr "Дар волокон"
 
 #: src-en/data/hyperspace.xml.append:1700
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар волокон от Корби."
 
 #: src-en/data/hyperspace.xml.append:1701
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную систему Волокнистый лайнер. Пока "
+"действует; ваш экипаж получает x0.85 урона от всех источников."
 
 #: src-en/data/hyperspace.xml.append:1702
 msgid ""
@@ -172,10 +182,10 @@ msgstr "Дар получен"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
 "append:category[1]/customTitle"
-msgstr ""
+msgstr "ИННОВАЦИОННЫЕ СИСТЕМЫ"
 
 #: src-en/data/hyperspace.xml.append:1742
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
 "append:category[2]/customTitle"
-msgstr ""
+msgstr "ИННОВАЦИОННЫЕ СИСТЕМЫ"
