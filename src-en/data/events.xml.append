@@ -1,4 +1,0 @@
-
-<event name="LILY_FORCE_RECALL">
-    <recallBoarders force="true"/>
-</event>
