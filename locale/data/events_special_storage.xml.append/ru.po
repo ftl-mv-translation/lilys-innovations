@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-07 10:44+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
+"dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -39,7 +47,7 @@ msgstr "Система наручи."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[6]/text"
-msgstr "Кислородная установка."
+msgstr "Волокнистый лайнер."
 
 #: src-en/data/events_special_storage.xml.append:29
 msgid ""
@@ -69,25 +77,25 @@ msgstr "Броня, пропитанная эфиром. [Цена: 65~, 5|]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Поле целостности эфира. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Поле целостности эфира. [Цена: 50~, 5{, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:66
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Одежда из эфирного волокна. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:70
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Одежда из эфирного волокна. [Цена: 40~, 8{, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
@@ -425,13 +433,13 @@ msgstr "Картографический набор. [Цена: 40~, 3{, 3|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_SECTOR_SCANNER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Сканер секторов. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_SECTOR_SCANNER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сканер секторов. [Цена: 20~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
@@ -1586,29 +1594,35 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Выберите тип инфузии, который будет использоваться в 4-м слоте инфузионного "
+"отсека."
 
 #: src-en/data/events_special_storage.xml.append:1406
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/text"
 msgstr ""
+"Здесь вы можете выбрать, какой тип инфузии использовать для 4-го слота "
+"инфузионного отсека. "
+"(Сначала необходимо установить соответствующее внутреннее улучшение)"
 
 #: src-en/data/events_special_storage.xml.append:1408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Перегруженные инфузии. [НЕ УСТАНОВЛЕНЫ]"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Перегруженные инфузии."
 
 #: src-en/data/events_special_storage.xml.append:1414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вы настраиваете инфузионный отсек на использование перегруженных инфузий."
 
 #: src-en/data/events_special_storage.xml.append:1417
 msgid ""
@@ -1620,19 +1634,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Хаотические инфузии. [НЕ УСТАНОВЛЕНЫ]"
 
 #: src-en/data/events_special_storage.xml.append:1427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Хаотические инфузии."
 
 #: src-en/data/events_special_storage.xml.append:1429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "Вы настраиваете инфузионный отсек на использование хаотичных инфузий."
 
 #: src-en/data/events_special_storage.xml.append:1432
 msgid ""
@@ -1644,19 +1658,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Огненные инфузии. [НЕ УСТАНОВЛЕНЫ]"
 
 #: src-en/data/events_special_storage.xml.append:1442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Огненные инфузии."
 
 #: src-en/data/events_special_storage.xml.append:1444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "Вы настраиваете инфузионный отсек на использование огненных инфузий."
 
 #: src-en/data/events_special_storage.xml.append:1447
 msgid ""
@@ -1668,19 +1682,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Взрывные инфузии. [НЕ УСТАНОВЛЕНЫ]"
 
 #: src-en/data/events_special_storage.xml.append:1457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Взрывные инфузии."
 
 #: src-en/data/events_special_storage.xml.append:1459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "Вы настраиваете инфузионный отсек на использование взрывных инфузий."
 
 #: src-en/data/events_special_storage.xml.append:1462
 msgid ""
@@ -1692,19 +1706,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Инфузии Феникса. [НЕ УСТАНОВЛЕНЫ]"
 
 #: src-en/data/events_special_storage.xml.append:1472
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Инфузии Феникса."
 
 #: src-en/data/events_special_storage.xml.append:1474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вы настраиваете инфузионный отсек на использование перегруженных инфузий."
 
 #: src-en/data/events_special_storage.xml.append:1477
 msgid ""
@@ -1892,7 +1907,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/text"
-msgstr "Какие инфузии вы хотите установить? [Взаимоисключающие]"
+msgstr ""
+"Какие инфузии вы хотите установить? "
+"[Установка нескольких позволяет переключаться между ними вне боя]"
 
 #: src-en/data/events_special_storage.xml.append:1650
 msgid ""
@@ -3133,7 +3150,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
 "Вы собираетесь установить Наручи из живого металла.\n"
-"\t[Эффекты: Система наручи медленно ремонтируется даже в отсутствие экипажа]"
+"\t[Эффекты: Изготовленные из особого металла, способного \"запоминать\" "
+"формы, Система наручи будут медленно ремонтироваться даже в отсутствие "
+"экипажа]"
 
 #: src-en/data/events_special_storage.xml.append:2740
 msgid ""
@@ -3234,6 +3253,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/text"
 msgstr ""
+"Вы собираетесь установить Поле целостности эфира.\n"
+"[Эффекты: Системы, защищенные Системой наручей, теперь саботируются с "
+"половинной скоростью и наносят посторонним урон со скоростью 2 ОЗ/С]"
 
 #: src-en/data/events_special_storage.xml.append:2829
 msgid ""
@@ -3242,7 +3264,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 80~, 5{, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:2831
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"1\"]/event/text"
@@ -3259,6 +3280,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Улучшение недоступно. Необходимо иметь внутреннее улучшение Генератор поля "
+"целостности (Система наручи)."
 
 #: src-en/data/events_special_storage.xml.append:2848
 msgid ""
@@ -3266,7 +3289,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:2850
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"EX_LILY_BRACERS_AETHER\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -3290,49 +3312,49 @@ msgstr "Какое улучшение вы хотите установить?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_STRONG\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Двойное плетение. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2878
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_STRONG\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Двойное плетение. [Цена: 40~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2882
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_HAZARD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Слой опасной среды. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2886
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_HAZARD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Слой опасной среды. [Цена: 40~, 5{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2890
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_PRIORITY\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Динамический приоритет. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2894
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_PRIORITY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Динамический приоритет. [Цена: 25~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2898
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Живые волокна. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2902
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Живые волокна. [Цена: 80~, 6{]"
 
 #: src-en/data/events_special_storage.xml.append:2908
 msgid ""
@@ -3343,6 +3365,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/text"
 msgstr ""
+"Вы собираетесь установить Двойное плетение.\n"
+"[Эффекты: Защита Волокнистого лайнера теперь в два раза эффективнее, но ее "
+"ремонт экипажем выполняется в два раза медленнее]"
 
 #: src-en/data/events_special_storage.xml.append:2918
 msgid ""
@@ -3351,7 +3376,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 40~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2920
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"1\"]/event/text"
@@ -3367,7 +3391,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Необходим Волокнистый лайнер 1 уровня."
 
 #: src-en/data/events_special_storage.xml.append:2936
 msgid ""
@@ -3375,7 +3399,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:2938
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"EX_LILY_FIBER_STRONG\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -3394,6 +3417,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/text"
 msgstr ""
+"Вы собираетесь установить Слой опасной среды.\n"
+"[Эффекты: Волокнистый лайнер теперь также снижает вероятность получения "
+"статуса (пожар, пробоина, оглушение) от попадания снарядов и лучей в корпус]"
 
 #: src-en/data/events_special_storage.xml.append:2962
 msgid ""
@@ -3402,7 +3428,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 40~, 3{, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:2964
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"2\"]/event/text"
@@ -3418,7 +3443,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Необходим Волокнистый лайнер 2 уровня."
 
 #: src-en/data/events_special_storage.xml.append:2981
 msgid ""
@@ -3426,7 +3451,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:2983
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"EX_LILY_FIBER_HAZARD\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -3445,6 +3469,10 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/text"
 msgstr ""
+"Вы собираетесь установить Динамический приоритет.\n"
+"[Эффекты: Волокнистый лайнер теперь применяет свою защиту "
+"(и, следовательно, получает урон) только в отсеках, где присутствуют союзные "
+"члены экипажа]"
 
 #: src-en/data/events_special_storage.xml.append:3007
 msgid ""
@@ -3453,7 +3481,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 20~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:3009
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"1\"]/event/text"
@@ -3469,7 +3496,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Необходим Волокнистый лайнер 1 уровня."
 
 #: src-en/data/events_special_storage.xml.append:3025
 msgid ""
@@ -3477,7 +3504,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3027
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"EX_LILY_FIBER_PRIORITY\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -3496,6 +3522,10 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/text"
 msgstr ""
+"Вы собираетесь установить Живые волокна.\n"
+"[Эффекты: Особый материал из живых волокнистых лайнеров способен "
+"компенсировать утечки энергии на вашем корабле и восстанавливаться "
+"естественным образом даже при отсутствии экипажа]"
 
 #: src-en/data/events_special_storage.xml.append:3051
 msgid ""
@@ -3504,7 +3534,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 30~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:3053
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"3\"]/event/text"
@@ -3520,7 +3549,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Необходим Волокнистый лайнер 3 уровня."
 
 #: src-en/data/events_special_storage.xml.append:3069
 msgid ""
@@ -3528,7 +3557,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3071
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"EX_LILY_FIBER_REGEN\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -3547,6 +3575,11 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/text"
 msgstr ""
+"Вы собираетесь установить Одежда из эфирного волокна.\n"
+"[Эффекты: Особая одежда из живых волокон, пропитанных эфиром. Обеспечивает "
+"вашему экипажу 20% снижение урона от всех источников и постоянную "
+"регенерацию 2 ОЗ/с. Экипаж, который обеспечивает бонусную энергию, "
+"дополнительно получает +30% к урону и ремонту]"
 
 #: src-en/data/events_special_storage.xml.append:3096
 msgid ""
@@ -3555,7 +3588,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 100~, 8{, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:3098
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"1\"]/event/text"
@@ -3572,6 +3604,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Улучшение недоступно. Необходимо иметь внутреннее улучшение Живые волокна "
+"(Волокнистый лайнер)."
 
 #: src-en/data/events_special_storage.xml.append:3115
 msgid ""
@@ -3579,7 +3613,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3117
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"EX_LILY_FIBER_AETHER\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4136,13 +4169,13 @@ msgstr "Включить рендеринг Системы наручи."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr "Отключить звуки нацеливания ядра."
+msgstr "Отключить рендеринг волокнистого лайнера."
 
 #: src-en/data/events_special_storage.xml.append:3616
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
-msgstr "Включить звуки нацеливания ядра."
+msgstr "Включить рендеринг волокнистого лайнера."
 
 #: src-en/data/events_special_storage.xml.append:3623
 msgid ""
