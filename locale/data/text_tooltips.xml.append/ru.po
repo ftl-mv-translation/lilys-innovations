@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-07 10:44+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
+"datatext_tooltipsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_tooltips.xml.append:2
 msgid ""
@@ -67,11 +75,17 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:10
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner\"]"
 msgstr ""
+"Волокнистый лайнер: Защищает экипаж, уменьшая урон, наносимый снарядами, "
+"попавшими в корпус вашего корабля. Получает урон, зависящий от полученного "
+"экипажем урона."
 
 #: src-en/data/text_tooltips.xml.append:11
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_enemy\"]"
 msgstr ""
+"Волокнистый лайнер: Защищает вражеский экипаж, уменьшая урон, наносимый "
+"снарядами, попавшими в корпус вражеского корабля. Получает урон, зависящий "
+"от полученного экипажем урона."
 
 #: src-en/data/text_tooltips.xml.append:12
 msgid ""
@@ -92,174 +106,206 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:15
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_disabled\"]"
-msgstr ""
+msgstr "Отключен."
 
 #: src-en/data/text_tooltips.xml.append:17
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_level\"]"
-msgstr ""
+msgstr "Защита: %s урона"
 
 #: src-en/data/text_tooltips.xml.append:19
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_level\"]"
-msgstr ""
+msgstr "ОЗ: %s"
 
 #: src-en/data/text_tooltips.xml.append:21
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_disabled\"]"
-msgstr ""
+msgstr "Отключена. Инфузии не могут быть активированы."
 
 #: src-en/data/text_tooltips.xml.append:22
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_level\"]"
-msgstr ""
+msgstr "%s Макс. зарядов, %sс / Заряд"
 
 #: src-en/data/text_tooltips.xml.append:24
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_level\"]"
-msgstr ""
+msgstr "Сила ядра: %s"
 
 #: src-en/data/text_tooltips.xml.append:25
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_manning\"]"
-msgstr ""
+msgstr "Бонус обслуживания: +0.5/0.75/1 сила ядра."
 
 #: src-en/data/text_tooltips.xml.append:27
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
-msgstr ""
+msgstr "Скорость: %sx / Бонус энерг.: %s"
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_disabled\"]"
-msgstr ""
+msgstr "Регенерация отключена."
 
 #: src-en/data/text_tooltips.xml.append:30
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level\"]"
-msgstr ""
+msgstr "ОЗ: %s /Рег.: %sx"
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2\"]"
-msgstr ""
+msgstr "ОЗ: %s/ Реген: %sx"
 
 #: src-en/data/text_tooltips.xml.append:32
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level_ion\"]"
-msgstr ""
+msgstr "ОЗ: %s/Рег.: %sx/Сопр.и.: %s"
 
 #: src-en/data/text_tooltips.xml.append:33
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2_ion\"]"
-msgstr ""
+msgstr "ОЗ: %s / Реген.: %sx / Сопр. ионам: %s"
 
 #: src-en/data/text_tooltips.xml.append:34
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_manning\"]"
-msgstr ""
+msgstr "Бонус обслуживания: на 20/40/60% быстрее регенерация."
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_locked\"]"
-msgstr ""
+msgstr "Эта инфузия в настоящее время заблокирована."
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_reconstitution\"]"
-msgstr ""
+msgstr "Активировать переносимые восстанавливающие инфузии. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:40
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_combatstimulant\"]"
-msgstr ""
+msgstr "Активировать переносимые боевые стимулирующие инфузии. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:41
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_gaseous\"]"
-msgstr ""
+msgstr "Активировать переносимые газообразные инфузии. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:42
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_overloaded\"]"
-msgstr ""
+msgstr "Активировать переносимые перегруженные инфузии. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:43
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_chaotic\"]"
-msgstr ""
+msgstr "Активировать переносимые хаотические инфузии. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_fireborne\"]"
-msgstr ""
+msgstr "Активировать переносимые огненные инфузии. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:45
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_explosive\"]"
-msgstr ""
+msgstr "Активировать переносимые взрывные инфузии. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_phoenix\"]"
-msgstr ""
+msgstr "Активировать переносимые инфузии Феникса. Эффекты:"
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_reconstitution\"]"
 msgstr ""
+"Предоставляет 0.85x сопротивление боевому урону, 1.5 ОЗ/с регенерацию "
+"здоровья, 0.5x скорость передвижения на время действия. 45 ОЗ/% исцеления, "
+"14 секунд болезни."
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_combatstimulant\"]"
 msgstr ""
+"Наносит 1.5х боевого урона, урона по дверям и скорости передвижения, который "
+"уменьшается по ходу действия эффекта "
+"(1.25х через 5 секунд, 1.1х через 10 секунд). 15 ОЗ/% исцеления, 21 секунда "
+"болезни."
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_gaseous\"]"
 msgstr ""
+"Дает иммунитет к удушению/огню/контролю разума, телепортацию в пределах "
+"одного корабля, но боевой урон уменьшается до 0.5x. 30 ОЗ/% лечения, 7 "
+"секунд болезни."
 
 #: src-en/data/text_tooltips.xml.append:50
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_overloaded\"]"
 msgstr ""
+"Оглушает себя и всех ближайших членов экипажа на 5 секунд и наносит 2 "
+"единицы ионного урона системе. Системы на вашем корабле вместо этого снимают "
+"1 единицу иона. 30 ОЗ/% исцеления, 21 секунда болезни."
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_chaotic\"]"
 msgstr ""
+"Применяет эффект случайной другой инфузии. Надеемся, что это не повлияет на "
+"ваш экипаж. 15–75 ОЗ/% исцеления, 7 секунд болезни."
 
 #: src-en/data/text_tooltips.xml.append:52
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_fireborne\"]"
 msgstr ""
+"Устраивает пожар в текущем отсеке. Дает возможность лечиться от огня на "
+"время действия, но также заставляет ваш экипаж быстро задыхаться, даже если "
+"они обычно иммунны к огню. 15 ОЗ/% лечения, 21 секунда болезни."
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_explosive\"]"
 msgstr ""
+"Взрывается, нанося всем врагам в комнате 15 единиц урона. Системы на "
+"вражеских кораблях получают 1 единицу урона, а на вашем корабле — 1 единицу "
+"ремонта. 15 ОЗ/% исцеления, 14 секунд болезни."
 
 #: src-en/data/text_tooltips.xml.append:54
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
 msgstr ""
+"Экипаж не может погибнуть в течение действия эффекта. Если они получают "
+"урон, который обычно привел бы к их гибели, они вместо этого получают полное "
+"восстановление здоровья и телепортируются в Инфузионный отсек. Когда этот "
+"эффект срабатывает, союзники в том же отсеке получают 30 ОЗ/% исцеления, а "
+"Инфузионный отсек получает 1 единицу невосстанавливаемого ионного урона с "
+"двойной продолжительностью блокировки. Не спасет ваших абордажников, если "
+"вражеский корабль взорвется. 15 ОЗ/% исцеления, 14 секунд болезни."
 
 #: src-en/data/text_tooltips.xml.append:56
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
 msgstr ""
+"Выберите отсек для Шокового нейтрализатора.\\n"
+"Клавиша: %s"
 
 #: src-en/data/text_tooltips.xml.append:58
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
 msgstr ""
+"Выберите отсек, на которое будет нацеливаться Ядро целенаведение.\\n"
+"Клавиша: %s"
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_notready\"]"
-msgstr ""
+msgstr "Система не готова."
 
 #: src-en/data/text_tooltips.xml.append:60
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_noship\"]"
-msgstr ""
+msgstr "Вражеского корабля для цели нет."
