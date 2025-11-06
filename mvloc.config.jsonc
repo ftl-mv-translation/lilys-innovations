@@ -64,7 +64,7 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/lilys-innovations/raw/lilys-innovations-english/lilys-innovations.zip",
+            "https://github.com/ftl-mv-translation/lilys-innovations/raw/lilys-innovations-english/lilys-innovations.ftl",
         ],
         "prefix": "Lilys-Innovations",
         "version": "1.7.2"
