@@ -1,0 +1,22 @@
+<FTL>
+<lilyinno_promo_select volume="5">effects_lily/lilyinno_promo_select.wav</lilyinno_promo_select>
+
+<lily_ablative_armor_restore_1 volume="3">effects_lily/ablative_armor_restore.wav</lily_ablative_armor_restore_1>
+<lily_ablative_armor_hit_1 volume="1">effects_lily/ablative_armor_hit.wav</lily_ablative_armor_hit_1>
+<lily_ablative_armor_hit_breach_1 volume="1">effects_lily/ablative_armor_hit_breach.wav</lily_ablative_armor_hit_breach_1>
+<lily_ablative_armor_bounce_1 volume="3">effects_lily/ablative_armor_bounce_1.wav</lily_ablative_armor_bounce_1>
+
+<lily_infusion_recharge_1 volume="3">effects_lily/bp_sfx_infusion_charge.wav</lily_infusion_recharge_1>
+<lily_infusion_pickup_1 volume="3">effects_lily/bp_sfx_infusion_pickup.wav</lily_infusion_pickup_1>
+<lily_infusion_activation_1 volume="5">effects_lily/bp_sfx_infusion_activation.wav</lily_infusion_activation_1>
+<lily_infusion_wearoff_1 volume="5">effects_lily/bp_sfx_infusion_wearoff.wav</lily_infusion_wearoff_1>
+
+<lily_shock_neutralizer_select_1 volume="5">effects_lily/shock_neutralizer_select.wav</lily_shock_neutralizer_select_1>
+
+<lily_targeting_core_locking_on volume="5">effects_lily/targeting_core_locking_on.wav</lily_targeting_core_locking_on>
+<lily_targeting_core_locked_on volume="5">effects_lily/targeting_core_locked_on.wav</lily_targeting_core_locked_on>
+
+<lily_bracers_hit_1 volume="5">effects_lily/system_bracers_hit_1.wav</lily_bracers_hit_1>
+
+<lily_fiber_liner_hit_1 volume="5">effects_lily/fiber_liner_hit_1.wav</lily_fiber_liner_hit_1>
+</FTL>

@@ -1,0 +1,93 @@
+<FTL>
+
+<mod:findName type="event" name="THE_JUDGES_ENGI_REAL">
+    <mod-append:choice req="lily_ablative_armor" lvl="8" blue="false">
+        <text>Present your Ablative Armor system.</text>
+        <event>
+            <text>"Ablative Armor - defensive p-p-p-procedures it ensures! You pilot a: well protected vessel! Well protected vessel! For well protected vessel: I provide Grant of Ab-Ab-ablation! Grant of Ablation! Save it - for the future!"</text>
+            <achievement>ACH_BOON_LILY_ABLATIVE_ARMOR</achievement>
+            <metaVariable name="prof_e_boon_lily_ablative_armor" op="set" val="1"/>
+            <variable name="ach_boon_lily_ablative_armor" op="set" val="1"/>
+            <choice hidden="true">
+                <text>Continue...</text>
+                <event load="THE_JUDGES_ENGI_ADVICE"/>
+            </choice>
+        </event>
+    </mod-append:choice>
+    <mod-append:choice req="lily_targeting_core" lvl="4" blue="false">
+        <text>Present your Dedicated Targeting Core system.</text>
+        <event>
+            <text>"Dedicated Targeting Core - for a d-d-dedicated sharpshooter! No enemy can: evade you now! For dedicated sharpshooter: I provide Grant of T-t-targeting! Grant of Targeting! Save it - for the future!"</text>
+            <achievement>ACH_BOON_LILY_TARGETING_CORE</achievement>
+            <metaVariable name="prof_e_boon_lily_targeting_core" op="set" val="1"/>
+            <variable name="ach_boon_lily_targeting_core" op="set" val="1"/>
+            <choice hidden="true">
+                <text>Continue...</text>
+                <event load="THE_JUDGES_ENGI_ADVICE"/>
+            </choice>
+        </event>
+    </mod-append:choice>
+    <mod-append:choice req="lily_infusion_bay" lvl="3" blue="false">
+        <text>Present your Infusion Bay system.</text>
+        <event>
+            <text>"Infusion Bay - risk, and reward! R-r-risk, r-r-r-reward... [which] is heavier? You are: here... a captain: -considerate- of potentiality! For heavy consideration, and heavier p-p-potential: I provide Grant of I-i-i-infusion! Grant of Infusion! Save it - for the future!"</text>
+            <achievement>ACH_BOON_LILY_INFUSION_BAY</achievement>
+            <metaVariable name="prof_e_boon_lily_infusion_bay" op="set" val="1"/>
+            <variable name="ach_boon_lily_infusion_bay" op="set" val="1"/>
+            <choice hidden="true">
+                <text>Continue...</text>
+                <event load="THE_JUDGES_ENGI_ADVICE"/>
+            </choice>
+        </event>
+    </mod-append:choice>
+    <mod-append:choice req="lily_shock_neutralizer" lvl="4" blue="false">
+        <text>Present your Shock Neutralizer subsystem.</text>
+        <event>
+            <text>"Shock Neutralizer - for p-p-p-protection against ions! Ions! A Technology - for [helping] other technology! Technology!!! For this: I [proudly] provide Grant of Neutralization! Grant of Neutralization! Save it - for the future!"</text>
+            <achievement>ACH_BOON_LILY_SHOCK_NEUTRALIZER</achievement>
+            <metaVariable name="prof_e_boon_lily_shock_neutralizer" op="set" val="1"/>
+            <variable name="ach_boon_lily_shock_neutralizer" op="set" val="1"/>
+            <choice hidden="true">
+                <text>Continue...</text>
+                <event load="THE_JUDGES_ENGI_ADVICE"/>
+            </choice>
+        </event>
+    </mod-append:choice>
+    <mod-append:choice req="lily_system_bracers" lvl="3" blue="false">
+        <text>Present your System Bracers subsystem.</text>
+        <event>
+            <text>"System Bracers - for p-p-p-protection against system damage! You pilot a: reliable vessel! Reliable vessel! For reliable vessel: I provide Grant of Br-br-bracing! Grant of Bracing! Save it - for the future!"</text>
+            <achievement>ACH_BOON_LILY_SYSTEM_BRACERS</achievement>
+            <metaVariable name="prof_e_boon_lily_system_bracers" op="set" val="1"/>
+            <variable name="ach_boon_lily_system_bracers" op="set" val="1"/>
+            <choice hidden="true">
+                <text>Continue...</text>
+                <event load="THE_JUDGES_ENGI_ADVICE"/>
+            </choice>
+        </event>
+    </mod-append:choice>
+    <mod-append:choice req="lily_fiber_liner" lvl="3" blue="false">
+        <text>Present your Fiber Liner subsystem.</text>
+        <event>
+            <text>"Fiber Liner - for p-p-p-protecting your crew against harm! You are a: b-b-benevolent captain! For your kindness: I provide Grant of F-Fibers! Grant of Fibers! Save it - for the future!"</text>
+            <achievement>ACH_BOON_LILY_FIBER_LINER</achievement>
+            <metaVariable name="prof_e_boon_lily_fiber_liner" op="set" val="1"/>
+            <variable name="ach_boon_lily_fiber_liner" op="set" val="1"/>
+            <choice hidden="true">
+                <text>Continue...</text>
+                <event load="THE_JUDGES_ENGI_ADVICE"/>
+            </choice>
+        </event>
+    </mod-append:choice>
+</mod:findName>
+
+<mod:findName type="event" name="THE_JUDGES_VARIABLE_CLEAR">
+    <mod-append:metaVariable name="prof_e_boon_lily_ablative_armor" op="set" val="0"/>
+    <mod-append:metaVariable name="prof_e_boon_lily_targeting_core" op="set" val="0"/>
+    <mod-append:metaVariable name="prof_e_boon_lily_infusion_bay" op="set" val="0"/>
+    <mod-append:metaVariable name="prof_e_boon_lily_shock_neutralizer" op="set" val="0"/>
+    <mod-append:metaVariable name="prof_e_boon_lily_system_bracers" op="set" val="0"/>
+    <mod-append:metaVariable name="prof_e_boon_lily_fiber_liner" op="set" val="0"/>
+</mod:findName>
+
+</FTL>
