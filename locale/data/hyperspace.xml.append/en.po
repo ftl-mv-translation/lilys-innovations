@@ -1,0 +1,180 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:1657
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod-"
+"append:page/mod-append:section/@text"
+msgstr "Corby's Grants (LilyInno)"
+
+#: src-en/data/hyperspace.xml.append:1659
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/name"
+msgstr "Grant of Ablation"
+
+#: src-en/data/hyperspace.xml.append:1660
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/secretDescription"
+msgstr "Receive the Grant of Ablation from Corby."
+
+#: src-en/data/hyperspace.xml.append:1661
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/description"
+msgstr ""
+"Show an upgraded Ablative Armor System to Corby. While in effect; Repair 1 "
+"Hull point for free every jump."
+
+#: src-en/data/hyperspace.xml.append:1662
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:1667
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/name"
+msgstr "Grant of Targeting"
+
+#: src-en/data/hyperspace.xml.append:1668
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/secretDescription"
+msgstr "Receive the Grant of Targeting from Corby."
+
+#: src-en/data/hyperspace.xml.append:1669
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/description"
+msgstr ""
+"Show an upgraded Dedicated Targeting Core System to Corby. While in effect; "
+"Grants +10 extra accuracy to all your weapons and drones."
+
+#: src-en/data/hyperspace.xml.append:1670
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:1675
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/name"
+msgstr "Grant of Infusion"
+
+#: src-en/data/hyperspace.xml.append:1676
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/secretDescription"
+msgstr "Receive the Grant of Infusion from Corby."
+
+#: src-en/data/hyperspace.xml.append:1677
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/description"
+msgstr ""
+"Show an upgraded Infusion Bay System to Corby. While in effect; x0.75 max "
+"health and x0.5 all damage taken in your medical facilities."
+
+#: src-en/data/hyperspace.xml.append:1678
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:1683
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/name"
+msgstr "Grant of Neutralization"
+
+#: src-en/data/hyperspace.xml.append:1684
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/secretDescription"
+msgstr "Receive the Grant of Neutralization from Corby."
+
+#: src-en/data/hyperspace.xml.append:1685
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/description"
+msgstr ""
+"Show an upgraded Shock Neutralizer Subystem to Corby. While in effect; Ion "
+"timers on your ship dissipate 10% faster."
+
+#: src-en/data/hyperspace.xml.append:1686
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:1691
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/name"
+msgstr "Grant of Bracing"
+
+#: src-en/data/hyperspace.xml.append:1692
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/secretDescription"
+msgstr "Receive the Grant of Bracing from Corby."
+
+#: src-en/data/hyperspace.xml.append:1693
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/description"
+msgstr ""
+"Show an upgraded System Bracers Subystem to Corby. While in effect; System "
+"Bracers repair speed penalty is removed."
+
+#: src-en/data/hyperspace.xml.append:1694
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:1699
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/name"
+msgstr "Grant of Fibers"
+
+#: src-en/data/hyperspace.xml.append:1700
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/secretDescription"
+msgstr "Receive the Grant of Fibers from Corby."
+
+#: src-en/data/hyperspace.xml.append:1701
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/description"
+msgstr ""
+"Show an upgraded Fiber Liner Subystem to Corby. While in effect; Your crew "
+"takes x0.85 damage from all sources."
+
+#: src-en/data/hyperspace.xml.append:1702
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:1725
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
+"append:category[1]/customTitle"
+msgstr "INNOVATION SYSTEMS"
+
+#: src-en/data/hyperspace.xml.append:1742
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
+"append:category[2]/customTitle"
+msgstr "INNOVATION SYSTEMS"

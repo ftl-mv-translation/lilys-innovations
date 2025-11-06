@@ -1,0 +1,1313 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:12
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/title"
+msgstr "Абляционная броня"
+
+#: src-en/data/blueprints.xml.append:13
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/desc"
+msgstr ""
+"Обеспечивает ваш корабль слоем брони, который поглощает урон до того, как он"
+" достигнет корпуса, и медленно ремонтируется. Более высокие уровни дают "
+"больше очков брони, быструю регенерацию и ионное сопротивление. Использует "
+"уровни обслуживания при ремонте."
+
+#: src-en/data/blueprints.xml.append:40
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/title"
+msgstr "С.Я.Ц."
+
+#: src-en/data/blueprints.xml.append:41
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/desc"
+msgstr ""
+"Специализированное ядро целенаведения захватывает отсеки вражеского корабля. Захваченные отсеки с большей вероятностью становятся целью дронов, всегда остаются в поле зрения, а снаряды, направленные на них, получают бонус к точности.\n"
+"\tКаждая сила ядра обеспечивает +5% к точности и может иметь другие эффекты с внутренними улучшениями.\n"
+"Когда враг скрыт, бонус к точности, предоставляемый системой, удваивается, оружие заряжается со скоростью, равной силе ядра * 20%, и появляется голограмма, обеспечивающая видимость в помещении."
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/title"
+msgstr "Шоковый нейтрализатор"
+
+#: src-en/data/blueprints.xml.append:58
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/desc"
+msgstr ""
+"Увеличивает скорость рассеивания ионов в выбранном отсеке, помогая ему "
+"восстановиться после атаки ионным оружием или сокращая время перезарядки. "
+"Также предоставляет ему дополнительную энергию во время ионных штормов или "
+"пульсаров."
+
+#: src-en/data/blueprints.xml.append:75
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/title"
+msgstr "Инфузионный отсек"
+
+#: src-en/data/blueprints.xml.append:76
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/desc"
+msgstr ""
+"Генерирует разнообразные инфузии с течением времени. Экипаж, входящий в "
+"отсек, подбирает и переносит инфузию, если она доступна. Инфузии, "
+"переносимые экипажем, могут быть активированы позже через интерфейс системы."
+
+#: src-en/data/blueprints.xml.append:90
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/title"
+msgstr "Система наручи"
+
+#: src-en/data/blueprints.xml.append:91
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/desc"
+msgstr ""
+"Пассивно защищает ваши системы от урона, перенаправляя его на себя (пока "
+"сама не будет уничтожена). Однако она ремонтируется только с половиной от "
+"обычной скорости по сравнению с другими системами."
+
+#: src-en/data/blueprints.xml.append:106
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:107
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:122
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:123
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:129
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/title"
+msgstr "Укрепление наручей [В]"
+
+#: src-en/data/blueprints.xml.append:130
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/desc"
+msgstr ""
+"Союзный экипаж в системе Наручи получает половину урона от всех источников, а вражеский экипаж саботирует ее с половинной скоростью.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:139
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:140
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:146
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/title"
+msgstr "Умное развертывание абордажа [В]"
+
+#: src-en/data/blueprints.xml.append:147
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/desc"
+msgstr ""
+"Заставляет ваши абордажные дроны отдавать приоритет посадке в важных вражеских отсеках.\n"
+"    \n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:157
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
+msgstr "Расширенная вентиляция [В]"
+
+#: src-en/data/blueprints.xml.append:158
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
+msgstr ""
+"Кислородная установка теперь уделяет приоритетное внимание вашему экипажу, пополняя запасы кислорода на 80% быстрее в отсеках, где находится экипаж. Оказывает противоположное воздействие на экипаж противника и пожары, истощая запасы кислорода. Требует питания от системы и масштабируется в зависимости от мощности.\n"
+"\n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:168
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:169
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:176
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
+msgstr "Advanced Ventilation"
+
+#: src-en/data/blueprints.xml.append:177
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:184
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/title"
+msgstr "Advanced Ventilation"
+
+#: src-en/data/blueprints.xml.append:185
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:192
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
+msgstr "Advanced Ventilation"
+
+#: src-en/data/blueprints.xml.append:193
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:200
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
+msgstr "Advanced Ventilation"
+
+#: src-en/data/blueprints.xml.append:201
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:208
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/title"
+msgstr "Advanced Ventilation"
+
+#: src-en/data/blueprints.xml.append:209
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:216
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
+msgstr "Advanced Ventilation"
+
+#: src-en/data/blueprints.xml.append:217
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:224
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/title"
+msgstr "Advanced Ventilation"
+
+#: src-en/data/blueprints.xml.append:225
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:233
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:234
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:240
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/title"
+msgstr "Дверное Укрепление [В]"
+
+#: src-en/data/blueprints.xml.append:241
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
+msgstr ""
+"Союзный экипаж в отсеке Дверей получает половину урона от всех источников, а вражеский экипаж саботирует ее с половинной скоростью.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:250
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:251
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:257
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/title"
+msgstr "Резервный кислород [В]"
+
+#: src-en/data/blueprints.xml.append:258
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
+msgstr ""
+"Кислородная установка обеспечивает небольшое количество кислорода в своем отсеке, даже если она разрушена или отключена.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:267
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:268
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:274
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/title"
+msgstr "Дверная отказоустойчивость [В]"
+
+#: src-en/data/blueprints.xml.append:275
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
+msgstr ""
+"Все двери и шлюзы автоматически закрываются, если система дверей разрушена или отключена.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:284
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:285
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:291
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
+msgstr "Выброс-перегрузка бат. [В]"
+
+#: src-en/data/blueprints.xml.append:292
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
+msgstr ""
+"Пока резервная батарея активна, вы получаете +10% к скорости зарядки оружия, +20% к скорости перезарядки щитов и +5% к уклонению за каждый уровень резервной батареи.\n"
+"Несовместимо с улучшением характеристик батареи.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:302
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:303
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:309
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/title"
+msgstr "Солнечная батарея [В]"
+
+#: src-en/data/blueprints.xml.append:310
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/desc"
+msgstr ""
+"При нахождении вблизи солнца резервная батарея может работать неограниченное время.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:320
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:321
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:327
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/title"
+msgstr "Защита разума [В]"
+
+#: src-en/data/blueprints.xml.append:328
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/desc"
+msgstr ""
+"Экипаж в Рулевой рубке становится невосприимчивым к контролю разума и оглушению.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:338
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:339
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:345
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/title"
+msgstr "И.Н.С. (Руль) [В]"
+
+#: src-en/data/blueprints.xml.append:346
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/desc"
+msgstr ""
+"Интегрированная нейронная сеть может обслуживать подсистему Рулевая рубка даже в отсутствие экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:355
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:356
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:362
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/title"
+msgstr "И.Н.С. (Сенсоры) [В]"
+
+#: src-en/data/blueprints.xml.append:363
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/desc"
+msgstr ""
+"Интегрированная нейронная сеть может обслуживать подсистему Сенсоры даже в отсутствие экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:372
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:373
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:379
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/title"
+msgstr "И.Н.С. (Двери) [В]"
+
+#: src-en/data/blueprints.xml.append:380
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/desc"
+msgstr ""
+"Интегрированная нейронная сеть может обслуживать подсистему Дверей даже в отсутствие экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:394
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:395
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:401
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/title"
+msgstr "Полированная броня [В]"
+
+#: src-en/data/blueprints.xml.append:402
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/desc"
+msgstr ""
+"Уменьшает урон, получаемый Абляционной броней от лучей на 1.\n"
+"    \n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:410
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:411
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:417
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/title"
+msgstr "Реактивная броня [В]"
+
+#: src-en/data/blueprints.xml.append:418
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/desc"
+msgstr ""
+"Когда Абляционная броня поглощает урон, она будет выбрасывать обломки, чтобы перехватить летящие снаряды или дроны.\n"
+"    \n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:426
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:427
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:433
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/title"
+msgstr "Броня двойной прочности [В]"
+
+#: src-en/data/blueprints.xml.append:434
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/desc"
+msgstr ""
+"Увеличивает шанс Абляционной брони поглотить урон от системы или экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:442
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:443
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:449
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/title"
+msgstr "Ремонтная броня [В]"
+
+#: src-en/data/blueprints.xml.append:450
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/desc"
+msgstr ""
+"Если установлена система Абляционной брони, каждый прыжок восстанавливает 2 прочности корпуса.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:459
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:460
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:466
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/title"
+msgstr "Адаптер мести [В]"
+
+#: src-en/data/blueprints.xml.append:467
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/desc"
+msgstr ""
+"Позволяет эффектам, которые срабатывают при повреждении корпуса, срабатывать также при повреждении брони.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:476
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:477
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:483
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/title"
+msgstr "Укрепление [В]"
+
+#: src-en/data/blueprints.xml.append:484
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/desc"
+msgstr ""
+"Союзный экипаж в Абляционной броне получает половину урона от всех источников, а вражеский экипаж саботирует ее с половинной скоростью.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:493
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:494
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:500
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/title"
+msgstr "Броня пропит. эфиром [В]"
+
+#: src-en/data/blueprints.xml.append:501
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/desc"
+msgstr ""
+"Увеличивает шанс сопротивления урону брони и корпуса на 10% и позволяет слоям Абляционной брони получать преимущество от шанса сопротивления.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:528
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:529
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:535
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/title"
+msgstr "Втор. ионное поле [В]"
+
+#: src-en/data/blueprints.xml.append:536
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/desc"
+msgstr ""
+"Защищает корабль от ионного урона, давая 30% шанс его проигнорировать. Складывается.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:545
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:546
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:552
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/title"
+msgstr "Расширенное поле [В]"
+
+#: src-en/data/blueprints.xml.append:553
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/desc"
+msgstr ""
+"Шоковый нейтрализатор также предоставляет половину своего бонуса соседним отсекам рядом с целью.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:562
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:563
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:569
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/title"
+msgstr "Защитный выброс [В]"
+
+#: src-en/data/blueprints.xml.append:570
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/desc"
+msgstr ""
+"Защищает ваш корабль от урона плазмой, давая 100% шанс на нейтрализацию урона системе при попадании в щиты и 50% при прямом попадании.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:579
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:580
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:586
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/title"
+msgstr "Нейронный нейтрализатор [В]"
+
+#: src-en/data/blueprints.xml.append:587
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/desc"
+msgstr ""
+"Шоковый нейтрализатор теперь также влияет на время оглушения экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:598
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:599
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:605
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:606
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:612
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:613
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:619
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:620
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:626
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:627
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:634
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:635
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:641
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/title"
+msgstr "Лечение болезней [В]"
+
+#: src-en/data/blueprints.xml.append:642
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/desc"
+msgstr ""
+"Экипаж в Инфузионном отсеке восстанавливается от инфузионной болезни с увеличенной скоростью, соответствующей его текущей энергии.\n"
+"1 энергия: скорость восстановления от инфузионной болезни увеличивается в 1,75 раза.\n"
+"2 энергии: скорость восстановления от инфузионной болезни увеличивается в 2,5 раза.\n"
+"3 энергии: скорость восстановления от инфузионной болезни увеличивается в 3,25 раза.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:656
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:657
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:663
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/title"
+msgstr "Протоколы безоп. убежища [В]"
+
+#: src-en/data/blueprints.xml.append:664
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/desc"
+msgstr ""
+"Экипаж в Инфузионном отсеке становится невосприимчивым к удушью и огню, а также восстанавливает дополнительно 1 ОЗ/с.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:675
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:676
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:682
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/title"
+msgstr "Термокинетические разрядники [В]"
+
+#: src-en/data/blueprints.xml.append:683
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/desc"
+msgstr ""
+"Система наручи имеют 50% шанс не терять прочность, а вместо этого воспламеняться при поглощении урона.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:693
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:694
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:700
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/title"
+msgstr "Наручи из живого металла [В]"
+
+#: src-en/data/blueprints.xml.append:701
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
+msgstr ""
+"Система наручи медленно ремонтируется даже в отсутствие экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:711
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:712
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:718
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/title"
+msgstr "Генератор поля целостности [В]"
+
+#: src-en/data/blueprints.xml.append:719
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
+msgstr ""
+"Системы наручи теперь защищают системы от других источников урона, таких как саботаж и пожары.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:729
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:730
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:736
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:737
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:748
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:749
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:755
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/title"
+msgstr "Картографический набор [В]"
+
+#: src-en/data/blueprints.xml.append:756
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/desc"
+msgstr ""
+"Позволяет собирать информацию о маяках всего сектора. Требуется, чтобы корабль находился в неподвижном состоянии в течение определенного времени.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:765
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:766
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:772
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/title"
+msgstr "Сканер секторов [В]"
+
+#: src-en/data/blueprints.xml.append:773
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/desc"
+msgstr ""
+"Позволяет собирать больше информации о секторах во время путешествия, раскрывая точные названия всех из них при переходе между секторами.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:782
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:783
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:789
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/title"
+msgstr "Экстренный телепорт-вызов [В]"
+
+#: src-en/data/blueprints.xml.append:790
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/desc"
+msgstr ""
+"Автоматически телепортирует ваш экипаж обратно на корабль, если вражеский корабль уничтожен или прыгает.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:799
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:800
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:806
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/title"
+msgstr "Резервные протоколы ремонта [В]"
+
+#: src-en/data/blueprints.xml.append:807
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
+msgstr ""
+"Медленно ремонтирует ваш Клон-отсек даже при отсутствии экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:817
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:818
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:824
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/title"
+msgstr "Массив полного спектра [В]"
+
+#: src-en/data/blueprints.xml.append:825
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/desc"
+msgstr ""
+"Удваивает бонус к точности Ядра целенаведения и позволяет заряжать оружие со скоростью 20% от обычной скорости за каждую силу ядра, когда цель в маскировке. Также расширяет поле зрения на соседние отсеки.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:834
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:835
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:841
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/title"
+msgstr "Упреждающая фиксация [В]"
+
+#: src-en/data/blueprints.xml.append:842
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/desc"
+msgstr ""
+"Если вражеский корабль имеет систему маскировки, С.Я.Ц. автоматически и мгновенно фиксируется на нем в начале боя.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:852
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:853
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:859
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/title"
+msgstr "Расширенная настройка оружия [В]"
+
+#: src-en/data/blueprints.xml.append:860
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/desc"
+msgstr ""
+"Если оружие имеет шанс огня/пробоины/оглушения, этот шанс увеличивается на 5% от силы ядра (Округляется до ближайших 10%).\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:871
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:872
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:878
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/title"
+msgstr "Оптимизация зарядки оружия [В]"
+
+#: src-en/data/blueprints.xml.append:879
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/desc"
+msgstr ""
+"Специализированное ядро целенаведения теперь обеспечивает дополнительный 5% бонус к перезарядке оружия за каждую силу ядра.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:889
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:890
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:896
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/title"
+msgstr "Нано-наводящая система [В]"
+
+#: src-en/data/blueprints.xml.append:897
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/desc"
+msgstr ""
+"Оружие с разбросом (например осколочное) теперь будет пытаться поразить цель ближе, на 10 единиц за каждую силу ядра.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:906
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:907
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:913
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/title"
+msgstr "Слабое место передачи данных [В]"
+
+#: src-en/data/blueprints.xml.append:914
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/desc"
+msgstr ""
+"Союзные члены экипажа в целевых помещениях будут наносить на 20% больше урона саботажа и на 5% больше урона в бою за каждую силу ядра.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:923
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:924
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:930
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/title"
+msgstr "Разгон процессора [В]"
+
+#: src-en/data/blueprints.xml.append:931
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/desc"
+msgstr ""
+"Сокращает время, необходимое для фиксации комнаты Специализированноым ядром целенаведения, с 6 до 1.5 секунд.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:940
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:941
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:947
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/title"
+msgstr "Многопоточное прицеливание [В]"
+
+#: src-en/data/blueprints.xml.append:948
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/desc"
+msgstr ""
+"Специализированное ядро целенаведения теперь также применяет свои полные эффекты к соседним комнатам, непосредственно связанным с целью.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:957
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:958
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:966
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:967
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:973
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:974
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:983
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:984
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:990
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:991
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1000
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1001
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1007
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1008
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1017
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1018
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1024
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1025
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1035
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1036
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1042
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1043
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1115
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1116
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1123
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1124
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1131
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1132
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1139
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1140
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1147
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1148
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1155
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1156
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/desc"
+msgstr ""

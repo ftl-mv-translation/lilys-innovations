@@ -30,9 +30,8 @@
         "//mod-append:achievement/secretDescription",
 		"//mod-append:achievement/header",
 		
-		"//mod-append:customStore/category/customTitle",
 		"//mod-append:backgroundObject/tooltip",
-
+		"//mod:findLike/mod:findLike/mod-append:category/customTitle",
 
         "//text",
 		"//hover-text",
