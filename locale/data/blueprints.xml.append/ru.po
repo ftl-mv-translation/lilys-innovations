@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-07 10:44+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
+"datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
@@ -75,12 +83,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:106
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/title"
-msgstr ""
+msgstr "Волокнистый лайнер"
 
 #: src-en/data/blueprints.xml.append:107
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/desc"
 msgstr ""
+"Защищает ваш экипаж от урона, уменьшая урон наносимый экипажу от снарядов и "
+"лучей, попадающих в корабль, на величину, зависящую от уровня системы. С "
+"вероятностью 20% получит 1 системный урон за каждый поглощенный урон экипажа."
 
 #: src-en/data/blueprints.xml.append:122
 msgid ""
@@ -859,12 +870,18 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:736
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/title"
-msgstr ""
+msgstr "Поле целостности эфира [В]"
 
 #: src-en/data/blueprints.xml.append:737
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
 msgstr ""
+"Системы, защищенные Системой наручей, теперь саботируются с половинной "
+"скоростью и наносят посторонним урон со скоростью 2 ОЗ/С.\n"
+"\n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но "
+"занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:748
 msgid ""
@@ -1165,12 +1182,18 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:973
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/title"
-msgstr ""
+msgstr "Двойное плетение [В]"
 
 #: src-en/data/blueprints.xml.append:974
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
 msgstr ""
+"Защита Волокнистого лайнера теперь в два раза эффективнее, но ее ремонт "
+"экипажем выполняется в два раза медленнее.\n"
+"\n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но "
+"занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:983
 msgid ""
@@ -1185,12 +1208,18 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:990
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/title"
-msgstr ""
+msgstr "Слой опасной среды [В]"
 
 #: src-en/data/blueprints.xml.append:991
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
 msgstr ""
+"Волокнистый лайнер теперь также снижает вероятность получения статуса "
+"(пожар, пробоина, оглушение) от попадания снарядов и лучей в корпус.\n"
+"\n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но "
+"занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:1000
 msgid ""
@@ -1205,12 +1234,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1007
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/title"
-msgstr ""
+msgstr "Динамический приоритет [В]"
 
 #: src-en/data/blueprints.xml.append:1008
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
 msgstr ""
+"Волокнистый лайнер теперь применяет свою защиту "
+"(и, следовательно, получает урон) только в отсеках, где присутствуют союзные "
+"члены экипажа.\n"
+"\n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но "
+"занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:1017
 msgid ""
@@ -1225,12 +1261,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1024
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/title"
-msgstr ""
+msgstr "Живые волокна [В]"
 
 #: src-en/data/blueprints.xml.append:1025
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
 msgstr ""
+"Особый материал из живых волокнистых лайнеров способен компенсировать утечки "
+"энергии на вашем корабле и восстанавливаться естественным образом даже при "
+"отсутствии экипажа.\n"
+"\n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но "
+"занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:1035
 msgid ""
@@ -1245,12 +1288,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/title"
-msgstr ""
+msgstr "Одежда из эфирного волокна [В]"
 
 #: src-en/data/blueprints.xml.append:1043
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
 msgstr ""
+"Особая одежда из живых волокон, пропитанных эфиром. Обеспечивает вашему "
+"экипажу 20% снижение урона от всех источников и постоянную регенерацию 2 ОЗ/"
+"с. Экипаж, который обеспечивает бонусную энергию, дополнительно получает +"
+"30% к урону и ремонту.\n"
+"\n"
+"Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но "
+"занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:1115
 msgid ""
