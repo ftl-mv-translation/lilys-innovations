@@ -46,7 +46,7 @@ msgstr "Check your eligibility..."
 #: src-en/data/events_special_main.xml.append:54
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/event/text[1]"
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 "You quickly prompt the terminal to scan your ship and it gives you a "
 "selection of the following options:"
@@ -54,19 +54,19 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:56
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/event/text[2]"
+" and @lvl=\"0\"]/event/choice[@req=\"LILYINNO_PROMO_REQ_SYSTEMS\"]/text"
 msgstr "Your ship is not eligible for the offer."
 
 #: src-en/data/events_special_main.xml.append:61
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/text"
 msgstr "(Shields) Install Ablative Armor System."
 
 #: src-en/data/events_special_main.xml.append:63
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/text"
 msgstr ""
 "You prompt the terminal to install the new system on you ship.\n"
 "\"Acknowledged. The work on your ship will begin shortly...\""
@@ -74,13 +74,13 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:66
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_special_main.xml.append:68
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/choice/event/text"
 msgstr ""
 "The system begins to work on refitting your ship, and shortly finishes.\n"
 "\"The established work quota: Done. Pleasure doing business with you.\""
@@ -88,13 +88,13 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:79
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/text"
 msgstr "(Medbay) Install Infusion Bay System."
 
 #: src-en/data/events_special_main.xml.append:81
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
 "You prompt the terminal to install the new system on you ship.\n"
 "\"Acknowledged. The work on your ship will begin shortly...\""
@@ -102,13 +102,13 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:84
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_special_main.xml.append:86
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/choice/event/text"
 msgstr ""
 "The system begins to work on refitting your ship, and shortly finishes.\n"
 "\"The established work quota: Done. Pleasure doing business with you.\""
@@ -116,13 +116,13 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:97
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/text"
 msgstr "(Clonebay) Install Infusion Bay System."
 
 #: src-en/data/events_special_main.xml.append:99
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
 "You prompt the terminal to install the new system on you ship.\n"
 "\"Acknowledged. The work on your ship will begin shortly...\""
@@ -130,13 +130,13 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:102
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_special_main.xml.append:104
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/choice/event/text"
 msgstr ""
 "The system begins to work on refitting your ship, and shortly finishes.\n"
 "\"The established work quota: Done. Pleasure doing business with you.\""
@@ -144,13 +144,13 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:115
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/text"
 msgstr "(Backup Battery) Install Shock Neutralizer Subsystem."
 
 #: src-en/data/events_special_main.xml.append:117
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/text"
 msgstr ""
 "You prompt the terminal to install the new subsystem on you ship.\n"
 "\"Acknowledged. The work on your ship will begin shortly...\""
@@ -158,13 +158,13 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:120
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_special_main.xml.append:122
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/choice/event/text"
 msgstr ""
 "The system begins to work on refitting your ship, and shortly finishes.\n"
 "\"The established work quota: Done. Pleasure doing business with you.\""
@@ -172,30 +172,43 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:134
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[5]/text"
+" and @lvl=\"0\"]/event/choice[6]/text"
 msgstr "Nevermind..."
 
 #: src-en/data/events_special_main.xml.append:141
-msgid "data/events_special_main.xml.append$/dummyroot/FTL/text"
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"1\"]/text"
 msgstr "Bonus system slot already installed."
 
 #: src-en/data/events_special_main.xml.append:146
 msgid ""
-"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"0\"]/text"
 msgstr "Install a bonus system slot."
 
 #: src-en/data/events_special_main.xml.append:148
 msgid ""
-"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 "You prompt the terminal to increase yous ships's system capacity.\n"
 "\"Acknowledged. The work on your ship will begin shortly...\""
 
 #: src-en/data/events_special_main.xml.append:151
 msgid ""
-"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/event/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"0\"]/event/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_special_main.xml.append:161
-msgid "data/events_special_main.xml.append$/dummyroot/choice[2]/text"
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[5]/text"
 msgstr "Nevermind..."
+
+#: src-en/data/events_special_main.xml.append:169
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_EXTRA_SYSSLOT\"]/text"
+msgstr ""
+"The system begins to work on modifying your ship, and shortly finishes.\n"
+"\"The established work quota: Done. Pleasure doing business with you.\""

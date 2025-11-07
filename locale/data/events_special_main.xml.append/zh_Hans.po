@@ -31,141 +31,152 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:54
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/event/text[1]"
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:56
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/event/text[2]"
+" and @lvl=\"0\"]/event/choice[@req=\"LILYINNO_PROMO_REQ_SYSTEMS\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:61
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:63
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:66
 #, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_main.xml.append:68
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:79
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:81
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:84
 #, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_main.xml.append:86
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:97
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:99
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:102
 #, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_main.xml.append:104
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:115
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:117
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:120
 #, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/choice/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_main.xml.append:122
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/choice/event/text"
+" and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:134
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/choice[5]/text"
+" and @lvl=\"0\"]/event/choice[6]/text"
 msgstr "算了。"
 
 #: src-en/data/events_special_main.xml.append:141
-msgid "data/events_special_main.xml.append$/dummyroot/FTL/text"
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"1\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:146
 msgid ""
-"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"0\"]/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:148
 msgid ""
-"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_main.xml.append:151
 #, fuzzy
 msgid ""
-"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/event/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
+" and @lvl=\"0\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_main.xml.append:161
-msgid "data/events_special_main.xml.append$/dummyroot/choice[2]/text"
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[5]/text"
 msgstr "算了。"
+
+#: src-en/data/events_special_main.xml.append:169
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_EXTRA_SYSSLOT\"]/text"
+msgstr ""
