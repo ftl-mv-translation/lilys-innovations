@@ -1,0 +1,259 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_tooltips.xml.append:2
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor\"]"
+msgstr ""
+"アブレーティブ装甲：船体、システム、クルーをダメージから保護する装甲層を提供します。損傷した装甲層は、船体やクルーへのダメージが吸収される確率を減少させます。"
+
+#: src-en/data/text_tooltips.xml.append:3
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_enemy\"]"
+msgstr ""
+"アブレーティブ装甲：船体、システム、クルーをダメージから保護する装甲層を提供します。損傷した装甲層は、船体やクルーへのダメージが吸収される確率を減少させます。"
+
+#: src-en/data/text_tooltips.xml.append:4
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer\"]"
+msgstr ""
+"ショック中和装置：影響を受ける部屋のイオン放散率を増加させ、イオンストーム中にはボーナスパワーを提供します。影響を受ける部屋は緑青色の枠で表示されます。"
+
+#: src-en/data/text_tooltips.xml.append:5
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_enemy\"]"
+msgstr ""
+"ショック中和装置：影響を受ける部屋のイオン放散率を増加させ、イオンストーム中にはボーナスパワーを提供します。影響を受ける部屋は緑青色の枠で表示されます。"
+
+#: src-en/data/text_tooltips.xml.append:6
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay\"]"
+msgstr "注入ベイ：時間経過で注入剤を生成し、クルーがそれを拾って様々なバフに使用できます。"
+
+#: src-en/data/text_tooltips.xml.append:7
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_enemy\"]"
+msgstr "注入ベイ：時間経過で注入剤を生成し、クルーがそれを拾って様々なバフに使用できます。"
+
+#: src-en/data/text_tooltips.xml.append:8
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers\"]"
+msgstr "システムブレーサー：システムの損傷を代わりに受けることで保護します。通常の半分の速度で修理されます。"
+
+#: src-en/data/text_tooltips.xml.append:9
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_enemy\"]"
+msgstr "システムブレーサー：敵のシステムの損傷を代わりに受けることで保護します。通常の半分の速度で修理されます。"
+
+#: src-en/data/text_tooltips.xml.append:10
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner\"]"
+msgstr ""
+"ファイバーライナー：船体に命中する射撃によるクルーへのダメージを軽減することで保護します。吸収したクルーダメージに基づいてダメージを受けます。"
+
+#: src-en/data/text_tooltips.xml.append:11
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_enemy\"]"
+msgstr ""
+"ファイバーライナー：敵船の船体に命中する射撃によるクルーへのダメージを軽減することで保護します。吸収したクルーダメージに基づいてダメージを受けます。"
+
+#: src-en/data/text_tooltips.xml.append:12
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core\"]"
+msgstr "専用照準コア：敵船の部屋をマークします。マークされた部屋は狙われやすくなり、そこを狙う射撃には命中率ボーナスがつきます。"
+
+#: src-en/data/text_tooltips.xml.append:13
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_enemy\"]"
+msgstr "専用照準コア：自船の部屋をマークします。マークされた部屋は狙われやすくなり、そこを狙う射撃には命中率ボーナスがつきます。"
+
+#: src-en/data/text_tooltips.xml.append:15
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_disabled\"]"
+msgstr "無効。"
+
+#: src-en/data/text_tooltips.xml.append:17
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_level\"]"
+msgstr "保護： %s ダメージ"
+
+#: src-en/data/text_tooltips.xml.append:19
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_level\"]"
+msgstr "HP: %s"
+
+#: src-en/data/text_tooltips.xml.append:21
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_disabled\"]"
+msgstr "無効。注入剤は使用できません。"
+
+#: src-en/data/text_tooltips.xml.append:22
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_level\"]"
+msgstr "最大チャージ %s、チャージあたり %ss"
+
+#: src-en/data/text_tooltips.xml.append:24
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_level\"]"
+msgstr "コアストレングス: %s"
+
+#: src-en/data/text_tooltips.xml.append:25
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_manning\"]"
+msgstr "クルー配置ボーナス：+0.5/0.75/1 コアストレングス。"
+
+#: src-en/data/text_tooltips.xml.append:27
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
+msgstr "レート： %sx / ボーナスパワー： %s"
+
+#: src-en/data/text_tooltips.xml.append:29
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_disabled\"]"
+msgstr "再生無効。"
+
+#: src-en/data/text_tooltips.xml.append:30
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level\"]"
+msgstr "HP: %s /再生: %sx"
+
+#: src-en/data/text_tooltips.xml.append:31
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2\"]"
+msgstr "HP: %s/ 再生: %sx"
+
+#: src-en/data/text_tooltips.xml.append:32
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level_ion\"]"
+msgstr "HP: %s/再生: %sx/イオン耐性: %s"
+
+#: src-en/data/text_tooltips.xml.append:33
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2_ion\"]"
+msgstr "HP: %s / 再生: %sx / イオン耐性: %s"
+
+#: src-en/data/text_tooltips.xml.append:34
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_manning\"]"
+msgstr "クルー配置ボーナス：再生速度20/40/60%上昇。"
+
+#: src-en/data/text_tooltips.xml.append:38
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_locked\"]"
+msgstr "この注入剤は現在ロックされています。"
+
+#: src-en/data/text_tooltips.xml.append:39
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_reconstitution\"]"
+msgstr "運んでいる再構成注入剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:40
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_combatstimulant\"]"
+msgstr "運んでいる戦闘興奮剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:41
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_gaseous\"]"
+msgstr "運んでいる気体注入剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:42
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_overloaded\"]"
+msgstr "運んでいる過負荷注入剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:43
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_chaotic\"]"
+msgstr "運んでいる混沌注入剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:44
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_fireborne\"]"
+msgstr "運んでいる火炎注入剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:45
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_explosive\"]"
+msgstr "運んでいる爆発注入剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:46
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_phoenix\"]"
+msgstr "運んでいるフェニックス注入剤を起動する。効果："
+
+#: src-en/data/text_tooltips.xml.append:47
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_reconstitution\"]"
+msgstr "効果時間中、被戦闘ダメージ0.85倍、毎秒1.5HPの体力再生、移動速度0.5倍を付与。45 HP/% 回復、14秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:48
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_combatstimulant\"]"
+msgstr ""
+"戦闘ダメージ、ドアダメージ、移動速度を1.5倍にするが、効果時間中に減少する（5秒後1.25倍、10秒後1.1倍）。15 HP/% "
+"回復、21秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:49
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_gaseous\"]"
+msgstr "窒息/火災/精神支配への耐性、同船内テレポートを付与するが、戦闘ダメージは0.5倍に減少する。30 HP/% 回復、7秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:50
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_overloaded\"]"
+msgstr ""
+"自身と近くの全てのクルーを5秒間スタンさせ、システムに2イオンダメージを与えます。自船のシステムは代わりに1イオンが除去されます。30 HP/% "
+"回復、21秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:51
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_chaotic\"]"
+msgstr "他の注入剤の効果をランダムに適用します。クルーに悪影響がないことを願います。15 - 75 HP/% 回復、7秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:52
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_fireborne\"]"
+msgstr ""
+"現在の部屋で火災を発生させます。効果時間中、火災から回復する能力を得ますが、通常は耐性があっても急速に窒息します。15 HP/% 回復、21秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:53
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_explosive\"]"
+msgstr ""
+"爆発し、部屋にいる全ての敵に15HPのダメージを与えます。敵船のシステムは1ダメージを受け、自船のシステムは代わりに1バー修理されます。15 HP/% "
+"回復、14秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:54
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
+msgstr ""
+"効果時間中、クルーは死にません。通常なら死亡するダメージを受けると、代わりに全快し、注入ベイにテレポートします。この効果が発動すると、同じ部屋にいる味方が30"
+" HP/%回復し、注入ベイは2倍のロックアウト時間を持つ抵抗不能な1イオンダメージを受けます。敵船が爆発してもボーダーは助かりません。15 HP/% "
+"回復、14秒の後遺症。"
+
+#: src-en/data/text_tooltips.xml.append:56
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
+msgstr ""
+"ショック中和装置の対象部屋を選択してください。\n"
+"ホットキー: %s"
+
+#: src-en/data/text_tooltips.xml.append:58
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
+msgstr ""
+"照準コアでロックオンする部屋を選択してください。\n"
+"ホットキー: %s"
+
+#: src-en/data/text_tooltips.xml.append:59
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_notready\"]"
+msgstr "システム準備未完了。"
+
+#: src-en/data/text_tooltips.xml.append:60
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_noship\"]"
+msgstr "ターゲットする敵船が存在しません。"

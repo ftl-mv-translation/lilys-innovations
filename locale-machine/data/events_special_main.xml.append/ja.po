@@ -1,0 +1,199 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:20
+msgid ""
+"data/events_special_main.xml.append$//mod-"
+"append:backgroundObject[@name=\"LILYINNO_PROMO\"]/tooltip"
+msgstr "リリーのイノベーションの宣伝ポスターだ。"
+
+#: src-en/data/events_special_main.xml.append:28
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/text"
+msgstr ""
+"宣伝ポスターに近づいて詳しく調べる：\n"
+"リリーのイノベーション提供：\n"
+"特別プロモーションオファー - 本日、お好きな革新的システムを無料で*手に入れよう！\n"
+"\n"
+"注意：プロモーションオファーのルール：\n"
+"1) オファーの対象となるには、あなたの船が既に「標準」システムの一つを所有している必要があります - 対象システム：シールド、医療ベイ、クローンベイ、バックアップバッテリー\n"
+"2) 特別な場合**を除き、対応するシステムは新しい革新的なシステムのためのスペースを確保するために取り外されます。\n"
+"3) オファーは船/船長ごとに一度だけ適用されます。\n"
+"\n"
+"追加オファー：システムエキスパンダー\n"
+"船が全く新しい追加システムをサポートできるようにする、最先端の新技術！\n"
+"本日、無料で一つ手に入れよう！\n"
+"(注意：追加スロットは、必要なスペースを確保するために船体強度を1/3弱めるという犠牲を伴います)\n"
+"\n"
+"ポスターの下に入力インターフェースがあり、既にあなたとあなたの船のIDを認識していることに気づく。"
+
+#: src-en/data/events_special_main.xml.append:47
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"1\"]/text"
+msgstr "既にプロモーションオファーを受け取っています。"
+
+#: src-en/data/events_special_main.xml.append:52
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/text"
+msgstr "資格を確認する..."
+
+#: src-en/data/events_special_main.xml.append:54
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/event/text[1]"
+msgstr "あなたはすぐに端末に船をスキャンさせると、以下の選択肢が表示された："
+
+#: src-en/data/events_special_main.xml.append:56
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/event/text[2]"
+msgstr "あなたの船はオファーの対象外です。"
+
+#: src-en/data/events_special_main.xml.append:61
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"shields\"]/text"
+msgstr "（シールド）アブレーティブ装甲システムを設置する。"
+
+#: src-en/data/events_special_main.xml.append:63
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/text"
+msgstr ""
+"あなたは端末に新しいシステムを船に設置するよう促す。\n"
+"「承知しました。あなたの船での作業はまもなく開始されます...」"
+
+#: src-en/data/events_special_main.xml.append:66
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/choice/text"
+msgstr "続ける..."
+
+#: src-en/data/events_special_main.xml.append:68
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"shields\"]/event/choice/event/text"
+msgstr ""
+"システムはあなたの船の改造作業を開始し、まもなく完了する。\n"
+"「確立された作業ノルマ：完了。お取引できて光栄です。」"
+
+#: src-en/data/events_special_main.xml.append:79
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"medbay\"]/text"
+msgstr "（医療ベイ）注入ベイシステムを設置する。"
+
+#: src-en/data/events_special_main.xml.append:81
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/text"
+msgstr ""
+"あなたは端末に新しいシステムを船に設置するよう促す。\n"
+"「承知しました。あなたの船での作業はまもなく開始されます...」"
+
+#: src-en/data/events_special_main.xml.append:84
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/choice/text"
+msgstr "続ける..."
+
+#: src-en/data/events_special_main.xml.append:86
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"medbay\"]/event/choice/event/text"
+msgstr ""
+"システムはあなたの船の改造作業を開始し、まもなく完了する。\n"
+"「確立された作業ノルマ：完了。お取引できて光栄です。」"
+
+#: src-en/data/events_special_main.xml.append:97
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/text"
+msgstr "（クローンベイ）注入ベイシステムを設置する。"
+
+#: src-en/data/events_special_main.xml.append:99
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/text"
+msgstr ""
+"あなたは端末に新しいシステムを船に設置するよう促す。\n"
+"「承知しました。あなたの船での作業はまもなく開始されます...」"
+
+#: src-en/data/events_special_main.xml.append:102
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/choice/text"
+msgstr "続ける..."
+
+#: src-en/data/events_special_main.xml.append:104
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"clonebay\"]/event/choice/event/text"
+msgstr ""
+"システムはあなたの船の改造作業を開始し、まもなく完了する。\n"
+"「確立された作業ノルマ：完了。お取引できて光栄です。」"
+
+#: src-en/data/events_special_main.xml.append:115
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"battery\"]/text"
+msgstr "（バックアップバッテリー）ショック中和装置サブシステムを設置する。"
+
+#: src-en/data/events_special_main.xml.append:117
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/text"
+msgstr ""
+"あなたは端末に新しいサブシステムを船に設置するよう促す。\n"
+"「承知しました。あなたの船での作業はまもなく開始されます...」"
+
+#: src-en/data/events_special_main.xml.append:120
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/choice/text"
+msgstr "続ける..."
+
+#: src-en/data/events_special_main.xml.append:122
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[@req=\"battery\"]/event/choice/event/text"
+msgstr ""
+"システムはあなたの船の改造作業を開始し、まもなく完了する。\n"
+"「確立された作業ノルマ：完了。お取引できて光栄です。」"
+
+#: src-en/data/events_special_main.xml.append:134
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/choice[5]/text"
+msgstr "やっぱりやめておく..."
+
+#: src-en/data/events_special_main.xml.append:141
+msgid "data/events_special_main.xml.append$/dummyroot/FTL/text"
+msgstr "ボーナスシステムスロットは既に設置済みです。"
+
+#: src-en/data/events_special_main.xml.append:146
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/text"
+msgstr "ボーナスシステムスロットを設置する。"
+
+#: src-en/data/events_special_main.xml.append:148
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/event/text"
+msgstr ""
+"あなたは端末に船のシステム容量を増やすよう促す。\n"
+"「承知しました。あなたの船での作業はまもなく開始されます...」"
+
+#: src-en/data/events_special_main.xml.append:151
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/choice[@req=\"mods_lilyinno_systemslotbonus\"]/event/choice/text"
+msgstr "続ける..."
+
+#: src-en/data/events_special_main.xml.append:161
+msgid "data/events_special_main.xml.append$/dummyroot/choice[2]/text"
+msgstr "やっぱりやめておく..."

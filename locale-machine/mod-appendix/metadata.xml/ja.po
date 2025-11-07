@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/mod-appendix/metadata.xml:10
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
+msgstr "リリーのイノベーション"
+
+#: src-en/mod-appendix/metadata.xml:36
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
+msgstr ""
+"新しく興味深いプレイスタイルを可能にする、新規および代替の船システムを追加するアドオンです。\n"
+"\n"
+"注意：FTLMAN MODローダーが必要です\n"
+"SLIPSTREAMでは正常に動作しません\n"
+"\n"
+"最後にパッチを当てること、または少なくとも船を追加するMODの後にパッチを当てることをお勧めします。\n"
+"\n"
+"\n"
+"\n"
+"スペシャルサンクス：\n"
+"Nai、アイデアとスプライト作業；\n"
+"Arc、sillysandvich、スクリプトのヘルプ；\n"
+"Willow、ライティングのヘルプ；\n"
+"Kix、そしてFTL: Multiverse (およびHyperspace) の制作に携わった全ての人々；"

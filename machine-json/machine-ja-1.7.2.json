@@ -1,0 +1,6376 @@
+{
+  "lang": "ja",
+  "originalLang": "en",
+  "version": "1.7.2",
+  "translation": {
+    "Ablative Armor": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Provides your ship with a layer of armor that absorbs damage before your hull does, and slowly repairs it. Higher levels grant more armor points, faster regeneration, and ion resistance. Uses manning levels in repairs.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "船体にダメージが及ぶ前にそれを吸収する装甲層を船に提供し、ゆっくりと修復します。レベルが高いほど、より多くの装甲ポイント、より速い再生、イオン耐性が得られます。修理にはクルー配置レベルが影響します。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コア"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Locks onto rooms on the enemy ship. Locked on rooms are more likely to be targeted by drones, always have visibility, and projectiles aimed at them have bonus accuracy.\nEach Core Strength provides +5% accuracy, and may have other effects with internal upgrades.\nWhen the enemy is cloaked, the bonus accuracy provided by the system is doubled, weapons charge at Core Strength * 20% rate, and a hologram is spawned to provide room visibility.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "敵船の部屋をロックオンします。ロックオンされた部屋はドローンに狙われやすくなり、常に視界が確保され、そこを狙う射撃には命中率ボーナスがつきます。\nコアストレングスごとに命中率が+5%され、内部アップグレードによって他の効果も得られる場合があります。\n敵がクローク中は、このシステムによる命中率ボーナスが2倍になり、武器はコアストレングス * 20%の速度でチャージされ、ホログラムが生成されて部屋の視界を提供します。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock Neutralizer": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Increases the rate of ion dissipation of target room, either helping it to recover from ion weapons or reducing cooldown. Also provides bonus power to it while in ion storms or near pulsars.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "対象の部屋のイオン放散率を増加させ、イオン兵器からの回復を助けたり、クールダウンを短縮したりします。また、イオンストームやパルサーの近くでは、ボーナスパワーを提供します。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Infusion Bay": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Generates infusions over time. Crew entering the room will pick up and carry the infusion if one is available. The infusions carried by crew can be activated at later time via UI.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "時間経過で注入剤を生成します。部屋に入ったクルーは、利用可能な注入剤があればそれを拾って持ち運びます。クルーが運ぶ注入剤は、後でUIを介して起動できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサー"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Passively protects your systems from damage, redirecting system damage towards itself instead (As long as it isn't destroyed itself). However, it is repaired only at half of normal speed compared to other systems.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムの損傷を自身に転嫁することで、受動的にシステムを保護します（自身が破壊されていない限り）。ただし、他のシステムと比較して通常の半分の速度でしか修理されません。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Liner": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナー"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Protects your crew from damage by reducing crew damage of projectiles and beams hitting your ship, by the amount depending on the system level. Has 20% chance to take 1 point of system damage per 1 crew damage absorbed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "船に命中する射撃やビームによるクルーへのダメージを、システムレベルに応じて軽減することでクルーを保護します。吸収したクルーダメージ1点ごとに、20%の確率でシステムダメージを1点受けます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bracers Fortifications": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ブレーサー要塞化"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "YOU SHOULD NEVER SEE THIS": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "これは表示されるべきではありません"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bracers Fort. [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ブレーサー要塞化 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Allied crew in System Bracers room take half damage from all sources, and enemy crew sabotage it at half speed.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサー室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Smart boarding deployment": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "スマートボーディング展開"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Smart boarding deployment [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "スマートボーディング展開 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Makes your boarding drones prioritize landing in important enemy rooms.\n    \n[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ボーディングドローンが敵の重要な部屋への着陸を優先するようになります。\n    \n[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Ventilation [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Support now prioritizes your crew, refilling oxygen 80% faster in rooms where crew are present. Has the opposite effect on enemy crew and fires, draining oxygen. Requires the system to be powered, and scales with power.\n\n[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生命維持装置がクルーを優先し、クルーがいる部屋の酸素を80%速く補充します。敵クルーや火災に対しては逆の効果があり、酸素を排出します。システムの電力供給が必要で、電力に応じて効果が変動します。\n\n[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Ventilation": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Floral Bouquet": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "花のブーケ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Factory Grease": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "工場のグリース"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Metal and Gunpowder": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "金属と火薬"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Arctic Wind": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "北極の風"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Lapis Lazuli": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ラピスラズリ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "9V Battery": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "9V電池"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Alpha-Methylphenethylamine": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "α-メチルフェネチルアミン"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Door Fortifications": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ドア要塞化"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Door Fort. [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ドア要塞化 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Allied crew in Doors room take half damage from all sources, and enemy crew sabotage it at half speed.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ドア室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Oxygen": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ酸素"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Oxygen [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ酸素 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Oxygen system provides a tiny amount of oxygen in the system room even if it's destroyed or disabled.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "酸素システムが破壊または無効化されても、システム室に微量の酸素を供給します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Door Failsafe": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ドアフェイルセーフ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Door Failsafe [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ドアフェイルセーフ [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "All doors and airlocks are automatically shut closed if Doors system is destroyed or disabled.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ドアシステムが破壊または無効化された場合、全てのドアとエアロックが自動的に閉鎖されます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Surge Overdrive": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージオーバードライブ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bat. Surge Overdrive [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バッテリー サージオーバードライブ [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "While your backup battery is active, receive +10% weapon charge rate, +20% shield recharge rate and +5% evasion for each backup battery level. \nIncompatible with performance upgrades.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップバッテリーが有効な間、バッテリーレベルごとに武器チャージ率+10%、シールド再充電率+20%、回避率+5%を得ます。\n性能アップグレードとは互換性がありません。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Solar Battery": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ソーラーバッテリー"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Solar Battery [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ソーラーバッテリー [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "When close to a sun, backup battery can be active indefinitely.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "太陽の近くにいるとき、バックアップバッテリーを無期限に起動できます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mind Shielding": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "精神シールド"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mind Shielding [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "精神シールド [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Crew in piloting becomes immune to mind control and stun.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "操縦室のクルーが精神支配とスタンに耐性を得ます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network (Piloting)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワーク（操縦）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I.N.N. (Pilot) [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "I.N.N.（操縦）[X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network can operate Piloting subsystem even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワークは、クルーが不在でも操縦サブシステムを操作できます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network (Sensors)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワーク（センサー）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I.N.N. (Sensors) [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "I.N.N.（センサー）[X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network can operate Sensors subsystem even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワークは、クルーが不在でもセンサーサブシステムを操作できます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network (Doors)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワーク（ドア）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "I.N.N. (Doors) [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "I.N.N.（ドア）[X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network can operate Doors subsystem even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワークは、クルーが不在でもドアサブシステムを操作できます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Polished armor": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "研磨装甲"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Polished Armor [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "研磨装甲 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Decreases damage taken by ablative armor from beams by 1.\n    \n[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲がビームから受けるダメージを1減少させます。\n    \n[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reactive Armor": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "反応装甲"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reactive Armor [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "反応装甲 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "When Ablative Armor absorbs damage, it also releases a burst of debris to intercept incoming projectiles or drones.\n    \n[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲がダメージを吸収すると、飛来する射撃やドローンを妨害するためにデブリのバーストを放出します。\n    \n[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double-Strength Armor": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重強度装甲"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double-Strength Armor [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重強度装甲 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Improves chances of Ablative Armor to absorb system or crew damage.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲がシステムまたはクルーのダメージを吸収する確率を向上させます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mending Armor": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "修復装甲"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mending Armor [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "修復装甲 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "If Ablative Armor system is present, repairs 2 hull points per jump.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲システムが存在する場合、ジャンプごとに船体を2ポイント修理します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Vengeance Adapter": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "報復アダプター"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Vengeance Adapter [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "報復アダプター [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Allows effects that trigger on hull damage trigger on armor damage as well.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "船体ダメージでトリガーされる効果が、装甲ダメージでもトリガーされるようになります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fortifications": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "要塞化"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fortifications [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "要塞化 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Allied crew in Ablative Armor room take half damage from all sources, and enemy crew sabotage it at half speed.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Inf. Armor": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル注入装甲"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Inf. Armor [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル注入装甲 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Increases chance to resist armor and hull damage by 10% and allows Ablative Armor layers benefit from resist chance.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "装甲と船体ダメージへの抵抗確率を10%増加させ、アブレーティブ装甲層が抵抗確率の恩恵を受けられるようにします。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sec. Ion Field": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二次イオンフィールド"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sec. Ion Field [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二次イオンフィールド [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Protects your ship from ion damage, giving a 30% chance to negate it entirely. Stacks.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "イオンダメージから船を保護し、30%の確率で完全に無効化します。効果は重複します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Expanded Field": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "拡張フィールド"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Expanded Field [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "拡張フィールド [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock Neutralizer also provide half of its bonus to rooms adjancent to target.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置が、対象に隣接する部屋にもボーナスの半分を提供します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Surge Protectors": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージプロテクター"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Surge Protectors [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージプロテクター [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Protect your ship from Plasma damage, giving 100% chance to negate system damage on shield hits and 50% on direct hits.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "プラズマダメージから船を保護し、シールドヒット時のシステムダメージを100%、直撃時のシステムダメージを50%の確率で無効化します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Neural Neutralizer": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "神経中和装置"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Neural Neutralizer [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "神経中和装置 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock Neutralizer now also affects crew stun times.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置がクルーのスタン時間にも影響を与えるようになります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Overloaded Infusions": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "過負荷注入剤"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Chaotic Infusions": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "混沌注入剤"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fireborne Infusions": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "火炎注入剤"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Explosive Infusions": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "爆発注入剤"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Phoenix Infusions": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェニックス注入剤"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sickness Treatment": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "後遺症治療"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sickness Treatment [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "後遺症治療 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Crew in the Infusion Bay recover from their Infusion Sickness at an increased rate, corresponding to its current power.\n1 Power: 1.75x Infusion Sickness recovery rate.\n2 Power: 2.5x Infusion Sickness recovery rate.\n3 Power: 3.25x Infusion Sickness recovery rate.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイにいるクルーは、現在の電力に応じた速度で注入剤の後遺症から回復します。\n1電力：1.75倍の注入後遺症回復速度。\n2電力：2.5倍の注入後遺症回復速度。\n3電力：3.25倍の注入後遺症回復速度。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Safe Haven Protocols": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セーフヘイブンプロトコル"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Safe Haven Protocols [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セーフヘイブンプロトコル [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Crew in the Infusion Bay become immune to suffocation and fires, and recover extra 1 HP/s.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイのクルーは窒息と火災に耐性を得て、追加で毎秒1HP回復します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Thermal Kinetic Dischargers": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "熱運動エネルギー放出装置"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Thermal Kinetic Dischargers [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "熱運動エネルギー放出装置 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers have a 50% chance to not lose durability but instead catch fire when absorbing damage.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーはダメージを吸収した際、50%の確率で耐久度を失わず、代わりに火災を発生させます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Metal Bracers": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体金属ブレーサー"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Metal Bracers [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体金属ブレーサー [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "形状を「記憶」できる特殊な金属で作られており、システムブレーサーはクルーがいなくてもゆっくりと自己修復します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrity Field Generator": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合フィールドジェネレーター"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrity Field Generator [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合フィールドジェネレーター [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers now protect systems from other sources of damage, such as sabotage and fires.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーが、妨害工作や火災など、他の原因によるシステムダメージからも保護するようになります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Integrity Field": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル統合フィールド"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Integrity Field [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル統合フィールド [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Systems protected by System Bracers are now sabotaged at half speed, and deal 2 hp/s damage to intruders.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーで保護されたシステムは、妨害工作の速度が半分になり、侵入者に毎秒2HPのダメージを与えます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mapping Suite": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マッピングスイート"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mapping Suite [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マッピングスイート [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Allows you to collect information about the beacons of the whole sector. Requires the ship to be stationary for some time.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セクター全体のビーコンに関する情報を収集できます。船を一定時間静止させる必要があります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sector Scanner": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セクタースキャナー"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sector Scanner [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セクタースキャナー [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Allows you to collect more information about sectors on you journey, revealing the exact names of all of them when making an inter-sector jump.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "航海中のセクターに関する詳細な情報を収集し、セクター間ジャンプを行う際に全てのセクターの正確な名前を明らかにします。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Emergency Teleport Recall": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "緊急テレポートリコール"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Emergency Teleport Recall [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "緊急テレポートリコール [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Automatically teleports your crew back to your ship if the enemy ship is destroyed or jumping.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "敵船が破壊されたりジャンプしたりした場合、自動的にクルーを自船にテレポートさせます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Repair Protocols": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ修理プロトコル"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Repair Protocols [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ修理プロトコル [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Slowly repairs your clonebay system even with absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "クルーがいなくても、クローンベイシステムをゆっくりと修理します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Full Spectrum Array": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フルスペクトラムアレイ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Full Spectrum Array [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フルスペクトラムアレイ [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Doubles the accuracy bonus of Dedicated Targeting Core and allows charging of weapons at 20% of regular speed per Core Strength when target is cloaked. Also expands provided vision to adjacent rooms.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コアの命中率ボーナスを2倍にし、対象がクローク中はコアストレングスごとに通常速度の20%で武器をチャージできます。また、提供される視界を隣接する部屋に拡大します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Preemptive lock-on": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "先制ロックオン"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Preemptive lock-on [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "先制ロックオン [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "If enemy ship has cloaking system, automatically and instantly locks onto it at the start of the battle.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "敵船がクローキングシステムを持っている場合、戦闘開始時に自動的かつ即座にそれをロックオンします。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enhanced Weapon Tuning": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "強化兵器チューニング"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enhanced Weapon Tuning [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "強化兵器チューニング [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "If a weapon has fire/breach/stun chance, this chance is increased by Core Strength * 5%. (Rounded up to nearest 10%)\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "武器に火災/亀裂/スタン発生率がある場合、その確率がコアストレングス * 5%増加します。（最も近い10%に切り上げ）\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapon Charging Optimization": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "兵器チャージ最適化"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapon Charging Optimization [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "兵器チャージ最適化 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core now provides extra 5% weapon reload boost per Core Strength.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コアが、コアストレングスごとに武器リロード速度を5%追加でブーストします。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nano-Guidance System": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ナノ誘導システム"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nano-Guidance System [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ナノ誘導システム [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapons with spread (such as flak) will now attempt to hit closer to the target, by 10 units per Core Strength.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "拡散する武器（フラックなど）は、コアストレングスごとに10ユニット分、目標により近い位置に着弾しようとします。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weakpoint Data Uplink": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "弱点データアップリンク"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weakpoint Data Uplink [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "弱点データアップリンク [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Allied crew in targeted rooms will deal 20% more sabotage damage and 5% more combat damage per Core Strength.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ターゲットされた部屋にいる味方クルーは、コアストレングスごとに妨害工作ダメージが20%、戦闘ダメージが5%増加します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Processor Overclocking": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "プロセッサオーバークロック"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Processor Overclocking [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "プロセッサオーバークロック [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reduces time it takes for Dedicated Targeting Core to lock onto a room from 6 to 1.5 seconds.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コアが部屋をロックオンするのにかかる時間を6秒から1.5秒に短縮します。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Multithreaded Targeting": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マルチスレッド照準"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Multithreaded Targeting [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マルチスレッド照準 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core now also applies its full effects to rooms adjacent to directly targeted.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コアが、直接ターゲットされた部屋に隣接する部屋にも完全な効果を適用するようになります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Fortifications": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバー要塞化"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double Weaving": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重織り"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double Weaving [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重織り [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Lining protection is now twice as effective, but is repaired by crew at halved speed.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーの保護効果が2倍になりますが、クルーによる修理速度は半分になります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Hazmat Layer": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "危険物防護層"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Hazmat Layer [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "危険物防護層 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Lining now also reduces status chance (fire, breach, stun) of projectiles and beams hitting your hull.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーが、船体に命中する射撃やビームの状態異常（火災、亀裂、スタン）発生率も減少させるようになります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dynamic Priority": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "動的優先度"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dynamic Priority [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "動的優先度 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Lining now only applies its protection (and therefore takes damage) to rooms with allied crew present.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーが、味方クルーがいる部屋にのみ保護効果を適用し（したがってダメージを受ける）ようになります。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Fibers": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体ファイバー"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Fibers [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体ファイバー [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A special living fiber liner material is capable of feeding off power leaks on your ship, and regenerate itself naturally even in the absence of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "特殊な生体ファイバーライナー素材は、船の電力漏れを栄養源とし、クルーがいなくても自然に自己再生することができます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Fiber Clothing": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテルファイバー衣類"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Fiber Clothing [X]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテルファイバー衣類 [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Special clothing made from living fibers infused with aether. Provides your crew with 20% damage reduction from all sources and constant 2 hp/s regeneration. Crew that provide bonus power additionally gain +30% damage and repair.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテルを注入された生体ファイバーで作られた特殊な衣類。クルーに全てのダメージ源からの20%のダメージ軽減と、毎秒2HPの継続的な再生を提供します。ボーナスパワーを提供するクルーは、さらにダメージと修理が+30%されます。\n    \n\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ablative Armor Grant": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲グラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core Grant": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コアグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Infusion Bay Grant": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers Grant": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Liner Grant": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Lily's Beam Emporium \nClick to see more info.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "リリーのビーム百貨店\nクリックして詳細を表示。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Lily's Beam Emporium\nDeveloped by: MsBinaryLily\nCurrently Disabled.\n        \nAn addon focusing on beam weapons, adding a large variety of them with unique gimmicks.\nAnd more!\n\nBecause Beams are the Best! (tm)\n\n\n\nAddon sponsored by: Her - :)\n\n\n\nSpecial thanks to: \nArc, sillysandvich, for help with scripting;\nKix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);\n        \nTo enable Lily's Beam Emporium, go to the Multiverse Forums and visit the addon section!.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "リリーのビーム百貨店\n開発者：MsBinaryLily\n現在無効です。\n        \nビーム兵器に焦点を当てたアドオンで、ユニークなギミックを持つ多種多様なビーム兵器を追加します。\nその他にも！\n\nビームこそ至高！(tm)\n\n\n\nアドオンスポンサー：Her - :)\n\n\n\nスペシャルサンクス：\nArc、sillysandvich、スクリプトのヘルプ；\nKix、そしてFTL: Multiverse (およびHyperspace) の制作に携わった全ての人々；\n        \nリリーのビーム百貨店を有効にするには、Multiverseフォーラムにアクセスし、アドオンセクションをご覧ください！"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Lily's Innovations\nClick to see more info.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "リリーのイノベーション\nクリックして詳細を表示。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Lily's Innovations\nDeveloped by: MsBinaryLily\nCurrently Enabled.\n        \nAn addon that add new and alternative SHIP SYSTEMS to allow for new and interesting playstyles.\n\n\nSpecial thanks to: \nArc, sillysandvich, for help with scripting;\nKix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);\n        \nTo enable Lily's Innovations, go to the Multiverse Forums and visit the addon section!.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "リリーのイノベーション\n開発者：MsBinaryLily\n現在有効です。\n        \n新しく興味深いプレイスタイルを可能にする、新規および代替の船システムを追加するアドオンです。\n\n\nスペシャルサンクス：\nArc、sillysandvich、スクリプトのヘルプ；\nKix、そしてFTL: Multiverse (およびHyperspace) の制作に携わった全ての人々；\n        \nリリーのイノベーションを有効にするには、Multiverseフォーラムにアクセスし、アドオンセクションをご覧ください！"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Infusion Bay) Give them some infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（注入ベイ）注入剤をいくつか渡す。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You share out some stimulating infusions made in your infusion bay to the Engi and their Slug companions. Immediately the partygoers start to get more energetic and excited. The Engi, who is visibly shaking, pays you before rushing off to join their Slug companions, who seem to be bouncing around the room.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "あなたは注入ベイで作った刺激的な注入剤を、エンギとそのスラグの仲間たちに分け与える。パーティーの参加者たちはたちまち元気になり、興奮し始めた。目に見えて震えているエンギは、あなたに代金を支払うと、部屋中を跳ね回っているように見えるスラグの仲間たちに加わるために急いで去っていった。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Particulate Dispersal) Share some stumulants.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（粒子分散）興奮剤をいくつか分け与える。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The stumulant particulate dispersal works just fine - and you share some of the stuff to the Engi and their Slug companions. Immediately the partygoers start to get more energetic and excited. The Engi, who is visibly shaking, pays you before rushing off to join their Slug companions, who seem to be bouncing around the room.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "興奮剤の粒子分散は申し分なく機能する――そしてあなたはその物質をエンギとそのスラグの仲間たちに分け与える。パーティーの参加者たちはたちまち元気になり、興奮し始めた。目に見えて震えているエンギは、あなたに代金を支払うと、部屋中を跳ね回っているように見えるスラグの仲間たちに加わるために急いで去っていった。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Ablation] i-i-installed. Installed! Grant provides: Repair of one (1) point of hull damage every jump. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どこからともなく、声が聞こえる。「[アブレーション]のグ、グラントを、い、インストールした。した！グラントの効果：ジャンプごとに船体ダメージを1ポイント修理。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Continue...": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "続ける..."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Targeting] i-i-installed. Installed! Grant provides: +10 (%) extra accuracy to all your weapons and drones.. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どこからともなく、声が聞こえる。「[照準]のグ、グラントを、い、インストールした。した！グラントの効果：全ての兵器とドローンの命中率が+10%追加される。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Neutralization] i-i-installed. Installed! Grant provides: Increase of ion d-d-dissipation rate on your vessel by 10%. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どこからともなく、声が聞こえる。「[中和]のグ、グラントを、い、インストールした。した！グラントの効果：船のイオン放散率が10%上昇する。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Infusion] i-i-installed. Installed! Grant provides: 0.5x damage resistance and 0.75x max health to allies in your Medical room. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どこからともなく、声が聞こえる。「[注入]のグ、グラントを、い、インストールした。した！グラントの効果：医療室にいる味方のダメージ耐性0.5倍、最大体力0.75倍。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Bracing] i-i-installed. Installed! Grant provides: Removal of System Bracers r-r-repair speed penalty. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どこからともなく、声が聞こえる。「[ブレーシング]のグ、グラントを、い、インストールした。した！グラントの効果：システムブレーサーの修、修理速度ペナルティの除去。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Fibers] i-i-installed. Installed! Grant provides: Your crew now takes only x0.85 damage from all sources. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どこからともなく、声が聞こえる。「[ファイバー]のグ、グラントを、い、インストールした。した！グラントの効果：クルーが全てのダメージ源から受けるダメージが0.85倍になる。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A Lily's Innovations promotion poster.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "リリーのイノベーションの宣伝ポスターだ。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You approach the promotional poster to examine it further:\nLily's Innovations presents:\nSPECIAL PROMOTIONAL OFFER - GET YOUR NEW INNOVATIVE SYSTEM OF CHOICE FOR FREE* TODAY!\n\nNote: Promotional offer's rules:\n1) In order to be eligible for the offer, your ship must possess one of the \"standard\" systems already - included systems are: Shields, Medbay, Clonebay, Backup Battery\n2) The corresponding system, barring special cases**, will be removed to make space for your new INNOVATIVE one.\n3) The offer applies only ONCE per ship/captain.\n\nADDITIONAL OFFER: SYSTEM EXPANDER\nA new cutting edge technology that will allow your ship to support the whole new extra system!\nGet one for free today!\n(Note: the extra slot comes at the expense of weakening hull integrity by 1/3 to make necessarry room for it)\n\nYou notice an input interface located below the poster, which has already recognized you and your ship's ID.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "宣伝ポスターに近づいて詳しく調べる：\nリリーのイノベーション提供：\n特別プロモーションオファー - 本日、お好きな革新的システムを無料で*手に入れよう！\n\n注意：プロモーションオファーのルール：\n1) オファーの対象となるには、あなたの船が既に「標準」システムの一つを所有している必要があります - 対象システム：シールド、医療ベイ、クローンベイ、バックアップバッテリー\n2) 特別な場合**を除き、対応するシステムは新しい革新的なシステムのためのスペースを確保するために取り外されます。\n3) オファーは船/船長ごとに一度だけ適用されます。\n\n追加オファー：システムエキスパンダー\n船が全く新しい追加システムをサポートできるようにする、最先端の新技術！\n本日、無料で一つ手に入れよう！\n(注意：追加スロットは、必要なスペースを確保するために船体強度を1/3弱めるという犠牲を伴います)\n\nポスターの下に入力インターフェースがあり、既にあなたとあなたの船のIDを認識していることに気づく。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have already received the promotional offer.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "既にプロモーションオファーを受け取っています。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Check your eligibility...": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "資格を確認する..."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You quickly prompt the terminal to scan your ship and it gives you a selection of the following options:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "あなたはすぐに端末に船をスキャンさせると、以下の選択肢が表示された："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Your ship is not eligible for the offer.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "あなたの船はオファーの対象外です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Shields) Install Ablative Armor System.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（シールド）アブレーティブ装甲システムを設置する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You prompt the terminal to install the new system on you ship.\n\"Acknowledged. The work on your ship will begin shortly...\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "あなたは端末に新しいシステムを船に設置するよう促す。\n「承知しました。あなたの船での作業はまもなく開始されます...」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The system begins to work on refitting your ship, and shortly finishes.\n\"The established work quota: Done. Pleasure doing business with you.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムはあなたの船の改造作業を開始し、まもなく完了する。\n「確立された作業ノルマ：完了。お取引できて光栄です。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Medbay) Install Infusion Bay System.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（医療ベイ）注入ベイシステムを設置する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Clonebay) Install Infusion Bay System.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（クローンベイ）注入ベイシステムを設置する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Backup Battery) Install Shock Neutralizer Subsystem.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（バックアップバッテリー）ショック中和装置サブシステムを設置する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You prompt the terminal to install the new subsystem on you ship.\n\"Acknowledged. The work on your ship will begin shortly...\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "あなたは端末に新しいサブシステムを船に設置するよう促す。\n「承知しました。あなたの船での作業はまもなく開始されます...」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nevermind...": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "やっぱりやめておく..."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bonus system slot already installed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ボーナスシステムスロットは既に設置済みです。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Install a bonus system slot.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ボーナスシステムスロットを設置する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You prompt the terminal to increase yous ships's system capacity.\n\"Acknowledged. The work on your ship will begin shortly...\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "あなたは端末に船のシステム容量を増やすよう促す。\n「承知しました。あなたの船での作業はまもなく開始されます...」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Ablative Armor system.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲システムを提示する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Ablative Armor - defensive p-p-p-procedures it ensures! You pilot a: well protected vessel! Well protected vessel! For well protected vessel: I provide Grant of Ab-Ab-ablation! Grant of Ablation! Save it - for the future!\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "「アブレーティブ装甲――防、防御的な、て、手順を保証する！君が操縦するのは、よ、よく保護された船だ！よく保護された船だ！よく保護された船には、アブ、アブ、アブレーションのグラントを！アブレーションのグラントだ！未来のために、とっておけ！」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Dedicated Targeting Core system.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コアシステムを提示する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Dedicated Targeting Core - for a d-d-dedicated sharpshooter! No enemy can: evade you now! For dedicated sharpshooter: I provide Grant of T-t-targeting! Grant of Targeting! Save it - for the future!\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "「専用照準コア――せ、専門の、しゃ、射手のため！もうどんな敵も君を、かわせない！専門の射手には、しょ、照準のグラントを！照準のグラントだ！未来のために、とっておけ！」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Infusion Bay system.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイシステムを提示する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Infusion Bay - risk, and reward! R-r-risk, r-r-r-reward... [which] is heavier? You are: here... a captain: -considerate- of potentiality! For heavy consideration, and heavier p-p-potential: I provide Grant of I-i-i-infusion! Grant of Infusion! Save it - for the future!\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "「注入ベイ――リスクと、報酬！リ、リ、リスク、り、り、報酬...どちらが重い？君は、ここにいる...船長は、可能性を、考慮している！重い考慮と、より重い、ぽ、ポテンシャルのために、ちゅ、注入のグラントを！注入のグラントだ！未来のために、とっておけ！」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Shock Neutralizer subsystem.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置サブシステムを提示する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Shock Neutralizer - for p-p-p-protection against ions! Ions! A Technology - for [helping] other technology! Technology!!! For this: I [proudly] provide Grant of Neutralization! Grant of Neutralization! Save it - for the future!\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "「ショック中和装置――イオンに対する、ぼ、防御のため！イオン！他の技術を助けるための、技術だ！技術！！！そのために、私は誇りを持って、中和のグラントを！中和のグラントだ！未来のために、とっておけ！」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your System Bracers subsystem.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーサブシステムを提示する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"System Bracers - for p-p-p-protection against system damage! You pilot a: reliable vessel! Reliable vessel! For reliable vessel: I provide Grant of Br-br-bracing! Grant of Bracing! Save it - for the future!\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "「システムブレーサー――システムダメージに対する、ぼ、防御のため！君が操縦するのは、し、信頼できる船だ！信頼できる船だ！信頼できる船には、ブ、ブ、ブレーシングのグラントを！ブレーシングのグラントだ！未来のために、とっておけ！」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Fiber Liner subsystem.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーサブシステムを提示する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Fiber Liner - for p-p-p-protecting your crew against harm! You are a: b-b-benevolent captain! For your kindness: I provide Grant of F-Fibers! Grant of Fibers! Save it - for the future!\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "「ファイバーライナー――クルーを、き、危害から守るため！君は、じ、慈悲深い船長だ！その優しさのために、ふ、ファイバーのグラントを！ファイバーのグラントだ！未来のために、とっておけ！」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ablative Armor.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コア。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Infusion Bay.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイ。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock Neutralizer.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサー。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Liner.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナー。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Support.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生命維持装置。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sensors.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "センサー。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Infused Armor. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル注入装甲 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Infused Armor. [Cost: 65~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル注入装甲 [コスト: 65~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Integrity Field. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル統合フィールド [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Integrity Field. [Cost: 50~, 5{, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル統合フィールド [コスト: 50~, 5{, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Fiber Clothing. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテルファイバー衣類 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aether Fiber Clothing. [Cost: 40~, 8{, 6|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテルファイバー衣類 [コスト: 40~, 8{, 6|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Smart Boarding. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "スマートボーディング [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Smart Boarding. [Cost: 50~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "スマートボーディング [コスト: 50~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Repair Protocols. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ修理プロトコル [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Repair Protocols. [Cost: 20~, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ修理プロトコル [コスト: 20~, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Backup Repair Protocols upgrade.\n\t[Effects: Slowly repairs your clonebay system even with absense of crew.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ修理プロトコルアップグレードを設置しようとしています。\n\t[効果：クルーがいなくても、クローンベイシステムをゆっくりと修理します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 20~, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 20~, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You install the upgrade.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを設置しました。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need to have Backup DNA installed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。バックアップDNAが設置されている必要があります。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Install the External Augment internally.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "外部増強パーツを内部に設置する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nevermind.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "やめておく。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mind Shielding. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "精神シールド [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mind Shielding. [Cost: 30~, 4{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "精神シールド [コスト: 30~, 4{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワーク [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrated Neural Network. [Cost: 30~, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワーク [コスト: 30~, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Mind Shielding upgrade.\n\t[Effects: Crew in piloting becomes immune to mind control and stun.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "精神シールドアップグレードを設置しようとしています。\n\t[効果：操縦室のクルーが精神支配とスタンに耐性を得ます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 30~, 4{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 30~, 4{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Pilot level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。操縦レベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Pilot subsystem even in the absense of crew.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワークアップグレードを設置しようとしています。\n\t[効果：統合ニューラルネットワークは、クルーが不在でも操縦サブシステムを操作できます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 30~, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 30~, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Pilot level 3.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。操縦レベル3が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Emergency Teleport Recall. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "緊急テレポートリコール [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Emergency Teleport Recall. [Cost: 30~, 3{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "緊急テレポートリコール [コスト: 30~, 3{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Emergency Teleport Recall upgrade.\n\t[Effects: Automatically teleports your crew back to your ship if the enemy ship is destroyed or jumping.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "緊急テレポートリコールアップグレードを設置しようとしています。\n\t[効果：敵船が破壊されたりジャンプしたりした場合、自動的にクルーを自船にテレポートさせます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 30~, 3{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 30~, 3{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Teleporter level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。テレポート装置レベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mapping Suite. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マッピングスイート [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mapping Suite. [Cost: 40~, 3{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マッピングスイート [コスト: 40~, 3{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sector Scanner. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セクタースキャナー [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sector Scanner. [Cost: 20~, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セクタースキャナー [コスト: 20~, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "What upgrade do you want to install?": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どのアップグレードを設置しますか？"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Sensors subsystem even in the absense of crew.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワークアップグレードを設置しようとしています。\n\t[効果：統合ニューラルネットワークは、クルーが不在でもセンサーサブシステムを操作できます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Sensors level 3.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。センサーレベル3が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Mapping Suite upgrade.\n\t[Effects: Allows you to collect information about the beacons of the whole sector. Requires the ship to be stationary for some time.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マッピングスイートアップグレードを設置しようとしています。\n\t[効果：セクター全体のビーコンに関する情報を収集できます。船を一定時間静止させる必要があります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 3{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 40~, 3{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Sector Scanner upgrade.\n\t[Effects: Allows you to collect more information about sectors on you journey, revealing the exact names of all of them when making an inter-sector jump.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セクタースキャナーアップグレードを設置しようとしています。\n\t[効果：航海中のセクターに関する詳細な情報を収集し、セクター間ジャンプを行う際に全てのセクターの正確な名前を明らかにします。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 20~, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 20~, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Sensors level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。センサーレベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fortifications. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "要塞化 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fortifications. [Cost: 30~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "要塞化 [コスト: 30~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Failsafe. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェイルセーフ [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Failsafe. [Cost: 10~, 1|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェイルセーフ [コスト: 10~, 1|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Fortifications upgrade.\n\t[Effects: Allied crew in Doors room take half damage from all sources, and enemy crew sabotage it at half speed.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "要塞化アップグレードを設置しようとしています。\n\t[効果：ドア室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 30~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 30~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Doors level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ドアレベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Failsafe upgrade.\n\t[Effects: All doors and airlocks are automatically shut closed if Doors system is destroyed or disabled.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェイルセーフアップグレードを設置しようとしています。\n\t[効果：ドアシステムが破壊または無効化された場合、全てのドアとエアロックが自動的に閉鎖されます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 10~, 1|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 10~, 1|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Doors level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ドアレベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Doors subsystem even in the absense of crew.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合ニューラルネットワークアップグレードを設置しようとしています。\n\t[効果：統合ニューラルネットワークは、クルーが不在でもドアサブシステムを操作できます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Doors level 3.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ドアレベル3が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Smart Boarding upgrade.\n\t[Effects: Makes your boarding drones prioritize landing in important enemy rooms.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "スマートボーディングアップグレードを設置しようとしています。\n\t[効果：ボーディングドローンが敵の重要な部屋への着陸を優先するようになります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 50~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Drone Control level 4.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ドローン制御室レベル4が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Polished Armor. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "研磨装甲 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Polished Armor. [Cost: 75~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "研磨装甲 [コスト: 75~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reactive Armor. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "反応装甲 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reactive Armor. [Cost: 80~, 10}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "反応装甲 [コスト: 80~, 10}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double-Strength Armor. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重強度装甲 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double-Strength Armor. [Cost: 100~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重強度装甲 [コスト: 100~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mending Armor. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "修復装甲 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mending Armor. [Cost: 60~, 10|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "修復装甲 [コスト: 60~, 10|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Vengeance Adapter. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "報復アダプター [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Vengeance Adapter. [Cost: 20~, 4}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "報復アダプター [コスト: 20~, 4}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Polished Armor upgrade.\n\t[Effects: Decreases damage taken by ablative armor from beams by 1.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "研磨装甲アップグレードを設置しようとしています。\n\t[効果：アブレーティブ装甲がビームから受けるダメージを1減少させます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 75~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 75~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Ablative Armor level 3.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。アブレーティブ装甲レベル3が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Reactive Armor upgrade.\n\t[Effects: When Ablative Armor absorbs damage, it also releases a burst of debris to intercept incoming projectiles or drones.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "反応装甲アップグレードを設置しようとしています。\n\t[効果：アブレーティブ装甲がダメージを吸収すると、飛来する射撃やドローンを妨害するためにデブリのバーストを放出します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 80~, 10}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 80~, 10}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Ablative Armor level 5.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。アブレーティブ装甲レベル5が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Double-Strength Armor upgrade.\n\t[Effects: Improves chances of Ablative Armor to absorb system or crew damage. Also increases the chance to resist hull and system damage by extra 10%.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重強度装甲アップグレードを設置しようとしています。\n\t[効果：アブレーティブ装甲がシステムまたはクルーのダメージを吸収する確率を向上させます。また、船体およびシステムダメージへの抵抗確率を追加で10%増加させます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 100~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 100~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Ablative Armor level 4.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。アブレーティブ装甲レベル4が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Mending Armor upgrade.\n\t[Effects: If Ablative Armor system is present, repairs 2 hull points per jump.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "修復装甲アップグレードを設置しようとしています。\n\t[効果：アブレーティブ装甲システムが存在する場合、ジャンプごとに船体を2ポイント修理します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 60~, 10|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 60~, 10|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Vengeance Adapter upgrade.\n\t[Effects: Allows effects that trigger on hull damage trigger on armor damage as well.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "報復アダプターアップグレードを設置しようとしています。\n\t[効果：船体ダメージでトリガーされる効果が、装甲ダメージでもトリガーされるようになります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 20~, 4}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 20~, 4}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Ablative Armor level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。アブレーティブ装甲レベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Fortifications upgrade.\n\t[Effects: Allied crew in Ablative Armor room take half damage from all sources, and enemy crew sabotage it at half speed.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "要塞化アップグレードを設置しようとしています。\n\t[効果：アブレーティブ装甲室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Aether Infused Armor upgrade.\n\t[Effects: Increases chance to resist armor and hull damage by 10% and allows Ablative Armor layers benefit from resist chance.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル注入装甲アップグレードを設置しようとしています。\n\t[効果：装甲と船体ダメージへの抵抗確率を10%増加させ、アブレーティブ装甲層が抵抗確率の恩恵を受けられるようにします。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 65~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 65~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Double-Strength Armor installed first. (Ablative Armor)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。最初に二重強度装甲を設置する必要があります。（アブレーティブ装甲）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Ion Field. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二次イオンフィールド [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Secondary Ion Field. [Cost: 50~, 2{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二次イオンフィールド [コスト: 50~, 2{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Expanded Field. [MAX LVL ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "拡張フィールド [最大レベル設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Expanded Field LvL 2. [Cost: 80~, 5{, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "拡張フィールド LvL 2 [コスト: 80~, 5{, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Expanded Field LvL 1. [Cost: 80~, 5{, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "拡張フィールド LvL 1 [コスト: 80~, 5{, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Surge Protectors. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージプロテクター [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Surge Protectors. [Cost: 30~, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージプロテクター [コスト: 30~, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Neural Neutralizer. [Cost: 30~, 3{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "神経中和装置 [コスト: 30~, 3{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Secondary Ion Field upgrade.\n\t[Effects: Protects your ship from ion damage, giving a 30% chance to negate it entirely. Stacks.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二次イオンフィールドアップグレードを設置しようとしています。\n\t[効果：イオンダメージから船を保護し、30%の確率で完全に無効化します。効果は重複します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 2{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 50~, 2{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Shock Neutralizer level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ショック中和装置レベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Expanded Field upgrade.\n\t[Effects: Shock Neutralizer also provide half of its bonus to rooms adjacent to target. LvL 2 also provides bonus to diagonal rooms.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "拡張フィールドアップグレードを設置しようとしています。\n\t[効果：ショック中和装置が、対象に隣接する部屋にもボーナスの半分を提供します。LvL 2では斜めの部屋にもボーナスを提供します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 80~, 5{, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 80~, 5{, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Shock Neutralizer level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ショック中和装置レベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Surge Protectors upgrade.\n\t[Effects: Protect your ship from Plasma damage, giving 100% chance to negate system damage on shield hits and 50% on direct hits.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージプロテクターアップグレードを設置しようとしています。\n\t[効果：プラズマダメージから船を保護し、シールドヒット時のシステムダメージを100%、直撃時のシステムダメージを50%の確率で無効化します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Neural Neutralizer upgrade.\n\t[Effects: Shock Neutralizer now also affects crew stun times.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "神経中和装置アップグレードを設置しようとしています。\n\t[効果：ショック中和装置がクルーのスタン時間にも影響を与えるようになります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Install extra infusions for the fourth slot of the system.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムの4番目のスロットに追加の注入剤を設置する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sickness Treatment. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "後遺症治療 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Sickness Treatment. [Cost: 40~, 3{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "後遺症治療 [コスト: 40~, 3{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Safe Haven Protocols. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セーフヘイブンプロトコル [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Safe Haven Protocols. [Cost: 20~, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セーフヘイブンプロトコル [コスト: 20~, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Select the infusion type to use for the 4th slot of infusion bay.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイの4番目のスロットで使用する注入剤のタイプを選択してください。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Here you can select which infusion type to use for 4th slot of infusion bay. (You need to have intalled the corresponding internal upgrade first.)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ここで注入ベイの4番目のスロットで使用する注入剤のタイプを選択できます。（最初に、対応する内部アップグレードを設置している必要があります。）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Overloaded Infusions. [NOT INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "過負荷注入剤 [未設置]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Overloaded Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "過負荷注入剤。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You set the infusion bay to use Overloaded Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイを過負荷注入剤を使用するように設定しました。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Chaotic Infusions. [NOT INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "混沌注入剤 [未設置]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Chaotic Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "混沌注入剤。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You set the infusion bay to use Chaotic Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイを混沌注入剤を使用するように設定しました。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fireborne Infusions. [NOT INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "火炎注入剤 [未設置]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fireborne Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "火炎注入剤。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You set the infusion bay to use Fireborne Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイを火炎注入剤を使用するように設定しました。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Explosive Infusions. [NOT INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "爆発注入剤 [未設置]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Explosive Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "爆発注入剤。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You set the infusion bay to use Explosive Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイを爆発注入剤を使用するように設定しました。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Phoenix Infusions. [NOT INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェニックス注入剤 [未設置]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Phoenix Infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェニックス注入剤。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Sickness Treatment upgrade.\n\t[Effects: Crew in the Infusion Bay recover from their Infusion Sickness at an increased rate, corresponding to its current power.\n1 Power: 1.75x Infusion Sickness recovery rate.\n2 Power: 2.5x Infusion Sickness recovery rate.\n3 Power: 3.25x Infusion Sickness recovery rate.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "後遺症治療アップグレードを設置しようとしています。\n\t[効果：注入ベイにいるクルーは、現在の電力に応じた速度で注入剤の後遺症から回復します。\n1電力：1.75倍の注入後遺症回復速度。\n2電力：2.5倍の注入後遺症回復速度。\n3電力：3.25倍の注入後遺症回復速度。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 3{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 40~, 3{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Infusion bay level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。注入ベイレベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Safe Haven Protocols upgrade.\n\t[Effects: Crew in the Infusion Bay become immune to suffocation and fires, and recover extra 1 HP/s.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "セーフヘイブンプロトコルアップグレードを設置しようとしています。\n\t[効果：注入ベイのクルーは窒息と火災に耐性を得て、追加で毎秒1HP回復します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Infusion bay level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。注入ベイレベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Are you sure you want to uninstall the fourth slot infusions? No refunds.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "本当に4番目のスロットの注入剤をアンインストールしますか？返金はされません。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Yes, I understand the implications and wish to proceed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "はい、影響を理解しており、続行を希望します。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You successfully uninstall the extra infusions.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "追加の注入剤のアンインストールに成功しました。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Which infusions do you want to install? [Installing multiple allows you to switch between them outside of combat.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "どの注入剤を設置しますか？[複数設置すると、戦闘外で切り替えることができます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Overloaded Infusions. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "過負荷注入剤 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Overloaded Infusions. [50~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "過負荷注入剤 [50~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Chaotic Infusions. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "混沌注入剤 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Chaotic Infusions. [20~, 5{, 5}, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "混沌注入剤 [20~, 5{, 5}, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fireborne Infusions. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "火炎注入剤 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fireborne Infusions. [40~, 3{, 4}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "火炎注入剤 [40~, 3{, 4}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Explosive Infusions. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "爆発注入剤 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Explosive Infusions. [50~, 8}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "爆発注入剤 [50~, 8}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Phoenix Infusions. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェニックス注入剤 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Phoenix Infusions. [50~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェニックス注入剤 [50~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Overloaded Infusions upgrade.\n\t[Infusion Effects: Stuns self and all nearby crew for 5s and deals 2 ion damage to system. Systems on your ship have 1 ion removed instead.\n30 HP/% heal, 21 second sickness.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "過負荷注入剤アップグレードを設置しようとしています。\n\t[注入効果：自身と近くの全てのクルーを5秒間スタンさせ、システムに2イオンダメージを与えます。自船のシステムは代わりに1イオンが除去されます。\n30 HP/% 回復、21秒の後遺症。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 50~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Chaotic Infusions upgrade.\n\t[Infusion Effects: Applies an effect of a random other infusion. Hopefully there isn't any adverse effects on your crew.\n15 - 75 HP/% heal, 7 second sickness.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "混沌注入剤アップグレードを設置しようとしています。\n\t[注入効果：他の注入剤の効果をランダムに適用します。クルーに悪影響がないことを願います。\n15 - 75 HP/% 回復、7秒の後遺症。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [20~, 5{, 5}, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [20~, 5{, 5}, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Fireborne Infusions upgrade.\n\t[Infusion Effects: Starts a fire in current room. Grants ability to heal from fires for the duration, but also makes your crew suffocate at rapid speed, even if they are normally immune.\n15 HP/% heal, 21 second sickness.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "火炎注入剤アップグレードを設置しようとしています。\n\t[注入効果：現在の部屋で火災を発生させます。効果時間中、火災から回復する能力を得ますが、通常は耐性があっても急速に窒息します。\n15 HP/% 回復、21秒の後遺症。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 3{, 4}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 40~, 3{, 4}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Explosive Infusions upgrade.\n\t[Infusion Effects: Explodes, damaging all enemies in the room by 15 HP. System on enemy ships take 1 damage, while on your ship are repaired by 1 bar instead.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "爆発注入剤アップグレードを設置しようとしています。\n\t[注入効果：爆発し、部屋にいる全ての敵に15HPのダメージを与えます。敵船のシステムは1ダメージを受け、自船のシステムは代わりに1バー修理されます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [50~, 8}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [50~, 8}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Phoenix Infusions upgrade.\n\t[Infusion Effects: Crew cannot die during the duration. If they take damage that would normally kill them, they are instead healed to full health and teleported to the Infusion Bay. When this effect triggers, allies in the same room are healed by 30 HP/%, and the Infusion Bay takes 1 unresistable ion damage with double lockout duration. Won't save your boarders if enemy ship explodes.\n15 HP/% heal, 14 second sickness.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フェニックス注入剤アップグレードを設置しようとしています。\n\t[注入効果：効果時間中、クルーは死にません。通常なら死亡するダメージを受けると、代わりに全快し、注入ベイにテレポートします。この効果が発動すると、同じ部屋にいる味方が30 HP/%回復し、注入ベイは2倍のロックアウト時間を持つ抵抗不能な1イオンダメージを受けます。敵船が爆発してもボーダーは助かりません。\n15 HP/% 回復、14秒の後遺症。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Ventilation. [MAX LVL ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置 [最大レベル設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Ventilation LvL 4. [Cost: 30~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置 LvL 4 [コスト: 30~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Ventilation LvL 3. [Cost: 30~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置 LvL 3 [コスト: 30~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Ventilation LvL 2. [Cost: 30~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置 LvL 2 [コスト: 30~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Advanced Ventilation LvL 1. [Cost: 30~]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置 LvL 1 [コスト: 30~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Floral Bouquet. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 花のブーケ [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Factory Grease. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 工場のグリース [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Metal and Gunpowder. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 金属と火薬 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Arctic Wind. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 北極の風 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Lapis Lazuli. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - ラピスラズリ [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - 9V Battery. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 9V電池 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Alpha-Methylphenethylamine. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - α-メチルフェネチルアミン [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Oxygen. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ酸素 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Backup Oxygen. [Cost: 10~, 2{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ酸素 [コスト: 10~, 2{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Installing dispersal system for particulates - which provide various morale and health boosts to allied crew onboard your ships.\nSelect which particular flavor do you want to install.\n[The options are mutually exclusive, scale will power provided to life support system, and will only apply to rooms with oxygen on your own ship.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散システムを設置します - これにより、船内の味方クルーに様々な士気と健康のブーストが提供されます。\nどのフレーバーを設置するか選択してください。\n[オプションは相互排他的で、生命維持システムに供給される電力に応じて効果が変動し、自船の酸素がある部屋にのみ適用されます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Floral Bouquet. [20~, 5{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 花のブーケ [20~, 5{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Factory Grease. [25~, 6|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 工場のグリース [25~, 6|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Metal and Gunpowder. [25~, 5}, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 金属と火薬 [25~, 5}, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Arctic Wind. [25~, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 北極の風 [25~, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Lapis Lazuli. [50~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - ラピスラズリ [50~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - 9V Battery. [25~, 7{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 9V電池 [25~, 7{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Particulate Dispersal - Alpha-Methylphenethylamine. [15~, 4{, 4}, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - α-メチルフェネチルアミン [15~, 4{, 4}, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Particulate Dispersal - Floral Bouquet upgrade.\nA fine concoction of aromas developed by Orchid Caretakers, designed to improve the well-being of your crew.\n[Effects: +5% max health and +10% healing speed for each powered level of life support. Only works on your ship, in rooms that have at least 20% oxygen.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 花のブーケアップグレードを設置しようとしています。\nオーキッドの世話人によって開発された、クルーの幸福度を向上させるために設計された素晴らしい香りの調合品です。\n[効果：生命維持装置の電力レベルごとに最大体力+5%、回復速度+10%。自船の酸素が20%以上ある部屋でのみ機能します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 20~, 5{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 20~, 5{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Oxygen level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。酸素レベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Particulate Dispersal - Factory Grease upgrade.\nA concoction often dispersed in Vampweed facilities, as it was discovered to inspire workers to be more productive.\n[Effects: +10% repair speed and +5% movement speed for each powered level of life support. Only works on your ship, in rooms that have at least 20% oxygen.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 工場のグリースアップグレードを設置しようとしています。\nヴァンプウィード施設でよく散布される調合品で、労働者の生産性を向上させることが発見されました。\n[効果：生命維持装置の電力レベルごとに修理速度+10%、移動速度+5%。自船の酸素が20%以上ある部屋でのみ機能します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 25~, 6|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 25~, 6|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Particulate Dispersal - Metal and Gunpowder upgrade.\nA mixture known well around hardened pirates, its harsh flavor helps steel your crew for combat.\n[Effects: +5% combat damage and -5% combat damage taken for each powered level of life support. Only works on your ship, in rooms that have at least 20% oxygen.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 金属と火薬アップグレードを設置しようとしています。\n歴戦の海賊たちの間でよく知られている混合物で、その荒々しいフレーバーはクルーの戦闘への覚悟を固めるのに役立ちます。\n[効果：生命維持装置の電力レベルごとに戦闘ダメージ+5%、被戦闘ダメージ-5%。自船の酸素が20%以上ある部屋でのみ機能します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 25~, 5}, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 25~, 5}, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Particulate Dispersal - Arctic Wind upgrade.\nA very refreshing flavor of this will make your crew move like the wind and deal with fires easily.\n[Effects: +10% movement speed, -20% fire damage taken and +20% fire extinguishing speed for each powered level of life support. Only works on your ship, in rooms that have at least 20% oxygen.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 北極の風アップグレードを設置しようとしています。\nこの非常に爽やかなフレーバーは、クルーを風のように動かし、火災に容易に対処させます。\n[効果：生命維持装置の電力レベルごとに移動速度+10%、被火災ダメージ-20%、消火速度+20%。自船の酸素が20%以上ある部屋でのみ機能します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Particulate Dispersal - Lapis Lazuli upgrade.\nThe calming and focusing effects of this expesive mixture will help to make minds of your crew unmovable as the mountains.\n[Effects: -20% stun duration for each powered level of life support. At level 2, crew resists madness, and at level 3, crew resists mind control. (Note: extra effects require oxygen in the room to be at least 95%) Only works on your ship, in rooms that have at least 20% oxygen.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - ラピスラズリアップグレードを設置しようとしています。\nこの高価な混合物の鎮静効果と集中効果は、クルーの心を山のように不動のものにするのに役立ちます。\n[効果：生命維持装置の電力レベルごとにスタン時間-20%。レベル2では狂気に、レベル3では精神支配に抵抗します。（注意：追加効果には部屋の酸素が95%以上必要です）自船の酸素が20%以上ある部屋でのみ機能します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Particulate Dispersal - 9V Battery upgrade.\nIt is uncertain how you can make a battery considered a \"flavor\". But most of the test subject agree that the effect was \"positively jolting\".\n[Effects: +15% power recharge rate for each powered level of life support. At level 3, all Zoltan crew provide an extra bar of power. Only works on your ship, in rooms that have at least 20% oxygen.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - 9V電池アップグレードを設置しようとしています。\n電池が「フレーバー」と見なされる理由は定かではありません。しかし、ほとんどの被験者はその効果が「良い意味で衝撃的だった」と同意しています。\n[効果：生命維持装置の電力レベルごとにパワー再充電率+15%。レベル3では、全てのゾルタンクルーが追加の電力バーを1つ提供します。自船の酸素が20%以上ある部屋でのみ機能します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 20~, 7{, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 20~, 7{, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Particulate Dispersal - Alpha-Methylphenethylamine upgrade.\nA classic and proven solution, this should DEFINITELY give your crew a boost.\nSIDE EFFECTS INCLUDE: Excessive agressiveness, restlessness, sleep problems, addiction, hallucinations, teeth grinding, and poor decision making. But hey, if it works, it works.\n[Effects: +20% movement speed, +20% damage, +50% sabotage damage, +15% repair speed, and +5% power recharge rate, but also -5% max health, -10% healing speed and +10% combat damage taken for your crew for each powered level of life support. Only works on your ship, in rooms that have at least 10% oxygen.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "粒子分散 - α-メチルフェネチルアミンアップグレードを設置しようとしています。\n古典的で実績のある解決策で、これは間違いなくクルーをブーストするはずです。\n副作用：過度の攻撃性、落ち着きのなさ、睡眠障害、依存症、幻覚、歯ぎしり、そして判断力の低下。しかし、まあ、効果があればそれでいいのです。\n[効果：生命維持装置の電力レベルごとに、クルーの移動速度+20%、ダメージ+20%、妨害工作ダメージ+50%、修理速度+15%、パワー再充電率+5%ですが、最大体力-5%、回復速度-10%、被戦闘ダメージ+10%にもなります。自船の酸素が10%以上ある部屋でのみ機能します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 15~, 4{, 4}, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 15~, 4{, 4}, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Advanced Ventilation upgrade.\n\t[Effects: Life Support now prioritizes your crew, refilling oxygen 80% faster in rooms where crew are present. Has the opposite effect on enemy crew and fires, draining oxygen. Requires the system to be powered, and scales with power.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "高度換気装置アップグレードを設置しようとしています。\n\t[効果：生命維持装置がクルーを優先し、クルーがいる部屋の酸素を80%速く補充します。敵クルーや火災に対しては逆の効果があり、酸素を排出します。システムの電力供給が必要で、電力に応じて効果が変動します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Oxygen Backup upgrade.\n\t[Effects: Life Support system provides a tiny amount of oxygen in the system room even if it's destroyed or disabled.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "バックアップ酸素アップグレードを設置しようとしています。\n\t[効果：生命維持装置が破壊または無効化されても、システム室に微量の酸素を供給します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 10~, 2{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 10~, 2{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Surge Overdrive. [UNAVAILABLE]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージオーバードライブ [利用不可]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Surge Overdrive. [Cost: 50~, 5{, 5}, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージオーバードライブ [コスト: 50~, 5{, 5}, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Solar Battery. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ソーラーバッテリー [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Solar Battery. [Cost: 15~, 1|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ソーラーバッテリー [コスト: 15~, 1|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Surge Overdrive upgrade.\n\t[Effects: While your backup battery is active, receive +10% weapon charge rate, +20% shield recharge rate and +5% evasion for each backup battery level, but battery cooldown is increased by 25%.\nIncompatible with battery performance upgrades.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "サージオーバードライブアップグレードを設置しようとしています。\n\t[効果：バックアップバッテリーが有効な間、バッテリーレベルごとに武器チャージ率+10%、シールド再充電率+20%、回避率+5%を得ますが、バッテリーのクールダウンが25%増加します。\nバッテリー性能アップグレードとは互換性がありません。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 5{, 5}, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 50~, 5{, 5}, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Backup Battery level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。バックアップバッテリーレベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Solar Battery upgrade.\n\t[Effects: When close to a sun, backup battery can be active indefinitely.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ソーラーバッテリーアップグレードを設置しようとしています。\n\t[効果：太陽の近くにいるとき、バックアップバッテリーを無期限に起動できます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 15~, 1|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 15~, 1|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Backup Battery level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。バックアップバッテリーレベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Thermal Kinetic Dischargers. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "熱運動エネルギー放出装置 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Thermal Kinetic Dischargers. [Cost: 15~, 4}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "熱運動エネルギー放出装置 [コスト: 15~, 4}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Metal Bracers. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体金属ブレーサー [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Metal Bracers. [Cost: 40~, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体金属ブレーサー [コスト: 40~, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrity Field Generator. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合フィールドジェネレーター [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Integrity Field Generator. [Cost: 60~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合フィールドジェネレーター [コスト: 60~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Fortifications upgrade.\n\t[Effects: Allied crew in System Bracers room take half damage from all sources, and enemy crew sabotage it at half speed.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "要塞化アップグレードを設置しようとしています。\n\t[効果：システムブレーサー室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need System Bracers level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。システムブレーサーレベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Thermal Kinetic Dischargers upgrade.\n\t[Effects: System Bracers have a 50% chance to not lose durability but instead catch fire when absorbing damage.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "熱運動エネルギー放出装置アップグレードを設置しようとしています。\n\t[効果：システムブレーサーはダメージを吸収した際、50%の確率で耐久度を失わず、代わりに火災を発生させます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 15~, 4}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 15~, 4}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Living Metal Bracers upgrade.\n\t[Effects: Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absense of crew.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体金属ブレーサーアップグレードを設置しようとしています。\n\t[効果：形状を「記憶」できる特殊な金属で作られており、システムブレーサーはクルーがいなくてもゆっくりと自己修復します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 40~, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need System Bracers level 3.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。システムブレーサーレベル3が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Integrity Field Generator upgrade.\n\t[Effects: System Bracers now protect systems from other sources of damage, such as sabotage and fires.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "統合フィールドジェネレーターアップグレードを設置しようとしています。\n\t[効果：システムブレーサーが、妨害工作や火災など、他の原因によるシステムダメージからも保護するようになります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 60~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 60~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Aether Integrity Field upgrade.\n\t[Effects: Systems protected by System Bracers are now sabotaged at half speed, and deal 2 hp/s damage to intruders.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテル統合フィールドアップグレードを設置しようとしています。\n\t[効果：システムブレーサーで保護されたシステムは、妨害工作の速度が半分になり、侵入者に毎秒2HPのダメージを与えます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 5{, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 50~, 5{, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need to have Integrity Field Generator internal upgrade. (System Bracers)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。統合フィールドジェネレーター内部アップグレードが必要です。（システムブレーサー）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double Weaving. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重織り [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Double Weaving. [Cost: 40~, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重織り [コスト: 40~, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Hazmat Layer. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "危険物防護層 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Hazmat Layer. [Cost: 40~, 5{, 3}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "危険物防護層 [コスト: 40~, 5{, 3}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dynamic Priority. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "動的優先度 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dynamic Priority. [Cost: 25~, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "動的優先度 [コスト: 25~, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Fibers. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体ファイバー [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Living Fibers. [Cost: 80~, 6{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体ファイバー [コスト: 80~, 6{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Double Weaving upgrade.\n\t[Effects: Fiber Lining protection is now twice as effective, but is repaired by crew at halved speed.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "二重織りアップグレードを設置しようとしています。\n\t[効果：ファイバーライナーの保護効果が2倍になりますが、クルーによる修理速度は半分になります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Fiber Liner level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ファイバーライナーレベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Hazmat Layer upgrade.\n\t[Effects: Fiber Lining now also reduces status chance (fire, breach, stun) of projectiles and beams hitting your hull.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "危険物防護層アップグレードを設置しようとしています。\n\t[効果：ファイバーライナーが、船体に命中する射撃やビームの状態異常（火災、亀裂、スタン）発生率も減少させるようになります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 5{, 3}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 40~, 5{, 3}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Fiber Liner level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ファイバーライナーレベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Dynamic Priority upgrade.\n\t[Effects: Fiber Lining now only applies its protection (and therefore takes damage) to rooms with allied crew present.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "動的優先度アップグレードを設置しようとしています。\n\t[効果：ファイバーライナーが、味方クルーがいる部屋にのみ保護効果を適用し（したがってダメージを受ける）ようになります。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 25~, 4|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 25~, 4|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Living Fibers upgrade.\n\t[Effects: A special living fiber liner material is capable of feeding off power leaks on your ship, and regenerate itself naturally even in the absence of crew.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "生体ファイバーアップグレードを設置しようとしています。\n\t[効果：特殊な生体ファイバーライナー素材は、船の電力漏れを栄養源とし、クルーがいなくても自然に自己再生することができます。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 80~, 6{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 80~, 6{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Fiber Liner level 3.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。ファイバーライナーレベル3が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Aether Fiber Clothing upgrade.\n\t[Effects: Special clothing made from living fibers infused with aether. Provides your crew with 20% damage reduction from all sources and constant 2 hp/s regeneration.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "エーテルファイバー衣類アップグレードを設置しようとしています。\n\t[効果：エーテルを注入された生体ファイバーで作られた特殊な衣類。クルーに全てのダメージ源からの20%のダメージ軽減と、毎秒2HPの継続的な再生を提供します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 8{, 6|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 40~, 8{, 6|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need to have Living Fibers internal upgrade. (Fiber Liner)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。生体ファイバー内部アップグレードが必要です。（ファイバーライナー）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Preemptive lock-on. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "先制ロックオン [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Preemptive lock-on. [Cost: 30~, 3}, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "先制ロックオン [コスト: 30~, 3}, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enhanced Weapon Tuning. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "強化兵器チューニング [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enhanced Weapon Tuning. [Cost: 60~, 6{, 6}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "強化兵器チューニング [コスト: 60~, 6{, 6}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapon Charging Optimization. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "兵器チャージ最適化 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapon Charging Optimization. [Cost: 60~, 10}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "兵器チャージ最適化 [コスト: 60~, 10}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nano-Guidance System. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ナノ誘導システム [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nano-Guidance System. [Cost: 40~, 5}, 2|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ナノ誘導システム [コスト: 40~, 5}, 2|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weakpoint Data Uplink. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "弱点データアップリンク [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weakpoint Data Uplink. [Cost: 50~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "弱点データアップリンク [コスト: 50~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Processor Overclocking. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "プロセッサオーバークロック [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Processor Overclocking. [Cost: 30~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "プロセッサオーバークロック [コスト: 30~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Multithreaded Targeting. [ALREADY INSTALLED]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マルチスレッド照準 [設置済み]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Multithreaded Targeting. [Cost: 45~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マルチスレッド照準 [コスト: 45~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Full Spectrum Array upgrade.\n\t[Effects: Doubles the accuracy bonus of Dedicated Targeting Core and allows charging of weapons at 20% of regular speed per level when target is cloaked. Also expands provided vision to adjacent rooms.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "フルスペクトラムアレイアップグレードを設置しようとしています。\n\t[効果：専用照準コアの命中率ボーナスを2倍にし、対象がクローク中はレベルごとに通常速度の20%で武器をチャージできます。また、提供される視界を隣接する部屋に拡大します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 100~, 8{, 6|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 100~, 8{, 6|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Dedicated Targeting Core level 3.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。専用照準コアレベル3が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Preemptive lock-on upgrade.\n\t[Effects: If enemy ship has cloaking system, automatically and instantly locks onto it at the start of the battle.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "先制ロックオンアップグレードを設置しようとしています。\n\t[効果：敵船がクローキングシステムを持っている場合、戦闘開始時に自動的かつ即座にそれをロックオンします。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 30~, 3}, 3|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 30~, 3}, 3|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Dedicated Targeting Core level 1.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。専用照準コアレベル1が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Enhanced Weapon Tuning upgrade. \n\t[Effects: If a weapon has fire/breach/stun chance, this chance is increased by Core Strength * 5%. (Rounded up to nearest 10%)]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "強化兵器チューニングアップグレードを設置しようとしています。\n\t[効果：武器に火災/亀裂/スタン発生率がある場合、その確率がコアストレングス * 5%増加します。（最も近い10%に切り上げ）]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 60~, 6{, 6}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 60~, 6{, 6}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Dedicated Targeting Core level 2.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "このアップグレードは利用できません。専用照準コアレベル2が必要です。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Weapon Charging Optimization upgrade.\n\t[Effects: Dedicated Targeting Core now provides extra 5% weapon reload boost per Core Strength.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "兵器チャージ最適化アップグレードを設置しようとしています。\n\t[効果：専用照準コアが、コアストレングスごとに武器リロード速度を5%追加でブーストします。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 60~, 10}]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 60~, 10}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Nano-Guidance System upgrade.\n\t[Effects: Weapons with spread (such as flak) will now attempt to hit closer to the target, by 10 units per Core Strength.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ナノ誘導システムアップグレードを設置しようとしています。\n\t[効果：拡散する武器（フラックなど）は、コアストレングスごとに10ユニット分、目標により近い位置に着弾しようとします。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 5}, 2|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 40~, 5}, 2|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Weakpoint Data Uplink upgrade.\n\t[Effects: Allied crew in targeted rooms will deal 20% more sabotage damage and 10% more combat damage per Core Strength.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "弱点データアップリンクアップグレードを設置しようとしています。\n\t[効果：ターゲットされた部屋にいる味方クルーは、コアストレングスごとに妨害工作ダメージが20%、戦闘ダメージが10%増加します。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Processor Overclocking upgrade.\n\t[Effects: Reduces time it takes for Dedicated Targeting Core to lock onto a room from 6 to 1.5 seconds. Incompatible with Multithreaded targeting.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "プロセッサオーバークロックアップグレードを設置しようとしています。\n\t[効果：専用照準コアが部屋をロックオンするのにかかる時間を6秒から1.5秒に短縮します。マルチスレッド照準とは互換性がありません。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 30~, 5{]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 30~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Multithreaded Targeting upgrade.\n\t[Effects: Dedicated Targeting Core now also applies its full effects to rooms adjacent to directly targeted. Incompatible with Processor Overclocking.]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "マルチスレッド照準アップグレードを設置しようとしています。\n\t[効果：専用照準コアが、直接ターゲットされた部屋に隣接する部屋にも完全な効果を適用するようになります。プロセッサオーバークロックとは互換性がありません。]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 45~, 5|]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードを実行する [コスト: 45~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disable ablative armor rendering.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲のレンダリングを無効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enable ablative armor rendering.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲のレンダリングを有効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disable system bracers rendering.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーのレンダリングを無効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enable system bracers rendering.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーのレンダリングを有効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disable fiber liner rendering.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーのレンダリングを無効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enable fiber liner rendering.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーのレンダリングを有効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disable targeting core sounds.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "照準コアの音を無効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enable targeting core sounds.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "照準コアの音を有効にする。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Mapping Suite) Map the sector. [1 fleet boost]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（マッピングスイート）セクターをマッピングする。[艦隊ブースト1]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Ex. Mapping Suite) Map the sector. [1 fleet boost]": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "（外部マッピングスイート）セクターをマッピングする。[艦隊ブースト1]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You unfold your giant mapping sensor array and stay at low power for some time to avoid disturbance. This long process will surely give the fleet some time to catch up, but now you have gathered a detailed map of the whole sector!": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "巨大なマッピングセンサーアレイを展開し、妨害を避けるためにしばらく低電力で待機する。この長いプロセスは確かに艦隊に追いつく時間を与えるだろうが、今やセクター全体の詳細な地図を手に入れた！"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Corby's Grants (LilyInno)": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コービーのグラント（リリーイノベーション）"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Ablation": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーションのグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Ablation from Corby.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コービーからアブレーションのグラントを受け取る。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Ablative Armor System to Corby. While in effect; Repair 1 Hull point for free every jump.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードされたアブレーティブ装甲システムをコービーに見せる。効果中：ジャンプごとに船体を1ポイント無料で修理する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant Received": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "グラント受領済み"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Targeting": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "照準のグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Targeting from Corby.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コービーから照準のグラントを受け取る。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Dedicated Targeting Core System to Corby. While in effect; Grants +10 extra accuracy to all your weapons and drones.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードされた専用照準コアシステムをコービーに見せる。効果中：全ての兵器とドローンに+10の追加命中率を付与する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Infusion": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入のグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Infusion from Corby.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コービーから注入のグラントを受け取る。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Infusion Bay System to Corby. While in effect; x0.75 max health and x0.5 all damage taken in your medical facilities.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードされた注入ベイシステムをコービーに見せる。効果中：医療施設内で最大体力x0.75、全被ダメージx0.5。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Neutralization": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "中和のグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Neutralization from Corby.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コービーから中和のグラントを受け取る。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Shock Neutralizer Subystem to Corby. While in effect; Ion timers on your ship dissipate 10% faster.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードされたショック中和装置サブシステムをコービーに見せる。効果中：船のイオンタイマーが10%速く消散する。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Bracing": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ブレーシングのグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Bracing from Corby.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コービーからブレーシングのグラントを受け取る。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded System Bracers Subystem to Corby. While in effect; System Bracers repair speed penalty is removed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードされたシステムブレーサーサブシステムをコービーに見せる。効果中：システムブレーサーの修理速度ペナルティが解除される。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Fibers": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーのグラント"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Fibers from Corby.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コービーからファイバーのグラントを受け取る。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Fiber Liner Subystem to Corby. While in effect; Your crew takes x0.85 damage from all sources.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アップグレードされたファイバーライナーサブシステムをコービーに見せる。効果中：クルーが全てのダメージ源から受けるダメージが0.85倍になる。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "INNOVATION SYSTEMS": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "イノベーションシステム"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ablative Armor System installed": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲システム設置済み"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock Neutralizer Subsystem installed": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置サブシステム設置済み"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Infusion Bay System installed": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイシステム設置済み"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers Subsystem installed": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサーサブシステム設置済み"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Liner Subsystem installed": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナーサブシステム設置済み"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core System installed": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コアシステム設置済み"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Medbay": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "医療ベイ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "medbay": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "医療ベイ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "infusion bay": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ablative Armor: Provides armor layers protecting hull, systems and crew from damage. Damaged armor layers reduce the chance hull or crew damage will be absorbed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "アブレーティブ装甲：船体、システム、クルーをダメージから保護する装甲層を提供します。損傷した装甲層は、船体やクルーへのダメージが吸収される確率を減少させます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock neutralizer: Increases ion dissipation rate of affected rooms and provides bonus power to them in ion storms. Affected rooms have a Green-blue border.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置：影響を受ける部屋のイオン放散率を増加させ、イオンストーム中にはボーナスパワーを提供します。影響を受ける部屋は緑青色の枠で表示されます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Infusion Bay: Produces infusions over time, which then can be picked up by crew and used for a variety of buffs.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "注入ベイ：時間経過で注入剤を生成し、クルーがそれを拾って様々なバフに使用できます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers: Protects your systems from damage by taking it itself instead. Is repaired at half the usual rate.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサー：システムの損傷を代わりに受けることで保護します。通常の半分の速度で修理されます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System Bracers: Protects your enemy's systems from damage by taking it itself instead. Is repaired at half the usual rate.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムブレーサー：敵のシステムの損傷を代わりに受けることで保護します。通常の半分の速度で修理されます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Liner: Protects your crew by reducing crew damage of projectiles hilling your ship's hull. Takes damage based on crew damage absorbed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナー：船体に命中する射撃によるクルーへのダメージを軽減することで保護します。吸収したクルーダメージに基づいてダメージを受けます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fiber Liner: Protects your enemy's crew by reducing crew damage of projectiles hilling enemy ship's hull. Takes damage based on crew damage absorbed.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ファイバーライナー：敵船の船体に命中する射撃によるクルーへのダメージを軽減することで保護します。吸収したクルーダメージに基づいてダメージを受けます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core: Marks rooms on the enemy ship. Marked rooms are more likely to be targeted, and projectiles aimed at them have bonus accuracy.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コア：敵船の部屋をマークします。マークされた部屋は狙われやすくなり、そこを狙う射撃には命中率ボーナスがつきます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dedicated Targeting Core: Marks rooms on your ship. Marked rooms are more likely to be targeted, and projectiles aimed at them have bonus accuracy.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "専用照準コア：自船の部屋をマークします。マークされた部屋は狙われやすくなり、そこを狙う射撃には命中率ボーナスがつきます。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disabled.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "無効。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Protection: %s dmg": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "保護： %s ダメージ"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "HP: %s": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "HP: %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disabled. Infusions cannot be activated.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "無効。注入剤は使用できません。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "%s Max Charges, %ss / Charge": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "最大チャージ %s、チャージあたり %ss"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Core Strength: %s": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "コアストレングス: %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Manning bonuses: +0.5/0.75/1 Core Strength.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "クルー配置ボーナス：+0.5/0.75/1 コアストレングス。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Rate: %sx / Bonus Power: %s": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "レート： %sx / ボーナスパワー： %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Regen Disabled.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "再生無効。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "HP: %s /Reg.: %sx": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "HP: %s /再生: %sx"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "HP: %s/ Regen: %sx": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "HP: %s/ 再生: %sx"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "HP: %s/Reg.: %sx/I.Res.: %s": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "HP: %s/再生: %sx/イオン耐性: %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "HP: %s / Regen: %sx / Ion Resist: %s": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "HP: %s / 再生: %sx / イオン耐性: %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Manning bonuses: 20/40/60% faster regen.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "クルー配置ボーナス：再生速度20/40/60%上昇。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This infusion is currently locked.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "この注入剤は現在ロックされています。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried reconstitution infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいる再構成注入剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried combat stumulant infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいる戦闘興奮剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried gaseous infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいる気体注入剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried overloaded infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいる過負荷注入剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried chaotic infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいる混沌注入剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried fireborne infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいる火炎注入剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried explosive infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいる爆発注入剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Activate the carried phoenix infusions. Effects:": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "運んでいるフェニックス注入剤を起動する。効果："
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grants 0.85x combat damage resistance, 1.5hp/s health regeneration, 0.5x movement speed for the duration. 45 HP/% heal, 14 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "効果時間中、被戦闘ダメージ0.85倍、毎秒1.5HPの体力再生、移動速度0.5倍を付与。45 HP/% 回復、14秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grants 1.5x combat damage, door damage and movement speed, which diminishes over the course of the effect (1.25x after 5 seconds, 1.1x after 10 seconds). 15 HP/% heal, 21 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "戦闘ダメージ、ドアダメージ、移動速度を1.5倍にするが、効果時間中に減少する（5秒後1.25倍、10秒後1.1倍）。15 HP/% 回復、21秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grants Suffocation/fire/mind control immunity, same-ship teleporation, but combat damage is reduced to 0.5x. 30 HP/% heal, 7 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "窒息/火災/精神支配への耐性、同船内テレポートを付与するが、戦闘ダメージは0.5倍に減少する。30 HP/% 回復、7秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Stuns self and all nearby crew for 5s and deals 2 ion damage to system. Systems on your ship have 1 ion removed instead. 30 HP/% heal, 21 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "自身と近くの全てのクルーを5秒間スタンさせ、システムに2イオンダメージを与えます。自船のシステムは代わりに1イオンが除去されます。30 HP/% 回復、21秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Applies an effect of a random other infusion. Hopefully there isn't any adverse effects on your crew. 15 - 75 HP/% heal, 7 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "他の注入剤の効果をランダムに適用します。クルーに悪影響がないことを願います。15 - 75 HP/% 回復、7秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Starts a fire in current room. Grants ability to heal from fires for the duration, but also makes your crew suffocate at rapid speed, even if they are normally immune. 15 HP/% heal, 21 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "現在の部屋で火災を発生させます。効果時間中、火災から回復する能力を得ますが、通常は耐性があっても急速に窒息します。15 HP/% 回復、21秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Explodes, damaging all enemies in the room by 15 HP. System on enemy ships take 1 damage, while on your ship are repaired by 1 bar instead. 15 HP/% heal, 14 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "爆発し、部屋にいる全ての敵に15HPのダメージを与えます。敵船のシステムは1ダメージを受け、自船のシステムは代わりに1バー修理されます。15 HP/% 回復、14秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Crew cannot die during the duration. If they take damage that would normally kill them, they are instead healed to full health and teleported to the Infusion Bay. When this effect triggers, allies in the same room get healed by 30 HP/%, and the Infusion Bay takes 1 unresistable ion damage with double lockout duration. Won't save your boarders if enemy ship explodes. 15 HP/% heal, 14 second sickness.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "効果時間中、クルーは死にません。通常なら死亡するダメージを受けると、代わりに全快し、注入ベイにテレポートします。この効果が発動すると、同じ部屋にいる味方が30 HP/%回復し、注入ベイは2倍のロックアウト時間を持つ抵抗不能な1イオンダメージを受けます。敵船が爆発してもボーダーは助かりません。15 HP/% 回復、14秒の後遺症。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Select the target room for Shock Neutralizer.\\nHotkey: %s": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ショック中和装置の対象部屋を選択してください。\nホットキー: %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Select the room for Targeting Core to lock on to.\\nHotkey: %s": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "照準コアでロックオンする部屋を選択してください。\nホットキー: %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System not ready.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システム準備未完了。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "No hostile ship present to target.": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "ターゲットする敵船が存在しません。"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Lily's Innovations": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "リリーのイノベーション"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An addon that add new and alternative SHIP SYSTEMS to allow for new and interesting playstyles.\n\nATTENTION: Requires FTLMAN mod loader\nWill NOT work properly with SLIPSTREAM\n\nRecommended to patch LAST - or at least after mods that add ships.\n\n\n\nSpecial thanks to: \nNai, for ideas and spriting work;\nArc, sillysandvich, for help with scripting;\nWillow, for help with writing;\nKix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "新しく興味深いプレイスタイルを可能にする、新規および代替の船システムを追加するアドオンです。\n\n注意：FTLMAN MODローダーが必要です\nSLIPSTREAMでは正常に動作しません\n\n最後にパッチを当てること、または少なくとも船を追加するMODの後にパッチを当てることをお勧めします。\n\n\n\nスペシャルサンクス：\nNai、アイデアとスプライト作業；\nArc、sillysandvich、スクリプトのヘルプ；\nWillow、ライティングのヘルプ；\nKix、そしてFTL: Multiverse (およびHyperspace) の制作に携わった全ての人々；"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    }
+  }
+}
