@@ -2214,6 +2214,17 @@
       "machine": "",
       "done": false
     },
+    "The system begins to work on modifying your ship, and shortly finishes.\n\"The established work quota: Done. Pleasure doing business with you.\"": {
+      "advanced": {
+        "10": {
+          "model": "gemini-2.5-pro",
+          "text": "システムが船の改造を開始し、まもなく作業は終了した。\n「規定作業ノルマ：完了。取引に感謝する。」"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Present your Ablative Armor system.": {
       "advanced": {
         "10": {
