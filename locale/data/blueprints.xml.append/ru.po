@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 10:44+0000\n"
+"PO-Revision-Date: 2025-11-07 12:08+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "datablueprintsxmlappend/ru/>\n"
@@ -161,7 +161,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:176
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
-msgstr "Advanced Ventilation"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:177
 msgid ""
@@ -171,7 +171,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:184
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/title"
-msgstr "Advanced Ventilation"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:185
 msgid ""
@@ -181,7 +181,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:192
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
-msgstr "Advanced Ventilation"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:193
 msgid ""
@@ -191,7 +191,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:200
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
-msgstr "Advanced Ventilation"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:201
 msgid ""
@@ -201,7 +201,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:208
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/title"
-msgstr "Advanced Ventilation"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:209
 msgid ""
@@ -211,7 +211,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:216
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
-msgstr "Advanced Ventilation"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:217
 msgid ""
@@ -221,7 +221,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:224
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/title"
-msgstr "Advanced Ventilation"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:225
 msgid ""
