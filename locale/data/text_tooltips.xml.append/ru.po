@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 10:44+0000\n"
+"PO-Revision-Date: 2025-11-07 12:08+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "datatext_tooltipsxmlappend/ru/>\n"
@@ -141,7 +141,7 @@ msgstr "Бонус обслуживания: +0.5/0.75/1 сила ядра."
 #: src-en/data/text_tooltips.xml.append:27
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
-msgstr "Скорость: %sx / Бонус энерг.: %s"
+msgstr "Скор.: %sx / Бонус энерг.: %s"
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid ""
