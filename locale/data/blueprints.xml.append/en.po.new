@@ -1200,7 +1200,7 @@ msgstr "ECM Capacitor Bank [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
 msgstr ""
-"Shock Neutralizer now also affects crew stun times.\n"
+"ECM suite gains +1 Max charge, up to 8.\n"
 "    \n"
 "\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category."
 

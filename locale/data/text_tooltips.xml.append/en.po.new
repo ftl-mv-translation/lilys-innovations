@@ -9,381 +9,421 @@ msgstr ""
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor\"]"
 msgstr ""
-"Абляционная броня: Обеспечивает броневые слои, защищающие корпус, системы и "
-"экипаж от урона. Поврежденные броневые слои снижают вероятность поглощения "
-"урона корпусом или экипажем."
+"Ablative Armor: Provides armor layers protecting hull, systems and crew from"
+" damage. Damaged armor layers reduce the chance system or crew damage will "
+"be absorbed."
 
 #: src-en/data/text_tooltips.xml.append:3
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_enemy\"]"
 msgstr ""
-"Абляционная броня: Обеспечивает броневые слои, защищающие корпус, системы и "
-"экипаж от урона. Поврежденные броневые слои снижают вероятность поглощения "
-"урона корпусом или экипажем."
+"Ablative Armor: Provides armor layers protecting hull, systems and crew from"
+" damage. Damaged armor layers reduce the chance system or crew damage will "
+"be absorbed."
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer\"]"
 msgstr ""
-"Шоковый нейтрализатор: Увеличивает скорость рассеивания ионов в затронутых "
-"отсеках и предоставляет им дополнительную энергию во время ионных штормов. "
-"Затронутые отсеки имеют зелено-синюю границу."
+"Shock neutralizer: Increases ion dissipation rate of affected rooms and "
+"provides bonus power to them in ion storms. Affected rooms have a Green-blue"
+" border."
 
 #: src-en/data/text_tooltips.xml.append:5
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_enemy\"]"
 msgstr ""
-"Шоковый нейтрализатор: Увеличивает скорость рассеивания ионов в затронутых "
-"отсеках и предоставляет им дополнительную энергию во время ионных штормов. "
-"Затронутые отсеки имеют зелено-синюю границу."
+"Shock neutralizer: Increases ion dissipation rate of affected rooms and "
+"provides bonus power to them in ion storms. Affected rooms have a Green-blue"
+" border."
 
 #: src-en/data/text_tooltips.xml.append:6
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay\"]"
 msgstr ""
-"Отсек Инфузии: Со временем производит инфузии, которые затем могут быть "
-"подобраны экипажем и использованы для различных усилений."
+"Infusion Bay: Produces infusions over time, which then can be picked up by "
+"crew and used for a variety of buffs."
 
 #: src-en/data/text_tooltips.xml.append:7
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_enemy\"]"
 msgstr ""
-"Отсек Инфузии: Со временем производит инфузии, которые затем могут быть "
-"подобраны экипажем и использованы для различных усилений."
+"Infusion Bay: Produces infusions over time, which then can be picked up by "
+"crew and used for a variety of buffs."
 
 #: src-en/data/text_tooltips.xml.append:8
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers\"]"
 msgstr ""
-"Система Наручи: Защищает ваши системы от урона, принимая его на себя. "
-"Ремонтируется в два раза медленнее, чем обычно."
+"System Bracers: Protects your systems from damage by taking it itself "
+"instead. Is repaired at half the usual rate."
 
 #: src-en/data/text_tooltips.xml.append:9
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_enemy\"]"
 msgstr ""
-"Система Наручи: Защищает ваши системы от урона, принимая его на себя. "
-"Ремонтируется в два раза медленнее, чем обычно."
+"System Bracers: Protects your enemy's systems from damage by taking it "
+"itself instead. Is repaired at half the usual rate."
 
 #: src-en/data/text_tooltips.xml.append:10
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner\"]"
 msgstr ""
-"Волокнистый лайнер: Защищает экипаж, уменьшая урон, наносимый снарядами, "
-"попавшими в корпус вашего корабля. Получает урон, зависящий от полученного "
-"экипажем урона."
+"Fiber Liner: Protects your crew by reducing crew damage of projectiles "
+"hilling your ship's hull. Takes damage based on crew damage absorbed."
 
 #: src-en/data/text_tooltips.xml.append:11
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_enemy\"]"
 msgstr ""
-"Волокнистый лайнер: Защищает вражеский экипаж, уменьшая урон, наносимый "
-"снарядами, попавшими в корпус вражеского корабля. Получает урон, зависящий "
-"от полученного экипажем урона."
+"Fiber Liner: Protects your enemy's crew by reducing crew damage of "
+"projectiles hilling enemy ship's hull. Takes damage based on crew damage "
+"absorbed."
 
 #: src-en/data/text_tooltips.xml.append:12
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core\"]"
 msgstr ""
-"Специализированное ядро целенаведения: Отмечает комнаты на вражеском "
-"корабле. Отмеченные комнаты с большей вероятностью станут целью, а снаряды, "
-"направленные на них, получают бонус к точности."
+"Dedicated Targeting Core: Marks rooms on the enemy ship. Marked rooms are "
+"more likely to be targeted, and projectiles aimed at them have bonus "
+"accuracy."
 
 #: src-en/data/text_tooltips.xml.append:13
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_enemy\"]"
 msgstr ""
-"Специализированное ядро целенаведения: Отмечает комнаты на вашем корабле. "
-"Отмеченные комнаты с большей вероятностью станут целью, а снаряды, "
-"направленные на них, получают бонус к точности."
+"Dedicated Targeting Core: Marks rooms on your ship. Marked rooms are more "
+"likely to be targeted, and projectiles aimed at them have bonus accuracy."
 
 #: src-en/data/text_tooltips.xml.append:14
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite\"]"
 msgstr ""
+"ECM Suite: Projects disruption signals that can affect enemy drones, "
+"missiles and systems."
 
 #: src-en/data/text_tooltips.xml.append:15
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_enemy\"]"
 msgstr ""
+"ECM Suite: Projects disruption signals that can affect your drones, missiles"
+" and systems."
 
 #: src-en/data/text_tooltips.xml.append:17
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_disabled\"]"
-msgstr "Отключен."
+msgstr "Disabled."
 
 #: src-en/data/text_tooltips.xml.append:19
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_level\"]"
-msgstr "Защита: %s урона"
+msgstr "Protection: %s dmg"
 
 #: src-en/data/text_tooltips.xml.append:21
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_level\"]"
-msgstr "ОЗ: %s"
+msgstr "HP: %s"
 
 #: src-en/data/text_tooltips.xml.append:23
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_disabled\"]"
-msgstr "Отключена. Инфузии не могут быть активированы."
+msgstr "Disabled. Infusions cannot be activated."
 
 #: src-en/data/text_tooltips.xml.append:24
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_level\"]"
-msgstr "%s Макс. зарядов, %sс / Заряд"
+msgstr "%s Max Charges, %ss / Charge"
 
 #: src-en/data/text_tooltips.xml.append:26
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_level\"]"
-msgstr "Сила ядра: %s"
+msgstr "Core Strength: %s"
 
 #: src-en/data/text_tooltips.xml.append:27
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_manning\"]"
-msgstr "Бонус обслуживания: +0.5/0.75/1 сила ядра."
+msgstr "Manning bonuses: +0.5/0.75/1 Core Strength."
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
-msgstr "Скор.: %sx / Бонус энерг.: %s"
+msgstr "Rate: %sx / Bonus Power: %s"
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_disabled\"]"
-msgstr "Регенерация отключена."
+msgstr "Regen Disabled."
 
 #: src-en/data/text_tooltips.xml.append:32
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level\"]"
-msgstr "ОЗ: %s /Регенерация: %sx"
+msgstr "HP: %s /Reg.: %sx"
 
 #: src-en/data/text_tooltips.xml.append:33
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2\"]"
-msgstr "ОЗ: %s/ Реген: %sx"
+msgstr "HP: %s/ Regen: %sx"
 
 #: src-en/data/text_tooltips.xml.append:34
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level_ion\"]"
-msgstr "ОЗ: %s/Рег.: %sx/Сопр.и.: %s"
+msgstr "HP: %s/Reg.: %sx/I.Res.: %s"
 
 #: src-en/data/text_tooltips.xml.append:35
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2_ion\"]"
-msgstr "ОЗ: %s / Реген.: %sx / Сопр. ионам: %s"
+msgstr "HP: %s / Regen: %sx / Ion Resist: %s"
 
 #: src-en/data/text_tooltips.xml.append:36
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_manning\"]"
-msgstr "Бонус обслуживания: на 20/40/60% быстрее регенерация."
+msgstr "Manning bonuses: 20/40/60% faster regen."
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_disabled\"]"
 msgstr ""
+"Disabled: Active and passive effects are disabled and rapidly losing "
+"accumilated charges."
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_level\"]"
-msgstr "%s Макс. зарядов, %sс / Заряд"
+msgstr "%s Max Charges, %ss / Charge"
 
 #: src-en/data/text_tooltips.xml.append:43
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_locked\"]"
-msgstr "Эта инфузия в настоящее время заблокирована."
+msgstr "This infusion is currently locked."
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_reconstitution\"]"
-msgstr "Активировать переносимые восстанавливающие инфузии. Эффекты:"
+msgstr "Activate the carried reconstitution infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:45
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_combatstimulant\"]"
-msgstr "Активировать переносимые боевые стимулирующие инфузии. Эффекты:"
+msgstr "Activate the carried combat stumulant infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_gaseous\"]"
-msgstr "Активировать переносимые газообразные инфузии. Эффекты:"
+msgstr "Activate the carried gaseous infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_overloaded\"]"
-msgstr "Активировать переносимые перегруженные инфузии. Эффекты:"
+msgstr "Activate the carried overloaded infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_chaotic\"]"
-msgstr "Активировать переносимые хаотические инфузии. Эффекты:"
+msgstr "Activate the carried chaotic infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_fireborne\"]"
-msgstr "Активировать переносимые огненные инфузии. Эффекты:"
+msgstr "Activate the carried fireborne infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:50
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_explosive\"]"
-msgstr "Активировать переносимые взрывные инфузии. Эффекты:"
+msgstr "Activate the carried explosive infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_phoenix\"]"
-msgstr "Активировать переносимые инфузии Феникса. Эффекты:"
+msgstr "Activate the carried phoenix infusions. Effects:"
 
 #: src-en/data/text_tooltips.xml.append:52
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_reconstitution\"]"
 msgstr ""
-"Предоставляет 0.85x сопротивление боевому урону, 1.5 ОЗ/с регенерацию "
-"здоровья, 0.5x скорость передвижения на время действия. 45 ОЗ/% исцеления, "
-"14 секунд болезни."
+"Grants 0.85x combat damage resistance, 1.5hp/s health regeneration, 0.5x "
+"movement speed for the duration. 45 HP/% heal, 14 second sickness."
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_combatstimulant\"]"
 msgstr ""
-"Наносит 1.5х боевого урона, урона по дверям и скорости передвижения, который"
-" уменьшается по ходу действия эффекта (1.25х через 5 секунд, 1.1х через 10 "
-"секунд). 15 ОЗ/% исцеления, 21 секунда болезни."
+"Grants 1.5x combat damage, door damage and movement speed, which diminishes "
+"over the course of the effect (1.25x after 5 seconds, 1.1x after 10 "
+"seconds). 15 HP/% heal, 21 second sickness."
 
 #: src-en/data/text_tooltips.xml.append:54
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_gaseous\"]"
 msgstr ""
-"Дает иммунитет к удушению/огню/контролю разума, телепортацию в пределах "
-"одного корабля, но боевой урон уменьшается до 0.5x. 30 ОЗ/% лечения, 7 "
-"секунд болезни."
+"Grants Suffocation/fire/mind control immunity, same-ship teleporation, but "
+"combat damage is reduced to 0.5x. 30 HP/% heal, 7 second sickness."
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_overloaded\"]"
 msgstr ""
-"Оглушает себя и всех ближайших членов экипажа на 5 секунд и наносит 2 "
-"единицы ионного урона системе. Системы на вашем корабле вместо этого снимают"
-" 1 единицу иона. 30 ОЗ/% исцеления, 21 секунда болезни."
+"Stuns self and all nearby crew for 5s and deals 2 ion damage to system. "
+"Systems on your ship have 1 ion removed instead. 30 HP/% heal, 21 second "
+"sickness."
 
 #: src-en/data/text_tooltips.xml.append:56
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_chaotic\"]"
 msgstr ""
-"Применяет эффект случайной другой инфузии. Надеемся, что это не повлияет на "
-"ваш экипаж. 15–75 ОЗ/% исцеления, 7 секунд болезни."
+"Applies an effect of a random other infusion. Hopefully there isn't any "
+"adverse effects on your crew. 15 - 75 HP/% heal, 7 second sickness."
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_fireborne\"]"
 msgstr ""
-"Устраивает пожар в текущем отсеке. Дает возможность лечиться от огня на "
-"время действия, но также заставляет ваш экипаж быстро задыхаться, даже если "
-"они обычно иммунны к огню. 15 ОЗ/% лечения, 21 секунда болезни."
+"Starts a fire in current room. Grants ability to heal from fires for the "
+"duration, but also makes your crew suffocate at rapid speed, even if they "
+"are normally immune. 15 HP/% heal, 21 second sickness."
 
 #: src-en/data/text_tooltips.xml.append:58
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_explosive\"]"
 msgstr ""
-"Взрывается, нанося всем врагам в комнате 15 единиц урона. Системы на "
-"вражеских кораблях получают 1 единицу урона, а на вашем корабле — 1 единицу "
-"ремонта. 15 ОЗ/% исцеления, 14 секунд болезни."
+"Explodes, damaging all enemies in the room by 15 HP. System on enemy ships "
+"take 1 damage, while on your ship are repaired by 1 bar instead. 15 HP/% "
+"heal, 14 second sickness."
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
 msgstr ""
-"Экипаж не может погибнуть в течение действия эффекта. Если они получают "
-"урон, который обычно привел бы к их гибели, они вместо этого получают полное"
-" восстановление здоровья и телепортируются в Инфузионный отсек. Когда этот "
-"эффект срабатывает, союзники в том же отсеке получают 30 ОЗ/% исцеления, а "
-"Инфузионный отсек получает 1 единицу невосстанавливаемого ионного урона с "
-"двойной продолжительностью блокировки. Не спасет ваших абордажников, если "
-"вражеский корабль взорвется. 15 ОЗ/% исцеления, 14 секунд болезни."
+"Crew cannot die during the duration. If they take damage that would normally"
+" kill them, they are instead healed to full health and teleported to the "
+"Infusion Bay. When this effect triggers, allies in the same room get healed "
+"by 30 HP/%, and the Infusion Bay takes 1 unresistable ion damage with double"
+" lockout duration. Won't save your boarders if enemy ship explodes. 15 HP/% "
+"heal, 14 second sickness."
 
 #: src-en/data/text_tooltips.xml.append:61
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
-msgstr "Выберите отсек для Шокового нейтрализатора.\\nКлавиша: %s"
+msgstr "Select the target room for Shock Neutralizer.\\nHotkey: %s"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
-msgstr ""
-"Выберите отсек, на которое будет нацеливаться Ядро целенаведение.\\nКлавиша:"
-" %s"
+msgstr "Select the room for Targeting Core to lock on to.\\nHotkey: %s"
 
 #: src-en/data/text_tooltips.xml.append:64
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_notready\"]"
-msgstr "Система не готова."
+msgstr "System not ready."
 
 #: src-en/data/text_tooltips.xml.append:65
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_noship\"]"
-msgstr "Вражеского корабля для цели нет."
+msgstr "No hostile ship present to target."
 
 #: src-en/data/text_tooltips.xml.append:67
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge_locked\"]"
-msgstr ""
+msgstr "Locked."
 
 #: src-en/data/text_tooltips.xml.append:68
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge\"]"
 msgstr ""
+"Click to enable Supercharge mode. While in this mode, all system's active "
+"abilities are disabled and cannot be activated, but the system gains charges"
+" at 2x rate. \\n10 seconds duration, 20 seconds cooldown. Will automatically"
+" be disabled if the max charges are reached."
 
 #: src-en/data/text_tooltips.xml.append:70
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_offdrones\"]"
 msgstr ""
+"Click to activate Offensive Drone Disruption. \\nWhile active, enemy "
+"offensive drones will be unable to target your ship, and boarding drones "
+"will become unable to attack or move. 10 seconds duration, 5 seconds "
+"cooldown. Requires 2 charges."
 
 #: src-en/data/text_tooltips.xml.append:71
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_defdrones\"]"
 msgstr ""
+"Click to activate Defense Drone Disruption. \\nWhile active, enemy defense "
+"drones will be unable to target anything. \\n10 seconds duration, 5 seconds "
+"cooldown. Requires 3 charges."
 
 #: src-en/data/text_tooltips.xml.append:72
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_missiles\"]"
 msgstr ""
+"Click to activate Missile Disruption. \\nWhile active, enemy missiles fired "
+"at your ship will either miss or explode midflight. 5 seconds duration, 10 "
+"seconds cooldown. Requires 2 charges."
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_counter\"]"
 msgstr ""
+"Click to activate ECCM Mode. \\nWhile active, it will automatically counter "
+"enemy ECM abilities, expending amount of charges equal to amount spent by "
+"the enemy. If the charges are insufficient, it will have no effect. Also "
+"counters enemy Mind Control and Hacking, costing 2 and 3 charges "
+"respectively. 20 seconds duration, 10 seconds cooldown. Requires 1 charge."
 
 #: src-en/data/text_tooltips.xml.append:74
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_jammer\"]"
 msgstr ""
+"Click to select target room for System Signal Jamming. While active, target "
+"enemy system will be disrupted, either working at lower efficiency or "
+"limited by a number of bars equal to half the charges spent. \\nCannot limit"
+" life support, and any system lvl 3 (or above) to 0 bars. \\n10 seconds "
+"duration, 15 seconds cooldown. Requires 2/4/6/8 charges (variable)."
 
 #: src-en/data/text_tooltips.xml.append:75
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_electro\"]"
 msgstr ""
+"Click to select target room for System EM Disruption. While active, target "
+"enemy system will dissipate ion (incuding cooldowns) 50% slower (10 seconds "
+"per ion damage). \\n20 seconds duration, 10 seconds cooldown. Requires 4 "
+"charges."
 
 #: src-en/data/text_tooltips.xml.append:77
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_shields\"]"
 msgstr ""
+"Shield Jamming: reduces enemy shield recharge rate to x0.7 for each 2 "
+"charges spent. Stacks multiplicatively."
 
 #: src-en/data/text_tooltips.xml.append:78
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_weapons\"]"
 msgstr ""
+"Weapon Jamming: reduces enemy weapon recharge rate to x0.75 for each 2 "
+"charges spent. Stacks multiplicatively. Also applies -2.5% additive accuracy"
+" penalty per charge spent."
 
 #: src-en/data/text_tooltips.xml.append:79
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_artillery\"]"
 msgstr ""
+"Artillery Jamming: temporarily limits the system by the amount of charges "
+"spent. Also applies -5% additive accuracy penalty per charge spent."
 
 #: src-en/data/text_tooltips.xml.append:80
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_drones\"]"
 msgstr ""
+"Drone Jamming: temporarily limits the system by the amount of charges spent."
+" Also applies -5% additive accuracy for drones per charge spent."
 
 #: src-en/data/text_tooltips.xml.append:81
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_oxygen\"]"
 msgstr ""
+"Oxygen Jamming: temporarily limits the system by the half amount of charges "
+"spent. Cannot limit below 1 bar."
 
 #: src-en/data/text_tooltips.xml.append:82
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_misc\"]"
 msgstr ""
+"Jamming: temporarily limits the system by the half amount of charges spent. "
+"Cannot limit below 1 bar if the system level is 3 or more."

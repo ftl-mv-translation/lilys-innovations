@@ -112,3 +112,21 @@ msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/choice/text"
 msgstr "Continuer..."
+
+#: src-en/data/events_special_multiverse.xml.append:83
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:85
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:90
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[7]/event/choice/text"
+msgstr "Continuer..."

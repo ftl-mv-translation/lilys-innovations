@@ -63,177 +63,266 @@ msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_enemy\"]"
 msgstr ""
 
+#: src-en/data/text_tooltips.xml.append:14
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite\"]"
+msgstr ""
+
 #: src-en/data/text_tooltips.xml.append:15
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_disabled\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_enemy\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:17
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_level\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_disabled\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:19
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_level\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_level\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:21
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_disabled\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_level\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:22
+#: src-en/data/text_tooltips.xml.append:23
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_level\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_disabled\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:24
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_level\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_level\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:25
+#: src-en/data/text_tooltips.xml.append:26
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_manning\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_level\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:27
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_manning\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_disabled\"]"
-msgstr ""
-
-#: src-en/data/text_tooltips.xml.append:30
-msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_disabled\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:32
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level_ion\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:33
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2_ion\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:34
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level_ion\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:35
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2_ion\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:36
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_manning\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_locked\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_disabled\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_reconstitution\"]"
-msgstr ""
-
-#: src-en/data/text_tooltips.xml.append:40
-msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_combatstimulant\"]"
-msgstr ""
-
-#: src-en/data/text_tooltips.xml.append:41
-msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_gaseous\"]"
-msgstr ""
-
-#: src-en/data/text_tooltips.xml.append:42
-msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_overloaded\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_level\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:43
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_chaotic\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_locked\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_fireborne\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_reconstitution\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:45
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_explosive\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_combatstimulant\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_phoenix\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_gaseous\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_reconstitution\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_overloaded\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_combatstimulant\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_chaotic\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_gaseous\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_fireborne\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:50
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_overloaded\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_explosive\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_chaotic\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_phoenix\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:52
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_fireborne\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_reconstitution\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_explosive\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_combatstimulant\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:54
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_gaseous\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:55
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_overloaded\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:56
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_chaotic\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:57
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_fireborne\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:58
 msgid ""
-"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_explosive\"]"
 msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:61
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:63
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:64
+msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_notready\"]"
 msgstr ""
 
-#: src-en/data/text_tooltips.xml.append:60
+#: src-en/data/text_tooltips.xml.append:65
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_noship\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:67
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge_locked\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:68
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:70
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_offdrones\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:71
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_defdrones\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:72
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_missiles\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:73
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_counter\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:74
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_jammer\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:75
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_electro\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:77
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_shields\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:78
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_weapons\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:79
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_artillery\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:80
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_drones\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:81
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_oxygen\"]"
+msgstr ""
+
+#: src-en/data/text_tooltips.xml.append:82
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_misc\"]"
 msgstr ""

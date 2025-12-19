@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_harmony.xml.append:9
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[1]/text"
+msgstr "(Infusion Bay) Give them some infusions."
+
+#: src-en/data/events_sector_harmony.xml.append:11
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"You share out some stimulating infusions made in your infusion bay to the "
+"Engi and their Slug companions. Immediately the partygoers start to get more"
+" energetic and excited. The Engi, who is visibly shaking, pays you before "
+"rushing off to join their Slug companions, who seem to be bouncing around "
+"the room."
+
+#: src-en/data/events_sector_harmony.xml.append:16
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[2]/text"
+msgstr "(Particulate Dispersal) Share some stumulants."
+
+#: src-en/data/events_sector_harmony.xml.append:18
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"The stumulant particulate dispersal works just fine - and you share some of "
+"the stuff to the Engi and their Slug companions. Immediately the partygoers "
+"start to get more energetic and excited. The Engi, who is visibly shaking, "
+"pays you before rushing off to join their Slug companions, who seem to be "
+"bouncing around the room."

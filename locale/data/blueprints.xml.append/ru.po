@@ -61,10 +61,20 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:91
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/title"
 msgstr "Система наручи"
 
-#: src-en/data/blueprints.xml.append:91
+#: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/desc"
 msgstr ""
@@ -72,12 +82,12 @@ msgstr ""
 "сама не будет уничтожена). Однако она ремонтируется только с половиной от "
 "обычной скорости по сравнению с другими системами."
 
-#: src-en/data/blueprints.xml.append:106
+#: src-en/data/blueprints.xml.append:120
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/title"
 msgstr "Волокнистый лайнер"
 
-#: src-en/data/blueprints.xml.append:107
+#: src-en/data/blueprints.xml.append:121
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/desc"
 msgstr ""
@@ -86,22 +96,22 @@ msgstr ""
 "вероятностью 20% получит 1 системный урон за каждый поглощенный урон "
 "экипажа."
 
-#: src-en/data/blueprints.xml.append:122
+#: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:123
+#: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:129
+#: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/title"
 msgstr "Укрепление наручей [В]"
 
-#: src-en/data/blueprints.xml.append:130
+#: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/desc"
 msgstr ""
@@ -109,22 +119,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:139
+#: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:140
+#: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:146
+#: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/title"
 msgstr "Умное развертывание абордажа [В]"
 
-#: src-en/data/blueprints.xml.append:147
+#: src-en/data/blueprints.xml.append:161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/desc"
 msgstr ""
@@ -132,111 +142,111 @@ msgstr ""
 "    \n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:157
+#: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
 msgstr "Расширенная вентиляция [В]"
 
-#: src-en/data/blueprints.xml.append:158
+#: src-en/data/blueprints.xml.append:172
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
 msgstr ""
 "Кислородная установка теперь уделяет приоритетное внимание вашему экипажу, пополняя запасы кислорода на 80% быстрее в отсеках, где находится экипаж. Оказывает противоположное воздействие на экипаж противника и пожары, истощая запасы кислорода. Требует питания от системы и масштабируется в зависимости от мощности.\n"
 "\n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:168
+#: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:169
+#: src-en/data/blueprints.xml.append:183
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:176
+#: src-en/data/blueprints.xml.append:190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:177
+#: src-en/data/blueprints.xml.append:191
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:184
+#: src-en/data/blueprints.xml.append:198
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:185
+#: src-en/data/blueprints.xml.append:199
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:192
+#: src-en/data/blueprints.xml.append:206
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:193
+#: src-en/data/blueprints.xml.append:207
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:200
+#: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:201
+#: src-en/data/blueprints.xml.append:215
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:208
+#: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:209
+#: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:216
+#: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:217
+#: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:224
+#: src-en/data/blueprints.xml.append:238
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:225
+#: src-en/data/blueprints.xml.append:239
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:233
+#: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:234
+#: src-en/data/blueprints.xml.append:248
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:240
+#: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/title"
 msgstr "Дверное Укрепление [В]"
 
-#: src-en/data/blueprints.xml.append:241
+#: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
 msgstr ""
@@ -244,22 +254,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:250
+#: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:251
+#: src-en/data/blueprints.xml.append:265
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:257
+#: src-en/data/blueprints.xml.append:271
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/title"
 msgstr "Резервный кислород [В]"
 
-#: src-en/data/blueprints.xml.append:258
+#: src-en/data/blueprints.xml.append:272
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
 msgstr ""
@@ -267,22 +277,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:267
+#: src-en/data/blueprints.xml.append:281
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:268
+#: src-en/data/blueprints.xml.append:282
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:274
+#: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/title"
 msgstr "Дверная отказоустойчивость [В]"
 
-#: src-en/data/blueprints.xml.append:275
+#: src-en/data/blueprints.xml.append:289
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
 msgstr ""
@@ -290,22 +300,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:284
+#: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:285
+#: src-en/data/blueprints.xml.append:299
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:291
+#: src-en/data/blueprints.xml.append:305
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
 msgstr "Выброс-перегрузка бат. [В]"
 
-#: src-en/data/blueprints.xml.append:292
+#: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
 msgstr ""
@@ -314,22 +324,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:302
+#: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:303
+#: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:309
+#: src-en/data/blueprints.xml.append:323
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/title"
 msgstr "Солнечная батарея [В]"
 
-#: src-en/data/blueprints.xml.append:310
+#: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/desc"
 msgstr ""
@@ -337,22 +347,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:320
+#: src-en/data/blueprints.xml.append:334
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:321
+#: src-en/data/blueprints.xml.append:335
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:327
+#: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/title"
 msgstr "Защита разума [В]"
 
-#: src-en/data/blueprints.xml.append:328
+#: src-en/data/blueprints.xml.append:342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/desc"
 msgstr ""
@@ -360,22 +370,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:338
+#: src-en/data/blueprints.xml.append:352
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:339
+#: src-en/data/blueprints.xml.append:353
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:345
+#: src-en/data/blueprints.xml.append:359
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/title"
 msgstr "И.Н.С. (Руль) [В]"
 
-#: src-en/data/blueprints.xml.append:346
+#: src-en/data/blueprints.xml.append:360
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/desc"
 msgstr ""
@@ -383,22 +393,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:355
+#: src-en/data/blueprints.xml.append:369
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:356
+#: src-en/data/blueprints.xml.append:370
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:362
+#: src-en/data/blueprints.xml.append:376
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/title"
 msgstr "И.Н.С. (Сенсоры) [В]"
 
-#: src-en/data/blueprints.xml.append:363
+#: src-en/data/blueprints.xml.append:377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/desc"
 msgstr ""
@@ -406,22 +416,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:372
+#: src-en/data/blueprints.xml.append:386
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:373
+#: src-en/data/blueprints.xml.append:387
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:379
+#: src-en/data/blueprints.xml.append:393
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/title"
 msgstr "И.Н.С. (Двери) [В]"
 
-#: src-en/data/blueprints.xml.append:380
+#: src-en/data/blueprints.xml.append:394
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/desc"
 msgstr ""
@@ -429,22 +439,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:394
+#: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:395
+#: src-en/data/blueprints.xml.append:409
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:401
+#: src-en/data/blueprints.xml.append:415
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/title"
 msgstr "Полированная броня [В]"
 
-#: src-en/data/blueprints.xml.append:402
+#: src-en/data/blueprints.xml.append:416
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/desc"
 msgstr ""
@@ -452,22 +462,22 @@ msgstr ""
 "    \n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:410
+#: src-en/data/blueprints.xml.append:424
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:411
+#: src-en/data/blueprints.xml.append:425
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:417
+#: src-en/data/blueprints.xml.append:431
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/title"
 msgstr "Реактивная броня [В]"
 
-#: src-en/data/blueprints.xml.append:418
+#: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/desc"
 msgstr ""
@@ -475,22 +485,22 @@ msgstr ""
 "    \n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:426
+#: src-en/data/blueprints.xml.append:440
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:427
+#: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:433
+#: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/title"
 msgstr "Броня двойной прочности [В]"
 
-#: src-en/data/blueprints.xml.append:434
+#: src-en/data/blueprints.xml.append:448
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/desc"
 msgstr ""
@@ -498,22 +508,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:442
+#: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:443
+#: src-en/data/blueprints.xml.append:457
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:449
+#: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/title"
 msgstr "Ремонтная броня [В]"
 
-#: src-en/data/blueprints.xml.append:450
+#: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/desc"
 msgstr ""
@@ -521,22 +531,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:459
+#: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:460
+#: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:466
+#: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/title"
 msgstr "Адаптер мести [В]"
 
-#: src-en/data/blueprints.xml.append:467
+#: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/desc"
 msgstr ""
@@ -544,22 +554,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:476
+#: src-en/data/blueprints.xml.append:490
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:477
+#: src-en/data/blueprints.xml.append:491
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:483
+#: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/title"
 msgstr "Укрепление [В]"
 
-#: src-en/data/blueprints.xml.append:484
+#: src-en/data/blueprints.xml.append:498
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/desc"
 msgstr ""
@@ -567,22 +577,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:493
+#: src-en/data/blueprints.xml.append:507
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:494
+#: src-en/data/blueprints.xml.append:508
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:500
+#: src-en/data/blueprints.xml.append:514
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/title"
 msgstr "Броня пропит. эфиром [В]"
 
-#: src-en/data/blueprints.xml.append:501
+#: src-en/data/blueprints.xml.append:515
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/desc"
 msgstr ""
@@ -590,22 +600,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:528
+#: src-en/data/blueprints.xml.append:542
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:529
+#: src-en/data/blueprints.xml.append:543
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:535
+#: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/title"
 msgstr "Втор. ионное поле [В]"
 
-#: src-en/data/blueprints.xml.append:536
+#: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/desc"
 msgstr ""
@@ -613,22 +623,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:545
+#: src-en/data/blueprints.xml.append:559
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:546
+#: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:552
+#: src-en/data/blueprints.xml.append:566
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/title"
 msgstr "Расширенное поле [В]"
 
-#: src-en/data/blueprints.xml.append:553
+#: src-en/data/blueprints.xml.append:567
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/desc"
 msgstr ""
@@ -636,22 +646,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:562
+#: src-en/data/blueprints.xml.append:576
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:563
+#: src-en/data/blueprints.xml.append:577
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:569
+#: src-en/data/blueprints.xml.append:583
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/title"
 msgstr "Защитный выброс [В]"
 
-#: src-en/data/blueprints.xml.append:570
+#: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/desc"
 msgstr ""
@@ -659,22 +669,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:579
+#: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:580
+#: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:586
+#: src-en/data/blueprints.xml.append:600
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/title"
 msgstr "Нейронный нейтрализатор [В]"
 
-#: src-en/data/blueprints.xml.append:587
+#: src-en/data/blueprints.xml.append:601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/desc"
 msgstr ""
@@ -682,72 +692,72 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:598
+#: src-en/data/blueprints.xml.append:612
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:599
+#: src-en/data/blueprints.xml.append:613
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:605
+#: src-en/data/blueprints.xml.append:619
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:606
+#: src-en/data/blueprints.xml.append:620
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:612
+#: src-en/data/blueprints.xml.append:626
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:613
+#: src-en/data/blueprints.xml.append:627
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:619
+#: src-en/data/blueprints.xml.append:633
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:620
+#: src-en/data/blueprints.xml.append:634
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:626
+#: src-en/data/blueprints.xml.append:640
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:627
+#: src-en/data/blueprints.xml.append:641
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:634
+#: src-en/data/blueprints.xml.append:648
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:635
+#: src-en/data/blueprints.xml.append:649
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:641
+#: src-en/data/blueprints.xml.append:655
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/title"
 msgstr "Лечение болезней [В]"
 
-#: src-en/data/blueprints.xml.append:642
+#: src-en/data/blueprints.xml.append:656
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/desc"
 msgstr ""
@@ -758,22 +768,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:656
+#: src-en/data/blueprints.xml.append:670
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:657
+#: src-en/data/blueprints.xml.append:671
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:663
+#: src-en/data/blueprints.xml.append:677
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/title"
 msgstr "Протоколы безоп. убежища [В]"
 
-#: src-en/data/blueprints.xml.append:664
+#: src-en/data/blueprints.xml.append:678
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/desc"
 msgstr ""
@@ -781,22 +791,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:675
+#: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:676
+#: src-en/data/blueprints.xml.append:690
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:682
+#: src-en/data/blueprints.xml.append:696
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/title"
 msgstr "Термокинетические разрядники [В]"
 
-#: src-en/data/blueprints.xml.append:683
+#: src-en/data/blueprints.xml.append:697
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/desc"
 msgstr ""
@@ -804,22 +814,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:693
+#: src-en/data/blueprints.xml.append:707
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:694
+#: src-en/data/blueprints.xml.append:708
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:700
+#: src-en/data/blueprints.xml.append:714
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/title"
 msgstr "Наручи из живого металла [В]"
 
-#: src-en/data/blueprints.xml.append:701
+#: src-en/data/blueprints.xml.append:715
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
 msgstr ""
@@ -827,22 +837,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:711
+#: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:712
+#: src-en/data/blueprints.xml.append:726
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:718
+#: src-en/data/blueprints.xml.append:732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/title"
 msgstr "Генератор поля целостности [В]"
 
-#: src-en/data/blueprints.xml.append:719
+#: src-en/data/blueprints.xml.append:733
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
 msgstr ""
@@ -850,22 +860,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:729
+#: src-en/data/blueprints.xml.append:743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:730
+#: src-en/data/blueprints.xml.append:744
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:736
+#: src-en/data/blueprints.xml.append:750
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/title"
 msgstr "Поле целостности эфира [В]"
 
-#: src-en/data/blueprints.xml.append:737
+#: src-en/data/blueprints.xml.append:751
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
 msgstr ""
@@ -873,22 +883,22 @@ msgstr ""
 "\n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:748
+#: src-en/data/blueprints.xml.append:762
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:749
+#: src-en/data/blueprints.xml.append:763
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:755
+#: src-en/data/blueprints.xml.append:769
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/title"
 msgstr "Картографический набор [В]"
 
-#: src-en/data/blueprints.xml.append:756
+#: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/desc"
 msgstr ""
@@ -896,22 +906,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:765
+#: src-en/data/blueprints.xml.append:779
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:766
+#: src-en/data/blueprints.xml.append:780
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:772
+#: src-en/data/blueprints.xml.append:786
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/title"
 msgstr "Сканер секторов [В]"
 
-#: src-en/data/blueprints.xml.append:773
+#: src-en/data/blueprints.xml.append:787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/desc"
 msgstr ""
@@ -919,22 +929,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:782
+#: src-en/data/blueprints.xml.append:796
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:783
+#: src-en/data/blueprints.xml.append:797
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:789
+#: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/title"
 msgstr "Экстренный телепорт-вызов [В]"
 
-#: src-en/data/blueprints.xml.append:790
+#: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/desc"
 msgstr ""
@@ -942,22 +952,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:799
+#: src-en/data/blueprints.xml.append:813
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:800
+#: src-en/data/blueprints.xml.append:814
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:806
+#: src-en/data/blueprints.xml.append:820
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/title"
 msgstr "Резервные протоколы ремонта [В]"
 
-#: src-en/data/blueprints.xml.append:807
+#: src-en/data/blueprints.xml.append:821
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
 msgstr ""
@@ -965,22 +975,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:817
+#: src-en/data/blueprints.xml.append:831
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:818
+#: src-en/data/blueprints.xml.append:832
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:824
+#: src-en/data/blueprints.xml.append:838
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/title"
 msgstr "Массив полного спектра [В]"
 
-#: src-en/data/blueprints.xml.append:825
+#: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/desc"
 msgstr ""
@@ -988,22 +998,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:834
+#: src-en/data/blueprints.xml.append:848
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:835
+#: src-en/data/blueprints.xml.append:849
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:841
+#: src-en/data/blueprints.xml.append:855
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/title"
 msgstr "Упреждающая фиксация [В]"
 
-#: src-en/data/blueprints.xml.append:842
+#: src-en/data/blueprints.xml.append:856
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/desc"
 msgstr ""
@@ -1011,22 +1021,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:852
+#: src-en/data/blueprints.xml.append:866
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:853
+#: src-en/data/blueprints.xml.append:867
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:859
+#: src-en/data/blueprints.xml.append:873
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/title"
 msgstr "Расширенная настройка оружия [В]"
 
-#: src-en/data/blueprints.xml.append:860
+#: src-en/data/blueprints.xml.append:874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/desc"
 msgstr ""
@@ -1034,22 +1044,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:871
+#: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:872
+#: src-en/data/blueprints.xml.append:886
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:878
+#: src-en/data/blueprints.xml.append:892
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/title"
 msgstr "Оптимизация зарядки оружия [В]"
 
-#: src-en/data/blueprints.xml.append:879
+#: src-en/data/blueprints.xml.append:893
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/desc"
 msgstr ""
@@ -1057,22 +1067,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:889
+#: src-en/data/blueprints.xml.append:903
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:890
+#: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:896
+#: src-en/data/blueprints.xml.append:910
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/title"
 msgstr "Нано-наводящая система [В]"
 
-#: src-en/data/blueprints.xml.append:897
+#: src-en/data/blueprints.xml.append:911
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/desc"
 msgstr ""
@@ -1080,22 +1090,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:906
+#: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:907
+#: src-en/data/blueprints.xml.append:921
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:913
+#: src-en/data/blueprints.xml.append:927
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/title"
 msgstr "Слабое место передачи данных [В]"
 
-#: src-en/data/blueprints.xml.append:914
+#: src-en/data/blueprints.xml.append:928
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/desc"
 msgstr ""
@@ -1103,22 +1113,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:923
+#: src-en/data/blueprints.xml.append:937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:924
+#: src-en/data/blueprints.xml.append:938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:930
+#: src-en/data/blueprints.xml.append:944
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/title"
 msgstr "Разгон процессора [В]"
 
-#: src-en/data/blueprints.xml.append:931
+#: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/desc"
 msgstr ""
@@ -1126,22 +1136,22 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:940
+#: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:941
+#: src-en/data/blueprints.xml.append:955
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:947
+#: src-en/data/blueprints.xml.append:961
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/title"
 msgstr "Многопоточное прицеливание [В]"
 
-#: src-en/data/blueprints.xml.append:948
+#: src-en/data/blueprints.xml.append:962
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/desc"
 msgstr ""
@@ -1149,32 +1159,195 @@ msgstr ""
 "    \n"
 "\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:957
+#: src-en/data/blueprints.xml.append:973
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:974
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:980
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:981
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:990
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:991
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:997
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:998
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
+msgstr ""
+"Шоковый нейтрализатор теперь также влияет на время оглушения экипажа.\n"
+"    \n"
+"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
+
+#: src-en/data/blueprints.xml.append:1007
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1008
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1014
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1015
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1024
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1025
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1031
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1032
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1041
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1042
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1048
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1049
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1058
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1059
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1065
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1066
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1075
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1076
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1082
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1083
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1092
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1093
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1101
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1102
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:958
+#: src-en/data/blueprints.xml.append:1112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:966
+#: src-en/data/blueprints.xml.append:1120
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:967
+#: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:973
+#: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/title"
 msgstr "Двойное плетение [В]"
 
-#: src-en/data/blueprints.xml.append:974
+#: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
 msgstr ""
@@ -1182,22 +1355,22 @@ msgstr ""
 "\n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:983
+#: src-en/data/blueprints.xml.append:1137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:984
+#: src-en/data/blueprints.xml.append:1138
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:990
+#: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/title"
 msgstr "Слой опасной среды [В]"
 
-#: src-en/data/blueprints.xml.append:991
+#: src-en/data/blueprints.xml.append:1145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
 msgstr ""
@@ -1205,22 +1378,22 @@ msgstr ""
 "\n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:1000
+#: src-en/data/blueprints.xml.append:1154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1001
+#: src-en/data/blueprints.xml.append:1155
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1007
+#: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/title"
 msgstr "Динамический приоритет [В]"
 
-#: src-en/data/blueprints.xml.append:1008
+#: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
 msgstr ""
@@ -1228,22 +1401,22 @@ msgstr ""
 "\n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:1017
+#: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1018
+#: src-en/data/blueprints.xml.append:1172
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1024
+#: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/title"
 msgstr "Живые волокна [В]"
 
-#: src-en/data/blueprints.xml.append:1025
+#: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
 msgstr ""
@@ -1251,22 +1424,22 @@ msgstr ""
 "\n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:1035
+#: src-en/data/blueprints.xml.append:1189
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1036
+#: src-en/data/blueprints.xml.append:1190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1042
+#: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/title"
 msgstr "Одежда из эфирного волокна [В]"
 
-#: src-en/data/blueprints.xml.append:1043
+#: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
 msgstr ""
@@ -1274,62 +1447,72 @@ msgstr ""
 "\n"
 "Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
-#: src-en/data/blueprints.xml.append:1115
+#: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1116
+#: src-en/data/blueprints.xml.append:1270
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1123
+#: src-en/data/blueprints.xml.append:1277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1124
+#: src-en/data/blueprints.xml.append:1278
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1131
+#: src-en/data/blueprints.xml.append:1285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1132
+#: src-en/data/blueprints.xml.append:1286
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1139
+#: src-en/data/blueprints.xml.append:1293
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1140
+#: src-en/data/blueprints.xml.append:1294
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1147
+#: src-en/data/blueprints.xml.append:1301
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1302
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1309
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1148
+#: src-en/data/blueprints.xml.append:1310
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1155
+#: src-en/data/blueprints.xml.append:1317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1156
+#: src-en/data/blueprints.xml.append:1318
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/desc"
 msgstr ""

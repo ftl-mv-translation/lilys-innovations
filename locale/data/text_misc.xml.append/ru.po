@@ -54,18 +54,48 @@ msgstr "Специализированное ядро целенаведения
 msgid "data/text_misc.xml.append$//text[@name=\"lily_targeting_core_installed\"]"
 msgstr "Специализированное ядро целенаведения установлена"
 
-#: src-en/data/text_misc.xml.append:17
+#: src-en/data/text_misc.xml.append:15
+msgid "data/text_misc.xml.append$//text[@name=\"lily_ecm_suite\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"lily_ecm_suite_installed\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_medbay1\"]"
 msgstr "Медотсек"
 
-#: src-en/data/text_misc.xml.append:18
+#: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_medbay2\"]"
 msgstr "Инфузионный отсек"
 
-#: src-en/data/text_misc.xml.append:19
+#: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_infusion_bay1\"]"
 msgstr "медотсек"
 
-#: src-en/data/text_misc.xml.append:20
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_infusion_bay2\"]"
 msgstr "инфузионный отсек"
+
+#: src-en/data/text_misc.xml.append:23
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_pds_disable1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:24
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_suite1\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:26
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_salvage_choice\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:27
+msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_salvage\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:28
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_retarget\"]"
+msgstr ""

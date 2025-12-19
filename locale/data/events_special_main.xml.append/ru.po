@@ -1,25 +1,17 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 12:15+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
-"dataevents_special_mainxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
-#: src-en/data/events_special_main.xml.append:20
+#: src-en/data/events_special_main.xml.append:21
 msgid ""
 "data/events_special_main.xml.append$//mod-"
 "append:backgroundObject[@name=\"LILYINNO_PROMO\"]/tooltip"
 msgstr "Рекламный плакат Lily's Innovations."
 
-#: src-en/data/events_special_main.xml.append:28
+#: src-en/data/events_special_main.xml.append:29
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/text"
 msgstr ""
@@ -39,19 +31,19 @@ msgstr ""
 "\n"
 "Вы замечаете интерфейс ввода данных, расположенный под плакатом, который уже распознал вас и идентификатор вашего корабля."
 
-#: src-en/data/events_special_main.xml.append:47
+#: src-en/data/events_special_main.xml.append:48
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"1\"]/text"
 msgstr "Вы уже получили рекламное предложение."
 
-#: src-en/data/events_special_main.xml.append:52
+#: src-en/data/events_special_main.xml.append:53
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/text"
 msgstr "Проверить свое право на участие..."
 
-#: src-en/data/events_special_main.xml.append:54
+#: src-en/data/events_special_main.xml.append:55
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/text"
@@ -59,19 +51,19 @@ msgstr ""
 "Вы быстро даете команду терминалу сканировать ваш корабль, и он предлагает "
 "вам следующие варианты:"
 
-#: src-en/data/events_special_main.xml.append:56
+#: src-en/data/events_special_main.xml.append:57
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"LILYINNO_PROMO_REQ_SYSTEMS\"]/text"
 msgstr "Ваш корабль не подходит для этой акции."
 
-#: src-en/data/events_special_main.xml.append:61
+#: src-en/data/events_special_main.xml.append:62
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"shields\"]/text"
 msgstr "(Щиты) Установить систему Абляционной брони."
 
-#: src-en/data/events_special_main.xml.append:63
+#: src-en/data/events_special_main.xml.append:64
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/text"
@@ -79,13 +71,13 @@ msgstr ""
 "Вы даете команду терминалу установить новую систему на ваш корабль. \n"
 "\"Принято. Работы на вашем корабле начнутся в ближайшее время...\""
 
-#: src-en/data/events_special_main.xml.append:66
+#: src-en/data/events_special_main.xml.append:67
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_main.xml.append:68
+#: src-en/data/events_special_main.xml.append:69
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/choice/event/text"
@@ -93,13 +85,41 @@ msgstr ""
 "Система приступает к переоборудованию вашего корабля и вскоре заканчивает работу.\n"
 "\"Установленная рабочая квота: выполнена. Было приятно иметь с вами дело\"."
 
-#: src-en/data/events_special_main.xml.append:79
+#: src-en/data/events_special_main.xml.append:80
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/event/choice[@req=\"hacking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:82
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/event/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+"Вы даете команду терминалу установить новую систему на ваш корабль. \n"
+"\"Принято. Работы на вашем корабле начнутся в ближайшее время...\""
+
+#: src-en/data/events_special_main.xml.append:85
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_main.xml.append:87
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
+" and @lvl=\"0\"]/event/choice[@req=\"hacking\"]/event/choice/event/text"
+msgstr ""
+"Система приступает к переоборудованию вашего корабля и вскоре заканчивает работу.\n"
+"\"Установленная рабочая квота: выполнена. Было приятно иметь с вами дело\"."
+
+#: src-en/data/events_special_main.xml.append:98
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/text"
 msgstr "(Медотсек) Установить систему Инфузионный отсек."
 
-#: src-en/data/events_special_main.xml.append:81
+#: src-en/data/events_special_main.xml.append:100
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/text"
@@ -107,13 +127,13 @@ msgstr ""
 "Вы даете команду терминалу установить новую систему на ваш корабль. \n"
 "\"Принято. Работы на вашем корабле начнутся в ближайшее время...\""
 
-#: src-en/data/events_special_main.xml.append:84
+#: src-en/data/events_special_main.xml.append:103
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_main.xml.append:86
+#: src-en/data/events_special_main.xml.append:105
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/choice/event/text"
@@ -121,13 +141,13 @@ msgstr ""
 "Система приступает к переоборудованию вашего корабля и вскоре заканчивает работу.\n"
 "\"Установленная рабочая квота: выполнена. Было приятно иметь с вами дело\"."
 
-#: src-en/data/events_special_main.xml.append:97
+#: src-en/data/events_special_main.xml.append:116
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/text"
 msgstr "(Клон-отсек) Установить систему Инфузионный отсек."
 
-#: src-en/data/events_special_main.xml.append:99
+#: src-en/data/events_special_main.xml.append:118
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/text"
@@ -135,13 +155,13 @@ msgstr ""
 "Вы даете команду терминалу установить новую систему на ваш корабль. \n"
 "\"Принято. Работы на вашем корабле начнутся в ближайшее время...\""
 
-#: src-en/data/events_special_main.xml.append:102
+#: src-en/data/events_special_main.xml.append:121
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_main.xml.append:104
+#: src-en/data/events_special_main.xml.append:123
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/choice/event/text"
@@ -149,13 +169,13 @@ msgstr ""
 "Система приступает к переоборудованию вашего корабля и вскоре заканчивает работу.\n"
 "\"Установленная рабочая квота: выполнена. Было приятно иметь с вами дело\"."
 
-#: src-en/data/events_special_main.xml.append:115
+#: src-en/data/events_special_main.xml.append:134
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"battery\"]/text"
 msgstr "(Резервная батарея) Установить подсистему Шоковый нейтрализатор."
 
-#: src-en/data/events_special_main.xml.append:117
+#: src-en/data/events_special_main.xml.append:136
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/text"
@@ -163,13 +183,13 @@ msgstr ""
 "Вы даете команду терминалу установить новую систему на ваш корабль. \n"
 "\"Принято. Работы на вашем корабле начнутся в ближайшее время...\""
 
-#: src-en/data/events_special_main.xml.append:120
+#: src-en/data/events_special_main.xml.append:139
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_main.xml.append:122
+#: src-en/data/events_special_main.xml.append:141
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/choice/event/text"
@@ -177,25 +197,25 @@ msgstr ""
 "Система приступает к переоборудованию вашего корабля и вскоре заканчивает работу.\n"
 "\"Установленная рабочая квота: выполнена. Было приятно иметь с вами дело\"."
 
-#: src-en/data/events_special_main.xml.append:134
+#: src-en/data/events_special_main.xml.append:153
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
-" and @lvl=\"0\"]/event/choice[6]/text"
+" and @lvl=\"0\"]/event/choice[7]/text"
 msgstr "Неважно..."
 
-#: src-en/data/events_special_main.xml.append:141
+#: src-en/data/events_special_main.xml.append:160
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
 " and @lvl=\"1\"]/text"
 msgstr "Бонусный системный слот уже установлен."
 
-#: src-en/data/events_special_main.xml.append:146
+#: src-en/data/events_special_main.xml.append:165
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
 " and @lvl=\"0\"]/text"
 msgstr "Установить бонусный системный слот."
 
-#: src-en/data/events_special_main.xml.append:148
+#: src-en/data/events_special_main.xml.append:167
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
 " and @lvl=\"0\"]/event/text"
@@ -203,18 +223,18 @@ msgstr ""
 "Вы даете команду терминалу установить новую систему на ваш корабль. \n"
 "\"Принято. Работы на вашем корабле начнутся в ближайшее время...\""
 
-#: src-en/data/events_special_main.xml.append:151
+#: src-en/data/events_special_main.xml.append:170
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_main.xml.append:161
+#: src-en/data/events_special_main.xml.append:180
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[5]/text"
 msgstr "Неважно..."
 
-#: src-en/data/events_special_main.xml.append:169
+#: src-en/data/events_special_main.xml.append:188
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_EXTRA_SYSSLOT\"]/text"
 msgstr ""

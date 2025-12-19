@@ -9,149 +9,148 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr "Предъявить свою систему Абляционной брони."
+msgstr "Present your Ablative Armor system."
 
 #: src-en/data/events_special_multiverse.xml.append:7
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"\"Абляционная броня - оборонительные п-п-п-процедуры, которые он "
-"обеспечивает! Вы пилотируете: хорошо защищенное судно! Хорошо защищенное "
-"судно! Для хорошо защищенного судна: Я предоставляю дар Аб-аб-абляции! Дар "
-"Абляции! Сохраните его - на будущее!\""
+"\"Ablative Armor - defensive p-p-p-procedures it ensures! You pilot a: well "
+"protected vessel! Well protected vessel! For well protected vessel: I "
+"provide Grant of Ab-Ab-ablation! Grant of Ablation! Save it - for the "
+"future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:12
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_multiverse.xml.append:18
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr "Предъявить свою систему Специализированное ядро целенаведения."
+msgstr "Present your Dedicated Targeting Core system."
 
 #: src-en/data/events_special_multiverse.xml.append:20
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"\"Специализированное ядро целенаведения - для преданного снайпера! Ни один "
-"враг не сможет уклониться от вас! Для преданного снайпера: Я предоставляю "
-"дар Н-н-нацеливания! Дар Нацеливания! Сохраните его - на будущее!\""
+"\"Dedicated Targeting Core - for a d-d-dedicated sharpshooter! No enemy can:"
+" evade you now! For dedicated sharpshooter: I provide Grant of T-t-"
+"targeting! Grant of Targeting! Save it - for the future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_multiverse.xml.append:31
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr "Предъявить свою систему Инфузионный отсек."
+msgstr "Present your ECM Suite system."
 
 #: src-en/data/events_special_multiverse.xml.append:33
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
-"\"Инфузионный отсек - риск и награда! Р-р-риск, н-н-н-награда... [что] "
-"тяжелее? Вы: здесь... капитан: -внимательный- к потенциальности! Для "
-"внимательных к потенциалу: Я предоставляю дар И-и-и-инфузии! Дар Инфузии! "
-"Сохраните его - на будущее!\""
+"\"ECM Suite - so v-v-versatile and innovatve! Enemy [drones]: no longer pose"
+" a threat to you! For your effecive c-c-countermeasures: I provide Grant of "
+"ECM! Grant of ECM! Save it - for the future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:38
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_multiverse.xml.append:44
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr "Предъявить свою систему Инфузионный отсек."
+msgstr "Present your Infusion Bay system."
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
-"\"Инфузионный отсек - риск и награда! Р-р-риск, н-н-н-награда... [что] "
-"тяжелее? Вы: здесь... капитан: -внимательный- к потенциальности! Для "
-"внимательных к потенциалу: Я предоставляю дар И-и-и-инфузии! Дар Инфузии! "
-"Сохраните его - на будущее!\""
+"\"Infusion Bay - risk, and reward! R-r-risk, r-r-r-reward... [which] is "
+"heavier? You are: here... a captain: -considerate- of potentiality! For "
+"heavy consideration, and heavier p-p-potential: I provide Grant of I-i-i-"
+"infusion! Grant of Infusion! Save it - for the future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:51
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_multiverse.xml.append:57
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr "Предъявить свою подсистему Шоковый нейтрализатор."
+msgstr "Present your Shock Neutralizer subsystem."
 
 #: src-en/data/events_special_multiverse.xml.append:59
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
-"\"Шоковый нейтрализатор - для з-з-з-защиты от ионов! Ионов! Технология — для"
-" [помощи] другой технологии! Технологии!!! За это: Я [с гордостью] "
-"предоставляю дар Нейтрализации! Дар Нейтрализации! Сохраните его - на "
-"будущее!\""
+"\"Shock Neutralizer - for p-p-p-protection against ions! Ions! A Technology "
+"- for [helping] other technology! Technology!!! For this: I [proudly] "
+"provide Grant of Neutralization! Grant of Neutralization! Save it - for the "
+"future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:64
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr "Предъявить свою подсистему Систему наручи."
+msgstr "Present your System Bracers subsystem."
 
 #: src-en/data/events_special_multiverse.xml.append:72
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/text"
 msgstr ""
-"\"Система наручи - для з-з-з-защиты от повреждения системы! Вы пилотируете: "
-"надежное судно! Надежное судно! Для надежного судна: Я предоставляю дар На-"
-"на-наручей! Дар Наручей! Сохраните его - на будущее!\""
+"\"System Bracers - for p-p-p-protection against system damage! You pilot a: "
+"reliable vessel! Reliable vessel! For reliable vessel: I provide Grant of "
+"Br-br-bracing! Grant of Bracing! Save it - for the future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:77
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
 
 #: src-en/data/events_special_multiverse.xml.append:83
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/text"
-msgstr "Предъявить свою подсистему Волокнистый лайнер."
+msgstr "Present your Fiber Liner subsystem."
 
 #: src-en/data/events_special_multiverse.xml.append:85
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/text"
 msgstr ""
-"\"Волокнистый лайнер - для з-з-з-защиты экипажа от вреда! Вы: д-д-"
-"доброжелательный капитан! За вашу доброту: Я предоставляю дар В-волокон! Дар"
-" Волокон! Сохраните его - на будущее!\""
+"\"Fiber Liner - for p-p-p-protecting your crew against harm! You are a: b-b-"
+"benevolent captain! For your kindness: I provide Grant of F-Fibers! Grant of"
+" Fibers! Save it - for the future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:90
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/choice/text"
-msgstr "Продолжить..."
+msgstr "Continue..."
