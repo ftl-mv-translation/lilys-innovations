@@ -21,7 +21,7 @@ msgstr "Dedicated Targeting Core."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[3]/text"
-msgstr "Infusion Bay."
+msgstr "ECM Suite."
 
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
@@ -4020,7 +4020,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/text"
 msgstr ""
 "You are about to install the Processor Overclocking upgrade.\n"
-"\t[Effects: Reduces time it takes for Dedicated Targeting Core to lock onto a room from 6 to 1.5 seconds. Incompatible with Multithreaded targeting.]"
+"\t[Effects: Reduces time it takes for Dedicated Targeting Core to lock onto a room from 6 to 1.5 seconds.]"
 
 #: src-en/data/events_special_storage.xml.append:3496
 msgid ""
@@ -4072,7 +4072,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/text"
 msgstr ""
 "You are about to install the Multithreaded Targeting upgrade.\n"
-"\t[Effects: Dedicated Targeting Core now also applies its full effects to rooms adjacent to directly targeted. Incompatible with Processor Overclocking.]"
+"\t[Effects: Dedicated Targeting Core now also applies its full effects to rooms adjacent to directly targeted.]"
 
 #: src-en/data/events_special_storage.xml.append:3540
 msgid ""
@@ -4254,7 +4254,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "This upgrade is unavailable. You need Pilot level 2."
+msgstr "This upgrade is unavailable. You need ECM Suite level 2."
 
 #: src-en/data/events_special_storage.xml.append:3686
 msgid ""
@@ -4287,7 +4287,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/text"
-msgstr "Perform the upgrade. [Cost: 20~, 4|]"
+msgstr "Perform the upgrade. [Cost: 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3715
 msgid ""
@@ -4338,7 +4338,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/text"
-msgstr "Perform the upgrade. [Cost: 25~, 5}, 3|]"
+msgstr "Perform the upgrade. [Cost: 50~, 8}, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:3760
 msgid ""
@@ -4356,7 +4356,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "This upgrade is unavailable. You need Pilot level 2."
+msgstr "This upgrade is unavailable. You need ECM Suite level 2."
 
 #: src-en/data/events_special_storage.xml.append:3777
 msgid ""
@@ -4389,7 +4389,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/text"
-msgstr "Perform the upgrade. [Cost: 40~, 8{, 6|]"
+msgstr "Perform the upgrade. [Cost: 40~, 8{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3806
 msgid ""
@@ -4440,7 +4440,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/text"
-msgstr "Perform the upgrade. [Cost: 80~, 10}]"
+msgstr "Perform the upgrade. [Cost: 80~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:3852
 msgid ""
@@ -4458,7 +4458,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "This upgrade is unavailable. You need Pilot level 3."
+msgstr "This upgrade is unavailable. You need ECM Suite level 3."
 
 #: src-en/data/events_special_storage.xml.append:3868
 msgid ""
@@ -4509,7 +4509,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "This upgrade is unavailable. You need Pilot level 2."
+msgstr "This upgrade is unavailable. You need ECM Suite level 2."
 
 #: src-en/data/events_special_storage.xml.append:3914
 msgid ""
@@ -4542,7 +4542,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/text"
-msgstr "Perform the upgrade. [Cost: 60~, 10|]"
+msgstr "Perform the upgrade. [Cost: 60~, 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3943
 msgid ""
@@ -4560,7 +4560,7 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "This upgrade is unavailable. You need Pilot level 3."
+msgstr "This upgrade is unavailable. You need ECM Suite level 3."
 
 #: src-en/data/events_special_storage.xml.append:3959
 msgid ""

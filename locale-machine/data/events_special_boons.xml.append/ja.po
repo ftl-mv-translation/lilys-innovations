@@ -29,44 +29,54 @@ msgstr "続ける..."
 
 #: src-en/data/events_special_boons.xml.append:23
 msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ECM_SUITE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:26
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ECM_SUITE\"]/choice/text"
+msgstr "続ける..."
+
+#: src-en/data/events_special_boons.xml.append:33
+msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SHOCK_NEUTRALIZER\"]/text"
 msgstr ""
 "どこからともなく、声が聞こえる。「[中和]のグ、グラントを、い、インストールした。した！グラントの効果：船のイオン放散率が10%上昇する。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
 
-#: src-en/data/events_special_boons.xml.append:26
+#: src-en/data/events_special_boons.xml.append:36
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SHOCK_NEUTRALIZER\"]/choice/text"
 msgstr "続ける..."
 
-#: src-en/data/events_special_boons.xml.append:33
+#: src-en/data/events_special_boons.xml.append:43
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_INFUSION_BAY\"]/text"
 msgstr ""
 "どこからともなく、声が聞こえる。「[注入]のグ、グラントを、い、インストールした。した！グラントの効果：医療室にいる味方のダメージ耐性0.5倍、最大体力0.75倍。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
 
-#: src-en/data/events_special_boons.xml.append:36
+#: src-en/data/events_special_boons.xml.append:46
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_INFUSION_BAY\"]/choice/text"
 msgstr "続ける..."
 
-#: src-en/data/events_special_boons.xml.append:43
+#: src-en/data/events_special_boons.xml.append:53
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SYSTEM_BRACERS\"]/text"
 msgstr ""
 "どこからともなく、声が聞こえる。「[ブレーシング]のグ、グラントを、い、インストールした。した！グラントの効果：システムブレーサーの修、修理速度ペナルティの除去。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
 
-#: src-en/data/events_special_boons.xml.append:46
+#: src-en/data/events_special_boons.xml.append:56
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SYSTEM_BRACERS\"]/choice/text"
 msgstr "続ける..."
 
-#: src-en/data/events_special_boons.xml.append:53
+#: src-en/data/events_special_boons.xml.append:63
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_FIBER_LINER\"]/text"
 msgstr ""
 "どこからともなく、声が聞こえる。「[ファイバー]のグ、グラントを、い、インストールした。した！グラントの効果：クルーが全てのダメージ源から受けるダメージが0.85倍になる。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
 
-#: src-en/data/events_special_boons.xml.append:56
+#: src-en/data/events_special_boons.xml.append:66
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_FIBER_LINER\"]/choice/text"
 msgstr "続ける..."

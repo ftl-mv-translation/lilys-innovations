@@ -1,7 +1,7 @@
 {
   "lang": "ja",
   "originalLang": "en",
-  "version": "1.7.2",
+  "version": "1.8.2",
   "translation": {
     "Ablative Armor": {
       "advanced": {
@@ -87,6 +87,18 @@
           "text": "時間経過で注入剤を生成します。部屋に入ったクルーは、利用可能な注入剤があればそれを拾って持ち運びます。クルーが運ぶ注入剤は、後でUIを介して起動できます。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Suite": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grants an array of activatable abilities to disrupt enemy drones, projectiles or systems. Especially effective against drones.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -1631,6 +1643,150 @@
       "machine": "",
       "done": false
     },
+    "Cld. Comms Jammer": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cld. Comms Jammer [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM suite offensive and defensive drone disruption abilities have instant cooldown.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Capacitor Bank": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Capacitor Bank [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM suite gains +1 Max charge, up to 8.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Loyalist' Anti-Missile": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Loyalist' Anti-Missile [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM suite missile disruption ability now retargets enemy missiles back at them.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Supercharge Protocol": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Supercharge Protocol [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM gains an ability that temporary doubles its recharge speed, but prevents use of other abilities while it's active.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ASB Scrambler": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ASB Scrambler [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Prevents hostile ASBs from hitting your ship while your ECM system is powered.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ion Counterfield": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ion Counterfield [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reduces enemy ion resistance by 50% while your ECM system is powered.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Jamming Screen": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Jamming Screen [X]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Passively reduces enemy accuracy, reload speed and shield recharge by 10%, 15% and 20% respectively while your ECM system is powered. However, it gains charges 25% slower.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Minkovsky Tensor Effector": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An advanced ECM module designed outside the base cluster that use relativistic effects to amplify the system disruption. While ECM system is powered, drones disruption abilities are always active. Additionally prevents enemy ASBs from hitting your ship, reduces enemy ion resistance by 50% and their weapon accuracy by 15%.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Tmp Scrambler": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Fiber Fortifications": {
       "advanced": {
         "10": {
@@ -1840,6 +1996,12 @@
       "machine": "",
       "done": false
     },
+    "ECM Suite Grant": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "System Bracers Grant": {
       "advanced": {
         "10": {
@@ -1873,13 +2035,8 @@
       "machine": "",
       "done": false
     },
-    "Lily's Beam Emporium\nDeveloped by: MsBinaryLily\nCurrently Disabled.\n        \nAn addon focusing on beam weapons, adding a large variety of them with unique gimmicks.\nAnd more!\n\nBecause Beams are the Best! (tm)\n\n\n\nAddon sponsored by: Her - :)\n\n\n\nSpecial thanks to: \nArc, sillysandvich, for help with scripting;\nKix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);\n        \nTo enable Lily's Beam Emporium, go to the Multiverse Forums and visit the addon section!.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "リリーのビーム百貨店\n開発者：MsBinaryLily\n現在無効です。\n        \nビーム兵器に焦点を当てたアドオンで、ユニークなギミックを持つ多種多様なビーム兵器を追加します。\nその他にも！\n\nビームこそ至高！(tm)\n\n\n\nアドオンスポンサー：Her - :)\n\n\n\nスペシャルサンクス：\nArc、sillysandvich、スクリプトのヘルプ；\nKix、そしてFTL: Multiverse (およびHyperspace) の制作に携わった全ての人々；\n        \nリリーのビーム百貨店を有効にするには、Multiverseフォーラムにアクセスし、アドオンセクションをご覧ください！"
-        }
-      },
+    "Lily's Beam Emporium\nDeveloped by: MsBinaryLily\nCurrently Disabled.\n        \nAn addon focusing on beam weapons, adding a large variety of them with unique gimmicks.\nAnd more!\n\nBecause Beams are the Best! (tm)\n\n\n\nAddon sponsored by: Her - :)\n\n\n\nSpecial thanks to: \nArc, sillysandvich, for help with scripting;\nKix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);\n        \nTo enable Lily's Beam Emporium, go to the Multiverse Forums and visit the addon section!": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -1895,13 +2052,8 @@
       "machine": "",
       "done": false
     },
-    "Lily's Innovations\nDeveloped by: MsBinaryLily\nCurrently Enabled.\n        \nAn addon that add new and alternative SHIP SYSTEMS to allow for new and interesting playstyles.\n\n\nSpecial thanks to: \nArc, sillysandvich, for help with scripting;\nKix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);\n        \nTo enable Lily's Innovations, go to the Multiverse Forums and visit the addon section!.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "リリーのイノベーション\n開発者：MsBinaryLily\n現在有効です。\n        \n新しく興味深いプレイスタイルを可能にする、新規および代替の船システムを追加するアドオンです。\n\n\nスペシャルサンクス：\nArc、sillysandvich、スクリプトのヘルプ；\nKix、そしてFTL: Multiverse (およびHyperspace) の制作に携わった全ての人々；\n        \nリリーのイノベーションを有効にするには、Multiverseフォーラムにアクセスし、アドオンセクションをご覧ください！"
-        }
-      },
+    "Lily's Innovations\nDeveloped by: MsBinaryLily\nCurrently Enabled.\n        \nAn addon that adds new and alternative SHIP SYSTEMS to allow for new and interesting playstyles.\n\n\nSpecial thanks to: \nArc, sillysandvich, for help with scripting;\nKix, and everyone else who have worked on creating FTL: Multiverse (and Hyperspace);\n        \nTo enable Lily's Innovations, go to the Multiverse Forums and visit the addon section!": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -1979,6 +2131,12 @@
           "text": "どこからともなく、声が聞こえる。「[照準]のグ、グラントを、い、インストールした。した！グラントの効果：全ての兵器とドローンの命中率が+10%追加される。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [ECM] i-i-installed. Installed! Grant provides: -20% shield r-r-recharge speed and -10% weapon reload speed to your enemies... If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -2126,6 +2284,12 @@
       "machine": "",
       "done": false
     },
+    "(Hacking) Install ECM Suite System.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "(Medbay) Install Infusion Bay System.": {
       "advanced": {
         "10": {
@@ -2269,6 +2433,18 @@
       "machine": "",
       "done": false
     },
+    "Present your ECM Suite system.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"ECM Suite - so v-v-versatile and innovatve! Enemy [drones]: no longer pose a threat to you! For your effecive c-c-countermeasures: I provide Grant of ECM! Grant of ECM! Save it - for the future!\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Present your Infusion Bay system.": {
       "advanced": {
         "10": {
@@ -2375,6 +2551,12 @@
           "text": "専用照準コア。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Suite.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5382,13 +5564,8 @@
       "machine": "",
       "done": false
     },
-    "You are about to install the Processor Overclocking upgrade.\n\t[Effects: Reduces time it takes for Dedicated Targeting Core to lock onto a room from 6 to 1.5 seconds. Incompatible with Multithreaded targeting.]": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "プロセッサオーバークロックアップグレードを設置しようとしています。\n\t[効果：専用照準コアが部屋をロックオンするのにかかる時間を6秒から1.5秒に短縮します。マルチスレッド照準とは互換性がありません。]"
-        }
-      },
+    "You are about to install the Processor Overclocking upgrade.\n\t[Effects: Reduces time it takes for Dedicated Targeting Core to lock onto a room from 6 to 1.5 seconds.]": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5404,13 +5581,8 @@
       "machine": "",
       "done": false
     },
-    "You are about to install the Multithreaded Targeting upgrade.\n\t[Effects: Dedicated Targeting Core now also applies its full effects to rooms adjacent to directly targeted. Incompatible with Processor Overclocking.]": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "マルチスレッド照準アップグレードを設置しようとしています。\n\t[効果：専用照準コアが、直接ターゲットされた部屋に隣接する部屋にも完全な効果を適用するようになります。プロセッサオーバークロックとは互換性がありません。]"
-        }
-      },
+    "You are about to install the Multithreaded Targeting upgrade.\n\t[Effects: Dedicated Targeting Core now also applies its full effects to rooms adjacent to directly targeted.]": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5422,6 +5594,204 @@
           "text": "アップグレードを実行する [コスト: 45~, 5|]"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cld. Comms Jammer. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cld. Comms Jammer. [Cost: 45~, 5|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Capacitor Bank. [MAX LVL ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Capacitor Bank lvl 3. [Cost: 20~, 2|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Capacitor Bank lvl 2. [Cost: 20~, 2|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Capacitor Bank lvl 1. [Cost: 20~, 2|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Loyalist' Anti-Missile. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Loyalist' Anti-Missile. [Cost: 50~, 8}, 4|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Supercharge Protocol. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Supercharge Protocol. [Cost: 40~, 8{, 2|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ASB Scrambler. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ASB Scrambler. [Cost: 80~, 10|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ion Counterfield. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ion Counterfield. [Cost: 50~, 5{]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Jamming Screen. [ALREADY INSTALLED]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Jamming Screen. [Cost: 60~, 8|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Cooled Comms Jammer upgrade.\n\t[Effects: ECM suite offensive and defensive drone disruption abilities have instant cooldown.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need ECM Suite level 2.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the ECM Capacitor Bank upgrade.\n\t[Effects: ECM suite gains +1 Max charge, can be installed up to 3 times.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 20~, 2|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need ECM Suite level 1.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the 'Loyalist' Anti-Missile upgrade.\n\t[Effects: ECM suite missile disruption ability now retargets enemy missiles back at them.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 8}, 4|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Supercharge Protocol upgrade.\n\t[Effects: ECM gains an ability that temporary doubles its recharge speed, but prevents use of other abilities while it's active.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 40~, 8{, 2|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the ASB Scrambler upgrade.\n\t[Effects: Prevents hostile ASBs from hitting your ship while your ECM system is powered.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 80~, 10|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need ECM Suite level 3.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Ion Counterfield upgrade.\n\t[Effects: Reduces enemy ion resistance by 50% while your ECM system is powered.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Jamming Screen upgrade.\n\t[Effects: Passively reduces enemy accuracy, reload speed and shield recharge by 10%, 15% and 20% respectively while your ECM system is powered. However, it gains charges 25% slower.]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 60~, 8|]": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(ASB Scrambler) Retarget the ASB to fire at the enemy!": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You use your advanced equipment to scramble the ASB battery and make it fire at the enemy ship instead!": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5514,6 +5884,18 @@
       "machine": "",
       "done": false
     },
+    "Disable ECM suite sounds.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enable ECM suite sounds.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "(Mapping Suite) Map the sector. [1 fleet boost]": {
       "advanced": {
         "10": {
@@ -5541,226 +5923,6 @@
         "10": {
           "model": "gemini-2.5-pro",
           "text": "巨大なマッピングセンサーアレイを展開し、妨害を避けるためにしばらく低電力で待機する。この長いプロセスは確かに艦隊に追いつく時間を与えるだろうが、今やセクター全体の詳細な地図を手に入れた！"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Corby's Grants (LilyInno)": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "コービーのグラント（リリーイノベーション）"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Grant of Ablation": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アブレーションのグラント"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Receive the Grant of Ablation from Corby.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "コービーからアブレーションのグラントを受け取る。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Show an upgraded Ablative Armor System to Corby. While in effect; Repair 1 Hull point for free every jump.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アップグレードされたアブレーティブ装甲システムをコービーに見せる。効果中：ジャンプごとに船体を1ポイント無料で修理する。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Grant Received": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "グラント受領済み"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Grant of Targeting": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "照準のグラント"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Receive the Grant of Targeting from Corby.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "コービーから照準のグラントを受け取る。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Show an upgraded Dedicated Targeting Core System to Corby. While in effect; Grants +10 extra accuracy to all your weapons and drones.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アップグレードされた専用照準コアシステムをコービーに見せる。効果中：全ての兵器とドローンに+10の追加命中率を付与する。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Grant of Infusion": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "注入のグラント"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Receive the Grant of Infusion from Corby.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "コービーから注入のグラントを受け取る。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Show an upgraded Infusion Bay System to Corby. While in effect; x0.75 max health and x0.5 all damage taken in your medical facilities.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アップグレードされた注入ベイシステムをコービーに見せる。効果中：医療施設内で最大体力x0.75、全被ダメージx0.5。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Grant of Neutralization": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "中和のグラント"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Receive the Grant of Neutralization from Corby.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "コービーから中和のグラントを受け取る。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Show an upgraded Shock Neutralizer Subystem to Corby. While in effect; Ion timers on your ship dissipate 10% faster.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アップグレードされたショック中和装置サブシステムをコービーに見せる。効果中：船のイオンタイマーが10%速く消散する。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Grant of Bracing": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "ブレーシングのグラント"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Receive the Grant of Bracing from Corby.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "コービーからブレーシングのグラントを受け取る。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Show an upgraded System Bracers Subystem to Corby. While in effect; System Bracers repair speed penalty is removed.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アップグレードされたシステムブレーサーサブシステムをコービーに見せる。効果中：システムブレーサーの修理速度ペナルティが解除される。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Grant of Fibers": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "ファイバーのグラント"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Receive the Grant of Fibers from Corby.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "コービーからファイバーのグラントを受け取る。"
-        }
-      },
-      "deepl": "",
-      "machine": "",
-      "done": false
-    },
-    "Show an upgraded Fiber Liner Subystem to Corby. While in effect; Your crew takes x0.85 damage from all sources.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アップグレードされたファイバーライナーサブシステムをコービーに見せる。効果中：クルーが全てのダメージ源から受けるダメージが0.85倍になる。"
         }
       },
       "deepl": "",
@@ -5844,6 +6006,12 @@
       "machine": "",
       "done": false
     },
+    "ECM Suite System installed": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
     "Medbay": {
       "advanced": {
         "10": {
@@ -5877,13 +6045,26 @@
       "machine": "",
       "done": false
     },
-    "Ablative Armor: Provides armor layers protecting hull, systems and crew from damage. Damaged armor layers reduce the chance hull or crew damage will be absorbed.": {
-      "advanced": {
-        "10": {
-          "model": "gemini-2.5-pro",
-          "text": "アブレーティブ装甲：船体、システム、クルーをダメージから保護する装甲層を提供します。損傷した装甲層は、船体やクルーへのダメージが吸収される確率を減少させます。"
-        }
-      },
+    "Signal Diluter": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(ASB Scrambler) Proceed without fear of ASB.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "With your advanced ECM providing protection from ASB, you manage to salvage some resources safely.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ablative Armor: Provides armor layers protecting hull, systems and crew from damage. Damaged armor layers reduce the chance system or crew damage will be absorbed.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -5972,6 +6153,18 @@
           "text": "専用照準コア：自船の部屋をマークします。マークされた部屋は狙われやすくなり、そこを狙う射撃には命中率ボーナスがつきます。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Suite: Projects disruption signals that can affect enemy drones, missiles and systems.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "ECM Suite: Projects disruption signals that can affect your drones, missiles and systems.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -6126,6 +6319,12 @@
           "text": "クルー配置ボーナス：再生速度20/40/60%上昇。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disabled: Active and passive effects are disabled and rapidly losing accumilated charges.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false
@@ -6357,6 +6556,90 @@
           "text": "ターゲットする敵船が存在しません。"
         }
       },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Locked.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Click to enable Supercharge mode. While in this mode, all system's active abilities are disabled and cannot be activated, but the system gains charges at 2x rate. \\n10 seconds duration, 20 seconds cooldown. Will automatically be disabled if the max charges are reached.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Click to activate Offensive Drone Disruption. \\nWhile active, enemy offensive drones will be unable to target your ship, and boarding drones will become unable to attack or move. 10 seconds duration, 5 seconds cooldown. Requires 2 charges.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Click to activate Defense Drone Disruption. \\nWhile active, enemy defense drones will be unable to target anything. \\n10 seconds duration, 5 seconds cooldown. Requires 3 charges.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Click to activate Missile Disruption. \\nWhile active, enemy missiles fired at your ship will either miss or explode midflight. 5 seconds duration, 10 seconds cooldown. Requires 2 charges.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Click to activate ECCM Mode. \\nWhile active, it will automatically counter enemy ECM abilities, expending amount of charges equal to amount spent by the enemy. If the charges are insufficient, it will have no effect. Also counters enemy Mind Control and Hacking, costing 2 and 3 charges respectively. 20 seconds duration, 10 seconds cooldown. Requires 1 charge.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Click to select target room for System Signal Jamming. While active, target enemy system will be disrupted, either working at lower efficiency or limited by a number of bars equal to half the charges spent. \\nCannot limit life support, and any system lvl 3 (or above) to 0 bars. \\n10 seconds duration, 15 seconds cooldown. Requires 2/4/6/8 charges (variable).": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Click to select target room for System EM Disruption. While active, target enemy system will dissipate ion (incuding cooldowns) 50% slower (10 seconds per ion damage). \\n20 seconds duration, 10 seconds cooldown. Requires 4 charges.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shield Jamming: reduces enemy shield recharge rate to x0.7 for each 2 charges spent. Stacks multiplicatively.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapon Jamming: reduces enemy weapon recharge rate to x0.75 for each 2 charges spent. Stacks multiplicatively. Also applies -2.5% additive accuracy penalty per charge spent.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery Jamming: temporarily limits the system by the amount of charges spent. Also applies -5% additive accuracy penalty per charge spent.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Drone Jamming: temporarily limits the system by the amount of charges spent. Also applies -5% additive accuracy for drones per charge spent.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Oxygen Jamming: temporarily limits the system by the half amount of charges spent. Cannot limit below 1 bar.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Jamming: temporarily limits the system by the half amount of charges spent. Cannot limit below 1 bar if the system level is 3 or more.": {
+      "advanced": {},
       "deepl": "",
       "machine": "",
       "done": false

@@ -52,17 +52,16 @@ msgstr "Continue..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr "Present your Infusion Bay system."
+msgstr "Present your ECM Suite system."
 
 #: src-en/data/events_special_multiverse.xml.append:33
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
-"\"Infusion Bay - risk, and reward! R-r-risk, r-r-r-reward... [which] is "
-"heavier? You are: here... a captain: -considerate- of potentiality! For "
-"heavy consideration, and heavier p-p-potential: I provide Grant of I-i-i-"
-"infusion! Grant of Infusion! Save it - for the future!\""
+"\"ECM Suite - so v-v-versatile and innovatve! Enemy [drones]: no longer pose"
+" a threat to you! For your effecive c-c-countermeasures: I provide Grant of "
+"ECM! Grant of ECM! Save it - for the future!\""
 
 #: src-en/data/events_special_multiverse.xml.append:38
 msgid ""
