@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-20 08:19+0000\n"
+"PO-Revision-Date: 2025-12-21 11:44+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "datatext_tooltipsxmlappend/ru/>\n"
@@ -371,7 +371,7 @@ msgstr ""
 "Нажмите, чтобы включить \"Подавление ракет\". \\n"
 "Пока активен, ракеты, выпущенные врагом по вашему кораблю, либо пролетят "
 "мимо, либо взорвутся в полете. Длительность - 5 секунд, время перезарядки - "
-"10 секунд. Требует 2 заряда."
+"10 секунд. Требуется 2 заряда."
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid ""
