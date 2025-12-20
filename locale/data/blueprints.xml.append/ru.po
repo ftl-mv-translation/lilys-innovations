@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-20 08:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -70,12 +70,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:90
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/title"
-msgstr ""
+msgstr "Комплекс РЭБ"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/desc"
 msgstr ""
+"Предоставляет набор активируемых способностей для уничтожения вражеских "
+"дронов, снарядов или систем. Особенно эффективен против дронов."
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
@@ -1206,11 +1208,6 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
 msgstr ""
-"Шоковый нейтрализатор теперь также влияет на время оглушения экипажа.\n"
-"    \n"
-"\t\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный "
-"эффект, но занимает слот модуля. Может быть бесплатно конвертировано во "
-"встроенную версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:1007
 msgid ""
