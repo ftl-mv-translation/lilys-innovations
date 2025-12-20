@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-20 08:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -29,7 +29,7 @@ msgstr "Специализированное ядро целенаведения
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[3]/text"
-msgstr "Инфузионный отсек."
+msgstr "Комплекс РЭБ."
 
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
@@ -1309,7 +1309,7 @@ msgstr "Вторичное ионное поле. [Цена: 50~, 2{]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_WIDE_NEUTRALIZE\""
 " and @lvl=\"2\"]/text"
-msgstr "Расширенное поле. [MAX LVL УЖЕ УСТАНОВЛЕНО]"
+msgstr "Расширенное поле. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
 
 #: src-en/data/events_special_storage.xml.append:1128
 msgid ""
@@ -2171,7 +2171,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
-msgstr "Расширенная вентиляция. [MAX LVL УЖЕ УСТАНОВЛЕНО]"
+msgstr "Расширенная вентиляция. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
 
 #: src-en/data/events_special_storage.xml.append:1891
 msgid ""
@@ -2266,7 +2266,7 @@ msgstr "Какое улучшение вы хотите установить?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"4\"]/text"
-msgstr "Расширенная вентиляция. [MAX LVL УЖЕ УСТАНОВЛЕНО]"
+msgstr "Расширенная вентиляция. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
 
 #: src-en/data/events_special_storage.xml.append:1961
 msgid ""
@@ -4039,8 +4039,7 @@ msgid ""
 msgstr ""
 "Вы собираетесь установить Разгон процессора.\n"
 "\t[Эффекты: Сокращает время, необходимое для фиксации отсека "
-"Специализированноым ядром целенаведения, с 6 до 1.5 секунд. Несовместимо с "
-"Многопоточным прицеливанием]"
+"Специализированноым ядром целенаведения, с 6 до 1.5 секунд]"
 
 #: src-en/data/events_special_storage.xml.append:3496
 msgid ""
@@ -4094,8 +4093,7 @@ msgid ""
 msgstr ""
 "Вы собираетесь установить Многопоточное прицеливание.\n"
 "\t[Эффекты: Специализированное ядро целенаведения теперь также применяет "
-"свои полные эффекты к соседним отсекам, непосредственно связанным с целью. "
-"Несовместимо с Разгоном процессора]"
+"свои полные эффекты к соседним отсекам, непосредственно связанным с целью]"
 
 #: src-en/data/events_special_storage.xml.append:3540
 msgid ""
@@ -4152,97 +4150,97 @@ msgstr "Какое улучшение вы хотите установить?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ANTIDRONE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Охлажд. подавитель сигналов связи [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:3590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ANTIDRONE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Охлажд. подавитель сигналов связи. [Цена: 45~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Банк конденсаторов РЭБ. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
 
 #: src-en/data/events_special_storage.xml.append:3599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Банк конденсаторов РЭБ ур. 3 [Цена: 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3603
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Банк конденсаторов РЭБ ур. 2 [Цена: 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Банк конденсаторов РЭБ ур. 1 [Цена: 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_RETARGET\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Противоракетная система \"Лоялист\". [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:3616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_RETARGET\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Противоракетная система \"Лоялист\". [Цена: 50~, 8}, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:3621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_SUPERCHARGE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Протокол \"Суперзаряд\". [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:3625
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_SUPERCHARGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Протокол \"Суперзаряд\". [Цена: 40~, 8{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ASB_SCRAMBLER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Генератор помех ПКБ. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:3634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ASB_SCRAMBLER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Генератор помех ПКБ. [Цена: 80~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:3639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ELECTRO_FIELD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Ионный противовес. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:3643
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ELECTRO_FIELD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Ионный противовес. [Цена: 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_JAMMER_FIELD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Экран помех. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:3652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_JAMMER_FIELD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Экран помех. [Цена: 60~, 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3657
 msgid ""
@@ -4253,6 +4251,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/text"
 msgstr ""
+"Вы собираетесь установить Охлаждаемый подавитель сигналов связи.\n"
+"[Эффекты: Способности подавления атакующих и защитных дронов системы РЭБ "
+"будут мгновенно перезаряжаться]"
 
 #: src-en/data/events_special_storage.xml.append:3668
 msgid ""
@@ -4261,7 +4262,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 45~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3670
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/event/text"
@@ -4277,7 +4277,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "Улучшение недоступно. Необходима рулевая рубка 2 уровня."
+msgstr "Улучшение недоступно. Необходим Комплекс РЭБ 2 уровня."
 
 #: src-en/data/events_special_storage.xml.append:3686
 msgid ""
@@ -4285,7 +4285,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3688
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"EX_LILY_ECM_ANTIDRONE\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4304,15 +4303,17 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/text"
 msgstr ""
+"Вы собираетесь установить Банк конденсаторов РЭБ.\n"
+"[Эффекты: Комплекс РЭБ получает +1 к максимальной зарядке, может быть "
+"установлен до 3 раз]"
 
 #: src-en/data/events_special_storage.xml.append:3713
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/text"
-msgstr "Установить улучшение. [Цена: 20~, 4|]"
+msgstr "Установить улучшение. [Цена: 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3715
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/event/text"
@@ -4328,7 +4329,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Необходим Комплекс РЭБ первого уровня."
 
 #: src-en/data/events_special_storage.xml.append:3731
 msgid ""
@@ -4336,7 +4337,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3733
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"EX_LILY_ECM_CAPACITY\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4355,15 +4355,17 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/text"
 msgstr ""
+"Вы собираетесь установить Противоракетная система \"Лоялист\".\n"
+"[Эффекты: Способность подавления ракет теперь перенаправляет вражеские "
+"ракеты обратно к противнику]"
 
 #: src-en/data/events_special_storage.xml.append:3758
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/text"
-msgstr "Установить улучшение. [Цена: 25~, 5}, 3|]"
+msgstr "Установить улучшение. [Цена: 50~, 8}, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:3760
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/event/text"
@@ -4379,7 +4381,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "Улучшение недоступно. Необходима рулевая рубка 2 уровня."
+msgstr "Улучшение недоступно. Необходим Комплекс РЭБ 2 уровня."
 
 #: src-en/data/events_special_storage.xml.append:3777
 msgid ""
@@ -4387,7 +4389,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3779
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"EX_LILY_ECM_RETARGET\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4406,15 +4407,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/text"
 msgstr ""
+"Вы собираетесь установить Протокол \"Суперзаряд\".\n"
+"[Эффекты: РЭБ получает способность, которая временно удваивает скорость "
+"перезарядки, но не позволяет использовать другие способности, пока она "
+"активна]"
 
 #: src-en/data/events_special_storage.xml.append:3804
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/text"
-msgstr "Установить улучшение. [Цена: 100~, 8{, 6|]"
+msgstr "Установить улучшение. [Цена: 100~, 8{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3806
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/event/text"
@@ -4430,7 +4434,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Необходим Комплекс РЭБ первого уровня."
 
 #: src-en/data/events_special_storage.xml.append:3823
 msgid ""
@@ -4438,7 +4442,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3825
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"EX_LILY_ECM_SUPERCHARGE\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4457,15 +4460,17 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/text"
 msgstr ""
+"Вы собираетесь установить Генератор помех ПКБ.\n"
+"[Эффекты: Предотвращает попадание вражеского ПКБ по вашему кораблю, пока "
+"ваша система РЭБ запитана]"
 
 #: src-en/data/events_special_storage.xml.append:3850
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/text"
-msgstr "Установить улучшение. [Цена: 80~, 10}]"
+msgstr "Установить улучшение. [Цена: 80~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:3852
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/event/text"
@@ -4481,7 +4486,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "Улучшение недоступно. Необходима рулевая рубка 3 уровня."
+msgstr "Улучшение недоступно. Необходим Комплекс РЭБ 3 уровня."
 
 #: src-en/data/events_special_storage.xml.append:3868
 msgid ""
@@ -4489,7 +4494,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3870
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4508,6 +4512,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/text"
 msgstr ""
+"Вы собираетесь установить Ионный противовес.\n"
+"[Эффекты: Снижает ионное сопротивление противника на 50%, пока ваша система "
+"РЭБ запитана]"
 
 #: src-en/data/events_special_storage.xml.append:3896
 msgid ""
@@ -4516,7 +4523,6 @@ msgid ""
 msgstr "Установить улучшение. [Цена: 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3898
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/event/text"
@@ -4532,7 +4538,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "Улучшение недоступно. Необходима рулевая рубка 2 уровня."
+msgstr "Улучшение недоступно. Необходим Комплекс РЭБ 2 уровня."
 
 #: src-en/data/events_special_storage.xml.append:3914
 msgid ""
@@ -4540,7 +4546,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3916
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"EX_LILY_ECM_ELECTRO_FIELD\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4559,15 +4564,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/text"
 msgstr ""
+"Вы собираетесь установить Экран помех.\n"
+"[Эффекты: Пассивно снижает точность, скорость перезарядки и скорость "
+"восстановления щитов противника на 10%, 15% и 20% соответственно, пока ваша "
+"система РЭБ запитана. Однако она заряжается на 25% медленнее]"
 
 #: src-en/data/events_special_storage.xml.append:3941
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/text"
-msgstr "Установить улучшение. [Цена: 60~, 10|]"
+msgstr "Установить улучшение. [Цена: 60~, 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3943
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/event/text"
@@ -4583,7 +4591,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr "Улучшение недоступно. Необходима рулевая рубка 3 уровня."
+msgstr "Улучшение недоступно. Необходим Комплекс РЭБ 3 уровня."
 
 #: src-en/data/events_special_storage.xml.append:3959
 msgid ""
@@ -4591,7 +4599,6 @@ msgid ""
 msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:3961
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"EX_LILY_ECM_JAMMER_FIELD\"]/event/text"
 msgstr "Вы устанавливаете улучшение."
@@ -4610,12 +4617,14 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Генератор помех ПКБ) Перенацелить ПКБ на атаку противника!"
 
 #: src-en/data/events_special_storage.xml.append:3990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_ECM_ASB_RETARGET\"]/text"
 msgstr ""
+"Вы используете свое современное оборудование, чтобы перенаправить ПКБ и "
+"заставить ее стрелять по вражескому кораблю!"
 
 #: src-en/data/events_special_storage.xml.append:3994
 msgid ""
@@ -4674,13 +4683,13 @@ msgstr "Включить звуки нацеливания ядра."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Отключить звуки Комплекса РЭБ."
 
 #: src-en/data/events_special_storage.xml.append:4063
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "Включить звуки Комплекса РЭБ."
 
 #: src-en/data/events_special_storage.xml.append:4076
 msgid ""
