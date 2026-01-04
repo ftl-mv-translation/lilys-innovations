@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_harmony.xml.append:9
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[1]/text"
+msgstr "(Baie d'infusion) Donnez-leur des infusions."
+
+#: src-en/data/events_sector_harmony.xml.append:11
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"Vous distribuez des infusions stimulantes faites dans votre baie d'infusion "
+"aux Engi et à leurs compagnons Limaces. Immédiatement, les fêtards "
+"deviennent plus énergiques et excités. L'Engi, qui tremble visiblement, vous"
+" paie avant de se précipiter pour rejoindre ses compagnons Limaces, qui "
+"semblent rebondir dans la pièce."
+
+#: src-en/data/events_sector_harmony.xml.append:16
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[2]/text"
+msgstr "(Dispersion de particules) Partagez des stimulants."
+
+#: src-en/data/events_sector_harmony.xml.append:18
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"La dispersion de particules stimulantes fonctionne parfaitement - et vous "
+"partagez une partie de la substance avec les Engi et leurs compagnons "
+"Limaces. Immédiatement, les fêtards deviennent plus énergiques et excités. "
+"L'Engi, qui tremble visiblement, vous paie avant de se précipiter pour "
+"rejoindre ses compagnons Limaces, qui semblent rebondir dans la pièce."

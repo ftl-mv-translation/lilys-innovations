@@ -1,0 +1,432 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_tooltips.xml.append:2
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor\"]"
+msgstr ""
+"Blindage ablatif : Fournit des couches de blindage protégeant la coque, les "
+"systèmes et l'équipage des dégâts. Les couches de blindage endommagées "
+"réduisent la chance que les dégâts du système ou de l'équipage soient "
+"absorbés."
+
+#: src-en/data/text_tooltips.xml.append:3
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_enemy\"]"
+msgstr ""
+"Blindage ablatif : Fournit des couches de blindage protégeant la coque, les "
+"systèmes et l'équipage des dégâts. Les couches de blindage endommagées "
+"réduisent la chance que les dégâts du système ou de l'équipage soient "
+"absorbés."
+
+#: src-en/data/text_tooltips.xml.append:4
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer\"]"
+msgstr ""
+"Neutralisateur de choc : Augmente le taux de dissipation ionique des salles "
+"affectées et leur fournit un bonus de puissance lors des tempêtes ioniques. "
+"Les salles affectées ont une bordure vert-bleu."
+
+#: src-en/data/text_tooltips.xml.append:5
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_enemy\"]"
+msgstr ""
+"Neutralisateur de choc : Augmente le taux de dissipation ionique des salles "
+"affectées et leur fournit un bonus de puissance lors des tempêtes ioniques. "
+"Les salles affectées ont une bordure vert-bleu."
+
+#: src-en/data/text_tooltips.xml.append:6
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay\"]"
+msgstr ""
+"Baie d'infusion : Produit des infusions au fil du temps, qui peuvent ensuite"
+" être récupérées par l'équipage et utilisées pour une variété de bonus."
+
+#: src-en/data/text_tooltips.xml.append:7
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_enemy\"]"
+msgstr ""
+"Baie d'infusion : Produit des infusions au fil du temps, qui peuvent ensuite"
+" être récupérées par l'équipage et utilisées pour une variété de bonus."
+
+#: src-en/data/text_tooltips.xml.append:8
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers\"]"
+msgstr ""
+"Supports de système : Protège vos systèmes des dégâts en les absorbant eux-"
+"mêmes. Est réparé à la moitié du taux habituel."
+
+#: src-en/data/text_tooltips.xml.append:9
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_enemy\"]"
+msgstr ""
+"Supports de système : Protège les systèmes de votre ennemi des dégâts en les"
+" absorbant eux-mêmes. Est réparé à la moitié du taux habituel."
+
+#: src-en/data/text_tooltips.xml.append:10
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner\"]"
+msgstr ""
+"Revêtement en fibres : Protège votre équipage en réduisant les dégâts "
+"d'équipage des projectiles touchant la coque de votre vaisseau. Subit des "
+"dégâts en fonction des dégâts d'équipage absorbés."
+
+#: src-en/data/text_tooltips.xml.append:11
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_enemy\"]"
+msgstr ""
+"Revêtement en fibres : Protège l'équipage de votre ennemi en réduisant les "
+"dégâts d'équipage des projectiles touchant la coque du vaisseau ennemi. "
+"Subit des dégâts en fonction des dégâts d'équipage absorbés."
+
+#: src-en/data/text_tooltips.xml.append:12
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core\"]"
+msgstr ""
+"Noyau de ciblage dédié : Marque les salles sur le vaisseau ennemi. Les "
+"salles marquées sont plus susceptibles d'être ciblées, et les projectiles "
+"qui les visent ont un bonus de précision."
+
+#: src-en/data/text_tooltips.xml.append:13
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_enemy\"]"
+msgstr ""
+"Noyau de ciblage dédié : Marque les salles sur votre vaisseau. Les salles "
+"marquées sont plus susceptibles d'être ciblées, et les projectiles qui les "
+"visent ont un bonus de précision."
+
+#: src-en/data/text_tooltips.xml.append:14
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite\"]"
+msgstr ""
+"Suite ECM : Projette des signaux de brouillage pouvant affecter les drones, "
+"les missiles et les systèmes ennemis."
+
+#: src-en/data/text_tooltips.xml.append:15
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_enemy\"]"
+msgstr ""
+"Suite ECM : Projette des signaux de brouillage pouvant affecter vos drones, "
+"vos missiles et vos systèmes."
+
+#: src-en/data/text_tooltips.xml.append:17
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_disabled\"]"
+msgstr "Désactivé."
+
+#: src-en/data/text_tooltips.xml.append:19
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_level\"]"
+msgstr "Protection : %s dgt"
+
+#: src-en/data/text_tooltips.xml.append:21
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_level\"]"
+msgstr "PV : %s"
+
+#: src-en/data/text_tooltips.xml.append:23
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_disabled\"]"
+msgstr "Désactivé. Les infusions ne peuvent pas être activées."
+
+#: src-en/data/text_tooltips.xml.append:24
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_level\"]"
+msgstr "%s charges max, %ss / charge"
+
+#: src-en/data/text_tooltips.xml.append:26
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_level\"]"
+msgstr "Force du noyau : %s"
+
+#: src-en/data/text_tooltips.xml.append:27
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_manning\"]"
+msgstr "Bonus d'équipage : +0,5/0,75/1 Force du noyau."
+
+#: src-en/data/text_tooltips.xml.append:29
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
+msgstr "Taux : %sx / Bonus de puissance : %s"
+
+#: src-en/data/text_tooltips.xml.append:31
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_disabled\"]"
+msgstr "Régén. désactivée."
+
+#: src-en/data/text_tooltips.xml.append:32
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level\"]"
+msgstr "PV : %s /Régén. : %sx"
+
+#: src-en/data/text_tooltips.xml.append:33
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2\"]"
+msgstr "PV : %s / Régén. : %sx"
+
+#: src-en/data/text_tooltips.xml.append:34
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level_ion\"]"
+msgstr "PV : %s /Régén. : %sx / Rés. I. : %s"
+
+#: src-en/data/text_tooltips.xml.append:35
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2_ion\"]"
+msgstr "PV : %s / Régén. : %sx / Résistance Ionique : %s"
+
+#: src-en/data/text_tooltips.xml.append:36
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_manning\"]"
+msgstr "Bonus d'équipage : 20/40/60 % de régén. plus rapide."
+
+#: src-en/data/text_tooltips.xml.append:38
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_disabled\"]"
+msgstr ""
+"Désactivé : Les effets actifs et passifs sont désactivés et perdent "
+"rapidement les charges accumulées."
+
+#: src-en/data/text_tooltips.xml.append:39
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_level\"]"
+msgstr "%s charges max, %ss / charge"
+
+#: src-en/data/text_tooltips.xml.append:43
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_locked\"]"
+msgstr "Cette infusion est actuellement verrouillée."
+
+#: src-en/data/text_tooltips.xml.append:44
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_reconstitution\"]"
+msgstr "Activer les infusions de reconstitution transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:45
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_combatstimulant\"]"
+msgstr "Activer les infusions stimulantes de combat transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:46
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_gaseous\"]"
+msgstr "Activer les infusions gazeuses transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:47
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_overloaded\"]"
+msgstr "Activer les infusions surchargées transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:48
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_chaotic\"]"
+msgstr "Activer les infusions chaotiques transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:49
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_fireborne\"]"
+msgstr "Activer les infusions ignées transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:50
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_explosive\"]"
+msgstr "Activer les infusions explosives transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:51
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_phoenix\"]"
+msgstr "Activer les infusions phénix transportées. Effets :"
+
+#: src-en/data/text_tooltips.xml.append:52
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_reconstitution\"]"
+msgstr ""
+"Confère une résistance aux dégâts de combat de 0,85x, une régénération de "
+"santé de 1,5 pv/s, une vitesse de déplacement de 0,5x pendant la durée. 45 "
+"PV/% de soin, 14 secondes de maladie."
+
+#: src-en/data/text_tooltips.xml.append:53
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_combatstimulant\"]"
+msgstr ""
+"Confère 1,5x de dégâts de combat, de dégâts aux portes et de vitesse de "
+"déplacement, qui diminuent au cours de l'effet (1,25x après 5 secondes, 1,1x"
+" après 10 secondes). 15 PV/% de soin, 21 secondes de maladie."
+
+#: src-en/data/text_tooltips.xml.append:54
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_gaseous\"]"
+msgstr ""
+"Confère une immunité à la suffocation/au feu/au contrôle mental, une "
+"téléportation intra-vaisseau, mais les dégâts de combat sont réduits à 0,5x."
+" 30 PV/% de soin, 7 secondes de maladie."
+
+#: src-en/data/text_tooltips.xml.append:55
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_overloaded\"]"
+msgstr ""
+"Étourdit soi-même et tout l'équipage à proximité pendant 5 secondes et "
+"inflige 2 dégâts ioniques au système. Les systèmes de votre vaisseau voient "
+"1 ion retiré à la place. 30 PV/% de soin, 21 secondes de maladie."
+
+#: src-en/data/text_tooltips.xml.append:56
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_chaotic\"]"
+msgstr ""
+"Applique un effet d'une autre infusion aléatoire. Espérons qu'il n'y ait pas"
+" d'effets indésirables sur votre équipage. 15 à 75 PV/% de soin, 7 secondes "
+"de maladie."
+
+#: src-en/data/text_tooltips.xml.append:57
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_fireborne\"]"
+msgstr ""
+"Déclenche un incendie dans la salle actuelle. Confère la capacité de se "
+"soigner des incendies pendant la durée, mais fait également suffoquer votre "
+"équipage à vitesse rapide, même s'il est normalement immunisé. 15 PV/% de "
+"soin, 21 secondes de maladie."
+
+#: src-en/data/text_tooltips.xml.append:58
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_explosive\"]"
+msgstr ""
+"Explose, infligeant 15 PV de dégâts à tous les ennemis dans la salle. Les "
+"systèmes des vaisseaux ennemis subissent 1 dégât, tandis que ceux de votre "
+"vaisseau sont réparés d'1 barre à la place. 15 PV/% de soin, 14 secondes de "
+"maladie."
+
+#: src-en/data/text_tooltips.xml.append:59
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
+msgstr ""
+"L'équipage ne peut pas mourir pendant la durée. S'il subit des dégâts qui le"
+" tueraient normalement, il est plutôt soigné à pleine santé et téléporté à "
+"la Baie d'infusion. Lorsque cet effet se déclenche, les alliés dans la même "
+"salle sont soignés de 30 PV/%, et la Baie d'infusion subit 1 dégât ionique "
+"irrésistible avec une durée de verrouillage doublée. Ne sauvera pas vos "
+"abordeurs si le vaisseau ennemi explose. 15 PV/% de soin, 14 secondes de "
+"maladie."
+
+#: src-en/data/text_tooltips.xml.append:61
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
+msgstr ""
+"Sélectionnez la salle cible pour le Neutralisateur de choc.\\nTouche : %s"
+
+#: src-en/data/text_tooltips.xml.append:63
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
+msgstr ""
+"Sélectionnez la salle à verrouiller pour le Noyau de ciblage.\\nTouche : %s"
+
+#: src-en/data/text_tooltips.xml.append:64
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_notready\"]"
+msgstr "Système non prêt."
+
+#: src-en/data/text_tooltips.xml.append:65
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_noship\"]"
+msgstr "Aucun vaisseau hostile à cibler n'est présent."
+
+#: src-en/data/text_tooltips.xml.append:67
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge_locked\"]"
+msgstr "Verrouillé."
+
+#: src-en/data/text_tooltips.xml.append:68
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge\"]"
+msgstr ""
+"Cliquez pour activer le mode Surcharge. Dans ce mode, toutes les capacités actives du système sont désactivées et ne peuvent pas être activées, mais le système gagne des charges à un taux de 2x. \n"
+"Durée de 10 secondes, temps de recharge de 20 secondes. Sera automatiquement désactivé si les charges maximales sont atteintes."
+
+#: src-en/data/text_tooltips.xml.append:70
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_offdrones\"]"
+msgstr ""
+"Cliquez pour activer le Brouillage de drones offensifs. \n"
+"Une fois actif, les drones offensifs ennemis seront incapables de cibler votre vaisseau, et les drones d'abordage deviendront incapables d'attaquer ou de se déplacer. Durée de 10 secondes, temps de recharge de 5 secondes. Nécessite 2 charges."
+
+#: src-en/data/text_tooltips.xml.append:71
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_defdrones\"]"
+msgstr ""
+"Cliquez pour activer le Brouillage de drones défensifs. \n"
+"Une fois actif, les drones défensifs ennemis seront incapables de cibler quoi que ce soit. \n"
+"Durée de 10 secondes, temps de recharge de 5 secondes. Nécessite 3 charges."
+
+#: src-en/data/text_tooltips.xml.append:72
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_missiles\"]"
+msgstr ""
+"Cliquez pour activer le Brouillage de missiles. \n"
+"Une fois actif, les missiles ennemis tirés sur votre vaisseau manqueront leur cible ou exploseront en plein vol. Durée de 5 secondes, temps de recharge de 10 secondes. Nécessite 2 charges."
+
+#: src-en/data/text_tooltips.xml.append:73
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_counter\"]"
+msgstr ""
+"Cliquez pour activer le mode ECCM. \n"
+"Une fois actif, il contrera automatiquement les capacités ECM ennemies, dépensant une quantité de charges égale à la quantité dépensée par l'ennemi. Si les charges sont insuffisantes, cela n'aura aucun effet. Contre également le Contrôle mental et le Piratage ennemis, coûtant respectivement 2 et 3 charges. Durée de 20 secondes, temps de recharge de 10 secondes. Nécessite 1 charge."
+
+#: src-en/data/text_tooltips.xml.append:74
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_jammer\"]"
+msgstr ""
+"Cliquez pour sélectionner la salle cible pour le Brouillage de signal système. Une fois actif, le système ennemi ciblé sera perturbé, soit en fonctionnant à une efficacité réduite, soit en étant limité par un nombre de barres égal à la moitié des charges dépensées. \n"
+"Ne peut pas limiter le système de survie, ni tout système de niveau 3 (ou supérieur) à 0 barre. \n"
+"Durée de 10 secondes, temps de recharge de 15 secondes. Nécessite 2/4/6/8 charges (variable)."
+
+#: src-en/data/text_tooltips.xml.append:75
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_electro\"]"
+msgstr ""
+"Cliquez pour sélectionner la salle cible pour le Brouillage EM système. Une fois actif, le système ennemi ciblé dissipera l'ionisation (y compris les temps de recharge) 50 % plus lentement (10 secondes par dégât ionique). \n"
+"Durée de 20 secondes, temps de recharge de 10 secondes. Nécessite 4 charges."
+
+#: src-en/data/text_tooltips.xml.append:77
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_shields\"]"
+msgstr ""
+"Brouillage de bouclier : réduit le taux de recharge de bouclier ennemi à "
+"x0,7 pour chaque 2 charges dépensées. Se cumule de manière multiplicative."
+
+#: src-en/data/text_tooltips.xml.append:78
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_weapons\"]"
+msgstr ""
+"Brouillage d'armes : réduit le taux de recharge d'armes ennemi à x0,75 pour "
+"chaque 2 charges dépensées. Se cumule de manière multiplicative. Applique "
+"également une pénalité de précision additive de -2,5 % par charge dépensée."
+
+#: src-en/data/text_tooltips.xml.append:79
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_artillery\"]"
+msgstr ""
+"Brouillage d'artillerie : limite temporairement le système par la quantité "
+"de charges dépensées. Applique également une pénalité de précision additive "
+"de -5 % par charge dépensée."
+
+#: src-en/data/text_tooltips.xml.append:80
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_drones\"]"
+msgstr ""
+"Brouillage de drones : limite temporairement le système par la quantité de "
+"charges dépensées. Applique également une précision additive de -5 % pour "
+"les drones par charge dépensée."
+
+#: src-en/data/text_tooltips.xml.append:81
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_oxygen\"]"
+msgstr ""
+"Brouillage d'oxygène : limite temporairement le système de la moitié de la "
+"quantité de charges dépensées. Ne peut pas limiter en dessous d'1 barre."
+
+#: src-en/data/text_tooltips.xml.append:82
+msgid ""
+"data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_misc\"]"
+msgstr ""
+"Brouillage : limite temporairement le système de la moitié de la quantité de"
+" charges dépensées. Ne peut pas limiter en dessous d'1 barre si le niveau du"
+" système est de 3 ou plus."
