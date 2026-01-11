@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-20 08:19+0000\n"
+"PO-Revision-Date: 2026-01-12 03:02+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/lilys-innovations/"
 "dataevents_addon_iconxmlappend/fr/>\n"
@@ -21,7 +21,6 @@ msgstr ""
 "Cliquez pour plus d'informations."
 
 #: src-en/data/events_addon_icon.xml.append:7
-#, fuzzy
 msgid ""
 "data/events_addon_icon.xml.append$//event[@name=\"ADDON_LILYBEAMS_DISABLED\"]/text"
 msgstr ""
@@ -46,7 +45,7 @@ msgstr ""
 "Kix, et tous ceux qui ont travaillé sur FTL : Multiverse (et Hyperspace) ;\n"
 "       \n"
 "Pour activer Lily's Beam Emporium, rendez-vous sur les forums Multiverse et "
-"visitez la section des addons !."
+"visitez la section des addons !"
 
 #: src-en/data/events_addon_icon.xml.append:30
 msgid ""
@@ -57,7 +56,6 @@ msgstr ""
 "Cliquez pour plus d'informations."
 
 #: src-en/data/events_addon_icon.xml.append:32
-#, fuzzy
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_LILYINNO\"]/text"
 msgstr ""
 "Lily's Innovations\n"
@@ -73,4 +71,4 @@ msgstr ""
 "Kix, et tous ceux qui ont travaillé sur FTL : Multiverse (et Hyperspace) ;\n"
 "        \n"
 "Pour activer Lily's Innovations, rendez-vous sur les forums Multiverse et "
-"visitez la section des addons !."
+"visitez la section des addons !"
