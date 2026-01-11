@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-12 03:02+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/lilys-innovations/"
+"dataevents_special_storagexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -164,7 +171,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:139
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -238,7 +244,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:204
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
@@ -289,7 +294,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:249
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
@@ -354,7 +358,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:308
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LILY_TELEPORT_RECALL\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/text"
@@ -438,7 +441,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:376
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[7]/text"
 msgstr "Laisser tomber."
@@ -488,7 +490,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:419
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/text"
@@ -539,7 +540,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:464
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/text"
@@ -590,7 +590,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:509
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/text"
@@ -677,7 +676,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:585
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -727,7 +725,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:630
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -777,7 +774,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:674
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -827,7 +823,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:720
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -910,7 +905,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:790
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[13]/text"
 msgstr "Laisser tomber."
@@ -960,7 +954,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:830
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1010,7 +1003,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:876
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1060,7 +1052,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:920
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1110,7 +1101,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:965
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1160,7 +1150,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1010
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1210,7 +1199,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1055
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1260,7 +1248,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1100
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1325,7 +1312,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1155
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[10]/text"
 msgstr "Laisser tomber."
@@ -1375,7 +1361,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1195
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1425,7 +1410,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1241
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1475,7 +1459,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1286
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1525,7 +1508,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1332
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1565,7 +1547,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1395
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1702,7 +1683,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1487
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1752,7 +1732,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1532
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1802,7 +1781,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1577
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1818,7 +1796,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1594
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_FOURTH\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1939,7 +1916,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1696
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[11]/text"
 msgstr "Laisser tomber."
@@ -1974,7 +1950,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1725
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2009,7 +1984,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1764
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2044,7 +2018,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1801
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2079,7 +2052,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1837
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2114,7 +2086,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1873
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2297,7 +2268,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2021
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[16]/text"
 msgstr "Laisser tomber."
@@ -2343,7 +2313,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2067
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[8]/text"
 msgstr "Laisser tomber."
@@ -2393,7 +2362,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2109
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2443,7 +2411,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2154
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2493,7 +2460,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2200
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2543,7 +2509,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2245
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2593,7 +2558,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2290
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2643,7 +2607,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2336
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2693,7 +2656,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2384
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2743,7 +2705,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2429
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2793,7 +2754,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2473
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2869,7 +2829,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2550
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2919,7 +2878,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2595
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -2978,7 +2936,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2646
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[9]/text"
 msgstr "Laisser tomber."
@@ -3028,7 +2985,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2685
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3078,7 +3034,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2729
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3128,7 +3083,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2773
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3178,7 +3132,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2818
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3228,7 +3181,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2863
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3287,7 +3239,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2912
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[9]/text"
 msgstr "Laisser tomber."
@@ -3337,7 +3288,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2951
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3387,7 +3337,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2996
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3437,7 +3386,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3040
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3487,7 +3435,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3084
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3537,7 +3484,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3130
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3632,7 +3578,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3217
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[15]/text"
 msgstr "Laisser tomber."
@@ -3682,7 +3627,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3258
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3732,7 +3676,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3303
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3782,7 +3725,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3348
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3832,7 +3774,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3392
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3882,7 +3823,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3437
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3932,7 +3872,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3481
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3982,7 +3921,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3525
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4032,7 +3970,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3569
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4139,7 +4076,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3657
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[17]/text"
 msgstr "Laisser tomber."
@@ -4189,7 +4125,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3697
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4239,7 +4174,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3742
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4289,7 +4223,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3788
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4339,7 +4272,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3834
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4389,7 +4321,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3879
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4439,7 +4370,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3925
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4489,7 +4419,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3970
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
