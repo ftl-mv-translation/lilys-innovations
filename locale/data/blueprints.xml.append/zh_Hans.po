@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-21 09:56+0000\n"
+"PO-Revision-Date: 2026-01-21 09:59+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/datablueprintsxmlappend/zh_Hans/>\n"
@@ -220,7 +220,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
-msgstr ""
+msgstr "9伏电池"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -230,7 +230,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:238
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/title"
-msgstr ""
+msgstr "α-甲基苯乙胺"
 
 #: src-en/data/blueprints.xml.append:239
 msgid ""
@@ -240,7 +240,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
-msgstr ""
+msgstr "舱门加固系统"
 
 #: src-en/data/blueprints.xml.append:248
 msgid ""
@@ -250,7 +250,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/title"
-msgstr ""
+msgstr "舱门加固系统。 [X]"
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
@@ -261,7 +261,7 @@ msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用�
 #: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/title"
-msgstr ""
+msgstr "备用供氧系统"
 
 #: src-en/data/blueprints.xml.append:265
 msgid ""
@@ -271,7 +271,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:271
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/title"
-msgstr ""
+msgstr "备用供氧系统 [X]"
 
 #: src-en/data/blueprints.xml.append:272
 msgid ""
@@ -282,7 +282,7 @@ msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用�
 #: src-en/data/blueprints.xml.append:281
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/title"
-msgstr ""
+msgstr "舱门紧急锁定装置"
 
 #: src-en/data/blueprints.xml.append:282
 msgid ""
@@ -292,7 +292,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/title"
-msgstr ""
+msgstr "舱门紧急锁定装置 [X]"
 
 #: src-en/data/blueprints.xml.append:289
 msgid ""
@@ -303,7 +303,7 @@ msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用�
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr ""
+msgstr "过载涌流系统"
 
 #: src-en/data/blueprints.xml.append:299
 msgid ""
@@ -313,7 +313,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:305
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr ""
+msgstr "Bat. 过载涌流系统 [X]"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
