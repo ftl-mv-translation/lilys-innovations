@@ -1,14 +1,24 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-21 12:06+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-innovations/dataevents_special_boonsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_boons.xml.append:3
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ABLATIVE_ARMOR\"]/text"
 msgstr ""
+"不知从何处，一个声音在你脑海中响起：「[烧蚀]授予协议……已、已安装！安装完毕！"
+"协议提供：每次跃迁后修复一点船体损伤。若、若你遇见……上一位挑战者；请代我致谢"
+"。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:6
 #, fuzzy
@@ -20,6 +30,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_TARGETING_CORE\"]/text"
 msgstr ""
+"不知从何处，一个声音在你脑海中响起：「[定位]授予协议……已、已安装！安装完毕！"
+"协议予礼：你所有武器与无人机的命中率额外提升10%。若、若你遇见……上一位挑战者；"
+"请代我致谢。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:16
 #, fuzzy
@@ -31,6 +44,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ECM_SUITE\"]/text"
 msgstr ""
+"不知从何处，一个声音在你脑海中响起：「[电子对抗]授予协议……已、已安装！安装完"
+"毕！协议予礼：令所有敌人的护盾充能速度减慢20%，武器装填速度减慢10%……若、若你"
+"遇见……上一位挑战者；请代我致谢。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:26
 #, fuzzy
@@ -42,6 +58,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SHOCK_NEUTRALIZER\"]/text"
 msgstr ""
+"不知从何处，一个声音在你脑海中响起：「[中和]授予协议……已、已安装！安装完毕！"
+"协议予礼：你舰船的离子消散速率提升10%……若、若你遇见……上一位挑战者；请代我致谢"
+"。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:36
 #, fuzzy
@@ -53,6 +72,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_INFUSION_BAY\"]/text"
 msgstr ""
+"不知从何处，一个声音在你脑海中响起。“[注射]授予协议……已、已安装！安装完毕！协"
+"议予礼：你医疗室内的友方单位获得50%伤害抗性及25%最大生命值加成……若、若你遇见…"
+"…上一位挑战者；请代我致谢。我也建议你……来拜访我。”"
 
 #: src-en/data/events_special_boons.xml.append:46
 #, fuzzy
@@ -64,6 +86,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SYSTEM_BRACERS\"]/text"
 msgstr ""
+"不知从何处，一个声音在你脑海中响起：「[支撑]授予协议……已、已安装！安装完毕！"
+"协议予礼：移除系统防护支架的修复速度减益……若、若你遇见……上一位挑战者；请代我"
+"致谢。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:56
 #, fuzzy
@@ -75,6 +100,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_FIBER_LINER\"]/text"
 msgstr ""
+"不知从何处，一个声音在你脑海中响起。“[纤维]授予协议……已、已安装！安装完毕！协"
+"议予礼：你的船员现在受到的所有伤害仅生效85%……若、若你遇见……上一位挑战者；请代"
+"我致谢。我也建议你……来拜访我。”"
 
 #: src-en/data/events_special_boons.xml.append:66
 #, fuzzy
