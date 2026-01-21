@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-21 10:38+0000\n"
+"PO-Revision-Date: 2026-01-21 11:43+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/datablueprintsxmlappend/zh_Hans/>\n"
@@ -882,13 +882,16 @@ msgstr "结构力场发生器 [X]"
 #: src-en/data/blueprints.xml.append:733
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"系统增强支架现在也可保护系统免受其他来源的损害，例如破坏伤害与火灾。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/title"
-msgstr ""
+msgstr "以太结构力场"
 
 #: src-en/data/blueprints.xml.append:744
 msgid ""
@@ -898,18 +901,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:750
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/title"
-msgstr ""
+msgstr "以太结构力场 [X]"
 
 #: src-en/data/blueprints.xml.append:751
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"受系统增强支架保护的系统，其遭受破坏的速度减半，并对入侵的敌方船员造成每秒2点"
+"生命值的伤害。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:762
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr ""
+msgstr "星图测绘套件"
 
 #: src-en/data/blueprints.xml.append:763
 msgid ""
@@ -919,13 +926,16 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:769
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr ""
+msgstr "星图测绘套件 [X]"
 
 #: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"允许你收集当前整个星区内所有信标的信息。需要舰船保持静止一段时间。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:779
 msgid ""
@@ -940,18 +950,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:786
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/title"
-msgstr ""
+msgstr "星区扫描仪 [X]"
 
 #: src-en/data/blueprints.xml.append:787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"允许你在旅程中收集更多关于星区的信息，并在进行跨星区跃迁时，揭示所有可选星区"
+"的确切名称。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:796
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/title"
-msgstr ""
+msgstr "紧急传送召回"
 
 #: src-en/data/blueprints.xml.append:797
 msgid ""
@@ -961,18 +975,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/title"
-msgstr ""
+msgstr "紧急传送召回 [X]"
 
 #: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"若敌舰被摧毁或即将跃迁，将自动把你的船员传送回己方舰船。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:813
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/title"
-msgstr ""
+msgstr "备用维修协议"
 
 #: src-en/data/blueprints.xml.append:814
 msgid ""
@@ -982,18 +999,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:820
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/title"
-msgstr ""
+msgstr "备用维修协议[X]"
 
 #: src-en/data/blueprints.xml.append:821
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"即使在没有船员的情况下，也会缓慢修复你的克隆舱系统。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:831
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr ""
+msgstr "全频谱阵列"
 
 #: src-en/data/blueprints.xml.append:832
 msgid ""
@@ -1003,18 +1023,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:838
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr ""
+msgstr "全频谱阵列 [X]"
 
 #: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"使专用定位核心的命中率加成效果翻倍，且在目标处于隐形状态时，允许武器以每点核"
+"心强度提供常规速度20%的速率进行充能。同时，提供的视野将扩展至相邻舱室。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:848
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/title"
-msgstr ""
+msgstr "预判锁定"
 
 #: src-en/data/blueprints.xml.append:849
 msgid ""
@@ -1024,18 +1048,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:855
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/title"
-msgstr ""
+msgstr "预判锁定 [X]"
 
 #: src-en/data/blueprints.xml.append:856
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"若敌舰配备隐形系统，将在战斗开始时自动并立即锁定它。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:866
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/title"
-msgstr ""
+msgstr "武器强化调校"
 
 #: src-en/data/blueprints.xml.append:867
 msgid ""
@@ -1045,18 +1072,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:873
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/title"
-msgstr ""
+msgstr "武器强化调校 [X]"
 
 #: src-en/data/blueprints.xml.append:874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"若武器具有起火/穿透/眩晕几率，则该几率将提升（核心强度 * 5%）。（结果向上取整"
+"至最近的10%）\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/title"
-msgstr ""
+msgstr "武器充能优化"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
@@ -1066,18 +1097,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:892
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/title"
-msgstr ""
+msgstr "武器充能优化 [X]"
 
 #: src-en/data/blueprints.xml.append:893
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"专用定位核心现在额外提供每点核心强度5%的武器再装填速度提升。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/title"
-msgstr ""
+msgstr "纳米制导系统"
 
 #: src-en/data/blueprints.xml.append:904
 msgid ""
@@ -1087,18 +1121,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:910
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/title"
-msgstr ""
+msgstr "纳米制导系统 [X]"
 
 #: src-en/data/blueprints.xml.append:911
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"具有散射属性的武器（例如破片炮），其弹着点将尝试更靠近瞄准目标，修正幅度为每"
+"点核心强度10个单位距离。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/title"
-msgstr ""
+msgstr "弱点数据上行链路"
 
 #: src-en/data/blueprints.xml.append:921
 msgid ""
@@ -1108,18 +1146,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:927
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/title"
-msgstr ""
+msgstr "弱点数据上行链路 [X]"
 
 #: src-en/data/blueprints.xml.append:928
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"位于被锁定舱室内的我方船员，每点核心强度将额外造成20%的破坏伤害与5%的战斗伤害"
+"。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr ""
+msgstr "处理器超频"
 
 #: src-en/data/blueprints.xml.append:938
 msgid ""
@@ -1129,18 +1171,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:944
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr ""
+msgstr "处理器超频[X]"
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"将专用锁定核心锁定一个舱室所需的时间从6秒缩短至1.5秒。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr ""
+msgstr "多线程锁定"
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
@@ -1150,18 +1195,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:961
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr ""
+msgstr "多线程锁定 [X]"
 
 #: src-en/data/blueprints.xml.append:962
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"专用锁定核心现在会将其全部效果完整作用于与直接锁定目标相邻的舱室。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:973
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/title"
-msgstr ""
+msgstr "冷却通讯干扰器"
 
 #: src-en/data/blueprints.xml.append:974
 msgid ""
@@ -1171,18 +1219,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:980
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/title"
-msgstr ""
+msgstr "冷却通讯干扰器 [X]"
 
 #: src-en/data/blueprints.xml.append:981
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"ECM套件的进攻与防御性无人机干扰能力现在拥有即时冷却。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:990
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/title"
-msgstr ""
+msgstr "ECM 电容阵列"
 
 #: src-en/data/blueprints.xml.append:991
 msgid ""
@@ -1192,18 +1243,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:997
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/title"
-msgstr ""
+msgstr "ECM 电容阵列 [X]"
 
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"ECM套件的最大充能层数增加1层，上限为8层。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1007
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/title"
-msgstr ""
+msgstr "“忠嗣”反导系统"
 
 #: src-en/data/blueprints.xml.append:1008
 msgid ""
@@ -1213,18 +1267,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1014
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/title"
-msgstr ""
+msgstr "“忠嗣”反导系统[X]"
 
 #: src-en/data/blueprints.xml.append:1015
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"ECM套件的导弹干扰能力，现在可将敌方导弹重新导向其发射源。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1024
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr ""
+msgstr "超载协议"
 
 #: src-en/data/blueprints.xml.append:1025
 msgid ""
@@ -1234,18 +1291,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr ""
+msgstr "超载协议[X]"
 
 #: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"ECM套件获得一项新能力：临时将其充能速度提升一倍，但在该效果持续期间无法使用其"
+"他能力。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "ASB 扰频器"
 
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
@@ -1255,18 +1316,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1048
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "ASB 扰频器[X]"
 
 #: src-en/data/blueprints.xml.append:1049
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"只要你的ECM系统处于供能状态，即可防止敌意的 ASB命中你的舰船。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1058
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr ""
+msgstr "离子反制力场"
 
 #: src-en/data/blueprints.xml.append:1059
 msgid ""
@@ -1276,18 +1340,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1065
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr ""
+msgstr "离子反制力场 [X]"
 
 #: src-en/data/blueprints.xml.append:1066
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"当你的ECM系统处于供能状态时，敌方离子抗性降低50%。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr ""
+msgstr "干扰屏障"
 
 #: src-en/data/blueprints.xml.append:1076
 msgid ""
@@ -1297,28 +1364,35 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1082
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr ""
+msgstr "干扰屏障[X]"
 
 #: src-en/data/blueprints.xml.append:1083
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"当你的ECM系统处于供能状态时，被动降低敌方命中率10%、装填速度15%、护盾充能速度"
+"20%。但此系统自身获取充能的速度会降低25%。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1092
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/title"
-msgstr ""
+msgstr "明科夫斯基张量效应器"
 
 #: src-en/data/blueprints.xml.append:1093
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/desc"
 msgstr ""
+"一款在基础星团之外设计的先进ECM模块，利用相对论效应放大系统干扰。当ECM系统供"
+"能时，其无人机干扰能力将永久处于激活状态。此外，可防止敌方ASB命中你的舰船，降"
+"低敌方50%的离子抗性及15%的武器命中率。"
 
 #: src-en/data/blueprints.xml.append:1101
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "临时扰频器"
 
 #: src-en/data/blueprints.xml.append:1102
 msgid ""
@@ -1328,7 +1402,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/title"
-msgstr ""
+msgstr "纤维强化工事"
 
 #: src-en/data/blueprints.xml.append:1112
 msgid ""
@@ -1338,7 +1412,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1120
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/title"
-msgstr ""
+msgstr "双重编织"
 
 #: src-en/data/blueprints.xml.append:1121
 msgid ""
@@ -1348,18 +1422,21 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/title"
-msgstr ""
+msgstr "双重编织 [X]"
 
 #: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"纤维内衬的防护效果现在提升至两倍，但船员对其的修复速度减半。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/title"
-msgstr ""
+msgstr "危险物质防护层"
 
 #: src-en/data/blueprints.xml.append:1138
 msgid ""
@@ -1369,18 +1446,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/title"
-msgstr ""
+msgstr "危险物质防护层 [X]"
 
 #: src-en/data/blueprints.xml.append:1145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"纤维内衬现在还能降低击中你船体的弹体与光束所造成异常状态（起火、击穿、眩晕）"
+"的几率。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/title"
-msgstr ""
+msgstr "动态优先级"
 
 #: src-en/data/blueprints.xml.append:1155
 msgid ""
@@ -1390,18 +1471,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/title"
-msgstr ""
+msgstr "动态优先级[X]"
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"纤维内衬现在仅对有我方船员在场的舱室提供防护（也因此仅在这些舱室承受损伤）。"
+"\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/title"
-msgstr ""
+msgstr "活体纤维"
 
 #: src-en/data/blueprints.xml.append:1172
 msgid ""
@@ -1411,18 +1496,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/title"
-msgstr ""
+msgstr "活体纤维 [X]"
 
 #: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"一种特殊的活体纤维内衬材料，能够汲取你舰船上的能量泄漏，并即使在没有船员的情"
+"况下也能自然再生。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1189
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/title"
-msgstr ""
+msgstr "以太纤维织物"
 
 #: src-en/data/blueprints.xml.append:1190
 msgid ""
@@ -1432,18 +1521,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/title"
-msgstr ""
+msgstr "以太纤维织物 [X]"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"由注入了以太的活体纤维制成的特殊衣物。为你的船员提供20%的全伤害减免与持续每秒"
+"2点的生命恢复。额外提供能量加成的船员，还将获得+30%的伤害与修复能力提升。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/title"
-msgstr ""
+msgstr "烧蚀装甲予礼"
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
@@ -1453,7 +1546,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/title"
-msgstr ""
+msgstr "烧蚀装甲予礼"
 
 #: src-en/data/blueprints.xml.append:1278
 msgid ""
@@ -1463,7 +1556,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/title"
-msgstr ""
+msgstr "专用定位核心予礼"
 
 #: src-en/data/blueprints.xml.append:1286
 msgid ""
