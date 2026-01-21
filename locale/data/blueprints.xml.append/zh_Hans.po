@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-21 11:43+0000\n"
+"PO-Revision-Date: 2026-01-21 11:52+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/datablueprintsxmlappend/zh_Hans/>\n"
@@ -1566,7 +1566,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1293
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/title"
-msgstr ""
+msgstr "注射舱予礼"
 
 #: src-en/data/blueprints.xml.append:1294
 msgid ""
@@ -1576,7 +1576,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1301
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/title"
-msgstr ""
+msgstr "ECM套件予礼"
 
 #: src-en/data/blueprints.xml.append:1302
 msgid ""
@@ -1586,7 +1586,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1309
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/title"
-msgstr ""
+msgstr "系统防护支架予礼"
 
 #: src-en/data/blueprints.xml.append:1310
 msgid ""
@@ -1596,7 +1596,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/title"
-msgstr ""
+msgstr "碳纤维内衬予礼"
 
 #: src-en/data/blueprints.xml.append:1318
 msgid ""
