@@ -1,84 +1,105 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-21 05:57+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-innovations/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/title"
-msgstr ""
+msgstr "烧蚀装甲"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/desc"
 msgstr ""
+"为您的舰船提供一层装甲，能在船体受损前吸收伤害，并缓慢修复。更高级别可提供更"
+"多装甲值、更快的恢复速度以及对离子武器的抗性。其修复速度受维修部门的人员配备"
+"水平影响。"
 
 #: src-en/data/blueprints.xml.append:40
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/title"
-msgstr ""
+msgstr "专用定位核心"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/desc"
 msgstr ""
+"锁定敌方舰船的舱室。被锁定的舱室更容易被无人机集火，其视野始终可见，且瞄准它"
+"们的射弹武器获得额外命中率。\n"
+"每点“核心强度”提供+5%命中率，通过内部升级还可能产生其他效果。\n"
+"当敌人处于隐身状态时，该系统提供的额外命中率翻倍，武器充能速度为核心强度 * "
+"20%，并会生成一个全息影像来维持舱室视野。"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/title"
-msgstr ""
+msgstr "震荡中和器"
 
 #: src-en/data/blueprints.xml.append:58
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/desc"
 msgstr ""
+"提高目标舱室的离子消散速率，既可帮助其从离子武器攻击中恢复，也能减少其系统的"
+"冷却时间。此外，在离子风暴中或靠近脉冲星时，还会为该舱室提供额外能量。"
 
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/title"
-msgstr ""
+msgstr "注射舱"
 
 #: src-en/data/blueprints.xml.append:76
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/desc"
-msgstr ""
+msgstr "（随时间）自动生成注射剂。船员进入该舱室时，若有可用的注射剂，便会拾取并携带"
+"。船员携带的注射剂可在之后通过Ui界面主动激活。"
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/title"
-msgstr ""
+msgstr "ECM套件"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/desc"
-msgstr ""
+msgstr "解锁一系列可主动激活的能力，用于干扰敌方无人机、弹体或舰船系统。对无人机尤其"
+"有效。"
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/title"
-msgstr ""
+msgstr "系统防护支架"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/desc"
-msgstr ""
+msgstr "被动保护你的舰船系统免受伤害，将系统受到的伤害引导至自身（只要其本身未被摧毁"
+"）。然而，相较于其他系统，它的修复速度仅为正常速度的一半。"
 
 #: src-en/data/blueprints.xml.append:120
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/title"
-msgstr ""
+msgstr "碳纤维内衬"
 
 #: src-en/data/blueprints.xml.append:121
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/desc"
-msgstr ""
+msgstr "通过降低击中你舰船的弹体和光束对船员的伤害来保护船员，减免量取决于该系统等级"
+"。该系统有20%的几率，每吸收1点船员伤害，自身承受1点系统损伤。"
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
-msgstr ""
+msgstr "装甲防护支架"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
@@ -88,17 +109,22 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/title"
-msgstr ""
+msgstr "装甲支架强化。[X]"
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/desc"
 msgstr ""
+"位于装甲支架强化舱室内的我方船员受到的所有伤害减半，且敌方船员对该系统的破坏"
+"效率减半。\n"
+"…\n"
+"\t\t[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件"
+"槽位。可在内部升级菜单中，免费将其转换为内置版本。"
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/title"
-msgstr ""
+msgstr "智能登舰部署系统"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
@@ -108,20 +134,30 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/title"
-msgstr ""
+msgstr "智能登舰部署系统[X]"
 
 #: src-en/data/blueprints.xml.append:161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/desc"
 msgstr ""
+"使你的登舰无人机优先降落于敌方的重要舱室。\n"
+"…\n"
+"[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
+"。可在内部升级菜单中，免费将其转换为内置版本。"
 
 #: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
-msgstr ""
+msgstr "高级气循[X]"
 
 #: src-en/data/blueprints.xml.append:172
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
 msgstr ""
+"氧气系统现优先保障我方船员，在有船员存在的舱室内，氧气补充速度提升80%。对敌方"
+"船员与火灾则产生相反效果，会抽干该区域氧气。此效果需系统供能方可生效，且效能"
+"随分配能量高低而变化。\n"
+"\n"
+"[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
+"。可在内部升级菜单中，免费将其转换为内置版本。"
 
 #: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
@@ -134,7 +170,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
-msgstr ""
+msgstr "馨香花束"
 
 #: src-en/data/blueprints.xml.append:191
 msgid ""
@@ -144,7 +180,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:198
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/title"
-msgstr ""
+msgstr "工业润滑剂"
 
 #: src-en/data/blueprints.xml.append:199
 msgid ""
@@ -154,7 +190,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:206
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
-msgstr ""
+msgstr "金属与火药"
 
 #: src-en/data/blueprints.xml.append:207
 msgid ""
@@ -164,7 +200,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
-msgstr ""
+msgstr "北极风"
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
@@ -174,7 +210,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/title"
-msgstr ""
+msgstr "青金石"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
@@ -219,7 +255,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
-msgstr ""
+msgstr "[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
+"。可在内部升级菜单中，免费将其转换为内置版本。"
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
@@ -239,7 +276,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:272
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
-msgstr ""
+msgstr "[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
+"。可在内部升级菜单中，免费将其转换为内置版本。"
 
 #: src-en/data/blueprints.xml.append:281
 msgid ""
@@ -259,7 +297,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:289
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
-msgstr ""
+msgstr "[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
+"。可在内部升级菜单中，免费将其转换为内置版本。"
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
