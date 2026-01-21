@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-21 05:57+0000\n"
+"PO-Revision-Date: 2026-01-21 09:56+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/datablueprintsxmlappend/zh_Hans/>\n"
@@ -118,8 +118,8 @@ msgstr ""
 "位于装甲支架强化舱室内的我方船员受到的所有伤害减半，且敌方船员对该系统的破坏"
 "效率减半。\n"
 "…\n"
-"\t\t[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件"
-"槽位。可在内部升级菜单中，免费将其转换为内置版本。"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
@@ -142,8 +142,8 @@ msgid ""
 msgstr ""
 "使你的登舰无人机优先降落于敌方的重要舱室。\n"
 "…\n"
-"[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
-"。可在内部升级菜单中，免费将其转换为内置版本。"
+"[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
@@ -156,8 +156,8 @@ msgstr ""
 "船员与火灾则产生相反效果，会抽干该区域氧气。此效果需系统供能方可生效，且效能"
 "随分配能量高低而变化。\n"
 "\n"
-"[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
-"。可在内部升级菜单中，免费将其转换为内置版本。"
+"[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
@@ -255,8 +255,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
-msgstr "[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
-"。可在内部升级菜单中，免费将其转换为内置版本。"
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
@@ -276,8 +276,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:272
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
-msgstr "[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
-"。可在内部升级菜单中，免费将其转换为内置版本。"
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:281
 msgid ""
@@ -297,8 +297,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:289
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
-msgstr "[X] - 作为外部系统升级，此增强部件将提供其正常效果，但会占用一个增强部件槽位"
-"。可在内部升级菜单中，免费将其转换为内置版本。"
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
@@ -318,7 +318,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
@@ -338,7 +339,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:334
 msgid ""
@@ -358,7 +360,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:352
 msgid ""
@@ -378,7 +381,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:360
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:369
 msgid ""
@@ -398,7 +402,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:386
 msgid ""
@@ -418,7 +423,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:394
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:408
 msgid ""
@@ -438,7 +444,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:416
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:424
 msgid ""
@@ -458,7 +465,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:440
 msgid ""
@@ -478,7 +486,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:448
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:456
 msgid ""
@@ -498,7 +507,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
@@ -518,7 +528,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:490
 msgid ""
@@ -538,7 +549,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:498
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:507
 msgid ""
@@ -558,7 +570,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:515
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
@@ -578,7 +591,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:559
 msgid ""
@@ -598,7 +612,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:567
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:576
 msgid ""
@@ -618,7 +633,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:593
 msgid ""
@@ -638,7 +654,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:612
 msgid ""
@@ -708,7 +725,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:656
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:670
 msgid ""
@@ -728,7 +746,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:678
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:689
 msgid ""
@@ -748,7 +767,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:697
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:707
 msgid ""
@@ -768,7 +788,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:715
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:725
 msgid ""
@@ -788,7 +809,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:733
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:743
 msgid ""
@@ -808,7 +830,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:751
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:762
 msgid ""
@@ -828,10 +851,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:779
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/title"
 msgstr "星区扫描仪"
@@ -849,7 +872,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:796
 msgid ""
@@ -869,7 +893,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:813
 msgid ""
@@ -889,7 +914,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:821
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:831
 msgid ""
@@ -909,7 +935,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:848
 msgid ""
@@ -929,7 +956,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:856
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:866
 msgid ""
@@ -949,7 +977,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
@@ -969,7 +998,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:893
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
@@ -989,7 +1019,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:911
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
@@ -1009,7 +1040,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:928
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:937
 msgid ""
@@ -1029,7 +1061,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
@@ -1049,7 +1082,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:962
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:973
 msgid ""
@@ -1069,7 +1103,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:981
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:990
 msgid ""
@@ -1089,7 +1124,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1007
 msgid ""
@@ -1109,7 +1145,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1015
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1024
 msgid ""
@@ -1129,7 +1166,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1041
 msgid ""
@@ -1149,7 +1187,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1049
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1058
 msgid ""
@@ -1169,7 +1208,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1066
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
@@ -1189,7 +1229,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1083
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1092
 msgid ""
@@ -1239,7 +1280,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1137
 msgid ""
@@ -1259,7 +1301,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1154
 msgid ""
@@ -1279,7 +1322,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
@@ -1299,7 +1343,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1189
 msgid ""
@@ -1319,7 +1364,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
-msgstr ""
+msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
+"，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
