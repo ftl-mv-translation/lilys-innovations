@@ -1,30 +1,43 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-21 12:06+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-innovations/dataevents_sector_harmonyxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_harmony.xml.append:9
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（注射舱）给他们注射点儿药剂。"
 
 #: src-en/data/events_sector_harmony.xml.append:11
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"你将从自家注射舱制作的提神药剂分发给那位半械和它的蛞蝓同伴们。霎时间，派对气"
+"氛便热烈起来。那位半械激动得浑身发颤，匆匆付钱后便冲去加入了同伴们——它们正在"
+"屋里兴奋得上蹿下跳呢。"
 
 #: src-en/data/events_sector_harmony.xml.append:16
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "（粒子弥散系统）分享一些兴奋剂。"
 
 #: src-en/data/events_sector_harmony.xml.append:18
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"兴奋剂粒子弥散系统效果拔群——你给那半械和它的蛞蝓同伴们分了一些。霎时间，派对"
+"气氛便热烈起来。那位半械激动得浑身发颤，匆匆付钱后便冲去加入了同伴们——它们正"
+"在屋里兴奋得上蹿下跳呢。"
