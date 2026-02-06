@@ -27,7 +27,7 @@ msgstr "Suite ECM."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[4]/text"
-msgstr "Salle d'Infusion."
+msgstr "Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:21
 msgid ""
@@ -39,7 +39,7 @@ msgstr "Neutraliseur de Choc."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[6]/text"
-msgstr "Entretoises de Système."
+msgstr "Renforts de Système."
 
 #: src-en/data/events_special_storage.xml.append:29
 msgid ""
@@ -51,7 +51,7 @@ msgstr "Revêtement en Fibre."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[8]/text"
-msgstr "Système de Survie."
+msgstr "Système de survie."
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
@@ -63,13 +63,13 @@ msgstr "Capteurs."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[1]/text"
-msgstr "Blindage Infusé à l'Éther. [DÉJÀ INSTALLÉ]"
+msgstr "Blindage Infusé d'Éther. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:58
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[2]/text"
-msgstr "Blindage Infusé à l'Éther. [Coût : 65~, 5|]"
+msgstr "Blindage Infusé d'Éther. [Coût : 65~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
@@ -124,7 +124,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Protocoles de Réparation de Secours.\n"
-"\t[Effets : Répare lentement votre système de salle des clones même en l'absence d'équipage.]"
+"\t[Effets : Répare lentement votre salle des clones même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
@@ -149,8 +149,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/choice[@req=\"BACKUP_DNA\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin d'une Banque d'ADN"
-" de secours installée."
+"Cette amélioration n'est pas disponible. Vous devez avoir la Banque d'ADN de"
+" secours installée."
 
 #: src-en/data/events_special_storage.xml.append:128
 msgid ""
@@ -188,20 +188,20 @@ msgstr "Bouclier Mental. [Coût : 30~, 4{]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT\"]/mod-"
 "append:choice[3]/text"
-msgstr "Réseau Neural Intégré. [DÉJÀ INSTALLÉ]"
+msgstr "Réseau Neuronal Intégré. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT\"]/mod-"
 "append:choice[4]/text"
-msgstr "Réseau Neural Intégré. [Coût : 30~, 3|]"
+msgstr "Réseau Neuronal Intégré. [Coût : 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Bouclier Mental.\n"
-"\t[Effets : L'équipage en pilotage devient immunisé au contrôle mental et à l'étourdissement.]"
+"\t[Effets : L'équipage en pilotage devient immunisé contre le contrôle mental et l'étourdissement.]"
 
 #: src-en/data/events_special_storage.xml.append:175
 msgid ""
@@ -226,8 +226,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/choice[@req=\"pilot\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Pilotage"
-" 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Pilotage."
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
@@ -254,8 +254,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n"
-"\t[Effets : Le Réseau Neural Intégré peut opérer le sous-système de pilotage même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n"
+"\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Pilotage même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:220
 msgid ""
@@ -280,8 +280,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/choice[@req=\"pilot\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Pilotage"
-" 3."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Pilotage."
 
 #: src-en/data/events_special_storage.xml.append:238
 msgid ""
@@ -321,7 +321,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LILY_TELEPORT_RECALL\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Rappel de Téléportation d'Urgence.\n"
-"\t[Effets : Téléporte automatiquement votre équipage de retour à votre vaisseau si le vaisseau ennemi est détruit ou saute.]"
+"\t[Effets : Téléporte automatiquement votre équipage vers votre vaisseau si le vaisseau ennemi est détruit ou effectue un saut.]"
 
 #: src-en/data/events_special_storage.xml.append:278
 msgid ""
@@ -372,13 +372,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
-msgstr "Réseau Neural Intégré. [DÉJÀ INSTALLÉ]"
+msgstr "Réseau Neuronal Intégré. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:325
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
-msgstr "Réseau Neural Intégré. [Coût : 30~, 3|]"
+msgstr "Réseau Neuronal Intégré. [Coût : 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:329
 msgid ""
@@ -413,13 +413,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_INN_SENSORS\""
 " and @lvl=\"1\"]/text"
-msgstr "Réseau Neural Intégré. [DÉJÀ INSTALLÉ]"
+msgstr "Réseau Neuronal Intégré. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:355
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_INN_SENSORS\""
 " and @lvl=\"0\"]/text"
-msgstr "Réseau Neural Intégré. [Coût : 30~, 3|]"
+msgstr "Réseau Neuronal Intégré. [Coût : 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:359
 msgid ""
@@ -454,8 +454,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n"
-"\t[Effets : Le Réseau Neural Intégré peut opérer le sous-système de capteurs même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n"
+"\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:390
 msgid ""
@@ -480,8 +480,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/choice[@req=\"sensors\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Capteurs"
-" 3."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Capteurs."
 
 #: src-en/data/events_special_storage.xml.append:408
 msgid ""
@@ -509,7 +509,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Suite de Cartographie.\n"
-"\t[Effets : Vous permet de collecter des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.]"
+"\t[Effets : Vous permet de recueillir des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.]"
 
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
@@ -534,8 +534,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/choice[@req=\"sensors\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Capteurs"
-" 3."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Capteurs."
 
 #: src-en/data/events_special_storage.xml.append:453
 msgid ""
@@ -563,7 +563,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Scanner de Secteur.\n"
-"\t[Effets : Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de tous lors d'un saut inter-secteur.]"
+"\t[Effets : Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de tous lors d'un saut inter-secteurs.]"
 
 #: src-en/data/events_special_storage.xml.append:480
 msgid ""
@@ -588,8 +588,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/choice[@req=\"sensors\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Capteurs"
-" 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Capteurs."
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
@@ -628,32 +628,32 @@ msgstr "Fortifications. [Coût : 30~]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[3]/text"
-msgstr "Dispositif de Sécurité. [DÉJÀ INSTALLÉ]"
+msgstr "Sécurité. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:536
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[4]/text"
-msgstr "Dispositif de Sécurité. [Coût : 10~, 1|]"
+msgstr "Sécurité. [Coût : 10~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:540
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[5]/text"
-msgstr "Réseau Neural Intégré. [DÉJÀ INSTALLÉ]"
+msgstr "Réseau Neuronal Intégré. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:544
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[6]/text"
-msgstr "Réseau Neural Intégré. [Coût : 30~, 3|]"
+msgstr "Réseau Neuronal Intégré. [Coût : 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Fortifications.\n"
-"\t[Effets : L'équipage allié dans la pièce des portes subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à moitié vitesse.]"
+"\t[Effets : L'équipage allié dans la pièce des Portes subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.]"
 
 #: src-en/data/events_special_storage.xml.append:557
 msgid ""
@@ -678,8 +678,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/choice[@req=\"doors\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Portes "
-"2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Portes."
 
 #: src-en/data/events_special_storage.xml.append:574
 msgid ""
@@ -705,8 +705,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispositif de Sécurité.\n"
-"\t[Effets : Toutes les portes et sas se ferment automatiquement si le système de portes est détruit ou désactivé.]"
+"Vous êtes sur le point d'installer l'amélioration Sécurité.\n"
+"\t[Effets : Toutes les portes et sas sont automatiquement fermés si le système de Portes est détruit ou désactivé.]"
 
 #: src-en/data/events_special_storage.xml.append:601
 msgid ""
@@ -731,8 +731,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/choice[@req=\"doors\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Portes "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Portes."
 
 #: src-en/data/events_special_storage.xml.append:619
 msgid ""
@@ -758,8 +758,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n"
-"\t[Effets : Le Réseau Neural Intégré peut opérer le sous-système de portes même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n"
+"\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:645
 msgid ""
@@ -784,8 +784,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/choice[@req=\"doors\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Portes "
-"3."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Portes."
 
 #: src-en/data/events_special_storage.xml.append:663
 msgid ""
@@ -812,7 +812,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Abordage Intelligent.\n"
-"\t[Effets : Fait que vos drones d'abordage priorisent l'atterrissage dans les pièces ennemies importantes.]"
+"\t[Effets : Permet à vos drones d'abordage de prioriser l'atterrissage dans les pièces ennemies importantes.]"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
@@ -837,8 +837,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/choice[@req=\"drones\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Contrôle"
-" des Drones 4."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 4 de "
+"Contrôle de Drones."
 
 #: src-en/data/events_special_storage.xml.append:709
 msgid ""
@@ -893,13 +893,13 @@ msgstr "Blindage Réactif. [Coût : 80~, 10}]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_STRONG_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr "Blindage Double Résistance. [DÉJÀ INSTALLÉ]"
+msgstr "Blindage à Double Résistance. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:758
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_STRONG_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr "Blindage Double Résistance. [Coût : 100~]"
+msgstr "Blindage à Double Résistance. [Coût : 100~]"
 
 #: src-en/data/events_special_storage.xml.append:763
 msgid ""
@@ -947,7 +947,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Blindage Poli.\n"
-"\t[Effets : Diminue de 1 les dégâts subis par le blindage ablatif des rayons.]"
+"\t[Effets : Diminue les dégâts subis par le blindage ablatif des rayons de 1.]"
 
 #: src-en/data/events_special_storage.xml.append:801
 msgid ""
@@ -972,8 +972,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage"
-" Ablatif 3."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Blindage Ablatif."
 
 #: src-en/data/events_special_storage.xml.append:819
 msgid ""
@@ -1025,8 +1025,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage"
-" Ablatif 5."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 5 de "
+"Blindage Ablatif."
 
 #: src-en/data/events_special_storage.xml.append:865
 msgid ""
@@ -1052,8 +1052,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Blindage Double Résistance.\n"
-"\t[Effets : Améliore les chances du Blindage Ablatif d'absorber les dégâts au système ou à l'équipage. Augmente également la chance de résister aux dégâts de coque et de système de 10% supplémentaires.]"
+"Vous êtes sur le point d'installer l'amélioration Blindage à Double Résistance.\n"
+"\t[Effets : Améliore les chances du Blindage Ablatif d'absorber les dégâts au système ou à l'équipage. Augmente également les chances de résister aux dégâts de coque et de système de 10% supplémentaires.]"
 
 #: src-en/data/events_special_storage.xml.append:892
 msgid ""
@@ -1078,8 +1078,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage"
-" Ablatif 4."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 4 de "
+"Blindage Ablatif."
 
 #: src-en/data/events_special_storage.xml.append:909
 msgid ""
@@ -1131,8 +1131,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage"
-" Ablatif 4."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 4 de "
+"Blindage Ablatif."
 
 #: src-en/data/events_special_storage.xml.append:954
 msgid ""
@@ -1159,7 +1159,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Adaptateur de Vengeance.\n"
-"\t[Effets : Permet aux effets qui se déclenchent sur les dégâts de coque de se déclencher également sur les dégâts d'armure.]"
+"\t[Effets : Permet aux effets qui se déclenchent sur les dégâts de coque de se déclencher également sur les dégâts de blindage.]"
 
 #: src-en/data/events_special_storage.xml.append:981
 msgid ""
@@ -1184,8 +1184,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage"
-" Ablatif 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Blindage Ablatif."
 
 #: src-en/data/events_special_storage.xml.append:999
 msgid ""
@@ -1212,7 +1212,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Fortifications.\n"
-"\t[Effets : L'équipage allié dans la pièce du blindage ablatif subit la moitié des dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.]"
+"\t[Effets : L'équipage allié dans la pièce du Blindage Ablatif subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.]"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
@@ -1237,8 +1237,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage"
-" Ablatif 3."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Blindage Ablatif."
 
 #: src-en/data/events_special_storage.xml.append:1044
 msgid ""
@@ -1264,8 +1264,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Blindage Infusé à l'Éther.\n"
-"\t[Effets : Augmente de 10% les chances de résister aux dégâts du blindage et de la coque et permet aux couches de blindage ablatif de bénéficier de la chance de résistance.]"
+"Vous êtes sur le point d'installer l'amélioration Blindage Infusé d'Éther.\n"
+"\t[Effets : Augmente les chances de résister aux dégâts de blindage et de coque de 10% et permet aux couches de Blindage Ablatif de bénéficier des chances de résistance.]"
 
 #: src-en/data/events_special_storage.xml.append:1071
 msgid ""
@@ -1291,7 +1291,7 @@ msgid ""
 " and @lvl=\"0\"]/text"
 msgstr ""
 "Cette amélioration n'est pas disponible. Vous devez d'abord installer le "
-"Blindage Double Résistance. (Blindage Ablatif)"
+"Blindage à Double Résistance. (Blindage Ablatif)"
 
 #: src-en/data/events_special_storage.xml.append:1089
 msgid ""
@@ -1334,7 +1334,7 @@ msgstr "Champ Ionique Secondaire. [Coût : 50~, 2{]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_WIDE_NEUTRALIZE\""
 " and @lvl=\"2\"]/text"
-msgstr "Champ Étendu. [NIVEAU MAX DÉJÀ INSTALLÉ]"
+msgstr "Champ Étendu. [NIV MAX DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1128
 msgid ""
@@ -1370,7 +1370,7 @@ msgstr "Protecteurs de Surtension. [DÉJÀ INSTALLÉ]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_STUN_NEUTRALIZE\""
 " and @lvl=\"0\"]/text"
-msgstr "Neutraliseur Neural. [Coût : 30~, 3{, 3|]"
+msgstr "Neutraliseur Neuronal. [Coût : 30~, 3{, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:1155
 msgid ""
@@ -1407,8 +1407,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau "
-"Neutraliseur de Choc 1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Neutraliseur de Choc."
 
 #: src-en/data/events_special_storage.xml.append:1184
 msgid ""
@@ -1460,8 +1460,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau "
-"Neutraliseur de Choc 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Neutraliseur de Choc."
 
 #: src-en/data/events_special_storage.xml.append:1230
 msgid ""
@@ -1488,7 +1488,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Protecteurs de Surtension.\n"
-"\t[Effets : Protège votre vaisseau des dégâts plasma, donnant 100% de chances d'annuler les dégâts au système sur les coups de bouclier et 50% sur les coups directs.]"
+"\t[Effets : Protège votre vaisseau des dégâts plasmatiques, donnant 100% de chances d'annuler les dégâts au système sur les coups au bouclier et 50% sur les coups directs.]"
 
 #: src-en/data/events_special_storage.xml.append:1257
 msgid ""
@@ -1513,8 +1513,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau "
-"Neutraliseur de Choc 1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Neutraliseur de Choc."
 
 #: src-en/data/events_special_storage.xml.append:1275
 msgid ""
@@ -1540,8 +1540,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Neutraliseur Neural.\n"
-"\t[Effets : Le Neutraliseur de Choc affecte maintenant également les temps d'étourdissement de l'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Neutraliseur Neuronal.\n"
+"\t[Effets : Le Neutraliseur de Choc affecte désormais aussi les durées d'étourdissement de l'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
@@ -1566,8 +1566,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau "
-"Neutraliseur de Choc 1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Neutraliseur de Choc."
 
 #: src-en/data/events_special_storage.xml.append:1321
 msgid ""
@@ -1605,25 +1605,25 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_SICKNESS_RECOVERY\""
 " and @lvl=\"1\"]/text"
-msgstr "Traitement de Maladie. [DÉJÀ INSTALLÉ]"
+msgstr "Traitement des Maladies. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1381
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_SICKNESS_RECOVERY\""
 " and @lvl=\"0\"]/text"
-msgstr "Traitement de Maladie. [Coût : 40~, 3{]"
+msgstr "Traitement des Maladies. [Coût : 40~, 3{]"
 
 #: src-en/data/events_special_storage.xml.append:1386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_INFUSION_HAVEN\""
 " and @lvl=\"1\"]/text"
-msgstr "Protocoles de Havre Sûr. [DÉJÀ INSTALLÉ]"
+msgstr "Protocoles de Refuge Sûr. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1390
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_INFUSION_HAVEN\""
 " and @lvl=\"0\"]/text"
-msgstr "Protocoles de Havre Sûr. [Coût : 20~, 3|]"
+msgstr "Protocoles de Refuge Sûr. [Coût : 20~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:1395
 msgid ""
@@ -1636,14 +1636,14 @@ msgid ""
 "append:choice/text"
 msgstr ""
 "Sélectionnez le type d'infusion à utiliser pour le 4ème emplacement de la "
-"salle d'infusion."
+"baie d'infusion."
 
 #: src-en/data/events_special_storage.xml.append:1410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/text"
 msgstr ""
 "Ici, vous pouvez sélectionner le type d'infusion à utiliser pour le 4ème "
-"emplacement de la salle d'infusion. (Vous devez d'abord avoir installé "
+"emplacement de la baie d'infusion. (Vous devez d'abord avoir installé "
 "l'amélioration interne correspondante.)"
 
 #: src-en/data/events_special_storage.xml.append:1412
@@ -1663,7 +1663,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Vous configurez la salle d'infusion pour utiliser les Infusions Surchargées."
+"Vous réglez la baie d'infusion pour utiliser les Infusions Surchargées."
 
 #: src-en/data/events_special_storage.xml.append:1421
 msgid ""
@@ -1688,7 +1688,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Vous configurez la salle d'infusion pour utiliser les Infusions Chaotiques."
+"Vous réglez la baie d'infusion pour utiliser les Infusions Chaotiques."
 
 #: src-en/data/events_special_storage.xml.append:1436
 msgid ""
@@ -1712,8 +1712,7 @@ msgstr "Infusions Ignées."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
-"Vous configurez la salle d'infusion pour utiliser les Infusions Ignées."
+msgstr "Vous réglez la baie d'infusion pour utiliser les Infusions Ignées."
 
 #: src-en/data/events_special_storage.xml.append:1451
 msgid ""
@@ -1738,7 +1737,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Vous configurez la salle d'infusion pour utiliser les Infusions Explosives."
+"Vous réglez la baie d'infusion pour utiliser les Infusions Explosives."
 
 #: src-en/data/events_special_storage.xml.append:1466
 msgid ""
@@ -1763,7 +1762,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Vous configurez la salle d'infusion pour utiliser les Infusions Surchargées."
+"Vous réglez la baie d'infusion pour utiliser les Infusions Surchargées."
 
 #: src-en/data/events_special_storage.xml.append:1481
 msgid ""
@@ -1780,11 +1779,11 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Traitement de Maladie.\n"
-"\t[Effets : L'équipage dans la salle d'infusion récupère de sa maladie d'infusion à un rythme accru, correspondant à sa puissance actuelle.\n"
-"1 Puissance : taux de récupération de maladie d'infusion x1.75.\n"
-"2 Puissance : taux de récupération de maladie d'infusion x2.5.\n"
-"3 Puissance : taux de récupération de maladie d'infusion x3.25.]"
+"Vous êtes sur le point d'installer l'amélioration Traitement des Maladies.\n"
+"\t[Effets : L'équipage dans la Baie d'Infusion se remet de sa Maladie d'Infusion à un rythme accru, correspondant à sa puissance actuelle.\n"
+"1 Puissance : Taux de récupération de Maladie d'Infusion x1,75.\n"
+"2 Puissance : Taux de récupération de Maladie d'Infusion x2,5.\n"
+"3 Puissance : Taux de récupération de Maladie d'Infusion x3,25.]"
 
 #: src-en/data/events_special_storage.xml.append:1503
 msgid ""
@@ -1809,8 +1808,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle "
-"d'infusion 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:1521
 msgid ""
@@ -1836,8 +1835,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Protocoles de Havre Sûr.\n"
-"\t[Effets : L'équipage dans la salle d'infusion devient immunisé à la suffocation et aux incendies, et récupère 1 PV/s supplémentaire.]"
+"Vous êtes sur le point d'installer l'amélioration Protocoles de Refuge Sûr.\n"
+"\t[Effets : L'équipage dans la Baie d'Infusion devient immunisé contre la suffocation et les incendies, et récupère 1 PV/s supplémentaire.]"
 
 #: src-en/data/events_special_storage.xml.append:1548
 msgid ""
@@ -1862,8 +1861,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle "
-"d'infusion 1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:1566
 msgid ""
@@ -1905,7 +1904,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1610
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_OVERLOADED\"]/text"
-msgstr "Vous avez désinstallé les infusions supplémentaires avec succès."
+msgstr "Vous avez réussi à désinstaller les infusions supplémentaires."
 
 #: src-en/data/events_special_storage.xml.append:1613
 msgid ""
@@ -1915,7 +1914,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1618
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_CHAOTIC\"]/text"
-msgstr "Vous avez désinstallé les infusions supplémentaires avec succès."
+msgstr "Vous avez réussi à désinstaller les infusions supplémentaires."
 
 #: src-en/data/events_special_storage.xml.append:1621
 msgid ""
@@ -1925,7 +1924,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1626
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_FIREBORNE\"]/text"
-msgstr "Vous avez désinstallé les infusions supplémentaires avec succès."
+msgstr "Vous avez réussi à désinstaller les infusions supplémentaires."
 
 #: src-en/data/events_special_storage.xml.append:1629
 msgid ""
@@ -1935,7 +1934,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1634
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_EXPLOSIVE\"]/text"
-msgstr "Vous avez désinstallé les infusions supplémentaires avec succès."
+msgstr "Vous avez réussi à désinstaller les infusions supplémentaires."
 
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
@@ -1945,7 +1944,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_PHOENIX\"]/text"
-msgstr "Vous avez désinstallé les infusions supplémentaires avec succès."
+msgstr "Vous avez réussi à désinstaller les infusions supplémentaires."
 
 #: src-en/data/events_special_storage.xml.append:1645
 msgid ""
@@ -1957,7 +1956,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/text"
 msgstr ""
 "Quelles infusions voulez-vous installer ? [L'installation de plusieurs vous "
-"permet de basculer entre elles en dehors des combats.]"
+"permet de basculer entre elles en dehors du combat.]"
 
 #: src-en/data/events_special_storage.xml.append:1654
 msgid ""
@@ -2029,8 +2028,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Infusions Surchargées.\n"
-"\t[Effets d'infusion : Étourdit l'utilisateur et tout l'équipage à proximité pendant 5s et inflige 2 dégâts ioniques au système. Les systèmes de votre vaisseau voient 1 ion retiré à la place.\n"
-"30 PV/% de soin, 21 secondes de maladie.]"
+"\t[Effets d'Infusion : Étourdit soi-même et tout l'équipage proche pendant 5s et inflige 2 dégâts ioniques au système. Les systèmes de votre vaisseau voient 1 ion retiré à la place.\n"
+"30 PV/% de guérison, 21 secondes de maladie.]"
 
 #: src-en/data/events_special_storage.xml.append:1707
 msgid ""
@@ -2055,8 +2054,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle "
-"d'infusion 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:1725
 msgid ""
@@ -2068,8 +2067,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Infusions Chaotiques.\n"
-"\t[Effets d'infusion : Applique un effet d'une autre infusion aléatoire. Espérons qu'il n'y ait pas d'effets indésirables sur votre équipage.\n"
-"15 - 75 PV/% de soin, 7 secondes de maladie.]"
+"\t[Effets d'Infusion : Applique l'effet d'une autre infusion aléatoire. Espérons qu'il n'y ait pas d'effets indésirables sur votre équipage.\n"
+"15 - 75 PV/% de guérison, 7 secondes de maladie.]"
 
 #: src-en/data/events_special_storage.xml.append:1743
 msgid ""
@@ -2094,8 +2093,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle "
-"d'infusion 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:1764
 msgid ""
@@ -2107,8 +2106,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Infusions Ignées.\n"
-"\t[Effets d'infusion : Déclenche un incendie dans la pièce actuelle. Accorde la capacité de guérir des incendies pendant la durée, mais fait également suffoquer votre équipage à grande vitesse, même s'il est normalement immunisé.\n"
-"15 PV/% de soin, 21 secondes de maladie.]"
+"\t[Effets d'Infusion : Déclenche un incendie dans la pièce actuelle. Confère la capacité de guérir des incendies pendant la durée, mais fait également suffoquer votre équipage à grande vitesse, même s'ils sont normalement immunisés.\n"
+"15 PV/% de guérison, 21 secondes de maladie.]"
 
 #: src-en/data/events_special_storage.xml.append:1782
 msgid ""
@@ -2133,8 +2132,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle "
-"d'infusion 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:1801
 msgid ""
@@ -2146,7 +2145,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Infusions Explosives.\n"
-"\t[Effets d'infusion : Explose, endommageant tous les ennemis dans la pièce de 15 PV. Les systèmes des vaisseaux ennemis subissent 1 dégât, tandis que ceux de votre vaisseau sont réparés d'une barre à la place."
+"\t[Effets d'Infusion : Explose, infligeant 15 PV de dégâts à tous les ennemis dans la pièce. Les systèmes des vaisseaux ennemis subissent 1 dégât, tandis que ceux de votre vaisseau sont réparés d'une barre à la place."
 
 #: src-en/data/events_special_storage.xml.append:1819
 msgid ""
@@ -2171,8 +2170,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle "
-"d'infusion 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:1837
 msgid ""
@@ -2184,8 +2183,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Infusions Phénix.\n"
-"\t[Effets d'infusion : L'équipage ne peut pas mourir pendant la durée. S'il subit des dégâts qui le tueraient normalement, il est plutôt soigné à pleine santé et téléporté à la salle d'infusion. Lorsque cet effet se déclenche, les alliés dans la même pièce sont soignés de 30 PV/%, et la salle d'infusion subit 1 dégât ionique irrésistible avec une durée de verrouillage double. Ne sauvera pas vos abordeurs si le vaisseau ennemi explose.\n"
-"15 PV/% de soin, 14 secondes de maladie.]"
+"\t[Effets d'Infusion : L'équipage ne peut pas mourir pendant la durée. S'il subit des dégâts qui le tueraient normalement, il est à la place soigné à pleine santé et téléporté à la Baie d'Infusion. Lorsque cet effet se déclenche, les alliés dans la même pièce sont soignés de 30 PV/%, et la Baie d'Infusion subit 1 dégât ionique irrésistible avec une durée de verrouillage doublée. Ne sauvera pas vos abordeurs si le vaisseau ennemi explose.\n"
+"15 PV/% de guérison, 14 secondes de maladie.]"
 
 #: src-en/data/events_special_storage.xml.append:1855
 msgid ""
@@ -2210,8 +2209,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle "
-"d'infusion 2."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Baie d'Infusion."
 
 #: src-en/data/events_special_storage.xml.append:1873
 msgid ""
@@ -2222,79 +2221,80 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
-msgstr "Ventilation Avancée. [NIVEAU MAX DÉJÀ INSTALLÉ]"
+msgstr "Ventilation avancée. [NIV MAX DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1891
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
-msgstr "Ventilation Avancée Niv. 4. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 4. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1895
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[3]/text"
-msgstr "Ventilation Avancée Niv. 3. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 3. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[4]/text"
-msgstr "Ventilation Avancée Niv. 2. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 2. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1903
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[5]/text"
-msgstr "Ventilation Avancée Niv. 1. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 1. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1908
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[6]/text"
-msgstr "Dispersion Particulaire - Bouquet Floral. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Bouquet Floral. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1912
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[7]/text"
-msgstr "Dispersion Particulaire - Graisse d'Usine. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Graisse d'usine. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1916
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[8]/text"
-msgstr "Dispersion Particulaire - Métal et Poudre à Canon. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Métal et Poudre à Canon. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1920
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[9]/text"
-msgstr "Dispersion Particulaire - Vent Arctique. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Vent Arctique. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1924
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[10]/text"
-msgstr "Dispersion Particulaire - Lapis Lazuli. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Lapis-lazuli. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1928
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[11]/text"
-msgstr "Dispersion Particulaire - Pile 9V. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Pile 9V. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1932
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[12]/text"
-msgstr "Dispersion Particulaire - Alpha-Méthylphénéthylamine. [DÉJÀ INSTALLÉ]"
+msgstr ""
+"Dispersion de Particules - Alpha-Méthylphénéthylamine. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1936
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[13]/text"
-msgstr "Dispersion Particulaire."
+msgstr "Dispersion de Particules."
 
 #: src-en/data/events_special_storage.xml.append:1942
 msgid ""
@@ -2317,71 +2317,72 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"4\"]/text"
-msgstr "Ventilation Avancée. [NIVEAU MAX DÉJÀ INSTALLÉ]"
+msgstr "Ventilation avancée. [NIV MAX DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"3\"]/text"
-msgstr "Ventilation Avancée Niv. 4. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 4. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"2\"]/text"
-msgstr "Ventilation Avancée Niv. 3. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 3. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"1\"]/text"
-msgstr "Ventilation Avancée Niv. 2. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 2. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"0\"]/text"
-msgstr "Ventilation Avancée Niv. 1. [Coût : 30~]"
+msgstr "Ventilation avancée Niv. 1. [Coût : 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_FLORAL\"]/text"
-msgstr "Dispersion Particulaire - Bouquet Floral. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Bouquet Floral. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_FACTORY\"]/text"
-msgstr "Dispersion Particulaire - Graisse d'Usine. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Graisse d'usine. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_METAL\"]/text"
-msgstr "Dispersion Particulaire - Métal et Poudre à Canon. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Métal et Poudre à Canon. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_ARCTIC\"]/text"
-msgstr "Dispersion Particulaire - Vent Arctique. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Vent Arctique. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1994
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_LAZULI\"]/text"
-msgstr "Dispersion Particulaire - Lapis Lazuli. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Lapis-lazuli. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:1998
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_BATTERY\"]/text"
-msgstr "Dispersion Particulaire - Pile 9V. [DÉJÀ INSTALLÉ]"
+msgstr "Dispersion de Particules - Pile 9V. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:2002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_ALPHA\"]/text"
-msgstr "Dispersion Particulaire - Alpha-Méthylphénéthylamine. [DÉJÀ INSTALLÉ]"
+msgstr ""
+"Dispersion de Particules - Alpha-Méthylphénéthylamine. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:2006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"OXYGEN_FLAVOR_ANY\"]/text"
-msgstr "Dispersion Particulaire."
+msgstr "Dispersion de Particules."
 
 #: src-en/data/events_special_storage.xml.append:2012
 msgid ""
@@ -2404,45 +2405,45 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/text"
 msgstr ""
-"Installation d'un système de dispersion de particules - qui fournit divers boosts de moral et de santé à l'équipage allié à bord de vos vaisseaux.\n"
+"Installation du système de dispersion de particules - qui fournit divers bonus de moral et de santé à l'équipage allié à bord de vos vaisseaux.\n"
 "Sélectionnez la saveur particulière que vous souhaitez installer.\n"
-"[Les options sont mutuellement exclusives, s'adapteront à la puissance fournie au système de survie, et ne s'appliqueront qu'aux pièces avec de l'oxygène sur votre propre vaisseau.]"
+"[Les options sont mutuellement exclusives, l'échelle dépendra de la puissance fournie au système de survie, et ne s'appliquera qu'aux pièces avec oxygène sur votre propre vaisseau.]"
 
 #: src-en/data/events_special_storage.xml.append:2037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_FLORAL\"]/text"
-msgstr "Dispersion Particulaire - Bouquet Floral. [20~, 5{, 3|]"
+msgstr "Dispersion de Particules - Bouquet Floral. [20~, 5{, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:2041
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_FACTORY\"]/text"
-msgstr "Dispersion Particulaire - Graisse d'Usine. [25~, 6|]"
+msgstr "Dispersion de Particules - Graisse d'usine. [25~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:2045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_METAL\"]/text"
-msgstr "Dispersion Particulaire - Métal et Poudre à Canon. [25~, 5}, 3|]"
+msgstr "Dispersion de Particules - Métal et Poudre à Canon. [25~, 5}, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:2049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_ARCTIC\"]/text"
-msgstr "Dispersion Particulaire - Vent Arctique. [25~, 3|]"
+msgstr "Dispersion de Particules - Vent Arctique. [25~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:2053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_LAZULI\"]/text"
-msgstr "Dispersion Particulaire - Lapis Lazuli. [50~, 5|]"
+msgstr "Dispersion de Particules - Lapis-lazuli. [50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:2057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_BATTERY\"]/text"
-msgstr "Dispersion Particulaire - Pile 9V. [25~, 7{, 3|]"
+msgstr "Dispersion de Particules - Pile 9V. [25~, 7{, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:2061
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_ALPHA\"]/text"
 msgstr ""
-"Dispersion Particulaire - Alpha-Méthylphénéthylamine. [15~, 4{, 4}, 4|]"
+"Dispersion de Particules - Alpha-Méthylphénéthylamine. [15~, 4{, 4}, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2067
 msgid ""
@@ -2453,9 +2454,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Bouquet Floral.\n"
+"Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Bouquet Floral.\n"
 "Une fine concoction d'arômes développée par les Veilleurs Orchidées, conçue pour améliorer le bien-être de votre équipage.\n"
-"[Effets : +5% de santé maximale et +10% de vitesse de soin pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+"[Effets : +5% de santé maximale et +10% de vitesse de guérison pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
 
 #: src-en/data/events_special_storage.xml.append:2079
 msgid ""
@@ -2480,8 +2481,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2098
 msgid ""
@@ -2507,9 +2508,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Graisse d'Usine.\n"
-"Une concoction souvent dispersée dans les installations de Vampiflores, car il a été découvert qu'elle inspirait les travailleurs à être plus productifs.\n"
-"[Effets : +10% de vitesse de réparation et +5% de vitesse de déplacement pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+"Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Graisse d'usine.\n"
+"Une concoction souvent dispersée dans les installations Vampiflores, car il a été découvert qu'elle inspirait les travailleurs à être plus productifs.\n"
+"[Effets : +10% de vitesse de réparation et +5% de vitesse de déplacement pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
 
 #: src-en/data/events_special_storage.xml.append:2125
 msgid ""
@@ -2534,8 +2535,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2143
 msgid ""
@@ -2561,9 +2562,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Métal et Poudre à Canon.\n"
+"Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Métal et Poudre à Canon.\n"
 "Un mélange bien connu des pirates endurcis, sa saveur âpre aide à préparer votre équipage au combat.\n"
-"[Effets : +5% de dégâts de combat et -5% de dégâts de combat subis pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+"[Effets : +5% de dégâts de combat et -5% de dégâts de combat subis pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
 
 #: src-en/data/events_special_storage.xml.append:2170
 msgid ""
@@ -2588,8 +2589,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2189
 msgid ""
@@ -2615,9 +2616,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Vent Arctique.\n"
-"Une saveur très rafraîchissante qui fera que votre équipage se déplacera comme le vent et fera face aux incendies facilement.\n"
-"[Effets : +10% de vitesse de déplacement, -20% de dégâts de feu subis et +20% de vitesse d'extinction des incendies pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+"Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Vent Arctique.\n"
+"Une saveur très rafraîchissante qui fera bouger votre équipage comme le vent et éteindre les incendies facilement.\n"
+"[Effets : +10% de vitesse de déplacement, -20% de dégâts d'incendie subis et +20% de vitesse d'extinction d'incendie pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
 
 #: src-en/data/events_special_storage.xml.append:2216
 msgid ""
@@ -2642,8 +2643,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2234
 msgid ""
@@ -2669,9 +2670,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Lapis Lazuli.\n"
-"Les effets calmants et concentrants de ce mélange coûteux aideront à rendre les esprits de votre équipage inébranlables comme les montagnes.\n"
-"[Effets : -20% de durée d'étourdissement pour chaque niveau de puissance du système de survie. Au niveau 2, l'équipage résiste à la folie, et au niveau 3, l'équipage résiste au contrôle mental. (Remarque : les effets supplémentaires nécessitent que l'oxygène dans la pièce soit d'au moins 95%) Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+"Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Lapis-lazuli.\n"
+"Les effets calmants et concentrants de ce mélange coûteux aideront à rendre l'esprit de votre équipage inébranlable comme les montagnes.\n"
+"[Effets : -20% de durée d'étourdissement pour chaque niveau alimenté du système de survie. Au niveau 2, l'équipage résiste à la folie, et au niveau 3, l'équipage résiste au contrôle mental. (Note : les effets supplémentaires nécessitent que l'oxygène dans la pièce soit d'au moins 95%) Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
 
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
@@ -2696,8 +2697,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2279
 msgid ""
@@ -2723,9 +2724,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Pile 9V.\n"
-"Il est incertain comment une batterie peut être considérée comme une «saveur». Mais la plupart des sujets de test conviennent que l'effet était «positivement électrisant».\n"
-"[Effets : +15% de vitesse de recharge de puissance pour chaque niveau de puissance du système de survie. Au niveau 3, tout l'équipage Zoltan fournit une barre de puissance supplémentaire. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+"Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Pile 9V.\n"
+"Il est incertain comment une batterie peut être considérée comme une \"saveur\". Mais la plupart des sujets de test s'accordent à dire que l'effet était \"positivement électrisant\".\n"
+"[Effets : +15% de vitesse de recharge de puissance pour chaque niveau alimenté du système de survie. Au niveau 3, tous les membres d'équipage Zoltan fournissent une barre de puissance supplémentaire. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
 
 #: src-en/data/events_special_storage.xml.append:2306
 msgid ""
@@ -2750,8 +2751,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2325
 msgid ""
@@ -2777,10 +2778,10 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Dispersion de particules - Alpha-Méthylphényléthylamine.\n"
-"Une solution classique et éprouvée, cela devrait DÉFINITIVEMENT donner un coup de pouce à votre équipage.\n"
-"LES EFFETS SECONDAIRES INCLUENT : Agressivité excessive, agitation, problèmes de sommeil, dépendance, hallucinations, grincement de dents et mauvaise prise de décision. Mais bon, si ça marche, ça marche.\n"
-"[Effets : +20% vitesse de déplacement, +20% dégâts, +50% dégâts de sabotage, +15% vitesse de réparation et +5% vitesse de recharge d'énergie, mais aussi -5% santé maximale, -10% vitesse de soin et +10% dégâts de combat subis pour votre équipage pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 10% d'oxygène.]"
+"Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Alpha-Méthylphénéthylamine.\n"
+"Une solution classique et éprouvée, cela devrait DÉFINITIVEMENT donner un coup de fouet à votre équipage.\n"
+"LES EFFETS SECONDAIRES COMPRENNENT : Agressivité excessive, agitation, problèmes de sommeil, dépendance, hallucinations, grincement de dents et mauvaise prise de décision. Mais bon, si ça marche, ça marche.\n"
+"[Effets : +20% de vitesse de déplacement, +20% de dégâts, +50% de dégâts de sabotage, +15% de vitesse de réparation et +5% de vitesse de recharge de puissance, mais aussi -5% de santé maximale, -10% de vitesse de guérison et +10% de dégâts de combat subis pour votre équipage pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 10% d'oxygène.]"
 
 #: src-en/data/events_special_storage.xml.append:2353
 msgid ""
@@ -2805,8 +2806,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2373
 msgid ""
@@ -2832,8 +2833,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Ventilation Avancée.\n"
-"\t[Effets : Le Système de Survie priorise désormais votre équipage, en réapprovisionnant l'oxygène 80% plus rapidement dans les pièces où l'équipage est présent. A l'effet inverse sur l'équipage ennemi et les incendies, en drainant l'oxygène. Nécessite que le système soit alimenté, et est proportionnel à la puissance.]"
+"Vous êtes sur le point d'installer l'amélioration Ventilation avancée.\n"
+"\t[Effets : Le Système de survie priorise désormais votre équipage, en remplissant l'oxygène 80% plus vite dans les pièces où des membres d'équipage sont présents. A l'effet inverse sur l'équipage ennemi et les incendies, drainant l'oxygène. Nécessite que le système soit alimenté et évolue avec la puissance.]"
 
 #: src-en/data/events_special_storage.xml.append:2401
 msgid ""
@@ -2858,8 +2859,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2418
 msgid ""
@@ -2886,7 +2887,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Oxygène de Secours.\n"
-"\t[Effets : Le système de survie fournit une petite quantité d'oxygène dans la salle du système même s'il est détruit ou désactivé.]"
+"\t[Effets : Le système de survie fournit une petite quantité d'oxygène dans la pièce du système même s'il est détruit ou désactivé.]"
 
 #: src-en/data/events_special_storage.xml.append:2444
 msgid ""
@@ -2911,8 +2912,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène "
-"1."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 "
+"d'Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:2462
 msgid ""
@@ -2938,13 +2939,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY\"]/mod-"
 "append:choice[1]/text"
-msgstr "Surcharge de puissance. [NON DISPONIBLE]"
+msgstr "Surcharge Propulsive. [NON DISPONIBLE]"
 
 #: src-en/data/events_special_storage.xml.append:2499
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY\"]/mod-"
 "append:choice[2]/text"
-msgstr "Surcharge de puissance. [Coût : 50~, 5{, 5}, 5|]"
+msgstr "Surcharge Propulsive. [Coût : 50~, 5{, 5}, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:2503
 msgid ""
@@ -2962,8 +2963,8 @@ msgstr "Batterie Solaire. [Coût : 15~, 1|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Surcharge de puissance.\n"
-"\t[Effets : Tant que votre batterie de secours est active, recevez +10% vitesse de rechargement des armes, +20% vitesse de rechargement des boucliers et +5% esquive pour chaque niveau de batterie de secours, mais le temps de recharge de la batterie est augmenté de 25%.\n"
+"Vous êtes sur le point d'installer l'amélioration Surcharge Propulsive.\n"
+"\t[Effets : Lorsque votre batterie de secours est active, recevez +10 % de vitesse de recharge des armes, +20 % de vitesse de recharge des boucliers et +5 % d'évasion pour chaque niveau de batterie de secours, mais le temps de recharge de la batterie est augmenté de 25 %.\n"
 "Incompatible avec les améliorations de performance de la batterie.]"
 
 #: src-en/data/events_special_storage.xml.append:2519
@@ -3015,7 +3016,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Batterie Solaire.\n"
-"\t[Effets : À proximité d'un soleil, la batterie de secours peut être active indéfiniment.]"
+"\t[Effets : Lorsque vous êtes près d'un soleil, la batterie de secours peut rester active indéfiniment.]"
 
 #: src-en/data/events_special_storage.xml.append:2566
 msgid ""
@@ -3041,7 +3042,7 @@ msgid ""
 " and not(@lvl)]/text"
 msgstr ""
 "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
-"Batterie de secours."
+"Batterie de Secours."
 
 #: src-en/data/events_special_storage.xml.append:2584
 msgid ""
@@ -3084,25 +3085,25 @@ msgstr "Fortifications. [Coût : 30~]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_THERMAL\""
 " and @lvl=\"1\"]/text"
-msgstr "Déchargeurs Thermiques Cinétiques. [DÉJÀ INSTALLÉE]"
+msgstr "Déchargeurs Thermo-Cinétiques. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:2622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_THERMAL\""
 " and @lvl=\"0\"]/text"
-msgstr "Déchargeurs Thermiques Cinétiques. [Coût : 15~, 4}]"
+msgstr "Déchargeurs Thermo-Cinétiques. [Coût : 15~, 4}]"
 
 #: src-en/data/events_special_storage.xml.append:2626
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_REGEN\""
 " and @lvl=\"1\"]/text"
-msgstr "Entretoises en Métal Vivant. [DÉJÀ INSTALLÉE]"
+msgstr "Supports Métal Vivant. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:2630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_REGEN\""
 " and @lvl=\"0\"]/text"
-msgstr "Entretoises en Métal Vivant. [Coût : 40~, 4|]"
+msgstr "Supports Métal Vivant. [Coût : 40~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2634
 msgid ""
@@ -3126,7 +3127,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Fortifications.\n"
-"\t[Effets : L'équipage allié dans la pièce des Entretoises du Système subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à la moitié de la vitesse.]"
+"\t[Effets : L'équipage allié dans la salle des Supports de Système subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à vitesse réduite de moitié.]"
 
 #: src-en/data/events_special_storage.xml.append:2657
 msgid ""
@@ -3151,8 +3152,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 des "
-"Entretoises du Système."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Supports de Système."
 
 #: src-en/data/events_special_storage.xml.append:2674
 msgid ""
@@ -3178,8 +3179,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Déchargeurs Thermiques Cinétiques.\n"
-"\t[Effets : Les Entretoises du Système ont 50% de chances de ne pas perdre de durabilité mais de prendre feu en absorbant les dégâts.]"
+"Vous êtes sur le point d'installer l'amélioration Déchargeurs Thermo-Cinétiques.\n"
+"\t[Effets : Les Supports de Système ont 50 % de chances de ne pas perdre de durabilité mais de prendre feu en absorbant des dégâts.]"
 
 #: src-en/data/events_special_storage.xml.append:2700
 msgid ""
@@ -3204,8 +3205,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 des "
-"Entretoises du Système."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Supports de Système."
 
 #: src-en/data/events_special_storage.xml.append:2718
 msgid ""
@@ -3231,8 +3232,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Entretoises en Métal Vivant.\n"
-"\t[Effets : Fabriquées à partir d'un métal spécial capable de \"mémoriser\" les formes, les Entretoises du Système se répareront lentement même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Supports Métal Vivant.\n"
+"\t[Effets : Fabriqués à partir d'un métal spécial capable de \"se souvenir\" des formes, les Supports de Système se répareront lentement même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
@@ -3257,8 +3258,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 des "
-"Entretoises du Système."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Supports de Système."
 
 #: src-en/data/events_special_storage.xml.append:2762
 msgid ""
@@ -3285,7 +3286,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Générateur de Champ d'Intégrité.\n"
-"\t[Effets : Les Entretoises du Système protègent désormais les systèmes d'autres sources de dégâts, telles que le sabotage et les incendies.]"
+"\t[Effets : Les Supports de Système protègent désormais les systèmes d'autres sources de dégâts, tels que le sabotage et les incendies.]"
 
 #: src-en/data/events_special_storage.xml.append:2789
 msgid ""
@@ -3310,8 +3311,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 des "
-"Entretoises du Système."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Supports de Système."
 
 #: src-en/data/events_special_storage.xml.append:2807
 msgid ""
@@ -3338,7 +3339,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Champ d'Intégrité Éther.\n"
-"\t[Effets : Les systèmes protégés par les Entretoises du Système sont désormais sabotés à moitié vitesse, et infligent 2 pv/s de dégâts aux intrus.]"
+"\t[Effets : Les systèmes protégés par les Supports de Système sont désormais sabotés à vitesse réduite de moitié, et infligent 2 pv/s de dégâts aux intrus.]"
 
 #: src-en/data/events_special_storage.xml.append:2833
 msgid ""
@@ -3363,8 +3364,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous devez avoir l'amélioration "
-"interne Générateur de Champ d'Intégrité. (Entretoises du Système)"
+"Cette amélioration n'est pas disponible. Vous devez disposer de "
+"l'amélioration interne Générateur de Champ d'Intégrité. (Supports de "
+"Système)"
 
 #: src-en/data/events_special_storage.xml.append:2852
 msgid ""
@@ -3407,13 +3409,13 @@ msgstr "Double Tissage. [Coût : 40~, 4|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_HAZARD\""
 " and @lvl=\"1\"]/text"
-msgstr "Couche de Protection. [DÉJÀ INSTALLÉE]"
+msgstr "Couche Hazmat. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:2890
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_HAZARD\""
 " and @lvl=\"0\"]/text"
-msgstr "Couche de Protection. [Coût : 40~, 5{, 3}]"
+msgstr "Couche Hazmat. [Coût : 40~, 5{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2894
 msgid ""
@@ -3449,7 +3451,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Double Tissage.\n"
-"\t[Effets : La protection du Revêtement de fibres est désormais deux fois plus efficace, mais elle est réparée par l'équipage à vitesse réduite.]"
+"\t[Effets : La protection des Revêtements en Fibres est maintenant deux fois plus efficace, mais est réparée par l'équipage à vitesse réduite de moitié.]"
 
 #: src-en/data/events_special_storage.xml.append:2922
 msgid ""
@@ -3474,8 +3476,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 du "
-"Revêtement de fibres."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Revêtement en Fibres."
 
 #: src-en/data/events_special_storage.xml.append:2940
 msgid ""
@@ -3501,8 +3503,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Couche de Protection.\n"
-"\t[Effets : Le Revêtement de fibres réduit également les chances d'état (incendie, brèche, étourdissement) des projectiles et des rayons touchant votre coque.]"
+"Vous êtes sur le point d'installer l'amélioration Couche Hazmat.\n"
+"\t[Effets : Le Revêtement en Fibres réduit désormais également les chances de statut (incendie, brèche, étourdissement) des projectiles et des rayons frappant votre coque.]"
 
 #: src-en/data/events_special_storage.xml.append:2966
 msgid ""
@@ -3527,8 +3529,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 du "
-"Revêtement de fibres."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Revêtement en Fibres."
 
 #: src-en/data/events_special_storage.xml.append:2985
 msgid ""
@@ -3555,7 +3557,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Priorité Dynamique.\n"
-"\t[Effets : Le Revêtement de fibres n'applique désormais sa protection (et ne subit donc des dégâts) qu'aux pièces où l'équipage allié est présent.]"
+"\t[Effets : Le Revêtement en Fibres n'applique désormais sa protection (et ne subit donc des dégâts) qu'aux pièces où l'équipage allié est présent.]"
 
 #: src-en/data/events_special_storage.xml.append:3011
 msgid ""
@@ -3580,8 +3582,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 du "
-"Revêtement de fibres."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Revêtement en Fibres."
 
 #: src-en/data/events_special_storage.xml.append:3029
 msgid ""
@@ -3633,8 +3635,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 du "
-"Revêtement de fibres."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Revêtement en Fibres."
 
 #: src-en/data/events_special_storage.xml.append:3073
 msgid ""
@@ -3661,7 +3663,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Vêtements en Fibres Éther.\n"
-"\t[Effets : Vêtements spéciaux fabriqués à partir de fibres vivantes infusées d'éther. Offre à votre équipage 20% de réduction de dégâts de toutes les sources et une régénération constante de 2 pv/s.]"
+"\t[Effets : Vêtements spéciaux fabriqués à partir de fibres vivantes infusées d'éther. Fournit à votre équipage 20 % de réduction de dégâts de toutes les sources et une régénération constante de 2 pv/s.]"
 
 #: src-en/data/events_special_storage.xml.append:3100
 msgid ""
@@ -3686,8 +3688,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous devez avoir l'amélioration "
-"interne Fibres Vivantes. (Revêtement de fibres)"
+"Cette amélioration n'est pas disponible. Vous devez disposer de "
+"l'amélioration interne Fibres Vivantes. (Revêtement en Fibres)"
 
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
@@ -3730,25 +3732,25 @@ msgstr "Verrouillage préventif. [Coût : 30~, 3}, 3|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_STATUS\""
 " and @lvl=\"1\"]/text"
-msgstr "Réglage d'Arme Amélioré. [DÉJÀ INSTALLÉE]"
+msgstr "Optimisation des Armes Améliorée. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:3167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_STATUS\""
 " and @lvl=\"0\"]/text"
-msgstr "Réglage d'Arme Amélioré. [Coût : 60~, 6{, 6}]"
+msgstr "Optimisation des Armes Améliorée. [Coût : 60~, 6{, 6}]"
 
 #: src-en/data/events_special_storage.xml.append:3172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_RELOAD\""
 " and @lvl=\"1\"]/text"
-msgstr "Optimisation de la Charge des Armes. [DÉJÀ INSTALLÉE]"
+msgstr "Optimisation de la Recharge des Armes. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:3176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_RELOAD\""
 " and @lvl=\"0\"]/text"
-msgstr "Optimisation de la Charge des Armes. [Coût : 60~, 10}]"
+msgstr "Optimisation de la Recharge des Armes. [Coût : 60~, 10}]"
 
 #: src-en/data/events_special_storage.xml.append:3181
 msgid ""
@@ -3766,13 +3768,13 @@ msgstr "Système de Nano-Guidage. [Coût : 40~, 5}, 2|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_UPLINK\""
 " and @lvl=\"1\"]/text"
-msgstr "Liaison de Données de Point Faible. [DÉJÀ INSTALLÉE]"
+msgstr "Liaison de Données Points Faibles. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:3194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_UPLINK\""
 " and @lvl=\"0\"]/text"
-msgstr "Liaison de Données de Point Faible. [Coût : 50~, 5|]"
+msgstr "Liaison de Données Points Faibles. [Coût : 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3199
 msgid ""
@@ -3790,13 +3792,13 @@ msgstr "Overclocking du Processeur. [Coût : 30~, 5{]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_MULTITHREAD\""
 " and @lvl=\"1\"]/text"
-msgstr "Ciblage Multithreadé. [DÉJÀ INSTALLÉE]"
+msgstr "Ciblage Multithread. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:3212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_MULTITHREAD\""
 " and @lvl=\"0\"]/text"
-msgstr "Ciblage Multithreadé. [Coût : 45~, 5|]"
+msgstr "Ciblage Multithread. [Coût : 45~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3217
 msgid ""
@@ -3807,8 +3809,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réseau Spectre Complet.\n"
-"\t[Effets : Double le bonus de précision du Noyau de Ciblage Dédicacé et permet de charger les armes à 20% de la vitesse normale par niveau lorsque la cible est camouflée. Élargit également la vision fournie aux pièces adjacentes.]"
+"Vous êtes sur le point d'installer l'amélioration Réseau Spectral Complet.\n"
+"\t[Effets : Double le bonus de précision du Cœur de Ciblage Dédié et permet de charger les armes à 20 % de la vitesse normale par niveau lorsque la cible est camouflée. Élargit également la vision fournie aux pièces adjacentes.]"
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
@@ -3833,8 +3835,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3247
 msgid ""
@@ -3861,7 +3863,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Verrouillage préventif.\n"
-"\t[Effets : Si le vaisseau ennemi possède un système de camouflage, le verrouille automatiquement et instantanément au début de la bataille.]"
+"\t[Effets : Si le vaisseau ennemi dispose d'un système de camouflage, le verrouille automatiquement et instantanément au début de la bataille.]"
 
 #: src-en/data/events_special_storage.xml.append:3273
 msgid ""
@@ -3886,8 +3888,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3292
 msgid ""
@@ -3913,8 +3915,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réglage d'Arme Amélioré.\n"
-"\t[Effets : Si une arme a une chance d'incendie/brèche/étourdissement, cette chance est augmentée de Force du Noyau * 5%. (Arrondi au 10% le plus proche)]"
+"Vous êtes sur le point d'installer l'amélioration Optimisation des Armes Améliorée. \n"
+"\t[Effets : Si une arme a une chance d'incendie/brèche/étourdissement, cette chance est augmentée de Force du Cœur * 5 %. (Arrondi au 10 % le plus proche)]"
 
 #: src-en/data/events_special_storage.xml.append:3318
 msgid ""
@@ -3939,8 +3941,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3337
 msgid ""
@@ -3966,8 +3968,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Optimisation de la Charge des Armes.\n"
-"\t[Effets : Le Noyau de Ciblage Dédicacé fournit désormais un bonus de rechargement des armes de 5% supplémentaire par Force du Noyau.]"
+"Vous êtes sur le point d'installer l'amélioration Optimisation de la Recharge des Armes.\n"
+"\t[Effets : Le Cœur de Ciblage Dédié fournit désormais un bonus de rechargement des armes de 5 % supplémentaires par Force du Cœur.]"
 
 #: src-en/data/events_special_storage.xml.append:3363
 msgid ""
@@ -3992,8 +3994,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3381
 msgid ""
@@ -4020,7 +4022,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Système de Nano-Guidage.\n"
-"\t[Effets : Les armes à dispersion (telles que le flak) tenteront désormais de frapper plus près de la cible, de 10 unités par Force du Noyau.]"
+"\t[Effets : Les armes à dispersion (telles que le flak) tenteront désormais de frapper plus près de la cible, de 10 unités par Force du Cœur.]"
 
 #: src-en/data/events_special_storage.xml.append:3407
 msgid ""
@@ -4045,8 +4047,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3426
 msgid ""
@@ -4072,8 +4074,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Liaison de Données de Point Faible.\n"
-"\t[Effets : L'équipage allié dans les pièces ciblées infligera 20% de dégâts de sabotage supplémentaires et 10% de dégâts de combat supplémentaires par Force du Noyau.]"
+"Vous êtes sur le point d'installer l'amélioration Liaison de Données Points Faibles.\n"
+"\t[Effets : L'équipage allié dans les pièces ciblées infligera 20 % de dégâts de sabotage supplémentaires et 10 % de dégâts de combat supplémentaires par Force du Cœur.]"
 
 #: src-en/data/events_special_storage.xml.append:3452
 msgid ""
@@ -4098,8 +4100,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3470
 msgid ""
@@ -4126,7 +4128,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Overclocking du Processeur.\n"
-"\t[Effets : Réduit le temps nécessaire au Noyau de Ciblage Dédicacé pour verrouiller une pièce, de 6 à 1,5 secondes.]"
+"\t[Effets : Réduit le temps nécessaire au Cœur de Ciblage Dédié pour verrouiller une pièce de 6 à 1,5 seconde.]"
 
 #: src-en/data/events_special_storage.xml.append:3496
 msgid ""
@@ -4151,8 +4153,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3514
 msgid ""
@@ -4178,8 +4180,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Ciblage Multithreadé.\n"
-"\t[Effets : Le Noyau de Ciblage Dédicacé applique désormais également ses effets complets aux pièces adjacentes aux cibles directes.]"
+"Vous êtes sur le point d'installer l'amélioration Ciblage Multithread.\n"
+"\t[Effets : Le Cœur de Ciblage Dédié applique désormais également ses effets complets aux pièces adjacentes à celles directement ciblées.]"
 
 #: src-en/data/events_special_storage.xml.append:3540
 msgid ""
@@ -4204,8 +4206,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 du "
-"Noyau de Ciblage Dédicacé."
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
+"Cœur de Ciblage Dédié."
 
 #: src-en/data/events_special_storage.xml.append:3558
 msgid ""
@@ -4248,37 +4250,37 @@ msgstr "Brouilleur de Comms Refroidi. [Coût : 45~, 5|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"3\"]/text"
-msgstr "Banque de Condensateurs ECM. [NIVEAU MAX DÉJÀ INSTALLÉ]"
+msgstr "Banque de Condensateurs ECM. [NIVEAU MAX. DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:3599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"2\"]/text"
-msgstr "Banque de Condensateurs ECM niveau 3. [Coût : 20~, 2|]"
+msgstr "Banque de Condensateurs ECM niv. 3. [Coût : 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3603
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"1\"]/text"
-msgstr "Banque de Condensateurs ECM niveau 2. [Coût : 20~, 2|]"
+msgstr "Banque de Condensateurs ECM niv. 2. [Coût : 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"0\"]/text"
-msgstr "Banque de Condensateurs ECM niveau 1. [Coût : 20~, 2|]"
+msgstr "Banque de Condensateurs ECM niv. 1. [Coût : 20~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_RETARGET\""
 " and @lvl=\"1\"]/text"
-msgstr "Anti-missile 'Loyaliste'. [DÉJÀ INSTALLÉE]"
+msgstr "Anti-Missile 'Loyaliste'. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:3616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_RETARGET\""
 " and @lvl=\"0\"]/text"
-msgstr "Anti-missile 'Loyaliste'. [Coût : 50~, 8}, 4|]"
+msgstr "Anti-Missile 'Loyaliste'. [Coût : 50~, 8}, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:3621
 msgid ""
@@ -4296,25 +4298,25 @@ msgstr "Protocole de Surcharge. [Coût : 40~, 8{, 2|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ASB_SCRAMBLER\""
 " and @lvl=\"1\"]/text"
-msgstr "Brouilleur d'ASB. [DÉJÀ INSTALLÉE]"
+msgstr "Brouilleur ASB. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:3634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ASB_SCRAMBLER\""
 " and @lvl=\"0\"]/text"
-msgstr "Brouilleur d'ASB. [Coût : 80~, 10|]"
+msgstr "Brouilleur ASB. [Coût : 80~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:3639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ELECTRO_FIELD\""
 " and @lvl=\"1\"]/text"
-msgstr "Champ Anti-Ion. [DÉJÀ INSTALLÉE]"
+msgstr "Contre-Champ Ionique. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:3643
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ELECTRO_FIELD\""
 " and @lvl=\"0\"]/text"
-msgstr "Champ Anti-Ion. [Coût : 50~, 5{]"
+msgstr "Contre-Champ Ionique. [Coût : 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3648
 msgid ""
@@ -4338,7 +4340,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Brouilleur de Comms Refroidi.\n"
-"\t[Effets : Les capacités de brouillage de drones offensifs et défensifs de la suite ECM ont un temps de recharge instantané.]"
+"\t[Effets : Les capacités de perturbation de drones offensifs et défensifs de la suite ECM ont un temps de recharge instantané.]"
 
 #: src-en/data/events_special_storage.xml.append:3668
 msgid ""
@@ -4363,7 +4365,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de la "
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
 "Suite ECM."
 
 #: src-en/data/events_special_storage.xml.append:3686
@@ -4416,7 +4418,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de la "
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
 "Suite ECM."
 
 #: src-en/data/events_special_storage.xml.append:3731
@@ -4443,8 +4445,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Anti-missile 'Loyaliste'.\n"
-"\t[Effets : La capacité de brouillage de missiles de la suite ECM recible désormais les missiles ennemis sur eux-mêmes.]"
+"Vous êtes sur le point d'installer l'amélioration Anti-Missile 'Loyaliste'.\n"
+"\t[Effets : La capacité de perturbation de missiles de la suite ECM redirige désormais les missiles ennemis vers eux.]"
 
 #: src-en/data/events_special_storage.xml.append:3758
 msgid ""
@@ -4469,7 +4471,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de la "
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
 "Suite ECM."
 
 #: src-en/data/events_special_storage.xml.append:3777
@@ -4497,7 +4499,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Protocole de Surcharge.\n"
-"\t[Effets : L'ECM gagne une capacité qui double temporairement sa vitesse de rechargement, mais empêche l'utilisation d'autres capacités tant qu'elle est active.]"
+"\t[Effets : L'ECM acquiert une capacité qui double temporairement sa vitesse de recharge, mais empêche l'utilisation d'autres capacités tant qu'elle est active.]"
 
 #: src-en/data/events_special_storage.xml.append:3804
 msgid ""
@@ -4522,7 +4524,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de la "
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de "
 "Suite ECM."
 
 #: src-en/data/events_special_storage.xml.append:3823
@@ -4549,8 +4551,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Brouilleur d'ASB.\n"
-"\t[Effets : Empêche les ASB hostiles de frapper votre vaisseau tant que votre système ECM est alimenté.]"
+"Vous êtes sur le point d'installer l'amélioration Brouilleur ASB.\n"
+"\t[Effets : Empêche les Batteries Anti-Vaisseau (ASB) hostiles de frapper votre vaisseau tant que votre système ECM est alimenté.]"
 
 #: src-en/data/events_special_storage.xml.append:3850
 msgid ""
@@ -4575,7 +4577,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de la "
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
 "Suite ECM."
 
 #: src-en/data/events_special_storage.xml.append:3868
@@ -4602,8 +4604,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Champ Anti-Ion.\n"
-"\t[Effets : Réduit la résistance aux ions ennemis de 50% tant que votre système ECM est alimenté.]"
+"Vous êtes sur le point d'installer l'amélioration Contre-Champ Ionique.\n"
+"\t[Effets : Réduit la résistance ionique de l'ennemi de 50 % tant que votre système ECM est alimenté.]"
 
 #: src-en/data/events_special_storage.xml.append:3896
 msgid ""
@@ -4628,7 +4630,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de la "
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de "
 "Suite ECM."
 
 #: src-en/data/events_special_storage.xml.append:3914
@@ -4656,7 +4658,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Écran de Brouillage.\n"
-"\t[Effets : Réduit passivement la précision, la vitesse de rechargement et la recharge des boucliers ennemis de 10%, 15% et 20% respectivement tant que votre système ECM est alimenté. Cependant, il gagne des charges 25% plus lentement.]"
+"\t[Effets : Réduit passivement la précision, la vitesse de rechargement et la recharge des boucliers ennemis de 10 %, 15 % et 20 % respectivement tant que votre système ECM est alimenté. Cependant, il gagne des charges 25 % plus lentement.]"
 
 #: src-en/data/events_special_storage.xml.append:3941
 msgid ""
@@ -4681,7 +4683,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de la "
+"Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de "
 "Suite ECM."
 
 #: src-en/data/events_special_storage.xml.append:3959
@@ -4708,7 +4710,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr "(Brouilleur d'ASB) Recibler l'ASB pour tirer sur l'ennemi !"
+msgstr ""
+"(Brouilleur ASB) Redirigez la Batterie Anti-Vaisseau (ASB) pour qu'elle tire"
+" sur l'ennemi !"
 
 #: src-en/data/events_special_storage.xml.append:3990
 msgid ""
@@ -4726,49 +4730,49 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr "Désactiver le rendu du blindage ablatif."
+msgstr "Désactiver le rendu de l'armure ablative."
 
 #: src-en/data/events_special_storage.xml.append:4011
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr "Activer le rendu du blindage ablatif."
+msgstr "Activer le rendu de l'armure ablative."
 
 #: src-en/data/events_special_storage.xml.append:4018
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr "Désactiver le rendu des entretoises du système."
+msgstr "Désactiver le rendu des supports de système."
 
 #: src-en/data/events_special_storage.xml.append:4024
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr "Activer le rendu des entretoises du système."
+msgstr "Activer le rendu des supports de système."
 
 #: src-en/data/events_special_storage.xml.append:4031
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr "Désactiver le rendu du revêtement de fibres."
+msgstr "Désactiver le rendu du revêtement en fibres."
 
 #: src-en/data/events_special_storage.xml.append:4037
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
-msgstr "Activer le rendu du revêtement de fibres."
+msgstr "Activer le rendu du revêtement en fibres."
 
 #: src-en/data/events_special_storage.xml.append:4044
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[7]/text"
-msgstr "Désactiver les sons du noyau de ciblage."
+msgstr "Désactiver les sons du cœur de ciblage."
 
 #: src-en/data/events_special_storage.xml.append:4050
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[8]/text"
-msgstr "Activer les sons du noyau de ciblage."
+msgstr "Activer les sons du cœur de ciblage."
 
 #: src-en/data/events_special_storage.xml.append:4057
 msgid ""
@@ -4799,8 +4803,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_SENSORS_MAPWIDE_SCAN\"]/text"
 msgstr ""
-"Vous déployez votre gigantesque réseau de capteurs de cartographie et "
-"maintenez une faible puissance pendant un certain temps pour éviter les "
-"perturbations. Ce long processus donnera certainement à la flotte le temps "
-"de vous rattraper, mais vous avez maintenant rassemblé une carte détaillée "
-"de tout le secteur !"
+"Vous déployez votre gigantesque réseau de capteurs de cartographie et restez"
+" à faible puissance pendant un certain temps pour éviter les perturbations. "
+"Ce long processus donnera sûrement à la flotte le temps de rattraper son "
+"retard, mais vous avez maintenant recueilli une carte détaillée de tout le "
+"secteur !"
