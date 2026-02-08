@@ -18,7 +18,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fournit à votre vaisseau une couche de blindage qui absorbe les dégâts avant votre coque et la répare lentement. Des niveaux supérieurs accordent plus de points de blindage, une régénération plus rapide et une résistance aux ions. Utilise les niveaux d'équipage pour les réparations."
+          "text": "Fournit à votre vaisseau une couche de blindage qui absorbe les dégâts avant la coque, et la répare lentement. Des niveaux plus élevés confèrent plus de points de blindage, une régénération plus rapide et une résistance aux ions. Utilise les niveaux d'équipage pour les réparations."
         }
       },
       "deepl": "",
@@ -40,7 +40,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Verrouille les pièces du vaisseau ennemi. Les pièces verrouillées sont plus susceptibles d'être ciblées par les drones, sont toujours visibles, et les projectiles qui les visent ont un bonus de précision.\nChaque niveau de force du cœur fournit +5% de précision, et peut avoir d'autres effets avec des améliorations internes.\nLorsque l'ennemi est camouflé, le bonus de précision fourni par le système est doublé, les armes se rechargent à un taux de Force du cœur * 20%, et un hologramme est généré pour fournir une visibilité de la pièce."
+          "text": "Verrouille les pièces du vaisseau ennemi. Les pièces verrouillées sont plus susceptibles d'être ciblées par les drones, sont toujours visibles, et les projectiles qui les visent ont un bonus de précision.\nChaque niveau de Puissance du Cœur fournit +5% de précision, et peut avoir d'autres effets avec des améliorations internes.\nLorsque l'ennemi est camouflé, le bonus de précision fourni par le système est doublé, les armes se chargent à un taux de Puissance du Cœur * 20%, et un hologramme est généré pour fournir la visibilité de la pièce."
         }
       },
       "deepl": "",
@@ -73,7 +73,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Salle d'Infusion"
+          "text": "Baie d'Infusion"
         }
       },
       "deepl": "",
@@ -106,7 +106,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Accorde un éventail de capacités activables pour perturber les drones, projectiles ou systèmes ennemis. Particulièrement efficace contre les drones."
+          "text": "Confère un éventail de capacités activables pour perturber les drones, les projectiles ou les systèmes ennemis. Particulièrement efficace contre les drones."
         }
       },
       "deepl": "",
@@ -117,7 +117,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises de Système"
+          "text": "Renforts de Système"
         }
       },
       "deepl": "",
@@ -150,7 +150,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Protège votre équipage des dégâts en réduisant les dégâts subis par l'équipage des projectiles et rayons touchant votre vaisseau, la quantité dépendant du niveau du système. A 20% de chances de subir 1 point de dégâts au système par 1 dégât d'équipage absorbé."
+          "text": "Protège votre équipage des dégâts en réduisant les dégâts infligés à l'équipage par les projectiles et les rayons frappant votre vaisseau, la quantité dépendant du niveau du système. A 20% de chances de subir 1 point de dégâts au système par 1 dégât à l'équipage absorbé."
         }
       },
       "deepl": "",
@@ -161,7 +161,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fortifications d'Entretoises"
+          "text": "Fortifications des Renforts"
         }
       },
       "deepl": "",
@@ -178,7 +178,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fortifications d'Entretoises [X]"
+          "text": "Fort. des Renforts [X]"
         }
       },
       "deepl": "",
@@ -189,7 +189,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Les membres d'équipage alliés dans la pièce des entretoises de système subissent la moitié des dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'équipage allié dans la pièce des Renforts de Système subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -222,7 +222,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fait que vos drones d'abordage priorisent l'atterrissage dans les pièces ennemies importantes.\n    \n[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Permet à vos drones d'abordage de prioriser l'atterrissage dans les pièces ennemies importantes.\n    \n[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -244,7 +244,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le système de survie priorise maintenant votre équipage, remplissant l'oxygène 80% plus rapidement dans les pièces où des membres d'équipage sont présents. A l'effet inverse sur l'équipage ennemi et les incendies, drainant l'oxygène. Nécessite que le système soit alimenté, et s'adapte à la puissance.\n\n[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Système de survie priorise désormais votre équipage, en remplissant l'oxygène 80% plus vite dans les pièces où des membres d'équipage sont présents. A l'effet inverse sur l'équipage ennemi et les incendies, drainant l'oxygène. Nécessite que le système soit alimenté et évolue avec la puissance.\n\n[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -272,7 +272,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Graisse d'Usine"
+          "text": "Graisse d'usine"
         }
       },
       "deepl": "",
@@ -305,7 +305,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Lapis Lazuli"
+          "text": "Lapis-lazuli"
         }
       },
       "deepl": "",
@@ -338,7 +338,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fortifications de Portes"
+          "text": "Fortifications des Portes"
         }
       },
       "deepl": "",
@@ -349,7 +349,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fortifications de Portes [X]"
+          "text": "Fort. des Portes [X]"
         }
       },
       "deepl": "",
@@ -360,7 +360,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Les membres d'équipage alliés dans la pièce des portes subissent la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'équipage allié dans la pièce des Portes subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -393,7 +393,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le système d'oxygène fournit une petite quantité d'oxygène dans la pièce du système même s'il est détruit ou désactivé.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le système d'oxygène fournit une petite quantité d'oxygène dans la pièce du système même s'il est détruit ou désactivé.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -404,7 +404,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispositif de Sécurité des Portes"
+          "text": "Sécurité des Portes"
         }
       },
       "deepl": "",
@@ -415,7 +415,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispositif de Sécurité des Portes [X]"
+          "text": "Sécurité des Portes [X]"
         }
       },
       "deepl": "",
@@ -426,7 +426,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Toutes les portes et sas se ferment automatiquement si le système de portes est détruit ou désactivé.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Toutes les portes et sas sont automatiquement fermés si le système de Portes est détruit ou désactivé.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -448,7 +448,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Batt. Surtension d'Accélération [X]"
+          "text": "Surt. Accél. Bat. [X]"
         }
       },
       "deepl": "",
@@ -459,7 +459,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Tant que votre batterie de secours est active, recevez +10% de vitesse de recharge des armes, +20% de vitesse de recharge des boucliers et +5% d'esquive pour chaque niveau de batterie de secours.\nIncompatible avec les améliorations de performance.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Tant que votre batterie de secours est active, recevez +10% de vitesse de recharge des armes, +20% de vitesse de recharge des boucliers et +5% d'évasion pour chaque niveau de batterie de secours. \nIncompatible avec les améliorations de performance.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -492,7 +492,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Proche d'un soleil, la batterie de secours peut être active indéfiniment.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Près d'un soleil, la batterie de secours peut être active indéfiniment.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -525,7 +525,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "L'équipage en pilotage devient immunisé au contrôle mental et à l'étourdissement.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'équipage en pilotage devient immunisé contre le contrôle mental et l'étourdissement.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -536,7 +536,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réseau Neural Intégré (Pilotage)"
+          "text": "Réseau Neuronal Intégré (Pilotage)"
         }
       },
       "deepl": "",
@@ -547,7 +547,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "R.N.I. (Pilote) [X]"
+          "text": "R.N.I. (Pilotage) [X]"
         }
       },
       "deepl": "",
@@ -558,7 +558,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Réseau Neural Intégré peut opérer le sous-système de pilotage même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Pilotage même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -569,7 +569,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réseau Neural Intégré (Capteurs)"
+          "text": "Réseau Neuronal Intégré (Capteurs)"
         }
       },
       "deepl": "",
@@ -591,7 +591,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Réseau Neural Intégré peut opérer le sous-système de capteurs même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -602,7 +602,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réseau Neural Intégré (Portes)"
+          "text": "Réseau Neuronal Intégré (Portes)"
         }
       },
       "deepl": "",
@@ -624,7 +624,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Réseau Neural Intégré peut opérer le sous-système de portes même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -635,7 +635,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Poli"
+          "text": "Blindage poli"
         }
       },
       "deepl": "",
@@ -646,7 +646,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Poli [X]"
+          "text": "Blindage poli [X]"
         }
       },
       "deepl": "",
@@ -657,7 +657,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Diminue de 1 les dégâts subis par le blindage ablatif des rayons.\n    \n[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Diminue les dégâts subis par le blindage ablatif des rayons de 1.\n    \n[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -690,7 +690,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Lorsque le Blindage Ablatif absorbe des dégâts, il libère également une rafale de débris pour intercepter les projectiles ou drones entrants.\n    \n[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Lorsque le Blindage Ablatif absorbe des dégâts, il libère également une rafale de débris pour intercepter les projectiles ou drones entrants.\n    \n[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -701,7 +701,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Double Résistance"
+          "text": "Blindage à Double Résistance"
         }
       },
       "deepl": "",
@@ -712,7 +712,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Double Résistance [X]"
+          "text": "Blindage à Double Résistance [X]"
         }
       },
       "deepl": "",
@@ -723,7 +723,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Améliore les chances du Blindage Ablatif d'absorber les dégâts au système ou à l'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Améliore les chances du Blindage Ablatif d'absorber les dégâts au système ou à l'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -756,7 +756,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Si le système de Blindage Ablatif est présent, répare 2 points de coque par saut.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Si le système de Blindage Ablatif est présent, répare 2 points de coque par saut.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -789,7 +789,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Permet aux effets qui se déclenchent sur les dégâts de coque de se déclencher également sur les dégâts d'armure.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Permet aux effets qui se déclenchent sur les dégâts de coque de se déclencher également sur les dégâts de blindage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -822,7 +822,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "L'équipage allié dans la pièce du blindage ablatif subit la moitié des dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'équipage allié dans la pièce du Blindage Ablatif subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -855,7 +855,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Augmente de 10% les chances de résister aux dégâts du blindage et de la coque et permet aux couches de blindage ablatif de bénéficier de la chance de résistance.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Augmente les chances de résister aux dégâts de blindage et de coque de 10% et permet aux couches de Blindage Ablatif de bénéficier des chances de résistance.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -888,7 +888,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Protège votre vaisseau des dégâts ioniques, donnant 30% de chances de les annuler entièrement. Se cumule.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Protège votre vaisseau des dégâts ioniques, donnant 30% de chances de les annuler entièrement. Se cumule.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -921,7 +921,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Neutraliseur de Choc fournit également la moitié de son bonus aux pièces adjacentes à la cible.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Neutraliseur de Choc fournit également la moitié de son bonus aux pièces adjacentes à la cible.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -954,7 +954,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Protège votre vaisseau des dégâts plasma, donnant 100% de chances d'annuler les dégâts au système sur les coups de bouclier et 50% sur les coups directs.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Protège votre vaisseau des dégâts plasmatiques, donnant 100% de chances d'annuler les dégâts au système sur les coups au bouclier et 50% sur les coups directs.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -965,7 +965,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Neutraliseur Neural"
+          "text": "Neutraliseur Neuronal"
         }
       },
       "deepl": "",
@@ -976,7 +976,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Neutraliseur Neural [X]"
+          "text": "Neutraliseur Neuronal [X]"
         }
       },
       "deepl": "",
@@ -987,7 +987,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Neutraliseur de Choc affecte maintenant également les temps d'étourdissement de l'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Neutraliseur de Choc affecte désormais aussi les durées d'étourdissement de l'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1053,7 +1053,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Traitement de Maladie"
+          "text": "Traitement des Maladies"
         }
       },
       "deepl": "",
@@ -1064,7 +1064,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Traitement de Maladie [X]"
+          "text": "Traitement des Maladies [X]"
         }
       },
       "deepl": "",
@@ -1075,7 +1075,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "L'équipage dans la salle d'infusion récupère de sa maladie d'infusion à un rythme accru, correspondant à sa puissance actuelle.\n1 Puissance : taux de récupération de maladie d'infusion x1.75.\n2 Puissance : taux de récupération de maladie d'infusion x2.5.\n3 Puissance : taux de récupération de maladie d'infusion x3.25.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'équipage dans la Baie d'Infusion se remet de sa Maladie d'Infusion à un rythme accru, correspondant à sa puissance actuelle.\n1 Puissance : Taux de récupération de Maladie d'Infusion x1,75.\n2 Puissance : Taux de récupération de Maladie d'Infusion x2,5.\n3 Puissance : Taux de récupération de Maladie d'Infusion x3,25.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1086,7 +1086,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Protocoles de Havre Sûr"
+          "text": "Protocoles de Refuge Sûr"
         }
       },
       "deepl": "",
@@ -1097,7 +1097,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Protocoles de Havre Sûr [X]"
+          "text": "Protocoles de Refuge Sûr [X]"
         }
       },
       "deepl": "",
@@ -1108,7 +1108,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "L'équipage dans la salle d'infusion devient immunisé à la suffocation et aux incendies, et récupère 1 PV/s supplémentaire.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'équipage dans la Baie d'Infusion devient immunisé contre la suffocation et les incendies, et récupère 1 PV/s supplémentaire.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1141,7 +1141,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Les entretoises de système ont 50% de chances de ne pas perdre de durabilité mais de prendre feu en absorbant les dégâts.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Les Renforts de Système ont 50% de chances de ne pas perdre de durabilité mais de prendre feu en absorbant des dégâts.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1152,7 +1152,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises en Métal Vivant"
+          "text": "Renforts en Métal Vivant"
         }
       },
       "deepl": "",
@@ -1163,7 +1163,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises en Métal Vivant [X]"
+          "text": "Renforts en Métal Vivant [X]"
         }
       },
       "deepl": "",
@@ -1174,7 +1174,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fabriquées à partir d'un métal spécial qui peut «se souvenir» des formes, les entretoises de système se répareront lentement même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Fabriqués à partir d'un métal spécial capable de \"mémoriser\" les formes, les Renforts de Système se répareront lentement même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1207,7 +1207,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Les entretoises de système protègent maintenant les systèmes d'autres sources de dégâts, tels que le sabotage et les incendies.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Les Renforts de Système protègent désormais les systèmes d'autres sources de dégâts, tels que le sabotage et les incendies.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1240,7 +1240,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Les systèmes protégés par les entretoises de système sont maintenant sabotés à moitié vitesse, et infligent 2 PV/s de dégâts aux intrus.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Les systèmes protégés par les Renforts de Système sont désormais sabotés à moitié vitesse, et infligent 2 PV/s de dégâts aux intrus.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1273,7 +1273,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous permet de collecter des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Vous permet de recueillir des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1301,7 +1301,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de tous lors d'un saut inter-secteur.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de tous lors d'un saut inter-secteurs.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1334,7 +1334,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Téléporte automatiquement votre équipage de retour à votre vaisseau si le vaisseau ennemi est détruit ou saute.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Téléporte automatiquement votre équipage vers votre vaisseau si le vaisseau ennemi est détruit ou effectue un saut.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1367,7 +1367,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Répare lentement votre système de salle des clones même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Répare lentement votre salle des clones même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1400,7 +1400,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Double le bonus de précision du Cœur de Ciblage Dédié et permet de charger les armes à 20% de la vitesse normale par Force du Cœur lorsque la cible est camouflée. Étend également la vision fournie aux pièces adjacentes.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Double le bonus de précision du Cœur de Ciblage Dédié et permet de charger les armes à 20% de la vitesse normale par Puissance du Cœur lorsque la cible est camouflée. Étend également la vision fournie aux pièces adjacentes.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1411,7 +1411,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Verrouillage Préventif"
+          "text": "Verrouillage préventif"
         }
       },
       "deepl": "",
@@ -1422,7 +1422,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Verrouillage Préventif [X]"
+          "text": "Verrouillage préventif [X]"
         }
       },
       "deepl": "",
@@ -1433,7 +1433,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Si le vaisseau ennemi possède un système de camouflage, le verrouille automatiquement et instantanément au début de la bataille.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Si le vaisseau ennemi possède un système de camouflage, le verrouille automatiquement et instantanément au début de la bataille.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1444,7 +1444,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réglage d'Arme Amélioré"
+          "text": "Optimisation Améliorée des Armes"
         }
       },
       "deepl": "",
@@ -1455,7 +1455,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réglage d'Arme Amélioré [X]"
+          "text": "Optimisation Améliorée des Armes [X]"
         }
       },
       "deepl": "",
@@ -1466,7 +1466,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Si une arme a une chance d'incendie/brèche/étourdissement, cette chance est augmentée par Force du Cœur * 5%. (Arrondi au 10% le plus proche)\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Si une arme a une chance d'incendie/brèche/étourdissement, cette chance est augmentée de Puissance du Cœur * 5%. (Arrondi au 10% le plus proche)\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1477,7 +1477,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Optimisation de Chargement d'Armes"
+          "text": "Optimisation de la Charge des Armes"
         }
       },
       "deepl": "",
@@ -1488,7 +1488,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Optimisation de Chargement d'Armes [X]"
+          "text": "Optimisation de la Charge des Armes [X]"
         }
       },
       "deepl": "",
@@ -1499,7 +1499,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Cœur de Ciblage Dédié fournit maintenant un bonus de rechargement des armes de 5% supplémentaire par Force du Cœur.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Cœur de Ciblage Dédié fournit désormais un bonus de rechargement des armes de 5% supplémentaire par Puissance du Cœur.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1532,7 +1532,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Les armes à dispersion (comme le flak) tenteront maintenant de frapper plus près de la cible, de 10 unités par Force du Cœur.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Les armes à dispersion (telles que le flak) tenteront désormais de frapper plus près de la cible, de 10 unités par Puissance du Cœur.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1543,7 +1543,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Liaison de Données des Points Faibles"
+          "text": "Liaison de Données sur les Points Faibles"
         }
       },
       "deepl": "",
@@ -1554,7 +1554,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Liaison de Données des Points Faibles [X]"
+          "text": "Liaison de Données sur les Points Faibles [X]"
         }
       },
       "deepl": "",
@@ -1565,7 +1565,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "L'équipage allié dans les pièces ciblées infligera 20% de dégâts de sabotage supplémentaires et 5% de dégâts de combat supplémentaires par Force du Cœur.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'équipage allié dans les pièces ciblées infligera 20% de dégâts de sabotage supplémentaires et 5% de dégâts de combat supplémentaires par Puissance du Cœur.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1598,7 +1598,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réduit le temps nécessaire au Cœur de Ciblage Dédié pour verrouiller une pièce de 6 à 1,5 secondes.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Réduit le temps nécessaire au Cœur de Ciblage Dédié pour verrouiller une pièce de 6 à 1,5 secondes.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1631,7 +1631,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Cœur de Ciblage Dédié applique maintenant également ses effets complets aux pièces adjacentes à celles directement ciblées.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Cœur de Ciblage Dédié applique désormais également ses effets complets aux pièces adjacentes à celles directement ciblées.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1642,7 +1642,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouilleur Comms. Ref."
+          "text": "Brouilleur Comms. R. [X]"
         }
       },
       "deepl": "",
@@ -1653,7 +1653,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouilleur Comms. Ref. [X]"
+          "text": "Brouilleur Comms. R. [X]"
         }
       },
       "deepl": "",
@@ -1664,7 +1664,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Les capacités de perturbation des drones offensifs et défensifs de la suite ECM ont un temps de recharge instantané.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Les capacités de perturbation des drones offensives et défensives de la Suite ECM ont un temps de recharge instantané.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1697,7 +1697,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "La suite ECM gagne +1 charge maximale, jusqu'à 8.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "La Suite ECM gagne +1 charge Max, jusqu'à 8.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1730,7 +1730,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "La capacité de perturbation des missiles de la suite ECM redirige maintenant les missiles ennemis vers eux.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "La capacité de perturbation de missiles de la Suite ECM retargete désormais les missiles ennemis vers eux.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1763,7 +1763,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "L'ECM gagne une capacité qui double temporairement sa vitesse de recharge, mais empêche l'utilisation d'autres capacités tant qu'elle est active.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "L'ECM gagne une capacité qui double temporairement sa vitesse de recharge, mais empêche l'utilisation d'autres capacités tant qu'elle est active.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1796,7 +1796,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Empêche les Batteries Anti-Vaisseau (ASB) hostiles de toucher votre vaisseau tant que votre système ECM est alimenté.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Empêche les Batteries Anti-Vaisseau (ASB) hostiles de frapper votre vaisseau tant que votre système ECM est alimenté.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1807,7 +1807,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Contre-champ Ionique"
+          "text": "Contre-Champ Ionique"
         }
       },
       "deepl": "",
@@ -1818,7 +1818,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Contre-champ Ionique [X]"
+          "text": "Contre-Champ Ionique [X]"
         }
       },
       "deepl": "",
@@ -1829,7 +1829,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réduit la résistance ionique ennemie de 50% tant que votre système ECM est alimenté.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Réduit la résistance ionique ennemie de 50% tant que votre système ECM est alimenté.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1862,7 +1862,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réduit passivement la précision ennemie, la vitesse de rechargement et de recharge des boucliers de 10%, 15% et 20% respectivement tant que votre système ECM est alimenté. Cependant, il gagne des charges 25% plus lentement.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Réduit passivement la précision, la vitesse de rechargement et la recharge des boucliers ennemis de 10%, 15% et 20% respectivement tant que votre système ECM est alimenté. Cependant, il gagne des charges 25% plus lentement.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1873,7 +1873,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Effecteur de Tenseur de Minkowski"
+          "text": "Effecteur Tensoriel de Minkowski"
         }
       },
       "deepl": "",
@@ -1884,7 +1884,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Un module ECM avancé conçu en dehors du cluster de base qui utilise les effets relativistes pour amplifier la perturbation du système. Tant que le système ECM est alimenté, les capacités de perturbation des drones sont toujours actives. De plus, il empêche les Batteries Anti-Vaisseau (ASB) ennemies de toucher votre vaisseau, réduit la résistance ionique ennemie de 50% et la précision de leurs armes de 15%."
+          "text": "Un module ECM avancé conçu en dehors du cluster de base qui utilise des effets relativistes pour amplifier la perturbation du système. Tant que le système ECM est alimenté, les capacités de perturbation des drones sont toujours actives. De plus, empêche les Batteries Anti-Vaisseau (ASB) ennemies de frapper votre vaisseau, réduit la résistance ionique ennemie de 50% et la précision de leurs armes de 15%."
         }
       },
       "deepl": "",
@@ -1895,7 +1895,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouilleur Temp."
+          "text": "Brouilleur Temporel"
         }
       },
       "deepl": "",
@@ -1939,7 +1939,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "La protection du revêtement en fibre est maintenant deux fois plus efficace, mais est réparée par l'équipage à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "La protection du Revêtement en Fibre est désormais deux fois plus efficace, mais est réparée par l'équipage à moitié vitesse.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -1972,7 +1972,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le revêtement en fibre réduit maintenant également la chance de statut (incendie, brèche, étourdissement) des projectiles et rayons frappant votre coque.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Revêtement en Fibre réduit désormais également les chances d'état (incendie, brèche, étourdissement) des projectiles et des rayons frappant votre coque.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -2005,7 +2005,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le revêtement en fibre n'applique maintenant sa protection (et ne subit donc des dégâts) qu'aux pièces où des membres d'équipage alliés sont présents.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Le Revêtement en Fibre n'applique désormais sa protection (et ne subit donc des dégâts) qu'aux pièces où l'équipage allié est présent.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -2038,7 +2038,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Un matériau de revêtement en fibre vivant spécial est capable de se nourrir des fuites de puissance de votre vaisseau et de se régénérer naturellement même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Un matériau spécial de revêtement en fibre vivante est capable de se nourrir des fuites d'énergie de votre vaisseau, et de se régénérer naturellement même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -2071,7 +2071,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vêtements spéciaux fabriqués à partir de fibres vivantes infusées d'éther. Fournit à votre équipage une réduction de dégâts de 20% de toutes les sources et une régénération constante de 2 PV/s. Les membres d'équipage qui fournissent un bonus de puissance gagnent en plus +30% de dégâts et de réparation.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement d'augmentation. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie embarquée."
+          "text": "Vêtements spéciaux faits de fibres vivantes infusées d'éther. Fournit à votre équipage 20% de réduction de dégâts de toutes les sources et une régénération constante de 2 PV/s. Les membres d'équipage qui fournissent un bonus de puissance gagnent en plus +30% de dégâts et de réparation.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
         }
       },
       "deepl": "",
@@ -2104,7 +2104,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Faveur de Salle d'Infusion"
+          "text": "Faveur de Baie d'Infusion"
         }
       },
       "deepl": "",
@@ -2126,7 +2126,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Faveur d'Entretoises de Système"
+          "text": "Faveur de Renforts de Système"
         }
       },
       "deepl": "",
@@ -2172,7 +2172,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "(Salle d'Infusion) Donnez-leur des infusions."
+          "text": "(Baie d'Infusion) Donnez-leur quelques infusions."
         }
       },
       "deepl": "",
@@ -2183,7 +2183,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous distribuez des infusions stimulantes fabriquées dans votre salle d'infusion aux Engi et à leurs compagnons Limaces. Immédiatement, les fêtards commencent à devenir plus énergiques et excités. L'Engi, qui tremble visiblement, vous paie avant de s'éloigner pour rejoindre ses compagnons Limaces, qui semblent rebondir dans la pièce."
+          "text": "Vous partagez des infusions stimulantes fabriquées dans votre baie d'infusion avec l'Engi et ses compagnons Limaces. Immédiatement, les fêtards deviennent plus énergiques et excités. L'Engi, qui tremble visiblement, vous paie avant de se précipiter pour rejoindre ses compagnons Limaces, qui semblent rebondir dans la pièce."
         }
       },
       "deepl": "",
@@ -2194,7 +2194,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "(Dispersion Particulaire) Partagez des stimulants."
+          "text": "(Dispersion de Particules) Partagez des stimulants."
         }
       },
       "deepl": "",
@@ -2205,7 +2205,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "La dispersion de particules stimulantes fonctionne parfaitement - et vous partagez une partie de la substance avec les Engi et leurs compagnons Limaces. Immédiatement, les fêtards commencent à devenir plus énergiques et excités. L'Engi, qui tremble visiblement, vous paie avant de s'éloigner pour rejoindre ses compagnons Limaces, qui semblent rebondir dans la pièce."
+          "text": "La dispersion de particules stimulantes fonctionne parfaitement - et vous en partagez avec l'Engi et ses compagnons Limaces. Immédiatement, les fêtards deviennent plus énergiques et excités. L'Engi, qui tremble visiblement, vous paie avant de se précipiter pour rejoindre ses compagnons Limaces, qui semblent rebondir dans la pièce."
         }
       },
       "deepl": "",
@@ -2216,7 +2216,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "De nulle part, vous entendez une voix vous parler. « F-f-faveur de [Ablation] i-i-installée. Installée ! La faveur fournit : Réparation d'un (1) point de dégâts de coque à chaque saut. Si -vous- témoignez d-d-d'un challenger précédent ; r-r-remplissez les remerciements. Je vous conseille d-d-de me rendre v-v-visite également. »"
+          "text": "De nulle part, vous entendez une voix qui vous parle. \"Faveur de [Ablation] i-i-installée. Installée ! La Faveur fournit : Réparation d'un (1) point de dégâts de coque à chaque saut. Si -vous- témoignez du p-p-précédent challenger ; rendez grâce. Je vous conseille de -me- rendre visite également.\""
         }
       },
       "deepl": "",
@@ -2233,7 +2233,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "De nulle part, vous entendez une voix vous parler. « F-f-faveur de [Ciblage] i-i-installée. Installée ! La faveur fournit : +10 (%) de précision supplémentaire à toutes vos armes et drones. Si -vous- témoignez d-d-d'un challenger précédent ; r-r-remplissez les remerciements. Je vous conseille d-d-de me rendre v-v-visite également. »"
+          "text": "De nulle part, vous entendez une voix qui vous parle. \"Faveur de [Targeting] i-i-installée. Installée ! La Faveur fournit : +10 (%) de précision supplémentaire à toutes vos armes et drones. Si -vous- témoignez du p-p-précédent challenger ; rendez grâce. Je vous conseille de -me- rendre visite également.\""
         }
       },
       "deepl": "",
@@ -2244,7 +2244,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "De nulle part, vous entendez une voix vous parler. « F-f-faveur d'[ECM] i-i-installée. Installée ! La faveur fournit : -20% de v-v-vitesse de recharge des boucliers et -10% de vitesse de rechargement des armes à vos ennemis... Si -vous- témoignez d-d-d'un challenger précédent ; r-r-remplissez les remerciements. Je vous conseille d-d-de me rendre v-v-visite également. »"
+          "text": "De nulle part, vous entendez une voix qui vous parle. \"Faveur d'[ECM] i-i-installée. Installée ! La Faveur fournit : -20% de vitesse de r-r-recharge de bouclier et -10% de vitesse de rechargement des armes à vos ennemis... Si -vous- témoignez du p-p-précédent challenger ; rendez grâce. Je vous conseille de -me- rendre visite également.\""
         }
       },
       "deepl": "",
@@ -2255,7 +2255,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "De nulle part, vous entendez une voix vous parler. « F-f-faveur de [Neutralisation] i-i-installée. Installée ! La faveur fournit : Augmentation du t-t-taux de d-d-dissipation ionique sur votre vaisseau de 10%. Si -vous- témoignez d-d-d'un challenger précédent ; r-r-remplissez les remerciements. Je vous conseille d-d-de me rendre v-v-visite également. »"
+          "text": "De nulle part, vous entendez une voix qui vous parle. \"Faveur de [Neutralization] i-i-installée. Installée ! La Faveur fournit : Augmentation du taux de d-d-dissipation ionique sur votre vaisseau de 10%. Si -vous- témoignez du p-p-précédent challenger ; rendez grâce. Je vous conseille de -me- rendre visite également.\""
         }
       },
       "deepl": "",
@@ -2266,7 +2266,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "De nulle part, vous entendez une voix vous parler. « F-f-faveur d'[Infusion] i-i-installée. Installée ! La faveur fournit : Résistance aux dégâts x0.5 et santé maximale x0.75 aux alliés dans votre infirmerie. Si -vous- témoignez d-d-d'un challenger précédent ; r-r-remplissez les remerciements. Je vous conseille d-d-de me rendre v-v-visite également. »"
+          "text": "De nulle part, vous entendez une voix qui vous parle. \"Faveur d'[Infusion] i-i-installée. Installée ! La Faveur fournit : Résistance aux dégâts x0,5 et santé maximale x0,75 aux alliés dans votre pièce médicale. Si -vous- témoignez du p-p-précédent challenger ; rendez grâce. Je vous conseille de -me- rendre visite également.\""
         }
       },
       "deepl": "",
@@ -2277,7 +2277,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "De nulle part, vous entendez une voix vous parler. « F-f-faveur de [Entretoises] i-i-installée. Installée ! La faveur fournit : Suppression de la pénalité de v-v-vitesse de r-r-réparation des entretoises de système. Si -vous- témoignez d-d-d'un challenger précédent ; r-r-remplissez les remerciements. Je vous conseille d-d-de me rendre v-v-visite également. »"
+          "text": "De nulle part, vous entendez une voix qui vous parle. \"Faveur de [Bracing] i-i-installée. Installée ! La Faveur fournit : Suppression de la pénalité de vitesse de r-r-réparation des Renforts de Système. Si -vous- témoignez du p-p-précédent challenger ; rendez grâce. Je vous conseille de -me- rendre visite également.\""
         }
       },
       "deepl": "",
@@ -2288,7 +2288,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "De nulle part, vous entendez une voix vous parler. « F-f-faveur de [Fibres] i-i-installée. Installée ! La faveur fournit : Votre équipage ne subit maintenant que x0.85 dégâts de toutes les sources. Si -vous- témoignez d-d-d'un challenger précédent ; r-r-remplissez les remerciements. Je vous conseille d-d-de me rendre v-v-visite également. »"
+          "text": "De nulle part, vous entendez une voix qui vous parle. \"Faveur de [Fibers] i-i-installée. Installée ! La Faveur fournit : Votre équipage ne subit désormais que x0,85 dégâts de toutes les sources. Si -vous- témoignez du p-p-précédent challenger ; rendez grâce. Je vous conseille de -me- rendre visite également.\""
         }
       },
       "deepl": "",
@@ -2310,7 +2310,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous vous approchez de l'affiche promotionnelle pour l'examiner de plus près :\nLily's Innovations présente :\nOFFRE PROMOTIONNELLE SPÉCIALE - OBTENEZ VOTRE NOUVEAU SYSTÈME INNOVANT DE CHOIX GRATUITEMENT* AUJOURD'HUI !\n\nRemarque : Règles de l'offre promotionnelle :\n1) Pour être éligible à l'offre, votre vaisseau doit déjà posséder l'un des systèmes « standard » - les systèmes inclus sont : Boucliers, Infirmerie, Salle des clones, Batterie de secours.\n2) Le système correspondant, sauf cas spéciaux**, sera retiré pour faire de la place à votre nouveau système INNOVANT.\n3) L'offre n'est valable qu'UNE SEULE FOIS par vaisseau/capitaine.\n\nOFFRE SUPPLÉMENTAIRE : EXTENSEUR DE SYSTÈME\nUne nouvelle technologie de pointe qui permettra à votre vaisseau de supporter un tout nouveau système supplémentaire !\nObtenez-en un gratuitement dès aujourd'hui !\n(Remarque : l'emplacement supplémentaire est obtenu au détriment de l'intégrité de la coque, affaiblie d'un tiers pour faire la place nécessaire)\n\nVous remarquez une interface d'entrée située sous l'affiche, qui vous a déjà reconnu, vous et l'ID de votre vaisseau."
+          "text": "Vous approchez de l'affiche promotionnelle pour l'examiner de plus près :\nLily's Innovations présente :\nOFFRE PROMOTIONNELLE SPÉCIALE - OBTENEZ VOTRE NOUVEAU SYSTÈME INNOVANT DE VOTRE CHOIX GRATUITEMENT* AUJOURD'HUI !\n\nNote : Règles de l'offre promotionnelle :\n1) Pour être éligible à l'offre, votre vaisseau doit déjà posséder l'un des systèmes \"standards\" - les systèmes inclus sont : Boucliers, Infirmerie, Salle des clones, Batterie de secours\n2) Le système correspondant, sauf cas spéciaux**, sera retiré pour faire de la place à votre nouveau système INNOVANT.\n3) L'offre s'applique UNE SEULE FOIS par vaisseau/capitaine.\n\nOFFRE SUPPLÉMENTAIRE : EXTENSEUR DE SYSTÈME\nUne nouvelle technologie de pointe qui permettra à votre vaisseau de supporter un tout nouveau système supplémentaire !\nObtenez-en un gratuitement aujourd'hui !\n(Note : l'emplacement supplémentaire se fait au détriment de l'intégrité de la coque, affaiblie de 1/3 pour faire la place nécessaire)\n\nVous remarquez une interface de saisie située sous l'affiche, qui vous a déjà reconnu ainsi que l'ID de votre vaisseau."
         }
       },
       "deepl": "",
@@ -2321,7 +2321,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous avez déjà reçu l'offre promotionnelle."
+          "text": "Vous avez déjà bénéficié de l'offre promotionnelle."
         }
       },
       "deepl": "",
@@ -2343,7 +2343,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous invitez rapidement le terminal à scanner votre vaisseau et il vous propose une sélection des options suivantes :"
+          "text": "Vous demandez rapidement au terminal de scanner votre vaisseau et il vous propose une sélection des options suivantes :"
         }
       },
       "deepl": "",
@@ -2376,7 +2376,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous invitez le terminal à installer le nouveau système sur votre vaisseau.\n« Reconnu. Les travaux sur votre vaisseau commenceront sous peu... »"
+          "text": "Vous demandez au terminal d'installer le nouveau système sur votre vaisseau.\n\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
         }
       },
       "deepl": "",
@@ -2387,7 +2387,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le système commence à travailler sur le réaménagement de votre vaisseau, et termine rapidement.\n« Quota de travail établi : Terminé. Plaisir de faire affaire avec vous. »"
+          "text": "Le système commence à travailler sur le réaménagement de votre vaisseau, et se termine peu après.\n\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
         }
       },
       "deepl": "",
@@ -2409,7 +2409,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "(Infirmerie) Installer le système de Salle d'Infusion."
+          "text": "(Infirmerie) Installer le système de Baie d'Infusion."
         }
       },
       "deepl": "",
@@ -2420,7 +2420,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "(Salle des clones) Installer le système de Salle d'Infusion."
+          "text": "(Salle des clones) Installer le système de Baie d'Infusion."
         }
       },
       "deepl": "",
@@ -2442,7 +2442,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous invitez le terminal à installer le nouveau sous-système sur votre vaisseau.\n« Reconnu. Les travaux sur votre vaisseau commenceront sous peu... »"
+          "text": "Vous demandez au terminal d'installer le nouveau sous-système sur votre vaisseau.\n\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
         }
       },
       "deepl": "",
@@ -2481,7 +2481,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous invitez le terminal à augmenter la capacité système de votre vaisseau.\n« Reconnu. Les travaux sur votre vaisseau commenceront sous peu... »"
+          "text": "Vous demandez au terminal d'augmenter la capacité de système de votre vaisseau.\n\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
         }
       },
       "deepl": "",
@@ -2492,7 +2492,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le système commence à travailler sur la modification de votre vaisseau, et termine rapidement.\n« Quota de travail établi : Terminé. Plaisir de faire affaire avec vous. »"
+          "text": "Le système commence à travailler sur la modification de votre vaisseau, et se termine peu après.\n\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
         }
       },
       "deepl": "",
@@ -2503,7 +2503,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Présenter votre système de Blindage Ablatif."
+          "text": "Présentez votre système de Blindage Ablatif."
         }
       },
       "deepl": "",
@@ -2514,7 +2514,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "« Blindage Ablatif - p-p-p-procédures défensives qu'il assure ! Vous pilotez un : vaisseau bien protégé ! Vaisseau bien protégé ! Pour un vaisseau bien protégé : je fournis une F-F-faveur d'Ab-Ab-ablation ! Faveur d'Ablation ! Gardez-la - pour l'avenir ! »"
+          "text": "\"Blindage Ablatif - p-p-p-procédures défensives qu'il assure ! Vous pilotez un : vaisseau bien protégé ! Vaisseau bien protégé ! Pour un vaisseau bien protégé : je fournis la Faveur d'Ab-Ab-ablation ! Faveur d'Ablation ! Gardez-la - pour l'avenir !\""
         }
       },
       "deepl": "",
@@ -2525,7 +2525,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Présenter votre système de Cœur de Ciblage Dédié."
+          "text": "Présentez votre système de Cœur de Ciblage Dédié."
         }
       },
       "deepl": "",
@@ -2536,7 +2536,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "« Cœur de Ciblage Dédié - pour un t-t-tireur d'élite d-d-dédié ! Aucun ennemi ne peut : vous échapper maintenant ! Pour un tireur d'élite dédié : je fournis une F-F-faveur de C-c-ciblage ! Faveur de Ciblage ! Gardez-la - pour l'avenir ! »"
+          "text": "\"Cœur de Ciblage Dédié - pour un t-t-tireur d'élite dédié ! Aucun ennemi ne peut : vous échapper maintenant ! Pour un tireur d'élite dédié : je fournis la Faveur de T-t-ciblage ! Faveur de Ciblage ! Gardez-la - pour l'avenir !\""
         }
       },
       "deepl": "",
@@ -2547,7 +2547,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Présenter votre système de Suite ECM."
+          "text": "Présentez votre système de Suite ECM."
         }
       },
       "deepl": "",
@@ -2558,7 +2558,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "« Suite ECM - si v-v-versatile et innovante ! Les [drones] ennemis : ne vous posent plus de menace ! Pour vos c-c-contre-mesures efficaces : je fournis une Faveur d'ECM ! Faveur d'ECM ! Gardez-la - pour l'avenir ! »"
+          "text": "\"Suite ECM - si v-v-polyvalente et innovante ! Les [drones] ennemis : ne vous représentent plus une menace ! Pour vos c-c-contre-mesures efficaces : je fournis la Faveur d'ECM ! Faveur d'ECM ! Gardez-la - pour l'avenir !\""
         }
       },
       "deepl": "",
@@ -2569,7 +2569,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Présenter votre système de Salle d'Infusion."
+          "text": "Présentez votre système de Baie d'Infusion."
         }
       },
       "deepl": "",
@@ -2580,7 +2580,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "« Salle d'Infusion - risque, et récompense ! R-r-risque, r-r-r-récompense... [lequel] est plus lourd ? Vous êtes : ici... un capitaine : -considéré- de la potentialité ! Pour une lourde considération, et un p-p-potentiel plus lourd : je fournis une F-F-faveur d'I-i-i-infusion ! Faveur d'Infusion ! Gardez-la - pour l'avenir ! »"
+          "text": "\"Baie d'Infusion - risque, et récompense ! R-r-risque, r-r-r-récompense... [laquelle] est la plus lourde ? Vous êtes : ici... un capitaine : -attentionné- aux potentialités ! Pour une lourde considération, et un p-p-potentiel plus lourd : je fournis la Faveur d'I-i-i-infusion ! Faveur d'Infusion ! Gardez-la - pour l'avenir !\""
         }
       },
       "deepl": "",
@@ -2591,7 +2591,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Présenter votre sous-système de Neutraliseur de Choc."
+          "text": "Présentez votre sous-système de Neutraliseur de Choc."
         }
       },
       "deepl": "",
@@ -2602,7 +2602,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "« Neutraliseur de Choc - pour p-p-p-protection contre les ions ! Ions ! Une Technologie - pour [aider] d'autres technologies ! Technologie !!! Pour cela : je [fièrement] fournis une Faveur de Neutralisation ! Faveur de Neutralisation ! Gardez-la - pour l'avenir ! »"
+          "text": "\"Neutraliseur de Choc - pour la p-p-p-protection contre les ions ! Les ions ! Une Technologie - pour [aider] d'autres technologies ! Technologie !!! Pour cela : je fournis [fièrement] la Faveur de Neutralisation ! Faveur de Neutralisation ! Gardez-la - pour l'avenir !\""
         }
       },
       "deepl": "",
@@ -2613,7 +2613,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Présenter votre sous-système d'Entretoises de Système."
+          "text": "Présentez votre sous-système de Renforts de Système."
         }
       },
       "deepl": "",
@@ -2624,7 +2624,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "« Entretoises de Système - pour p-p-p-protection contre les dégâts au système ! Vous pilotez un : vaisseau fiable ! Vaisseau fiable ! Pour un vaisseau fiable : je fournis une F-F-faveur d'Entre-entre-entretoises ! Faveur d'Entretoises ! Gardez-la - pour l'avenir ! »"
+          "text": "\"Renforts de Système - pour la p-p-p-protection contre les dégâts au système ! Vous pilotez un : vaisseau fiable ! Vaisseau fiable ! Pour un vaisseau fiable : je fournis la Faveur de R-r-r-renforcement ! Faveur de Renforcement ! Gardez-la - pour l'avenir !\""
         }
       },
       "deepl": "",
@@ -2635,7 +2635,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Présenter votre sous-système de Revêtement en Fibre."
+          "text": "Présentez votre sous-système de Revêtement en Fibre."
         }
       },
       "deepl": "",
@@ -2646,7 +2646,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "« Revêtement en Fibre - pour p-p-p-protéger votre équipage contre les blessures ! Vous êtes un : c-c-capitaine b-b-bienveillant ! Pour votre gentillesse : je fournis une F-F-faveur de F-F-fibres ! Faveur de Fibres ! Gardez-la - pour l'avenir ! »"
+          "text": "\"Revêtement en Fibre - pour la p-p-p-protection de votre équipage contre le mal ! Vous êtes un : b-b-bienveillant capitaine ! Pour votre gentillesse : je fournis la Faveur de F-Fibres ! Faveur de Fibres ! Gardez-la - pour l'avenir !\""
         }
       },
       "deepl": "",
@@ -2690,7 +2690,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Salle d'Infusion."
+          "text": "Baie d'Infusion."
         }
       },
       "deepl": "",
@@ -2712,7 +2712,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises de Système."
+          "text": "Renforts de Système."
         }
       },
       "deepl": "",
@@ -2734,7 +2734,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Système de Survie."
+          "text": "Système de survie."
         }
       },
       "deepl": "",
@@ -2756,7 +2756,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Infusé à l'Éther. [DÉJÀ INSTALLÉ]"
+          "text": "Blindage Infusé d'Éther. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -2767,7 +2767,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Infusé à l'Éther. [Coût : 65~, 5|]"
+          "text": "Blindage Infusé d'Éther. [Coût : 65~, 5|]"
         }
       },
       "deepl": "",
@@ -2866,7 +2866,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Protocoles de Réparation de Secours.\n\t[Effets : Répare lentement votre système de salle des clones même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Protocoles de Réparation de Secours.\n\t[Effets : Répare lentement votre salle des clones même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -2894,7 +2894,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin d'une Banque d'ADN de secours installée."
+          "text": "Cette amélioration n'est pas disponible. Vous devez avoir la Banque d'ADN de secours installée."
         }
       },
       "deepl": "",
@@ -2939,7 +2939,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réseau Neural Intégré. [DÉJÀ INSTALLÉ]"
+          "text": "Réseau Neuronal Intégré. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -2950,7 +2950,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réseau Neural Intégré. [Coût : 30~, 3|]"
+          "text": "Réseau Neuronal Intégré. [Coût : 30~, 3|]"
         }
       },
       "deepl": "",
@@ -2961,7 +2961,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Bouclier Mental.\n\t[Effets : L'équipage en pilotage devient immunisé au contrôle mental et à l'étourdissement.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Bouclier Mental.\n\t[Effets : L'équipage en pilotage devient immunisé contre le contrôle mental et l'étourdissement.]"
         }
       },
       "deepl": "",
@@ -2983,7 +2983,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Pilotage 2."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Pilotage."
         }
       },
       "deepl": "",
@@ -2994,7 +2994,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n\t[Effets : Le Réseau Neural Intégré peut opérer le sous-système de pilotage même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Pilotage même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -3016,7 +3016,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Pilotage 3."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Pilotage."
         }
       },
       "deepl": "",
@@ -3049,7 +3049,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Rappel de Téléportation d'Urgence.\n\t[Effets : Téléporte automatiquement votre équipage de retour à votre vaisseau si le vaisseau ennemi est détruit ou saute.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Rappel de Téléportation d'Urgence.\n\t[Effets : Téléporte automatiquement votre équipage vers votre vaisseau si le vaisseau ennemi est détruit ou effectue un saut.]"
         }
       },
       "deepl": "",
@@ -3122,7 +3122,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n\t[Effets : Le Réseau Neural Intégré peut opérer le sous-système de capteurs même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -3133,7 +3133,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Capteurs 3."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Capteurs."
         }
       },
       "deepl": "",
@@ -3144,7 +3144,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Suite de Cartographie.\n\t[Effets : Vous permet de collecter des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Suite de Cartographie.\n\t[Effets : Vous permet de recueillir des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.]"
         }
       },
       "deepl": "",
@@ -3166,7 +3166,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Scanner de Secteur.\n\t[Effets : Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de tous lors d'un saut inter-secteur.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Scanner de Secteur.\n\t[Effets : Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de tous lors d'un saut inter-secteurs.]"
         }
       },
       "deepl": "",
@@ -3188,7 +3188,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Capteurs 2."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Capteurs."
         }
       },
       "deepl": "",
@@ -3221,7 +3221,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispositif de Sécurité. [DÉJÀ INSTALLÉ]"
+          "text": "Sécurité. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -3232,7 +3232,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispositif de Sécurité. [Coût : 10~, 1|]"
+          "text": "Sécurité. [Coût : 10~, 1|]"
         }
       },
       "deepl": "",
@@ -3243,7 +3243,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Fortifications.\n\t[Effets : L'équipage allié dans la pièce des portes subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à moitié vitesse.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Fortifications.\n\t[Effets : L'équipage allié dans la pièce des Portes subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.]"
         }
       },
       "deepl": "",
@@ -3265,7 +3265,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Portes 2."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Portes."
         }
       },
       "deepl": "",
@@ -3276,7 +3276,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispositif de Sécurité.\n\t[Effets : Toutes les portes et sas se ferment automatiquement si le système de portes est détruit ou désactivé.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Sécurité.\n\t[Effets : Toutes les portes et sas sont automatiquement fermés si le système de Portes est détruit ou désactivé.]"
         }
       },
       "deepl": "",
@@ -3293,7 +3293,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Portes 1."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Portes."
         }
       },
       "deepl": "",
@@ -3304,7 +3304,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n\t[Effets : Le Réseau Neural Intégré peut opérer le sous-système de portes même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -3315,7 +3315,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Portes 3."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Portes."
         }
       },
       "deepl": "",
@@ -3326,7 +3326,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Abordage Intelligent.\n\t[Effets : Fait que vos drones d'abordage priorisent l'atterrissage dans les pièces ennemies importantes.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Abordage Intelligent.\n\t[Effets : Permet à vos drones d'abordage de prioriser l'atterrissage dans les pièces ennemies importantes.]"
         }
       },
       "deepl": "",
@@ -3348,7 +3348,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Contrôle des Drones 4."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 4 de Contrôle de Drones."
         }
       },
       "deepl": "",
@@ -3403,7 +3403,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Double Résistance. [DÉJÀ INSTALLÉ]"
+          "text": "Blindage à Double Résistance. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -3414,7 +3414,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Double Résistance. [Coût : 100~]"
+          "text": "Blindage à Double Résistance. [Coût : 100~]"
         }
       },
       "deepl": "",
@@ -3469,7 +3469,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Blindage Poli.\n\t[Effets : Diminue de 1 les dégâts subis par le blindage ablatif des rayons.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Blindage Poli.\n\t[Effets : Diminue les dégâts subis par le blindage ablatif des rayons de 1.]"
         }
       },
       "deepl": "",
@@ -3491,7 +3491,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage Ablatif 3."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Blindage Ablatif."
         }
       },
       "deepl": "",
@@ -3524,7 +3524,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage Ablatif 5."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 5 de Blindage Ablatif."
         }
       },
       "deepl": "",
@@ -3535,7 +3535,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Blindage Double Résistance.\n\t[Effets : Améliore les chances du Blindage Ablatif d'absorber les dégâts au système ou à l'équipage. Augmente également la chance de résister aux dégâts de coque et de système de 10% supplémentaires.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Blindage à Double Résistance.\n\t[Effets : Améliore les chances du Blindage Ablatif d'absorber les dégâts au système ou à l'équipage. Augmente également les chances de résister aux dégâts de coque et de système de 10% supplémentaires.]"
         }
       },
       "deepl": "",
@@ -3557,7 +3557,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage Ablatif 4."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 4 de Blindage Ablatif."
         }
       },
       "deepl": "",
@@ -3590,7 +3590,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Adaptateur de Vengeance.\n\t[Effets : Permet aux effets qui se déclenchent sur les dégâts de coque de se déclencher également sur les dégâts d'armure.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Adaptateur de Vengeance.\n\t[Effets : Permet aux effets qui se déclenchent sur les dégâts de coque de se déclencher également sur les dégâts de blindage.]"
         }
       },
       "deepl": "",
@@ -3612,7 +3612,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Blindage Ablatif 2."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Blindage Ablatif."
         }
       },
       "deepl": "",
@@ -3623,7 +3623,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Fortifications.\n\t[Effets : L'équipage allié dans la pièce du blindage ablatif subit la moitié des dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Fortifications.\n\t[Effets : L'équipage allié dans la pièce du Blindage Ablatif subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.]"
         }
       },
       "deepl": "",
@@ -3634,7 +3634,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Blindage Infusé à l'Éther.\n\t[Effets : Augmente de 10% les chances de résister aux dégâts du blindage et de la coque et permet aux couches de blindage ablatif de bénéficier de la chance de résistance.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Blindage Infusé d'Éther.\n\t[Effets : Augmente les chances de résister aux dégâts de blindage et de coque de 10% et permet aux couches de Blindage Ablatif de bénéficier des chances de résistance.]"
         }
       },
       "deepl": "",
@@ -3656,7 +3656,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous devez d'abord installer le Blindage Double Résistance. (Blindage Ablatif)"
+          "text": "Cette amélioration n'est pas disponible. Vous devez d'abord installer le Blindage à Double Résistance. (Blindage Ablatif)"
         }
       },
       "deepl": "",
@@ -3689,7 +3689,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Champ Étendu. [NIVEAU MAX DÉJÀ INSTALLÉ]"
+          "text": "Champ Étendu. [NIV MAX DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -3744,7 +3744,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Neutraliseur Neural. [Coût : 30~, 3{, 3|]"
+          "text": "Neutraliseur Neuronal. [Coût : 30~, 3{, 3|]"
         }
       },
       "deepl": "",
@@ -3777,7 +3777,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Neutraliseur de Choc 1."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Neutraliseur de Choc."
         }
       },
       "deepl": "",
@@ -3810,7 +3810,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Neutraliseur de Choc 2."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Neutraliseur de Choc."
         }
       },
       "deepl": "",
@@ -3821,7 +3821,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Protecteurs de Surtension.\n\t[Effets : Protège votre vaisseau des dégâts plasma, donnant 100% de chances d'annuler les dégâts au système sur les coups de bouclier et 50% sur les coups directs.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Protecteurs de Surtension.\n\t[Effets : Protège votre vaisseau des dégâts plasmatiques, donnant 100% de chances d'annuler les dégâts au système sur les coups au bouclier et 50% sur les coups directs.]"
         }
       },
       "deepl": "",
@@ -3832,7 +3832,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Neutraliseur Neural.\n\t[Effets : Le Neutraliseur de Choc affecte maintenant également les temps d'étourdissement de l'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Neutraliseur Neuronal.\n\t[Effets : Le Neutraliseur de Choc affecte désormais aussi les durées d'étourdissement de l'équipage.]"
         }
       },
       "deepl": "",
@@ -3854,7 +3854,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Traitement de Maladie. [DÉJÀ INSTALLÉ]"
+          "text": "Traitement des Maladies. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -3865,7 +3865,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Traitement de Maladie. [Coût : 40~, 3{]"
+          "text": "Traitement des Maladies. [Coût : 40~, 3{]"
         }
       },
       "deepl": "",
@@ -3876,7 +3876,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Protocoles de Havre Sûr. [DÉJÀ INSTALLÉ]"
+          "text": "Protocoles de Refuge Sûr. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -3887,7 +3887,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Protocoles de Havre Sûr. [Coût : 20~, 3|]"
+          "text": "Protocoles de Refuge Sûr. [Coût : 20~, 3|]"
         }
       },
       "deepl": "",
@@ -3898,7 +3898,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Sélectionnez le type d'infusion à utiliser pour le 4ème emplacement de la salle d'infusion."
+          "text": "Sélectionnez le type d'infusion à utiliser pour le 4ème emplacement de la baie d'infusion."
         }
       },
       "deepl": "",
@@ -3909,7 +3909,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ici, vous pouvez sélectionner le type d'infusion à utiliser pour le 4ème emplacement de la salle d'infusion. (Vous devez d'abord avoir installé l'amélioration interne correspondante.)"
+          "text": "Ici, vous pouvez sélectionner le type d'infusion à utiliser pour le 4ème emplacement de la baie d'infusion. (Vous devez d'abord avoir installé l'amélioration interne correspondante.)"
         }
       },
       "deepl": "",
@@ -3942,7 +3942,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous configurez la salle d'infusion pour utiliser les Infusions Surchargées."
+          "text": "Vous réglez la baie d'infusion pour utiliser les Infusions Surchargées."
         }
       },
       "deepl": "",
@@ -3975,7 +3975,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous configurez la salle d'infusion pour utiliser les Infusions Chaotiques."
+          "text": "Vous réglez la baie d'infusion pour utiliser les Infusions Chaotiques."
         }
       },
       "deepl": "",
@@ -4008,7 +4008,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous configurez la salle d'infusion pour utiliser les Infusions Ignées."
+          "text": "Vous réglez la baie d'infusion pour utiliser les Infusions Ignées."
         }
       },
       "deepl": "",
@@ -4041,7 +4041,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous configurez la salle d'infusion pour utiliser les Infusions Explosives."
+          "text": "Vous réglez la baie d'infusion pour utiliser les Infusions Explosives."
         }
       },
       "deepl": "",
@@ -4074,7 +4074,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Traitement de Maladie.\n\t[Effets : L'équipage dans la salle d'infusion récupère de sa maladie d'infusion à un rythme accru, correspondant à sa puissance actuelle.\n1 Puissance : taux de récupération de maladie d'infusion x1.75.\n2 Puissance : taux de récupération de maladie d'infusion x2.5.\n3 Puissance : taux de récupération de maladie d'infusion x3.25.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Traitement des Maladies.\n\t[Effets : L'équipage dans la Baie d'Infusion se remet de sa Maladie d'Infusion à un rythme accru, correspondant à sa puissance actuelle.\n1 Puissance : Taux de récupération de Maladie d'Infusion x1,75.\n2 Puissance : Taux de récupération de Maladie d'Infusion x2,5.\n3 Puissance : Taux de récupération de Maladie d'Infusion x3,25.]"
         }
       },
       "deepl": "",
@@ -4091,7 +4091,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle d'infusion 2."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Baie d'Infusion."
         }
       },
       "deepl": "",
@@ -4102,7 +4102,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Protocoles de Havre Sûr.\n\t[Effets : L'équipage dans la salle d'infusion devient immunisé à la suffocation et aux incendies, et récupère 1 PV/s supplémentaire.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Protocoles de Refuge Sûr.\n\t[Effets : L'équipage dans la Baie d'Infusion devient immunisé contre la suffocation et les incendies, et récupère 1 PV/s supplémentaire.]"
         }
       },
       "deepl": "",
@@ -4113,7 +4113,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Salle d'infusion 1."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Baie d'Infusion."
         }
       },
       "deepl": "",
@@ -4146,7 +4146,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous avez désinstallé les infusions supplémentaires avec succès."
+          "text": "Vous avez réussi à désinstaller les infusions supplémentaires."
         }
       },
       "deepl": "",
@@ -4157,7 +4157,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Quelles infusions voulez-vous installer ? [L'installation de plusieurs vous permet de basculer entre elles en dehors des combats.]"
+          "text": "Quelles infusions voulez-vous installer ? [L'installation de plusieurs vous permet de basculer entre elles en dehors du combat.]"
         }
       },
       "deepl": "",
@@ -4278,7 +4278,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Surchargées.\n\t[Effets d'infusion : Étourdit l'utilisateur et tout l'équipage à proximité pendant 5s et inflige 2 dégâts ioniques au système. Les systèmes de votre vaisseau voient 1 ion retiré à la place.\n30 PV/% de soin, 21 secondes de maladie.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Surchargées.\n\t[Effets d'Infusion : Étourdit soi-même et tout l'équipage proche pendant 5s et inflige 2 dégâts ioniques au système. Les systèmes de votre vaisseau voient 1 ion retiré à la place.\n30 PV/% de guérison, 21 secondes de maladie.]"
         }
       },
       "deepl": "",
@@ -4300,7 +4300,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Chaotiques.\n\t[Effets d'infusion : Applique un effet d'une autre infusion aléatoire. Espérons qu'il n'y ait pas d'effets indésirables sur votre équipage.\n15 - 75 PV/% de soin, 7 secondes de maladie.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Chaotiques.\n\t[Effets d'Infusion : Applique l'effet d'une autre infusion aléatoire. Espérons qu'il n'y ait pas d'effets indésirables sur votre équipage.\n15 - 75 PV/% de guérison, 7 secondes de maladie.]"
         }
       },
       "deepl": "",
@@ -4322,7 +4322,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Ignées.\n\t[Effets d'infusion : Déclenche un incendie dans la pièce actuelle. Accorde la capacité de guérir des incendies pendant la durée, mais fait également suffoquer votre équipage à grande vitesse, même s'il est normalement immunisé.\n15 PV/% de soin, 21 secondes de maladie.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Ignées.\n\t[Effets d'Infusion : Déclenche un incendie dans la pièce actuelle. Confère la capacité de guérir des incendies pendant la durée, mais fait également suffoquer votre équipage à grande vitesse, même s'ils sont normalement immunisés.\n15 PV/% de guérison, 21 secondes de maladie.]"
         }
       },
       "deepl": "",
@@ -4344,7 +4344,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Explosives.\n\t[Effets d'infusion : Explose, endommageant tous les ennemis dans la pièce de 15 PV. Les systèmes des vaisseaux ennemis subissent 1 dégât, tandis que ceux de votre vaisseau sont réparés d'une barre à la place."
+          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Explosives.\n\t[Effets d'Infusion : Explose, infligeant 15 PV de dégâts à tous les ennemis dans la pièce. Les systèmes des vaisseaux ennemis subissent 1 dégât, tandis que ceux de votre vaisseau sont réparés d'une barre à la place."
         }
       },
       "deepl": "",
@@ -4366,7 +4366,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Phénix.\n\t[Effets d'infusion : L'équipage ne peut pas mourir pendant la durée. S'il subit des dégâts qui le tueraient normalement, il est plutôt soigné à pleine santé et téléporté à la salle d'infusion. Lorsque cet effet se déclenche, les alliés dans la même pièce sont soignés de 30 PV/%, et la salle d'infusion subit 1 dégât ionique irrésistible avec une durée de verrouillage double. Ne sauvera pas vos abordeurs si le vaisseau ennemi explose.\n15 PV/% de soin, 14 secondes de maladie.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Infusions Phénix.\n\t[Effets d'Infusion : L'équipage ne peut pas mourir pendant la durée. S'il subit des dégâts qui le tueraient normalement, il est à la place soigné à pleine santé et téléporté à la Baie d'Infusion. Lorsque cet effet se déclenche, les alliés dans la même pièce sont soignés de 30 PV/%, et la Baie d'Infusion subit 1 dégât ionique irrésistible avec une durée de verrouillage doublée. Ne sauvera pas vos abordeurs si le vaisseau ennemi explose.\n15 PV/% de guérison, 14 secondes de maladie.]"
         }
       },
       "deepl": "",
@@ -4377,7 +4377,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ventilation Avancée. [NIVEAU MAX DÉJÀ INSTALLÉ]"
+          "text": "Ventilation avancée. [NIV MAX DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4388,7 +4388,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ventilation Avancée Niv. 4. [Coût : 30~]"
+          "text": "Ventilation avancée Niv. 4. [Coût : 30~]"
         }
       },
       "deepl": "",
@@ -4399,7 +4399,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ventilation Avancée Niv. 3. [Coût : 30~]"
+          "text": "Ventilation avancée Niv. 3. [Coût : 30~]"
         }
       },
       "deepl": "",
@@ -4410,7 +4410,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ventilation Avancée Niv. 2. [Coût : 30~]"
+          "text": "Ventilation avancée Niv. 2. [Coût : 30~]"
         }
       },
       "deepl": "",
@@ -4421,7 +4421,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ventilation Avancée Niv. 1. [Coût : 30~]"
+          "text": "Ventilation avancée Niv. 1. [Coût : 30~]"
         }
       },
       "deepl": "",
@@ -4432,7 +4432,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Bouquet Floral. [DÉJÀ INSTALLÉ]"
+          "text": "Dispersion de Particules - Bouquet Floral. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4443,7 +4443,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Graisse d'Usine. [DÉJÀ INSTALLÉ]"
+          "text": "Dispersion de Particules - Graisse d'usine. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4454,7 +4454,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Métal et Poudre à Canon. [DÉJÀ INSTALLÉ]"
+          "text": "Dispersion de Particules - Métal et Poudre à Canon. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4465,7 +4465,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Vent Arctique. [DÉJÀ INSTALLÉ]"
+          "text": "Dispersion de Particules - Vent Arctique. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4476,7 +4476,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Lapis Lazuli. [DÉJÀ INSTALLÉ]"
+          "text": "Dispersion de Particules - Lapis-lazuli. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4487,7 +4487,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Pile 9V. [DÉJÀ INSTALLÉ]"
+          "text": "Dispersion de Particules - Pile 9V. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4498,7 +4498,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Alpha-Méthylphénéthylamine. [DÉJÀ INSTALLÉ]"
+          "text": "Dispersion de Particules - Alpha-Méthylphénéthylamine. [DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -4509,7 +4509,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire."
+          "text": "Dispersion de Particules."
         }
       },
       "deepl": "",
@@ -4542,7 +4542,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Installation d'un système de dispersion de particules - qui fournit divers boosts de moral et de santé à l'équipage allié à bord de vos vaisseaux.\nSélectionnez la saveur particulière que vous souhaitez installer.\n[Les options sont mutuellement exclusives, s'adapteront à la puissance fournie au système de survie, et ne s'appliqueront qu'aux pièces avec de l'oxygène sur votre propre vaisseau.]"
+          "text": "Installation du système de dispersion de particules - qui fournit divers bonus de moral et de santé à l'équipage allié à bord de vos vaisseaux.\nSélectionnez la saveur particulière que vous souhaitez installer.\n[Les options sont mutuellement exclusives, l'échelle dépendra de la puissance fournie au système de survie, et ne s'appliquera qu'aux pièces avec oxygène sur votre propre vaisseau.]"
         }
       },
       "deepl": "",
@@ -4553,7 +4553,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Bouquet Floral. [20~, 5{, 3|]"
+          "text": "Dispersion de Particules - Bouquet Floral. [20~, 5{, 3|]"
         }
       },
       "deepl": "",
@@ -4564,7 +4564,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Graisse d'Usine. [25~, 6|]"
+          "text": "Dispersion de Particules - Graisse d'usine. [25~, 6|]"
         }
       },
       "deepl": "",
@@ -4575,7 +4575,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Métal et Poudre à Canon. [25~, 5}, 3|]"
+          "text": "Dispersion de Particules - Métal et Poudre à Canon. [25~, 5}, 3|]"
         }
       },
       "deepl": "",
@@ -4586,7 +4586,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Vent Arctique. [25~, 3|]"
+          "text": "Dispersion de Particules - Vent Arctique. [25~, 3|]"
         }
       },
       "deepl": "",
@@ -4597,7 +4597,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Lapis Lazuli. [50~, 5|]"
+          "text": "Dispersion de Particules - Lapis-lazuli. [50~, 5|]"
         }
       },
       "deepl": "",
@@ -4608,7 +4608,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Pile 9V. [25~, 7{, 3|]"
+          "text": "Dispersion de Particules - Pile 9V. [25~, 7{, 3|]"
         }
       },
       "deepl": "",
@@ -4619,7 +4619,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dispersion Particulaire - Alpha-Méthylphénéthylamine. [15~, 4{, 4}, 4|]"
+          "text": "Dispersion de Particules - Alpha-Méthylphénéthylamine. [15~, 4{, 4}, 4|]"
         }
       },
       "deepl": "",
@@ -4630,7 +4630,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Bouquet Floral.\nUne fine concoction d'arômes développée par les Veilleurs Orchidées, conçue pour améliorer le bien-être de votre équipage.\n[Effets : +5% de santé maximale et +10% de vitesse de soin pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Bouquet Floral.\nUne fine concoction d'arômes développée par les Veilleurs Orchidées, conçue pour améliorer le bien-être de votre équipage.\n[Effets : +5% de santé maximale et +10% de vitesse de guérison pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
         }
       },
       "deepl": "",
@@ -4652,7 +4652,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau Oxygène 1."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 d'Oxygène."
         }
       },
       "deepl": "",
@@ -4663,7 +4663,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Graisse d'Usine.\nUne concoction souvent dispersée dans les installations de Vampiflores, car il a été découvert qu'elle inspirait les travailleurs à être plus productifs.\n[Effets : +10% de vitesse de réparation et +5% de vitesse de déplacement pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Graisse d'usine.\nUne concoction souvent dispersée dans les installations Vampiflores, car il a été découvert qu'elle inspirait les travailleurs à être plus productifs.\n[Effets : +10% de vitesse de réparation et +5% de vitesse de déplacement pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
         }
       },
       "deepl": "",
@@ -4685,7 +4685,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Métal et Poudre à Canon.\nUn mélange bien connu des pirates endurcis, sa saveur âpre aide à préparer votre équipage au combat.\n[Effets : +5% de dégâts de combat et -5% de dégâts de combat subis pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Métal et Poudre à Canon.\nUn mélange bien connu des pirates endurcis, sa saveur âpre aide à préparer votre équipage au combat.\n[Effets : +5% de dégâts de combat et -5% de dégâts de combat subis pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
         }
       },
       "deepl": "",
@@ -4707,7 +4707,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Vent Arctique.\nUne saveur très rafraîchissante qui fera que votre équipage se déplacera comme le vent et fera face aux incendies facilement.\n[Effets : +10% de vitesse de déplacement, -20% de dégâts de feu subis et +20% de vitesse d'extinction des incendies pour chaque niveau de puissance du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Vent Arctique.\nUne saveur très rafraîchissante qui fera bouger votre équipage comme le vent et éteindre les incendies facilement.\n[Effets : +10% de vitesse de déplacement, -20% de dégâts d'incendie subis et +20% de vitesse d'extinction d'incendie pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
         }
       },
       "deepl": "",
@@ -4718,7 +4718,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Lapis Lazuli.\nLes effets calmants et concentrants de ce mélange coûteux aideront à rendre les esprits de votre équipage inébranlables comme les montagnes.\n[Effets : -20% de durée d'étourdissement pour chaque niveau de puissance du système de survie. Au niveau 2, l'équipage résiste à la folie, et au niveau 3, l'équipage résiste au contrôle mental. (Remarque : les effets supplémentaires nécessitent que l'oxygène dans la pièce soit d'au moins 95%) Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Lapis-lazuli.\nLes effets calmants et concentrants de ce mélange coûteux aideront à rendre l'esprit de votre équipage inébranlable comme les montagnes.\n[Effets : -20% de durée d'étourdissement pour chaque niveau alimenté du système de survie. Au niveau 2, l'équipage résiste à la folie, et au niveau 3, l'équipage résiste au contrôle mental. (Note : les effets supplémentaires nécessitent que l'oxygène dans la pièce soit d'au moins 95%) Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
         }
       },
       "deepl": "",
@@ -4729,7 +4729,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion Particulaire - Pile 9V.\nIl est incertain comment une batterie peut être considérée comme une «saveur». Mais la plupart des sujets de test conviennent que l'effet était «positivement électrisant».\n[Effets : +15% de vitesse de recharge de puissance pour chaque niveau de puissance du système de survie. Au niveau 3, tout l'équipage Zoltan fournit une barre de puissance supplémentaire. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Pile 9V.\nIl est incertain comment une batterie peut être considérée comme une \"saveur\". Mais la plupart des sujets de test s'accordent à dire que l'effet était \"positivement électrisant\".\n[Effets : +15% de vitesse de recharge de puissance pour chaque niveau alimenté du système de survie. Au niveau 3, tous les membres d'équipage Zoltan fournissent une barre de puissance supplémentaire. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 20% d'oxygène.]"
         }
       },
       "deepl": "",
@@ -4751,7 +4751,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de particules - Alpha-Méthylphényléthylamine.\nUne solution classique et éprouvée, cela devrait DÉFINITIVEMENT donner un coup de pouce à votre équipage.\nLES EFFETS SECONDAIRES INCLUENT : Agressivité excessive, agitation, problèmes de sommeil, dépendance, hallucinations, grincement de dents et mauvaise prise de décision. Mais bon, si ça marche, ça marche.\n[Effets : +20% vitesse de déplacement, +20% dégâts, +50% dégâts de sabotage, +15% vitesse de réparation et +5% vitesse de recharge d'énergie, mais aussi -5% santé maximale, -10% vitesse de soin et +10% dégâts de combat subis pour votre équipage pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 10% d'oxygène.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Dispersion de Particules - Alpha-Méthylphénéthylamine.\nUne solution classique et éprouvée, cela devrait DÉFINITIVEMENT donner un coup de fouet à votre équipage.\nLES EFFETS SECONDAIRES COMPRENNENT : Agressivité excessive, agitation, problèmes de sommeil, dépendance, hallucinations, grincement de dents et mauvaise prise de décision. Mais bon, si ça marche, ça marche.\n[Effets : +20% de vitesse de déplacement, +20% de dégâts, +50% de dégâts de sabotage, +15% de vitesse de réparation et +5% de vitesse de recharge de puissance, mais aussi -5% de santé maximale, -10% de vitesse de guérison et +10% de dégâts de combat subis pour votre équipage pour chaque niveau alimenté du système de survie. Ne fonctionne que sur votre vaisseau, dans les pièces ayant au moins 10% d'oxygène.]"
         }
       },
       "deepl": "",
@@ -4773,7 +4773,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Ventilation Avancée.\n\t[Effets : Le Système de Survie priorise désormais votre équipage, en réapprovisionnant l'oxygène 80% plus rapidement dans les pièces où l'équipage est présent. A l'effet inverse sur l'équipage ennemi et les incendies, en drainant l'oxygène. Nécessite que le système soit alimenté, et est proportionnel à la puissance.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Ventilation avancée.\n\t[Effets : Le Système de survie priorise désormais votre équipage, en remplissant l'oxygène 80% plus vite dans les pièces où des membres d'équipage sont présents. A l'effet inverse sur l'équipage ennemi et les incendies, drainant l'oxygène. Nécessite que le système soit alimenté et évolue avec la puissance.]"
         }
       },
       "deepl": "",
@@ -4784,7 +4784,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Oxygène de Secours.\n\t[Effets : Le système de survie fournit une petite quantité d'oxygène dans la salle du système même s'il est détruit ou désactivé.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Oxygène de Secours.\n\t[Effets : Le système de survie fournit une petite quantité d'oxygène dans la pièce du système même s'il est détruit ou désactivé.]"
         }
       },
       "deepl": "",
@@ -4806,7 +4806,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Surcharge de puissance. [NON DISPONIBLE]"
+          "text": "Surcharge Propulsive. [NON DISPONIBLE]"
         }
       },
       "deepl": "",
@@ -4817,7 +4817,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Surcharge de puissance. [Coût : 50~, 5{, 5}, 5|]"
+          "text": "Surcharge Propulsive. [Coût : 50~, 5{, 5}, 5|]"
         }
       },
       "deepl": "",
@@ -4850,7 +4850,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Surcharge de puissance.\n\t[Effets : Tant que votre batterie de secours est active, recevez +10% vitesse de rechargement des armes, +20% vitesse de rechargement des boucliers et +5% esquive pour chaque niveau de batterie de secours, mais le temps de recharge de la batterie est augmenté de 25%.\nIncompatible avec les améliorations de performance de la batterie.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Surcharge Propulsive.\n\t[Effets : Lorsque votre batterie de secours est active, recevez +10 % de vitesse de recharge des armes, +20 % de vitesse de recharge des boucliers et +5 % d'évasion pour chaque niveau de batterie de secours, mais le temps de recharge de la batterie est augmenté de 25 %.\nIncompatible avec les améliorations de performance de la batterie.]"
         }
       },
       "deepl": "",
@@ -4878,7 +4878,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Batterie Solaire.\n\t[Effets : À proximité d'un soleil, la batterie de secours peut être active indéfiniment.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Batterie Solaire.\n\t[Effets : Lorsque vous êtes près d'un soleil, la batterie de secours peut rester active indéfiniment.]"
         }
       },
       "deepl": "",
@@ -4895,7 +4895,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Batterie de secours."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Batterie de Secours."
         }
       },
       "deepl": "",
@@ -4906,7 +4906,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Déchargeurs Thermiques Cinétiques. [DÉJÀ INSTALLÉE]"
+          "text": "Déchargeurs Thermo-Cinétiques. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -4917,7 +4917,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Déchargeurs Thermiques Cinétiques. [Coût : 15~, 4}]"
+          "text": "Déchargeurs Thermo-Cinétiques. [Coût : 15~, 4}]"
         }
       },
       "deepl": "",
@@ -4928,7 +4928,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises en Métal Vivant. [DÉJÀ INSTALLÉE]"
+          "text": "Supports Métal Vivant. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -4939,7 +4939,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises en Métal Vivant. [Coût : 40~, 4|]"
+          "text": "Supports Métal Vivant. [Coût : 40~, 4|]"
         }
       },
       "deepl": "",
@@ -4972,7 +4972,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Fortifications.\n\t[Effets : L'équipage allié dans la pièce des Entretoises du Système subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à la moitié de la vitesse.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Fortifications.\n\t[Effets : L'équipage allié dans la salle des Supports de Système subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à vitesse réduite de moitié.]"
         }
       },
       "deepl": "",
@@ -4983,7 +4983,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 des Entretoises du Système."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Supports de Système."
         }
       },
       "deepl": "",
@@ -4994,7 +4994,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Déchargeurs Thermiques Cinétiques.\n\t[Effets : Les Entretoises du Système ont 50% de chances de ne pas perdre de durabilité mais de prendre feu en absorbant les dégâts.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Déchargeurs Thermo-Cinétiques.\n\t[Effets : Les Supports de Système ont 50 % de chances de ne pas perdre de durabilité mais de prendre feu en absorbant des dégâts.]"
         }
       },
       "deepl": "",
@@ -5016,7 +5016,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Entretoises en Métal Vivant.\n\t[Effets : Fabriquées à partir d'un métal spécial capable de \"mémoriser\" les formes, les Entretoises du Système se répareront lentement même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Supports Métal Vivant.\n\t[Effets : Fabriqués à partir d'un métal spécial capable de \"se souvenir\" des formes, les Supports de Système se répareront lentement même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -5038,7 +5038,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 des Entretoises du Système."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Supports de Système."
         }
       },
       "deepl": "",
@@ -5049,7 +5049,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Générateur de Champ d'Intégrité.\n\t[Effets : Les Entretoises du Système protègent désormais les systèmes d'autres sources de dégâts, telles que le sabotage et les incendies.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Générateur de Champ d'Intégrité.\n\t[Effets : Les Supports de Système protègent désormais les systèmes d'autres sources de dégâts, tels que le sabotage et les incendies.]"
         }
       },
       "deepl": "",
@@ -5071,7 +5071,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Champ d'Intégrité Éther.\n\t[Effets : Les systèmes protégés par les Entretoises du Système sont désormais sabotés à moitié vitesse, et infligent 2 pv/s de dégâts aux intrus.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Champ d'Intégrité Éther.\n\t[Effets : Les systèmes protégés par les Supports de Système sont désormais sabotés à vitesse réduite de moitié, et infligent 2 pv/s de dégâts aux intrus.]"
         }
       },
       "deepl": "",
@@ -5093,7 +5093,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous devez avoir l'amélioration interne Générateur de Champ d'Intégrité. (Entretoises du Système)"
+          "text": "Cette amélioration n'est pas disponible. Vous devez disposer de l'amélioration interne Générateur de Champ d'Intégrité. (Supports de Système)"
         }
       },
       "deepl": "",
@@ -5126,7 +5126,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Couche de Protection. [DÉJÀ INSTALLÉE]"
+          "text": "Couche Hazmat. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5137,7 +5137,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Couche de Protection. [Coût : 40~, 5{, 3}]"
+          "text": "Couche Hazmat. [Coût : 40~, 5{, 3}]"
         }
       },
       "deepl": "",
@@ -5192,7 +5192,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Double Tissage.\n\t[Effets : La protection du Revêtement de fibres est désormais deux fois plus efficace, mais elle est réparée par l'équipage à vitesse réduite.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Double Tissage.\n\t[Effets : La protection des Revêtements en Fibres est maintenant deux fois plus efficace, mais est réparée par l'équipage à vitesse réduite de moitié.]"
         }
       },
       "deepl": "",
@@ -5203,7 +5203,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 du Revêtement de fibres."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Revêtement en Fibres."
         }
       },
       "deepl": "",
@@ -5214,7 +5214,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Couche de Protection.\n\t[Effets : Le Revêtement de fibres réduit également les chances d'état (incendie, brèche, étourdissement) des projectiles et des rayons touchant votre coque.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Couche Hazmat.\n\t[Effets : Le Revêtement en Fibres réduit désormais également les chances de statut (incendie, brèche, étourdissement) des projectiles et des rayons frappant votre coque.]"
         }
       },
       "deepl": "",
@@ -5236,7 +5236,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 du Revêtement de fibres."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Revêtement en Fibres."
         }
       },
       "deepl": "",
@@ -5247,7 +5247,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Priorité Dynamique.\n\t[Effets : Le Revêtement de fibres n'applique désormais sa protection (et ne subit donc des dégâts) qu'aux pièces où l'équipage allié est présent.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Priorité Dynamique.\n\t[Effets : Le Revêtement en Fibres n'applique désormais sa protection (et ne subit donc des dégâts) qu'aux pièces où l'équipage allié est présent.]"
         }
       },
       "deepl": "",
@@ -5291,7 +5291,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 du Revêtement de fibres."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Revêtement en Fibres."
         }
       },
       "deepl": "",
@@ -5302,7 +5302,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Vêtements en Fibres Éther.\n\t[Effets : Vêtements spéciaux fabriqués à partir de fibres vivantes infusées d'éther. Offre à votre équipage 20% de réduction de dégâts de toutes les sources et une régénération constante de 2 pv/s.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Vêtements en Fibres Éther.\n\t[Effets : Vêtements spéciaux fabriqués à partir de fibres vivantes infusées d'éther. Fournit à votre équipage 20 % de réduction de dégâts de toutes les sources et une régénération constante de 2 pv/s.]"
         }
       },
       "deepl": "",
@@ -5324,7 +5324,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous devez avoir l'amélioration interne Fibres Vivantes. (Revêtement de fibres)"
+          "text": "Cette amélioration n'est pas disponible. Vous devez disposer de l'amélioration interne Fibres Vivantes. (Revêtement en Fibres)"
         }
       },
       "deepl": "",
@@ -5357,7 +5357,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réglage d'Arme Amélioré. [DÉJÀ INSTALLÉE]"
+          "text": "Optimisation des Armes Améliorée. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5368,7 +5368,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Réglage d'Arme Amélioré. [Coût : 60~, 6{, 6}]"
+          "text": "Optimisation des Armes Améliorée. [Coût : 60~, 6{, 6}]"
         }
       },
       "deepl": "",
@@ -5379,7 +5379,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Optimisation de la Charge des Armes. [DÉJÀ INSTALLÉE]"
+          "text": "Optimisation de la Recharge des Armes. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5390,7 +5390,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Optimisation de la Charge des Armes. [Coût : 60~, 10}]"
+          "text": "Optimisation de la Recharge des Armes. [Coût : 60~, 10}]"
         }
       },
       "deepl": "",
@@ -5423,7 +5423,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Liaison de Données de Point Faible. [DÉJÀ INSTALLÉE]"
+          "text": "Liaison de Données Points Faibles. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5434,7 +5434,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Liaison de Données de Point Faible. [Coût : 50~, 5|]"
+          "text": "Liaison de Données Points Faibles. [Coût : 50~, 5|]"
         }
       },
       "deepl": "",
@@ -5467,7 +5467,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ciblage Multithreadé. [DÉJÀ INSTALLÉE]"
+          "text": "Ciblage Multithread. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5478,7 +5478,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Ciblage Multithreadé. [Coût : 45~, 5|]"
+          "text": "Ciblage Multithread. [Coût : 45~, 5|]"
         }
       },
       "deepl": "",
@@ -5489,7 +5489,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Spectre Complet.\n\t[Effets : Double le bonus de précision du Noyau de Ciblage Dédicacé et permet de charger les armes à 20% de la vitesse normale par niveau lorsque la cible est camouflée. Élargit également la vision fournie aux pièces adjacentes.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Spectral Complet.\n\t[Effets : Double le bonus de précision du Cœur de Ciblage Dédié et permet de charger les armes à 20 % de la vitesse normale par niveau lorsque la cible est camouflée. Élargit également la vision fournie aux pièces adjacentes.]"
         }
       },
       "deepl": "",
@@ -5511,7 +5511,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 du Noyau de Ciblage Dédicacé."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Cœur de Ciblage Dédié."
         }
       },
       "deepl": "",
@@ -5522,7 +5522,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Verrouillage préventif.\n\t[Effets : Si le vaisseau ennemi possède un système de camouflage, le verrouille automatiquement et instantanément au début de la bataille.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Verrouillage préventif.\n\t[Effets : Si le vaisseau ennemi dispose d'un système de camouflage, le verrouille automatiquement et instantanément au début de la bataille.]"
         }
       },
       "deepl": "",
@@ -5544,7 +5544,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 du Noyau de Ciblage Dédicacé."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Cœur de Ciblage Dédié."
         }
       },
       "deepl": "",
@@ -5555,7 +5555,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réglage d'Arme Amélioré.\n\t[Effets : Si une arme a une chance d'incendie/brèche/étourdissement, cette chance est augmentée de Force du Noyau * 5%. (Arrondi au 10% le plus proche)]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Optimisation des Armes Améliorée. \n\t[Effets : Si une arme a une chance d'incendie/brèche/étourdissement, cette chance est augmentée de Force du Cœur * 5 %. (Arrondi au 10 % le plus proche)]"
         }
       },
       "deepl": "",
@@ -5577,7 +5577,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 du Noyau de Ciblage Dédicacé."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Cœur de Ciblage Dédié."
         }
       },
       "deepl": "",
@@ -5588,7 +5588,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Optimisation de la Charge des Armes.\n\t[Effets : Le Noyau de Ciblage Dédicacé fournit désormais un bonus de rechargement des armes de 5% supplémentaire par Force du Noyau.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Optimisation de la Recharge des Armes.\n\t[Effets : Le Cœur de Ciblage Dédié fournit désormais un bonus de rechargement des armes de 5 % supplémentaires par Force du Cœur.]"
         }
       },
       "deepl": "",
@@ -5605,7 +5605,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Système de Nano-Guidage.\n\t[Effets : Les armes à dispersion (telles que le flak) tenteront désormais de frapper plus près de la cible, de 10 unités par Force du Noyau.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Système de Nano-Guidage.\n\t[Effets : Les armes à dispersion (telles que le flak) tenteront désormais de frapper plus près de la cible, de 10 unités par Force du Cœur.]"
         }
       },
       "deepl": "",
@@ -5627,7 +5627,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Liaison de Données de Point Faible.\n\t[Effets : L'équipage allié dans les pièces ciblées infligera 20% de dégâts de sabotage supplémentaires et 10% de dégâts de combat supplémentaires par Force du Noyau.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Liaison de Données Points Faibles.\n\t[Effets : L'équipage allié dans les pièces ciblées infligera 20 % de dégâts de sabotage supplémentaires et 10 % de dégâts de combat supplémentaires par Force du Cœur.]"
         }
       },
       "deepl": "",
@@ -5638,7 +5638,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Overclocking du Processeur.\n\t[Effets : Réduit le temps nécessaire au Noyau de Ciblage Dédicacé pour verrouiller une pièce, de 6 à 1,5 secondes.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Overclocking du Processeur.\n\t[Effets : Réduit le temps nécessaire au Cœur de Ciblage Dédié pour verrouiller une pièce de 6 à 1,5 seconde.]"
         }
       },
       "deepl": "",
@@ -5660,7 +5660,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Ciblage Multithreadé.\n\t[Effets : Le Noyau de Ciblage Dédicacé applique désormais également ses effets complets aux pièces adjacentes aux cibles directes.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Ciblage Multithread.\n\t[Effets : Le Cœur de Ciblage Dédié applique désormais également ses effets complets aux pièces adjacentes à celles directement ciblées.]"
         }
       },
       "deepl": "",
@@ -5704,7 +5704,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Banque de Condensateurs ECM. [NIVEAU MAX DÉJÀ INSTALLÉ]"
+          "text": "Banque de Condensateurs ECM. [NIVEAU MAX. DÉJÀ INSTALLÉ]"
         }
       },
       "deepl": "",
@@ -5715,7 +5715,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Banque de Condensateurs ECM niveau 3. [Coût : 20~, 2|]"
+          "text": "Banque de Condensateurs ECM niv. 3. [Coût : 20~, 2|]"
         }
       },
       "deepl": "",
@@ -5726,7 +5726,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Banque de Condensateurs ECM niveau 2. [Coût : 20~, 2|]"
+          "text": "Banque de Condensateurs ECM niv. 2. [Coût : 20~, 2|]"
         }
       },
       "deepl": "",
@@ -5737,7 +5737,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Banque de Condensateurs ECM niveau 1. [Coût : 20~, 2|]"
+          "text": "Banque de Condensateurs ECM niv. 1. [Coût : 20~, 2|]"
         }
       },
       "deepl": "",
@@ -5748,7 +5748,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Anti-missile 'Loyaliste'. [DÉJÀ INSTALLÉE]"
+          "text": "Anti-Missile 'Loyaliste'. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5759,7 +5759,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Anti-missile 'Loyaliste'. [Coût : 50~, 8}, 4|]"
+          "text": "Anti-Missile 'Loyaliste'. [Coût : 50~, 8}, 4|]"
         }
       },
       "deepl": "",
@@ -5792,7 +5792,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouilleur d'ASB. [DÉJÀ INSTALLÉE]"
+          "text": "Brouilleur ASB. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5803,7 +5803,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouilleur d'ASB. [Coût : 80~, 10|]"
+          "text": "Brouilleur ASB. [Coût : 80~, 10|]"
         }
       },
       "deepl": "",
@@ -5814,7 +5814,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Champ Anti-Ion. [DÉJÀ INSTALLÉE]"
+          "text": "Contre-Champ Ionique. [DÉJÀ INSTALLÉE]"
         }
       },
       "deepl": "",
@@ -5825,7 +5825,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Champ Anti-Ion. [Coût : 50~, 5{]"
+          "text": "Contre-Champ Ionique. [Coût : 50~, 5{]"
         }
       },
       "deepl": "",
@@ -5858,7 +5858,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Brouilleur de Comms Refroidi.\n\t[Effets : Les capacités de brouillage de drones offensifs et défensifs de la suite ECM ont un temps de recharge instantané.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Brouilleur de Comms Refroidi.\n\t[Effets : Les capacités de perturbation de drones offensifs et défensifs de la suite ECM ont un temps de recharge instantané.]"
         }
       },
       "deepl": "",
@@ -5869,7 +5869,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de la Suite ECM."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 2 de Suite ECM."
         }
       },
       "deepl": "",
@@ -5902,7 +5902,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de la Suite ECM."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 1 de Suite ECM."
         }
       },
       "deepl": "",
@@ -5913,7 +5913,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Anti-missile 'Loyaliste'.\n\t[Effets : La capacité de brouillage de missiles de la suite ECM recible désormais les missiles ennemis sur eux-mêmes.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Anti-Missile 'Loyaliste'.\n\t[Effets : La capacité de perturbation de missiles de la suite ECM redirige désormais les missiles ennemis vers eux.]"
         }
       },
       "deepl": "",
@@ -5935,7 +5935,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Protocole de Surcharge.\n\t[Effets : L'ECM gagne une capacité qui double temporairement sa vitesse de rechargement, mais empêche l'utilisation d'autres capacités tant qu'elle est active.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Protocole de Surcharge.\n\t[Effets : L'ECM acquiert une capacité qui double temporairement sa vitesse de recharge, mais empêche l'utilisation d'autres capacités tant qu'elle est active.]"
         }
       },
       "deepl": "",
@@ -5957,7 +5957,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Brouilleur d'ASB.\n\t[Effets : Empêche les ASB hostiles de frapper votre vaisseau tant que votre système ECM est alimenté.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Brouilleur ASB.\n\t[Effets : Empêche les Batteries Anti-Vaisseau (ASB) hostiles de frapper votre vaisseau tant que votre système ECM est alimenté.]"
         }
       },
       "deepl": "",
@@ -5979,7 +5979,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de la Suite ECM."
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin du niveau 3 de Suite ECM."
         }
       },
       "deepl": "",
@@ -5990,7 +5990,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Champ Anti-Ion.\n\t[Effets : Réduit la résistance aux ions ennemis de 50% tant que votre système ECM est alimenté.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Contre-Champ Ionique.\n\t[Effets : Réduit la résistance ionique de l'ennemi de 50 % tant que votre système ECM est alimenté.]"
         }
       },
       "deepl": "",
@@ -6001,7 +6001,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Écran de Brouillage.\n\t[Effets : Réduit passivement la précision, la vitesse de rechargement et la recharge des boucliers ennemis de 10%, 15% et 20% respectivement tant que votre système ECM est alimenté. Cependant, il gagne des charges 25% plus lentement.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Écran de Brouillage.\n\t[Effets : Réduit passivement la précision, la vitesse de rechargement et la recharge des boucliers ennemis de 10 %, 15 % et 20 % respectivement tant que votre système ECM est alimenté. Cependant, il gagne des charges 25 % plus lentement.]"
         }
       },
       "deepl": "",
@@ -6023,7 +6023,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "(Brouilleur d'ASB) Recibler l'ASB pour tirer sur l'ennemi !"
+          "text": "(Brouilleur ASB) Redirigez la Batterie Anti-Vaisseau (ASB) pour qu'elle tire sur l'ennemi !"
         }
       },
       "deepl": "",
@@ -6045,7 +6045,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Désactiver le rendu du blindage ablatif."
+          "text": "Désactiver le rendu de l'armure ablative."
         }
       },
       "deepl": "",
@@ -6056,7 +6056,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer le rendu du blindage ablatif."
+          "text": "Activer le rendu de l'armure ablative."
         }
       },
       "deepl": "",
@@ -6067,7 +6067,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Désactiver le rendu des entretoises du système."
+          "text": "Désactiver le rendu des supports de système."
         }
       },
       "deepl": "",
@@ -6078,7 +6078,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer le rendu des entretoises du système."
+          "text": "Activer le rendu des supports de système."
         }
       },
       "deepl": "",
@@ -6089,7 +6089,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Désactiver le rendu du revêtement de fibres."
+          "text": "Désactiver le rendu du revêtement en fibres."
         }
       },
       "deepl": "",
@@ -6100,7 +6100,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer le rendu du revêtement de fibres."
+          "text": "Activer le rendu du revêtement en fibres."
         }
       },
       "deepl": "",
@@ -6111,7 +6111,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Désactiver les sons du noyau de ciblage."
+          "text": "Désactiver les sons du cœur de ciblage."
         }
       },
       "deepl": "",
@@ -6122,7 +6122,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les sons du noyau de ciblage."
+          "text": "Activer les sons du cœur de ciblage."
         }
       },
       "deepl": "",
@@ -6177,7 +6177,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous déployez votre gigantesque réseau de capteurs de cartographie et maintenez une faible puissance pendant un certain temps pour éviter les perturbations. Ce long processus donnera certainement à la flotte le temps de vous rattraper, mais vous avez maintenant rassemblé une carte détaillée de tout le secteur !"
+          "text": "Vous déployez votre gigantesque réseau de capteurs de cartographie et restez à faible puissance pendant un certain temps pour éviter les perturbations. Ce long processus donnera sûrement à la flotte le temps de rattraper son retard, mais vous avez maintenant recueilli une carte détaillée de tout le secteur !"
         }
       },
       "deepl": "",
@@ -6199,7 +6199,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Système de Blindage Ablatif installé"
+          "text": "Système d'armure ablative installé"
         }
       },
       "deepl": "",
@@ -6210,7 +6210,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Sous-système Neutraliseur de Choc installé"
+          "text": "Sous-système de Neutralisation de Choc installé"
         }
       },
       "deepl": "",
@@ -6232,7 +6232,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Sous-système d'Entretoises du Système installé"
+          "text": "Sous-système de Supports de Système installé"
         }
       },
       "deepl": "",
@@ -6243,7 +6243,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Sous-système de Revêtement de Fibres installé"
+          "text": "Sous-système de Revêtement en Fibres installé"
         }
       },
       "deepl": "",
@@ -6254,7 +6254,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Système de Noyau de Ciblage Dédicacé installé"
+          "text": "Système de Cœur de Ciblage Dédié installé"
         }
       },
       "deepl": "",
@@ -6304,7 +6304,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Dilueur de Signal"
+          "text": "Dilueur de signal"
         }
       },
       "deepl": "",
@@ -6315,7 +6315,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "(Brouilleur d'ASB) Procéder sans crainte de l'ASB."
+          "text": "(Brouilleur ASB) Procédez sans crainte des Batteries Anti-Vaisseau (ASB)."
         }
       },
       "deepl": "",
@@ -6326,7 +6326,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Grâce à votre ECM avancé protégeant des ASB, vous parvenez à récupérer des ressources en toute sécurité."
+          "text": "Grâce à votre ECM avancé protégeant des Batteries Anti-Vaisseau (ASB), vous parvenez à récupérer quelques ressources en toute sécurité."
         }
       },
       "deepl": "",
@@ -6337,7 +6337,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Blindage Ablatif : Fournit des couches d'armure protégeant la coque, les systèmes et l'équipage des dégâts. Les couches d'armure endommagées réduisent les chances que les dégâts aux systèmes ou à l'équipage soient absorbés."
+          "text": "Armure Ablative : Fournit des couches d'armure protégeant la coque, les systèmes et l'équipage des dégâts. Les couches d'armure endommagées réduisent les chances que les dégâts aux systèmes ou à l'équipage soient absorbés."
         }
       },
       "deepl": "",
@@ -6348,7 +6348,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Neutraliseur de Choc : Augmente le taux de dissipation ionique des pièces affectées et leur fournit un bonus de puissance lors des tempêtes ioniques. Les pièces affectées ont une bordure vert-bleu."
+          "text": "Neutralisateur de choc : Augmente le taux de dissipation ionique des pièces affectées et leur fournit une puissance bonus lors des tempêtes ioniques. Les pièces affectées ont une bordure Vert-bleu."
         }
       },
       "deepl": "",
@@ -6359,7 +6359,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Baie d'Infusion : Produit des infusions au fil du temps, qui peuvent ensuite être ramassées par l'équipage et utilisées pour une variété de bonus."
+          "text": "Baie d'Infusion : Produit des infusions au fil du temps, qui peuvent ensuite être récupérées par l'équipage et utilisées pour une variété de bonus."
         }
       },
       "deepl": "",
@@ -6370,7 +6370,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises du Système : Protège vos systèmes des dégâts en les absorbant à leur place. Est réparé à la moitié du taux habituel."
+          "text": "Supports de Système : Protège vos systèmes des dégâts en les absorbant à leur place. Est réparé à la moitié du taux habituel."
         }
       },
       "deepl": "",
@@ -6381,7 +6381,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Entretoises du Système : Protège les systèmes de votre ennemi des dégâts en les absorbant à leur place. Est réparé à la moitié du taux habituel."
+          "text": "Supports de Système : Protège les systèmes de votre ennemi des dégâts en les absorbant à leur place. Est réparé à la moitié du taux habituel."
         }
       },
       "deepl": "",
@@ -6392,7 +6392,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Revêtement de Fibres : Protège votre équipage en réduisant les dégâts d'équipage des projectiles frappant la coque de votre vaisseau. Subit des dégâts en fonction des dégâts d'équipage absorbés."
+          "text": "Revêtement en Fibres : Protège votre équipage en réduisant les dégâts aux membres d'équipage des projectiles qui endommagent la coque de votre vaisseau. Subit des dégâts en fonction des dégâts aux membres d'équipage absorbés."
         }
       },
       "deepl": "",
@@ -6403,7 +6403,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Revêtement de Fibres : Protège l'équipage de votre ennemi en réduisant les dégâts d'équipage des projectiles frappant la coque du vaisseau ennemi. Subit des dégâts en fonction des dégâts d'équipage absorbés."
+          "text": "Revêtement en Fibres : Protège l'équipage de votre ennemi en réduisant les dégâts aux membres d'équipage des projectiles qui endommagent la coque du vaisseau ennemi. Subit des dégâts en fonction des dégâts aux membres d'équipage absorbés."
         }
       },
       "deepl": "",
@@ -6414,7 +6414,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Noyau de Ciblage Dédicacé : Marque les pièces sur le vaisseau ennemi. Les pièces marquées sont plus susceptibles d'être ciblées, et les projectiles qui les visent ont un bonus de précision."
+          "text": "Cœur de Ciblage Dédié : Marque des pièces sur le vaisseau ennemi. Les pièces marquées sont plus susceptibles d'être ciblées, et les projectiles qui les visent ont un bonus de précision."
         }
       },
       "deepl": "",
@@ -6425,7 +6425,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Noyau de Ciblage Dédicacé : Marque les pièces sur votre vaisseau. Les pièces marquées sont plus susceptibles d'être ciblées, et les projectiles qui les visent ont un bonus de précision."
+          "text": "Cœur de Ciblage Dédié : Marque des pièces sur votre vaisseau. Les pièces marquées sont plus susceptibles d'être ciblées, et les projectiles qui les visent ont un bonus de précision."
         }
       },
       "deepl": "",
@@ -6436,7 +6436,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Suite ECM : Projette des signaux de brouillage pouvant affecter les drones, missiles et systèmes ennemis."
+          "text": "Suite ECM : Projette des signaux de perturbation qui peuvent affecter les drones, les missiles et les systèmes ennemis."
         }
       },
       "deepl": "",
@@ -6447,7 +6447,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Suite ECM : Projette des signaux de brouillage pouvant affecter vos drones, missiles et systèmes."
+          "text": "Suite ECM : Projette des signaux de perturbation qui peuvent affecter vos drones, missiles et systèmes."
         }
       },
       "deepl": "",
@@ -6502,7 +6502,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "%s Charges max, %ss / Charge"
+          "text": "%s charges max., %ss / charge"
         }
       },
       "deepl": "",
@@ -6513,7 +6513,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Force du Noyau : %s"
+          "text": "Force du Cœur : %s"
         }
       },
       "deepl": "",
@@ -6524,7 +6524,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Bonus de pilotage : +0.5/0.75/1 Force du Noyau."
+          "text": "Bonus de pilotage : +0.5/0.75/1 Force du Cœur."
         }
       },
       "deepl": "",
@@ -6535,7 +6535,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Taux : %sx / Bonus de puissance : %s"
+          "text": "Taux : %sx / Puissance Bonus : %s"
         }
       },
       "deepl": "",
@@ -6546,7 +6546,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Régénération désactivée."
+          "text": "Régén. désactivée."
         }
       },
       "deepl": "",
@@ -6557,7 +6557,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "PV : %s / Régén. : %sx"
+          "text": "PV : %s /Régén. : %sx"
         }
       },
       "deepl": "",
@@ -6579,7 +6579,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "PV : %s / Régén. : %sx / Rés. Ion. : %s"
+          "text": "PV : %s/Régén. : %sx/R.I. : %s"
         }
       },
       "deepl": "",
@@ -6590,7 +6590,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "PV : %s / Régén. : %sx / Résistance aux ions : %s"
+          "text": "PV : %s / Régén. : %sx / Résistance aux Ions : %s"
         }
       },
       "deepl": "",
@@ -6601,7 +6601,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Bonus de pilotage : régén. 20/40/60% plus rapide."
+          "text": "Bonus de pilotage : régén. 20/40/60 % plus rapide."
         }
       },
       "deepl": "",
@@ -6612,7 +6612,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Désactivé : les effets actifs et passifs sont désactivés et perdent rapidement les charges accumulées."
+          "text": "Désactivé : Les effets actifs et passifs sont désactivés et perdent rapidement les charges accumulées."
         }
       },
       "deepl": "",
@@ -6634,7 +6634,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions de reconstitution transportées. Effets :"
+          "text": "Activez les infusions de reconstitution transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6645,7 +6645,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions de stimulant de combat transportées. Effets :"
+          "text": "Activez les infusions de stimulant de combat transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6656,7 +6656,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions gazeuses transportées. Effets :"
+          "text": "Activez les infusions gazeuses transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6667,7 +6667,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions surchargées transportées. Effets :"
+          "text": "Activez les infusions surchargées transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6678,7 +6678,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions chaotiques transportées. Effets :"
+          "text": "Activez les infusions chaotiques transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6689,7 +6689,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions ignées transportées. Effets :"
+          "text": "Activez les infusions ignées transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6700,7 +6700,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions explosives transportées. Effets :"
+          "text": "Activez les infusions explosives transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6711,7 +6711,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Activer les infusions phénix transportées. Effets :"
+          "text": "Activez les infusions de phénix transportées. Effets :"
         }
       },
       "deepl": "",
@@ -6722,7 +6722,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Confère 0,85x résistance aux dégâts de combat, 1,5 pv/s de régénération de santé, 0,5x vitesse de déplacement pour la durée. Soigne 45 PV/%, 14 secondes de maladie."
+          "text": "Confère une résistance aux dégâts de combat de 0,85x, une régénération de santé de 1,5 pv/s, une vitesse de déplacement de 0,5x pendant la durée. 45 PV/% de soin, 14 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6733,7 +6733,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Confère 1,5x dégâts de combat, dégâts aux portes et vitesse de déplacement, qui diminue au cours de l'effet (1,25x après 5 secondes, 1,1x après 10 secondes). Soigne 15 PV/%, 21 secondes de maladie."
+          "text": "Confère 1,5x dégâts de combat, dégâts aux portes et vitesse de déplacement, qui diminue au cours de l'effet (1,25x après 5 secondes, 1,1x après 10 secondes). 15 PV/% de soin, 21 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6744,7 +6744,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Confère l'immunité à la suffocation/au feu/au contrôle mental, la téléportation intra-vaisseau, mais les dégâts de combat sont réduits à 0,5x. Soigne 30 PV/%, 7 secondes de maladie."
+          "text": "Confère une immunité à la suffocation/feu/contrôle mental, téléportation à bord du même vaisseau, mais les dégâts de combat sont réduits à 0,5x. 30 PV/% de soin, 7 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6755,7 +6755,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Étourdit l'utilisateur et tout l'équipage à proximité pendant 5 secondes et inflige 2 dégâts ioniques au système. Les systèmes de votre vaisseau voient 1 ion retiré à la place. Soigne 30 PV/%, 21 secondes de maladie."
+          "text": "Étourdit soi-même et tout l'équipage proche pendant 5s et inflige 2 dégâts ioniques au système. Les systèmes de votre vaisseau voient 1 ion retiré à la place. 30 PV/% de soin, 21 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6766,7 +6766,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Applique l'effet d'une autre infusion aléatoire. Espérons qu'il n'y ait pas d'effets indésirables sur votre équipage. Soigne 15 - 75 PV/%, 7 secondes de maladie."
+          "text": "Applique un effet d'une autre infusion aléatoire. Espérons qu'il n'y ait pas d'effets indésirables sur votre équipage. 15 à 75 PV/% de soin, 7 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6777,7 +6777,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Déclenche un incendie dans la pièce occupée. Confère la capacité de se soigner des incendies pour la durée, mais fait également suffoquer votre équipage rapidement, même s'il est normalement immunisé. Soigne 15 PV/%, 21 secondes de maladie."
+          "text": "Déclenche un incendie dans la pièce actuelle. Confère la capacité de se soigner des incendies pendant la durée, mais fait également suffoquer votre équipage à vitesse rapide, même s'il est normalement immunisé. 15 PV/% de soin, 21 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6788,7 +6788,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Explose, infligeant 15 PV de dégâts à tous les ennemis dans la pièce. Les systèmes des vaisseaux ennemis subissent 1 dégât, tandis que ceux de votre vaisseau sont réparés d'1 barre à la place. Soigne 15 PV/%, 14 secondes de maladie."
+          "text": "Explose, infligeant 15 PV de dégâts à tous les ennemis dans la pièce. Les systèmes des vaisseaux ennemis subissent 1 dégât, tandis que ceux de votre vaisseau sont réparés d'une barre à la place. 15 PV/% de soin, 14 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6799,7 +6799,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "L'équipage ne peut pas mourir pendant la durée. S'il subit des dégâts qui le tueraient normalement, il est soigné à pleine santé et téléporté vers la Baie d'Infusion. Lorsque cet effet se déclenche, les alliés dans la même pièce sont soignés de 30 PV/%, et la Baie d'Infusion subit 1 dégât ionique irrésistible avec une durée de verrouillage double. Ne sauvera pas vos abordeurs si le vaisseau ennemi explose. Soigne 15 PV/%, 14 secondes de maladie."
+          "text": "L'équipage ne peut pas mourir pendant la durée. S'il subit des dégâts qui le tueraient normalement, il est à la place soigné à pleine santé et téléporté à la Baie d'Infusion. Lorsque cet effet se déclenche, les alliés dans la même pièce sont soignés de 30 PV/%, et la Baie d'Infusion subit 1 dégât ionique irréversible avec une durée de verrouillage doublée. Ne sauvera pas vos abordeurs si le vaisseau ennemi explose. 15 PV/% de soin, 14 secondes de maladie."
         }
       },
       "deepl": "",
@@ -6810,7 +6810,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Sélectionner la pièce cible pour le Neutraliseur de Choc.\\nTouche : %s"
+          "text": "Sélectionnez la pièce cible pour le Neutralisateur de Choc.\\nTouche : %s"
         }
       },
       "deepl": "",
@@ -6821,7 +6821,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Sélectionner la pièce à verrouiller pour le Noyau de Ciblage.\\nTouche : %s"
+          "text": "Sélectionnez la pièce sur laquelle le Cœur de Ciblage doit se verrouiller.\\nTouche : %s"
         }
       },
       "deepl": "",
@@ -6843,7 +6843,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Aucun vaisseau hostile à cibler."
+          "text": "Aucun vaisseau hostile présent à cibler."
         }
       },
       "deepl": "",
@@ -6865,7 +6865,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cliquer pour activer le mode Surcharge. Dans ce mode, toutes les capacités actives du système sont désactivées et ne peuvent pas être activées, mais le système gagne des charges à un taux de 2x. \\n10 secondes de durée, 20 secondes de temps de recharge. Sera automatiquement désactivé si les charges maximales sont atteintes."
+          "text": "Cliquez pour activer le mode Surcharge. Dans ce mode, toutes les capacités actives du système sont désactivées et ne peuvent être activées, mais le système gagne des charges à un taux de 2x. \\nDurée de 10 secondes, temps de recharge de 20 secondes. Sera automatiquement désactivé si les charges maximales sont atteintes."
         }
       },
       "deepl": "",
@@ -6876,7 +6876,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cliquer pour activer le Brouillage de Drones Offensifs. \\nTant qu'il est actif, les drones offensifs ennemis ne pourront pas cibler votre vaisseau, et les drones d'abordage ne pourront plus attaquer ni se déplacer. 10 secondes de durée, 5 secondes de temps de recharge. Nécessite 2 charges."
+          "text": "Cliquez pour activer la Perturbation de Drones Offensifs. \\nTant qu'il est actif, les drones offensifs ennemis seront incapables de cibler votre vaisseau, et les drones d'abordage deviendront incapables d'attaquer ou de se déplacer. Durée de 10 secondes, temps de recharge de 5 secondes. Nécessite 2 charges."
         }
       },
       "deepl": "",
@@ -6887,7 +6887,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cliquer pour activer le Brouillage de Drones Défensifs. \\nTant qu'il est actif, les drones de défense ennemis ne pourront rien cibler. \\n10 secondes de durée, 5 secondes de temps de recharge. Nécessite 3 charges."
+          "text": "Cliquez pour activer la Perturbation de Drones Défensifs. \\nTant qu'il est actif, les drones défensifs ennemis seront incapables de cibler quoi que ce soit. \\nDurée de 10 secondes, temps de recharge de 5 secondes. Nécessite 3 charges."
         }
       },
       "deepl": "",
@@ -6898,7 +6898,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cliquer pour activer le Brouillage de Missiles. \\nTant qu'il est actif, les missiles ennemis tirés sur votre vaisseau rateront leur cible ou exploseront en vol. 5 secondes de durée, 10 secondes de temps de recharge. Nécessite 2 charges."
+          "text": "Cliquez pour activer la Perturbation de Missiles. \\nTant qu'il est actif, les missiles ennemis tirés sur votre vaisseau manqueront leur cible ou exploseront en plein vol. Durée de 5 secondes, temps de recharge de 10 secondes. Nécessite 2 charges."
         }
       },
       "deepl": "",
@@ -6909,7 +6909,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cliquer pour activer le Mode ECCM. \\nTant qu'il est actif, il contrera automatiquement les capacités ECM ennemies, en dépensant une quantité de charges égale à la quantité dépensée par l'ennemi. Si les charges sont insuffisantes, il n'aura aucun effet. Contre également le Contrôle Mental et le Piratage ennemis, coûtant respectivement 2 et 3 charges. 20 secondes de durée, 10 secondes de temps de recharge. Nécessite 1 charge."
+          "text": "Cliquez pour activer le mode ECCM. \\nTant qu'il est actif, il contrera automatiquement les capacités ECM ennemies, en dépensant une quantité de charges égale à la quantité dépensée par l'ennemi. Si les charges sont insuffisantes, il n'aura aucun effet. Contre également le Contrôle Mental et le Piratage ennemis, coûtant respectivement 2 et 3 charges. Durée de 20 secondes, temps de recharge de 10 secondes. Nécessite 1 charge."
         }
       },
       "deepl": "",
@@ -6920,7 +6920,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cliquer pour sélectionner la pièce cible pour le Brouillage de Signal Système. Tant qu'il est actif, le système ennemi ciblé sera perturbé, fonctionnant soit à une efficacité réduite, soit limité par un nombre de barres égal à la moitié des charges dépensées. \\nNe peut pas limiter le système de survie, ni tout système de niveau 3 (ou plus) à 0 barres. \\n10 secondes de durée, 15 secondes de temps de recharge. Nécessite 2/4/6/8 charges (variable)."
+          "text": "Cliquez pour sélectionner la pièce cible pour le Brouillage de Signal Système. Tant qu'il est actif, le système ennemi ciblé sera perturbé, fonctionnant soit à une efficacité inférieure, soit limité par un nombre de barres égal à la moitié des charges dépensées. \\nNe peut pas limiter le système de survie, et aucun système de niveau 3 (ou supérieur) à 0 barre. \\nDurée de 10 secondes, temps de recharge de 15 secondes. Nécessite 2/4/6/8 charges (variable)."
         }
       },
       "deepl": "",
@@ -6931,7 +6931,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Cliquer pour sélectionner la pièce cible pour le Brouillage EM du Système. Tant qu'il est actif, le système ennemi ciblé dissipera les ions (y compris les temps de recharge) 50% plus lentement (10 secondes par dégât ionique). \\n20 secondes de durée, 10 secondes de temps de recharge. Nécessite 4 charges."
+          "text": "Cliquez pour sélectionner la pièce cible pour la Perturbation EM Système. Tant qu'il est actif, le système ennemi ciblé dissipera les ions (y compris les temps de recharge) 50 % plus lentement (10 secondes par dégât ionique). \\nDurée de 20 secondes, temps de recharge de 10 secondes. Nécessite 4 charges."
         }
       },
       "deepl": "",
@@ -6942,7 +6942,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouillage de Boucliers : réduit le taux de rechargement des boucliers ennemis à x0,7 pour chaque 2 charges dépensées. Se cumule de manière multiplicative."
+          "text": "Brouillage de bouclier : réduit le taux de recharge des boucliers ennemis à x0,7 pour chaque 2 charges dépensées. Se cumule de manière multiplicative."
         }
       },
       "deepl": "",
@@ -6953,7 +6953,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouillage d'Armes : réduit le taux de rechargement des armes ennemies à x0,75 pour chaque 2 charges dépensées. Se cumule de manière multiplicative. Applique également une pénalité de précision additive de -2,5% par charge dépensée."
+          "text": "Brouillage d'armes : réduit le taux de recharge des armes ennemies à x0,75 pour chaque 2 charges dépensées. Se cumule de manière multiplicative. Applique également une pénalité de précision additive de -2,5 % par charge dépensée."
         }
       },
       "deepl": "",
@@ -6964,7 +6964,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouillage d'Artillerie : limite temporairement le système par la quantité de charges dépensées. Applique également une pénalité de précision additive de -5% par charge dépensée."
+          "text": "Brouillage d'artillerie : limite temporairement le système par le nombre de charges dépensées. Applique également une pénalité de précision additive de -5 % par charge dépensée."
         }
       },
       "deepl": "",
@@ -6975,7 +6975,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouillage de Drones : limite temporairement le système par la quantité de charges dépensées. Applique également une précision additive de -5% pour les drones par charge dépensée."
+          "text": "Brouillage de drones : limite temporairement le système par le nombre de charges dépensées. Applique également une pénalité de précision additive de -5 % pour les drones par charge dépensée."
         }
       },
       "deepl": "",
@@ -6986,7 +6986,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouillage d'Oxygène : limite temporairement le système par la moitié de la quantité de charges dépensées. Ne peut pas limiter en dessous d'une barre."
+          "text": "Brouillage d'oxygène : limite temporairement le système de la moitié des charges dépensées. Ne peut pas limiter en dessous d'1 barre."
         }
       },
       "deepl": "",
@@ -6997,7 +6997,7 @@
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Brouillage : limite temporairement le système par la moitié de la quantité de charges dépensées. Ne peut pas limiter en dessous d'une barre si le niveau du système est de 3 ou plus."
+          "text": "Brouillage : limite temporairement le système de la moitié des charges dépensées. Ne peut pas limiter en dessous d'1 barre si le niveau du système est de 3 ou plus."
         }
       },
       "deepl": "",
