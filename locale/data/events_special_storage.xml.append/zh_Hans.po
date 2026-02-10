@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-10 04:05+0000\n"
+"PO-Revision-Date: 2026-02-10 05:56+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -321,6 +321,8 @@ msgstr "紧急传送召回。[消耗: 30~, 3{, 3|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LILY_TELEPORT_RECALL\"]/text"
 msgstr ""
+"您即将安装紧急传送召回升级。\n"
+"\t【效果：若敌方舰船被摧毁或跳跃，自动将己方船员传送回您的舰船。】"
 
 #: src-en/data/events_special_storage.xml.append:278
 msgid ""
@@ -371,37 +373,37 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "集成神经链路网络。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:325
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "集成神经链路网络. [消耗: 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:329
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "星图测绘套件。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:333
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "星图测绘套件。[消耗: 40~, 3{, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:337
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "星区扫描仪。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:341
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "星区扫描仪。[消耗: 20~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:348
 msgid ""
@@ -412,37 +414,37 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_INN_SENSORS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "集成神经链路网络。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:355
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_INN_SENSORS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "集成神经链路网络. [消耗: 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_SENSORS_MAPWIDE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "星图测绘套件。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:363
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_SENSORS_MAPWIDE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "星图测绘套件。[消耗: 40~, 3{, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_SECTOR_SCANNER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "星区扫描仪。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:371
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[@req=\"UPG_LILY_SECTOR_SCANNER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "星区扫描仪。[消耗: 20~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:376
 msgid ""
@@ -453,12 +455,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/text"
 msgstr ""
+"您即将安装集成神经链路网络升级。\n"
+"\t【效果：集成神经链路网络可在无船员状态下操作传感器子系统。】"
 
 #: src-en/data/events_special_storage.xml.append:390
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：30~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:392
 msgid ""
@@ -476,7 +480,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/choice[@req=\"sensors\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要传感器等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:408
 msgid ""
@@ -503,12 +507,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/text"
 msgstr ""
+"您即将安装星图测绘套件升级。\n"
+"\t【效果：允许您收集整个星区信标的信息。需要舰船静止一段时间。】"
 
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，3{，3|]"
 
 #: src-en/data/events_special_storage.xml.append:436
 msgid ""
@@ -526,7 +532,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/choice[@req=\"sensors\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要传感器等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:453
 msgid ""
@@ -553,12 +559,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/text"
 msgstr ""
+"您即将安装星区扫描仪升级。\n"
+"\t【效果：允许您在航行途中收集更多关于星区的信息，进行跨星区跳跃时可揭示所有"
+"星区的确切名称。】"
 
 #: src-en/data/events_special_storage.xml.append:480
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:482
 msgid ""
@@ -576,7 +585,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/choice[@req=\"sensors\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 传感器等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
@@ -603,48 +612,51 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "加固强化。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:528
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "加固强化 。[消耗: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:532
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "紧急锁定。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:536
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "紧急锁定。[消耗: 10~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:540
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "集成神经链路网络。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:544
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DOORS\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "集成神经链路网络. [消耗: 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/text"
 msgstr ""
+"你即将安装加固强化升级。\n"
+"\t【效果：舱门舱室内的友方船员受到的所有伤害减半，敌方船员对该系统的破坏速度"
+"降低一半】"
 
 #: src-en/data/events_special_storage.xml.append:557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/choice[@req=\"doors\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [花费：30~]"
 
 #: src-en/data/events_special_storage.xml.append:559
 msgid ""
@@ -662,7 +674,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/choice[@req=\"doors\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要舱门系统达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:574
 msgid ""
@@ -688,6 +700,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/text"
 msgstr ""
+"你即将安装紧急锁定升级。\n"
+"\t[效果：若舱门控制系统被摧毁或失效，所有舱门将自动关闭。]"
 
 #: src-en/data/events_special_storage.xml.append:601
 msgid ""
@@ -711,7 +725,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/choice[@req=\"doors\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要舱门系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:619
 msgid ""
@@ -737,12 +751,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/text"
 msgstr ""
+"你即将安装集成神经链路网络升级。\n"
+"\t[效果：集成神经链路网络可在无船员时操控舱门子系统。]"
 
 #: src-en/data/events_special_storage.xml.append:645
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/choice[@req=\"doors\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：30~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:647
 msgid ""
@@ -760,7 +776,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/choice[@req=\"doors\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要舱门系统达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:663
 msgid ""
@@ -786,12 +802,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/text"
 msgstr ""
+"你即将安装智能登舰升级。\n"
+"\t[效果：使你的登舰无人机优先降落在敌方重要舱室。]"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/choice[@req=\"drones\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "执行升级。[花费：50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:693
 msgid ""
@@ -809,7 +827,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/choice[@req=\"drones\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 无人机控制等级达到4级。"
 
 #: src-en/data/events_special_storage.xml.append:709
 msgid ""
@@ -840,73 +858,73 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_POLISHED_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "抛光装甲。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:740
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_POLISHED_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "抛光装甲。[消耗: 75~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_REACTIVE_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "反应装甲。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:749
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_REACTIVE_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "反应装甲。[消耗: 80~, 10}]"
 
 #: src-en/data/events_special_storage.xml.append:754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_STRONG_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "高强度复合装甲。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:758
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_STRONG_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "高强度复合装甲。[消耗: 100~]"
 
 #: src-en/data/events_special_storage.xml.append:763
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_REGEN_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "自修复装甲。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:767
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_REGEN_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "自修复装甲。[消耗: 60~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:772
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_VENGEANCE_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "复仇适配器。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:776
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_VENGEANCE_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "复仇适配器。[Cost: 20~, 4}]"
 
 #: src-en/data/events_special_storage.xml.append:781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_BUNKER_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "加固强化。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:785
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[@req=\"UPG_LILY_BUNKER_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "加固强化 。[消耗: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:790
 msgid ""
@@ -917,12 +935,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/text"
 msgstr ""
+"您即将安装抛光装甲升级。\n"
+"\t【效果：烧蚀装甲受到光束类武器的伤害降低 1 点。】"
 
 #: src-en/data/events_special_storage.xml.append:801
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：75~，5{]"
 
 #: src-en/data/events_special_storage.xml.append:803
 msgid ""
@@ -940,7 +960,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 烧蚀装甲等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:819
 msgid ""
@@ -966,12 +986,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/text"
 msgstr ""
+"您即将安装反应装甲升级。\n"
+"\t【效果：当烧蚀装甲吸收伤害时，会释放碎片云以拦截来袭的射弹或无人机。】"
 
 #: src-en/data/events_special_storage.xml.append:847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：80~, 10{]"
 
 #: src-en/data/events_special_storage.xml.append:849
 msgid ""
@@ -989,7 +1011,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 烧蚀装甲等级达到5级。"
 
 #: src-en/data/events_special_storage.xml.append:865
 msgid ""
@@ -1015,12 +1037,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/text"
 msgstr ""
+"您即将安装高强度复合装甲升级。\n"
+"\t【效果：提高烧蚀装甲吸收系统或船员伤害的几率。同时额外提升 10% 抵抗船体与系"
+"统伤害的概率。】"
 
 #: src-en/data/events_special_storage.xml.append:892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗： 100~]"
 
 #: src-en/data/events_special_storage.xml.append:894
 msgid ""
@@ -1038,7 +1063,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 烧蚀装甲等级达到4级。"
 
 #: src-en/data/events_special_storage.xml.append:909
 msgid ""
@@ -1064,12 +1089,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/text"
 msgstr ""
+"您即将安装自修复装甲升级。\n"
+"\t【效果：若烧蚀装甲系统存在，每次跃迁可修复2点船体值。】"
 
 #: src-en/data/events_special_storage.xml.append:936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：60~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:938
 msgid ""
@@ -1087,7 +1114,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 烧蚀装甲等级达到4级。"
 
 #: src-en/data/events_special_storage.xml.append:954
 msgid ""
@@ -1113,12 +1140,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/text"
 msgstr ""
+"您即将安装复仇适配器升级。\n"
+"\t【效果：允许基于船体伤害触发的效果，同样在装甲受损时触发。】"
 
 #: src-en/data/events_special_storage.xml.append:981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗： 20~, 4}]"
 
 #: src-en/data/events_special_storage.xml.append:983
 msgid ""
@@ -1136,7 +1165,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 烧蚀装甲等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:999
 msgid ""
@@ -1162,12 +1191,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/text"
 msgstr ""
+"你即将安装加固强化升级。\n"
+"\t【效果：烧蚀装甲所在舱室的友方船员受到的所有伤害减半，且敌方船员对该系统的"
+"破坏速度降低一半。】"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。[花费：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1029
 msgid ""
@@ -1185,7 +1217,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/choice[@req=\"lily_ablative_armor\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 烧蚀装甲等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:1044
 msgid ""
@@ -1211,12 +1243,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/text"
 msgstr ""
+"您即将安装 以太灌注装甲 升级。\n"
+"\t【效果：提升装甲与船体伤害抵抗几率 10%，并使烧蚀装甲层数也能受益于伤害抵抗"
+"几率。】"
 
 #: src-en/data/events_special_storage.xml.append:1071
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/choice[@req=\"UPG_LILY_STRONG_ARMOR\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：65~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:1073
 msgid ""
@@ -1347,7 +1382,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要震荡中和器等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:1184
 msgid ""
@@ -1445,7 +1480,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要震荡中和器等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:1275
 msgid ""
@@ -1494,7 +1529,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要震荡中和器等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:1321
 msgid ""
@@ -1718,7 +1753,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要注射舱达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:1521
 msgid ""
@@ -1807,7 +1842,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1610
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_OVERLOADED\"]/text"
-msgstr ""
+msgstr "你成功卸载了额外的注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1613
 msgid ""
@@ -1817,7 +1852,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1618
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_CHAOTIC\"]/text"
-msgstr ""
+msgstr "你成功卸载了额外的注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1621
 msgid ""
@@ -1827,7 +1862,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1626
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_FIREBORNE\"]/text"
-msgstr ""
+msgstr "你成功卸载了额外的注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1629
 msgid ""
@@ -1837,7 +1872,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1634
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_EXPLOSIVE\"]/text"
-msgstr ""
+msgstr "你成功卸载了额外的注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
@@ -1847,7 +1882,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_PHOENIX\"]/text"
-msgstr ""
+msgstr "你成功卸载了额外的注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1645
 msgid ""
@@ -1951,7 +1986,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要注射舱达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:1725
 msgid ""
@@ -1985,7 +2020,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要注射舱达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:1764
 msgid ""
@@ -2019,7 +2054,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要注射舱达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:1801
 msgid ""
@@ -2053,7 +2088,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要注射舱达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:1837
 msgid ""
@@ -2069,7 +2104,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。[消耗：50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:1857
 msgid ""
@@ -2087,7 +2122,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要注射舱达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:1873
 msgid ""
@@ -2098,31 +2133,31 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "先进气循系统。 [最高等级 已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1891
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "先进气循 等级4。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1895
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "先进气循 等级3。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "先进气循 等级2。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1903
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "先进气循 等级1。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1908
 msgid ""
@@ -2176,13 +2211,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[14]/text"
-msgstr ""
+msgstr "备用供氧系统。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1946
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[15]/text"
-msgstr ""
+msgstr "备用供氧系统。 [消耗: 10~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:1954
 msgid ""
@@ -2193,31 +2228,31 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "先进气循系统。 [最高等级 已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "先进气循 等级4。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "先进气循 等级3。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "先进气循 等级2。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "先进气循 等级1。 [消耗：30~]"
 
 #: src-en/data/events_special_storage.xml.append:1978
 msgid ""
@@ -2263,13 +2298,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_BACKUP\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "备用供氧系统。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2016
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_BACKUP\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "备用供氧系统。 [消耗: 10~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:2021
 msgid ""
@@ -2348,7 +2383,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2098
 msgid ""
@@ -2397,7 +2432,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2143
 msgid ""
@@ -2446,7 +2481,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2189
 msgid ""
@@ -2495,7 +2530,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2234
 msgid ""
@@ -2526,7 +2561,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。[消耗：50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:2263
 msgid ""
@@ -2544,7 +2579,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2279
 msgid ""
@@ -2593,7 +2628,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2325
 msgid ""
@@ -2642,7 +2677,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2373
 msgid ""
@@ -2673,7 +2708,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。[花费：30~]"
 
 #: src-en/data/events_special_storage.xml.append:2403
 msgid ""
@@ -2691,7 +2726,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2418
 msgid ""
@@ -2893,13 +2928,13 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BUNKER_BRACERS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "加固强化。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2614
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BUNKER_BRACERS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "加固强化 。[消耗: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:2618
 msgid ""
@@ -2946,12 +2981,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/text"
 msgstr ""
+"你即将安装加固强化升级。\n"
+"\t【效果：系统防护支架所在舱室的友方船员受到的所有伤害减半，且敌方船员对该系"
+"统的破坏速度降低一半。】"
 
 #: src-en/data/events_special_storage.xml.append:2657
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。[花费：30~]"
 
 #: src-en/data/events_special_storage.xml.append:2659
 msgid ""
@@ -3660,7 +3698,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要专用定位核心达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:3292
 msgid ""
@@ -3709,7 +3747,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要专用定位核心达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:3337
 msgid ""
@@ -3758,7 +3796,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要专用定位核心达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:3381
 msgid ""
@@ -3807,7 +3845,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要专用定位核心达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:3426
 msgid ""
@@ -3838,7 +3876,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。[消耗：50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3454
 msgid ""
@@ -3856,7 +3894,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要专用定位核心达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:3470
 msgid ""
@@ -3905,7 +3943,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要专用定位核心达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:3514
 msgid ""
@@ -4109,7 +4147,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 ECM套件等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:3686
 msgid ""
@@ -4207,7 +4245,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 ECM套件等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:3777
 msgid ""
@@ -4354,7 +4392,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 ECM套件等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:3914
 msgid ""
