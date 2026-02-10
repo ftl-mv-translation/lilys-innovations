@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-10 03:13+0000\n"
+"PO-Revision-Date: 2026-02-10 03:29+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/datatext_tooltipsxmlappend/zh_Hans/>\n"
@@ -266,93 +266,129 @@ msgstr ""
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
 msgstr ""
+"持续期间内船员不会死亡。若他们受到本应致命的伤害，则会恢复至满血并被传送至注"
+"射舱。此效果触发时，同舱室内的盟友将回复 30%生命值，且注射舱会受到1点无法抵抗"
+"的离子伤害，离子锁定时间加倍。若敌方舰船爆炸，则无法拯救己方登船船员。治疗 15"
+"%生命值 ，附带 14秒 虚弱状态。"
 
 #: src-en/data/text_tooltips.xml.append:61
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
 msgstr ""
+"请选择震荡中和器的目标舱室\\n"
+"热键：%s"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
 msgstr ""
+"请选择定位核心的目标舱室进行锁定\\n"
+"热键：%s"
 
 #: src-en/data/text_tooltips.xml.append:64
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_notready\"]"
-msgstr ""
+msgstr "系统未就绪。"
 
 #: src-en/data/text_tooltips.xml.append:65
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_noship\"]"
-msgstr ""
+msgstr "无敌对舰船可供锁定。"
 
 #: src-en/data/text_tooltips.xml.append:67
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge_locked\"]"
-msgstr ""
+msgstr "已锁定。"
 
 #: src-en/data/text_tooltips.xml.append:68
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge\"]"
 msgstr ""
+"点击启用超载模式。在此模式下，所有系统的主动能力将被禁用且无法激活，但系统充"
+"能速度提升至2倍。\\n"
+"持续10秒，冷却20秒。若达到最大充能数将自动关闭。"
 
 #: src-en/data/text_tooltips.xml.append:70
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_offdrones\"]"
 msgstr ""
+"点击激活攻击性无人机干扰。\\n"
+"激活期间，敌方攻击性无人机将无法锁定你的舰船，登船无人机将无法攻击或移动。持"
+"续10秒，冷却5秒。需要2点充能。"
 
 #: src-en/data/text_tooltips.xml.append:71
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_defdrones\"]"
 msgstr ""
+"点击激活防御性无人机干扰。\\n"
+"激活期间，敌方防御性无人机将无法锁定任何目标。\\n"
+"持续10秒，冷却5秒。需要3点充能。"
 
 #: src-en/data/text_tooltips.xml.append:72
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_missiles\"]"
 msgstr ""
+"点击激活导弹干扰。\\n"
+"激活期间，敌方射向你舰船的导弹将会偏离目标或在飞行中自毁。持续5秒，冷却10秒。"
+"需要2点充能。"
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_counter\"]"
 msgstr ""
+"点击激活ECM模式。\\n"
+"激活期间，系统将自动反制敌方的ECM能力，消耗与敌方等量的充能数。若充能不足，则"
+"无反制效果。同时可反制敌方心灵控制与黑客系统，分别消耗2点和3点充能。持续20秒"
+"，冷却10秒。需要1点充能。"
 
 #: src-en/data/text_tooltips.xml.append:74
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_jammer\"]"
 msgstr ""
+"点击选择系统信号干扰的目标舱室。激活期间，目标敌方系统将受到干扰，或以较低效"
+"率运行，或被限制的格数等于消耗充能数的一半。\\n"
+"无法干扰氧气系统，也无法将任何3级（或更高）系统限制为0格。\\n"
+"持续10秒，冷却15秒。需要2/4/6/8点充能（可变）。"
 
 #: src-en/data/text_tooltips.xml.append:75
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_electro\"]"
 msgstr ""
+"点击选择系统电磁干扰的目标舱室。激活期间，目标敌方系统的离子消散速度（包括冷"
+"却时间）将降低50%（每点离子伤害持续10秒）。\\n"
+"持续20秒，冷却10秒。需要4点充能。"
 
 #: src-en/data/text_tooltips.xml.append:77
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_shields\"]"
-msgstr ""
+msgstr "护盾干扰：每消耗2点充能，使敌方护盾充能速率降至 x0.7。效果可乘法叠加。"
 
 #: src-en/data/text_tooltips.xml.append:78
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_weapons\"]"
-msgstr ""
+msgstr "武器干扰：每消耗2点充能，使敌方武器充能速率降至 x0.75。效果可乘法叠加。同时每"
+"消耗1点充能，附带 -2.5% 加法叠加的命中率惩罚。"
 
 #: src-en/data/text_tooltips.xml.append:79
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_artillery\"]"
-msgstr ""
+msgstr "巨炮武器干扰： 临时限制该系统的能力，限制程度与消耗的充能数相等。同时每消耗1"
+"点充能，附带 -5% 加法叠加的命中率惩罚。"
 
 #: src-en/data/text_tooltips.xml.append:80
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_drones\"]"
-msgstr ""
+msgstr "无人机干扰： 临时限制该系统能力，限制程度与消耗的充能数相等。同时每消耗1点充"
+"能，使无人机附带 -5% 加法叠加的命中率惩罚。"
 
 #: src-en/data/text_tooltips.xml.append:81
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_oxygen\"]"
-msgstr ""
+msgstr "供氧干扰： 临时限制该系统能力，限制程度为消耗充能数的一半。无法限制至低于1格"
+"。"
 
 #: src-en/data/text_tooltips.xml.append:82
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_misc\"]"
-msgstr ""
+msgstr "干扰： 临时限制该系统能力，限制程度为消耗充能数的一半。若系统等级为3或更高，"
+"则无法限制至低于1格。"
