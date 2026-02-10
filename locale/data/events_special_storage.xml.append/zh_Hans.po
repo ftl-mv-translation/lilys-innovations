@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-10 10:50+0000\n"
+"PO-Revision-Date: 2026-02-10 12:22+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -131,7 +131,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/text"
 msgstr ""
 "您即将安装备用维修协议升级。\n"
-"\t【效果：即使在无船员状态下，也能缓慢修复克隆舱系统。】"
+"\t[效果：即使在无船员状态下，也能缓慢修复克隆舱系统。]"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
@@ -206,7 +206,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/text"
 msgstr ""
 "您即将安装心智护盾升级。\n"
-"\t【效果：驾驶舱内的船员将免疫心灵控制与眩晕效果。】"
+"\t[效果：驾驶舱内的船员将免疫心灵控制与眩晕效果。]"
 
 #: src-en/data/events_special_storage.xml.append:175
 msgid ""
@@ -258,7 +258,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/text"
 msgstr ""
 "您即将安装集成神经链路网络升级。\n"
-"\t【效果：集成神经链路网络可在无船员状态下操作驾驶子系统。】"
+"\t[效果：集成神经链路网络可在无船员状态下操作驾驶子系统。]"
 
 #: src-en/data/events_special_storage.xml.append:220
 msgid ""
@@ -322,7 +322,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LILY_TELEPORT_RECALL\"]/text"
 msgstr ""
 "您即将安装紧急传送召回升级。\n"
-"\t【效果：若敌方舰船被摧毁或跳跃，自动将己方船员传送回您的舰船。】"
+"\t[效果：若敌方舰船被摧毁或跳跃，自动将己方船员传送回您的舰船。]"
 
 #: src-en/data/events_special_storage.xml.append:278
 msgid ""
@@ -456,7 +456,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/text"
 msgstr ""
 "您即将安装集成神经链路网络升级。\n"
-"\t【效果：集成神经链路网络可在无船员状态下操作传感器子系统。】"
+"\t[效果：集成神经链路网络可在无船员状态下操作传感器子系统。]"
 
 #: src-en/data/events_special_storage.xml.append:390
 msgid ""
@@ -508,7 +508,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/text"
 msgstr ""
 "您即将安装星图测绘套件升级。\n"
-"\t【效果：允许您收集整个星区信标的信息。需要舰船静止一段时间。】"
+"\t[效果：允许您收集整个星区信标的信息。需要舰船静止一段时间。]"
 
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
@@ -560,8 +560,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/text"
 msgstr ""
 "您即将安装星区扫描仪升级。\n"
-"\t【效果：允许您在航行途中收集更多关于星区的信息，进行跨星区跳跃时可揭示所有"
-"星区的确切名称。】"
+"\t[效果：允许您在航行途中收集更多关于星区的信息，进行跨星区跳跃时可揭示所有星"
+"区的确切名称。]"
 
 #: src-en/data/events_special_storage.xml.append:480
 msgid ""
@@ -649,8 +649,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/text"
 msgstr ""
 "你即将安装加固强化升级。\n"
-"\t【效果：舱门舱室内的友方船员受到的所有伤害减半，敌方船员对该系统的破坏速度"
-"降低一半】"
+"\t[效果：舱门舱室内的友方船员受到的所有伤害减半，敌方船员对该系统的破坏速度降"
+"低一半]"
 
 #: src-en/data/events_special_storage.xml.append:557
 msgid ""
@@ -936,7 +936,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/text"
 msgstr ""
 "您即将安装抛光装甲升级。\n"
-"\t【效果：烧蚀装甲受到光束类武器的伤害降低 1 点。】"
+"\t[效果：烧蚀装甲受到光束类武器的伤害降低 1 点。]"
 
 #: src-en/data/events_special_storage.xml.append:801
 msgid ""
@@ -987,7 +987,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/text"
 msgstr ""
 "您即将安装反应装甲升级。\n"
-"\t【效果：当烧蚀装甲吸收伤害时，会释放碎片云以拦截来袭的射弹或无人机。】"
+"\t[效果：当烧蚀装甲吸收伤害时，会释放碎片云以拦截来袭的射弹或无人机。]"
 
 #: src-en/data/events_special_storage.xml.append:847
 msgid ""
@@ -1038,8 +1038,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/text"
 msgstr ""
 "您即将安装高强度复合装甲升级。\n"
-"\t【效果：提高烧蚀装甲吸收系统或船员伤害的几率。同时额外提升 10% 抵抗船体与系"
-"统伤害的概率。】"
+"\t[效果：提高烧蚀装甲吸收系统或船员伤害的几率。同时额外提升 10% 抵抗船体与系"
+"统伤害的概率。]"
 
 #: src-en/data/events_special_storage.xml.append:892
 msgid ""
@@ -1090,7 +1090,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/text"
 msgstr ""
 "您即将安装自修复装甲升级。\n"
-"\t【效果：若烧蚀装甲系统存在，每次跃迁可修复2点船体值。】"
+"\t[效果：若烧蚀装甲系统存在，每次跃迁可修复2点船体值。]"
 
 #: src-en/data/events_special_storage.xml.append:936
 msgid ""
@@ -1141,7 +1141,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/text"
 msgstr ""
 "您即将安装复仇适配器升级。\n"
-"\t【效果：允许基于船体伤害触发的效果，同样在装甲受损时触发。】"
+"\t[效果：允许基于船体伤害触发的效果，同样在装甲受损时触发。]"
 
 #: src-en/data/events_special_storage.xml.append:981
 msgid ""
@@ -1192,8 +1192,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/text"
 msgstr ""
 "你即将安装加固强化升级。\n"
-"\t【效果：烧蚀装甲所在舱室的友方船员受到的所有伤害减半，且敌方船员对该系统的"
-"破坏速度降低一半。】"
+"\t[效果：烧蚀装甲所在舱室的友方船员受到的所有伤害减半，且敌方船员对该系统的破"
+"坏速度降低一半。]"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
@@ -1244,8 +1244,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/text"
 msgstr ""
 "您即将安装 以太灌注装甲 升级。\n"
-"\t【效果：提升装甲与船体伤害抵抗几率 10%，并使烧蚀装甲层数也能受益于伤害抵抗"
-"几率。】"
+"\t[效果：提升装甲与船体伤害抵抗几率 10%，并使烧蚀装甲层数也能受益于伤害抵抗几"
+"率。]"
 
 #: src-en/data/events_special_storage.xml.append:1071
 msgid ""
@@ -1360,8 +1360,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/text"
 msgstr ""
 "您即将安装次级离子力场升级。\n"
-"\t【效果：保护您的舰船免受离子伤害，提供 30% 概率完全抵消离子伤害。效果可叠加"
-"。】"
+"\t[效果：保护您的舰船免受离子伤害，提供 30% 概率完全抵消离子伤害。效果可叠加"
+"。]"
 
 #: src-en/data/events_special_storage.xml.append:1166
 msgid ""
@@ -1412,8 +1412,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/text"
 msgstr ""
 "您即将安装 扩展力场 升级。\n"
-"\t【效果：震荡中和器同时为目标相邻舱室提供一半增益。等级2时，对角舱室也可获得"
-"增益。】"
+"\t[效果：震荡中和器同时为目标相邻舱室提供一半增益。等级2时，对角舱室也可获得"
+"增益。]"
 
 #: src-en/data/events_special_storage.xml.append:1211
 msgid ""
@@ -1464,8 +1464,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/text"
 msgstr ""
 "您即将安装 电涌保护器 升级。\n"
-"\t【效果：保护您的舰船免受离子伤害，对护盾命中时有 100% 概率抵消系统伤害，对"
-"直接命中时有 50% 概率抵消系统伤害。】"
+"\t[效果：保护您的舰船免受离子伤害，对护盾命中时有 100% 概率抵消系统伤害，对直"
+"接命中时有 50% 概率抵消系统伤害。]"
 
 #: src-en/data/events_special_storage.xml.append:1257
 msgid ""
@@ -1516,7 +1516,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/text"
 msgstr ""
 "您即将安装 神经中和器 升级。\n"
-"\t【效果：震荡中和器现在同时影响船员眩晕持续时间。】"
+"\t[效果：震荡中和器现在同时影响船员眩晕持续时间。]"
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
@@ -1588,7 +1588,7 @@ msgstr "疾病治疗协议。[消耗: 40~, 3{]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_INFUSION_HAVEN\""
 " and @lvl=\"1\"]/text"
-msgstr "安全港协议。【已安装】"
+msgstr "安全港协议。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1390
 msgid ""
@@ -1689,7 +1689,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr "爆破注射剂。【已安装】"
+msgstr "爆破注射剂。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1461
 msgid ""
@@ -1743,11 +1743,11 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/text"
 msgstr ""
 "您即将安装疾病治疗协议升级。\n"
-"\t【效果：注射舱内的船员会以加速速度从注射虚弱状态中恢复，恢复速度与其当前能"
-"量等级对应。\n"
+"\t[效果：注射舱内的船员会以加速速度从注射虚弱状态中恢复，恢复速度与其当前能量"
+"等级对应。\n"
 "1 能量：虚弱状态恢复速度提升 1.75 倍。\n"
 "2 能量：虚弱状态恢复速度提升 2.5 倍。\n"
-"3 能量：虚弱状态恢复速度提升 3.25 倍。】"
+"3 能量：虚弱状态恢复速度提升 3.25 倍。]"
 
 #: src-en/data/events_special_storage.xml.append:1503
 msgid ""
@@ -1798,7 +1798,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/text"
 msgstr ""
 "您即将安装安全港协议升级。\n"
-"\t【效果：注射舱内的船员将免疫窒息与火焰伤害，并额外回复 1 点生命值/秒。】"
+"\t[效果：注射舱内的船员将免疫窒息与火焰伤害，并额外回复 1 点生命值/秒。]"
 
 #: src-en/data/events_special_storage.xml.append:1548
 msgid ""
@@ -1984,9 +1984,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/text"
 msgstr ""
 "您即将安装 过载注射剂 升级。\n"
-"\t【注射剂效果：使自身及周围所有船员晕眩5秒，并对系统造成2点离子伤害。（注："
-"若作用于己方舰船，则改为移除舰上系统1层离子效果。）\n"
-"治疗 30%生命值，附带 21秒 虚弱状态。】"
+"\t[注射剂效果：使自身及周围所有船员晕眩5秒，并对系统造成2点离子伤害。（注：若"
+"作用于己方舰船，则改为移除舰上系统1层离子效果。）\n"
+"治疗 30%生命值，附带 21秒 虚弱状态。]"
 
 #: src-en/data/events_special_storage.xml.append:1707
 msgid ""
@@ -2022,9 +2022,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/text"
 msgstr ""
 "您即将安装 混沌注射剂 升级。\n"
-"\t【注射剂效果：应用另一种随机注射剂的效果。希望不会对你的船员产生任何不良反"
-"应。\n"
-"治疗 15% - 75% 生命值，附带 7秒 虚弱状态。】"
+"\t[注射剂效果：应用另一种随机注射剂的效果。希望不会对你的船员产生任何不良反应"
+"。\n"
+"治疗 15% - 75% 生命值，附带 7秒 虚弱状态。]"
 
 #: src-en/data/events_special_storage.xml.append:1743
 msgid ""
@@ -2060,9 +2060,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/text"
 msgstr ""
 "您即将安装炎裔注射剂 升级。\n"
-"\t【注射剂效果：在当前舱室引发火灾。持续期间内获得从火焰中回复生命的能力，但"
-"同时会使你的船员快速窒息，即使他们通常免疫窒息效果。\n"
-"治疗 15%生命值，附带 21秒 虚弱状态。】"
+"\t[注射剂效果：在当前舱室引发火灾。持续期间内获得从火焰中回复生命的能力，但同"
+"时会使你的船员快速窒息，即使他们通常免疫窒息效果。\n"
+"治疗 15%生命值，附带 21秒 虚弱状态。]"
 
 #: src-en/data/events_special_storage.xml.append:1782
 msgid ""
@@ -2098,8 +2098,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/text"
 msgstr ""
 "您即将安装 爆炸注射剂 升级。\n"
-"\t【注射剂效果：发生爆炸，对舱室内所有敌人造成 15点 伤害。敌方舰船上的系统受"
-"到 1点伤害，而己方舰船上的系统则改为修复 1格。"
+"\t[注射剂效果：发生爆炸，对舱室内所有敌人造成 15点 伤害。敌方舰船上的系统受到"
+" 1点伤害，而己方舰船上的系统则改为修复 1格。"
 
 #: src-en/data/events_special_storage.xml.append:1819
 msgid ""
@@ -2135,11 +2135,11 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/text"
 msgstr ""
 "您即将安装 凤凰注射剂 升级。\n"
-"\t【注射剂效果：持续期间内船员不会死亡。若他们受到本应致命的伤害，则会恢复至"
-"满血并被传送至注射舱。此效果触发时，同舱室内的盟友将回复 30%生命值，且注射舱"
-"会受到1点无法抵抗的离子伤害，离子锁定时间加倍。若敌方舰船爆炸，则无法拯救你方"
-"登船船员。\n"
-"治疗 15%生命值，附带 14秒 虚弱状态。】"
+"\t[注射剂效果：持续期间内船员不会死亡。若他们受到本应致命的伤害，则会恢复至满"
+"血并被传送至注射舱。此效果触发时，同舱室内的盟友将回复 30%生命值，且注射舱会"
+"受到1点无法抵抗的离子伤害，离子锁定时间加倍。若敌方舰船爆炸，则无法拯救你方登"
+"船船员。\n"
+"治疗 15%生命值，附带 14秒 虚弱状态。]"
 
 #: src-en/data/events_special_storage.xml.append:1855
 msgid ""
@@ -2358,8 +2358,8 @@ msgid ""
 msgstr ""
 "正在安装微粒扩散系统——此系统能为舰上己方船员提供多种士气与健康增益。\n"
 "请选择您希望安装的特定香型。\n"
-"【各选项互斥，将决定供氧系统获得的能量增益等级，且增益仅对您自身舰船内有氧气"
-"的舱室生效。】"
+"[各选项互斥，将决定供氧系统获得的能量增益等级，且增益仅对您自身舰船内有氧气的"
+"舱室生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2037
 msgid ""
@@ -2407,8 +2407,8 @@ msgid ""
 msgstr ""
 "您即将安装 微粒扩散器 - 馨香花束升级。\n"
 "这是一种由兰花族精心调配的馨香混合剂，旨在提升船员的健康状况。\n"
-"【效果：供氧系统每有一级能量，船员最大生命值 +5%，治疗速度 +10%。仅在您自身舰"
-"船内、氧气含量不低于20%的舱室中生效。】"
+"[效果：供氧系统每有一级能量，船员最大生命值 +5%，治疗速度 +10%。仅在您自身舰"
+"船内、氧气含量不低于20%的舱室中生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2079
 msgid ""
@@ -2460,8 +2460,8 @@ msgid ""
 msgstr ""
 "您即将安装 微粒扩散器 - 工业润滑剂升级。\n"
 "一种常用于血兰花设施的混合剂，因被发现能激励工人提高生产效率而普及。\n"
-"【效果：供氧系统每有一级能量，船员修理速度 +10%，移动速度 +5%。仅在您自身舰船"
-"内、氧气含量不低于20%的舱室中生效。】"
+"[效果：供氧系统每有一级能量，船员修理速度 +10%，移动速度 +5%。仅在您自身舰船"
+"内、氧气含量不低于20%的舱室中生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2125
 msgid ""
@@ -2514,8 +2514,8 @@ msgstr ""
 "您即将安装 微粒扩散器 - 金属与火药升级。\n"
 "这是一种在强悍海盗中广为人知的混合物，其浓烈的气味有助于让你的船员在战斗中更"
 "加坚韧。\n"
-"【效果：供氧系统每有一级能量，船员战斗伤害 +5%，所受战斗伤害 -5%。仅在您自身"
-"舰船内、氧气含量不低于20%的舱室中生效。】"
+"[效果：供氧系统每有一级能量，船员战斗伤害 +5%，所受战斗伤害 -5%。仅在您自身舰"
+"船内、氧气含量不低于20%的舱室中生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2170
 msgid ""
@@ -2567,8 +2567,8 @@ msgid ""
 msgstr ""
 "您即将安装 微粒扩散器 - 北极风升级。\n"
 "这种极为清爽的香型将使你的船员行动如风，并轻松应对火灾。\n"
-"【效果：供氧系统每有一级能量，船员移动速度 +10%，所受火焰伤害 -20%，灭火速度 "
-"+20%。仅在您自身舰船内、氧气含量不低于20%的舱室中生效。】"
+"[效果：供氧系统每有一级能量，船员移动速度 +10%，所受火焰伤害 -20%，灭火速度 "
+"+20%。仅在您自身舰船内、氧气含量不低于20%的舱室中生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2216
 msgid ""
@@ -2620,9 +2620,9 @@ msgid ""
 msgstr ""
 "您即将安装 微粒扩散器 - 青金石升级。\n"
 "这种昂贵混合剂的镇静与专注效果，将帮助你的船员心智如群山般不可动摇。\n"
-"【效果：供氧系统每有一级能量，船员眩晕持续时间 -20%。等级2时，船员抵抗疯狂；"
-"等级3时，船员抵抗心灵控制。（注：额外效果要求舱室氧气浓度不低于95%）仅在您自"
-"身舰船内、氧气含量不低于20%的舱室中生效。】"
+"[效果：供氧系统每有一级能量，船员眩晕持续时间 -20%。等级2时，船员抵抗疯狂；等"
+"级3时，船员抵抗心灵控制。（注：额外效果要求舱室氧气浓度不低于95%）仅在您自身"
+"舰船内、氧气含量不低于20%的舱室中生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
@@ -2674,8 +2674,8 @@ msgid ""
 msgstr ""
 "您即将安装 微粒扩散器 - 9V电池升级。\n"
 "尚不确定为何电池能被归为一种香型。但大多数测试对象都认为效果“令人振奋”。\n"
-"【效果：供氧系统每有一级能量，能量充能速率 +15%。等级3时，所有超能族船员额外"
-"提供一格能量。仅在您自身舰船内、氧气含量不低于20%的舱室中生效。】"
+"[效果：供氧系统每有一级能量，能量充能速率 +15%。等级3时，所有超能族船员额外提"
+"供一格能量。仅在您自身舰船内、氧气含量不低于20%的舱室中生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2306
 msgid ""
@@ -2729,9 +2729,9 @@ msgstr ""
 "一种经典且行之有效的解决方案，这绝对能为你的船员带来提升。\n"
 "副作用包括：过度攻击性、烦躁不安、睡眠障碍、成瘾、幻觉、磨牙及决策能力下降。"
 "不过嘛，只要管用就行。\n"
-"【效果：供氧系统每有一级能量，船员移动速度 +20%，伤害 +20%，破坏伤害 +50%，修"
+"[效果：供氧系统每有一级能量，船员移动速度 +20%，伤害 +20%，破坏伤害 +50%，修"
 "理速度 +15%，能量充能速率 +5%；但同时船员最大生命值 -5%，治疗速度 -10%，所受"
-"战斗伤害 +10%。仅在您自身舰船内、氧气含量不低于10%的舱室中生效。】"
+"战斗伤害 +10%。仅在您自身舰船内、氧气含量不低于10%的舱室中生效。]"
 
 #: src-en/data/events_special_storage.xml.append:2353
 msgid ""
@@ -2782,9 +2782,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/text"
 msgstr ""
 "您即将安装先进气循升级。\n"
-"\t【效果：氧气系统现在优先服务己方船员，在有船员存在的舱室内，氧气填充速度提"
-"升 80%。对敌方船员和火焰则产生相反效果，会加速氧气消耗。系统需要能量支持，效"
-"果随能量等级提升而增强。】"
+"\t[效果：氧气系统现在优先服务己方船员，在有船员存在的舱室内，氧气填充速度提升"
+" 80%。对敌方船员和火焰则产生相反效果，会加速氧气消耗。系统需要能量支持，效果"
+"随能量等级提升而增强。]"
 
 #: src-en/data/events_special_storage.xml.append:2401
 msgid ""
@@ -2835,7 +2835,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/text"
 msgstr ""
 "您即将安装备用供氧系统升级。\n"
-"\t【效果：氧气系统即使在损坏或停用状态下，仍能在系统所在舱室提供微量氧气。】"
+"\t[效果：氧气系统即使在损坏或停用状态下，仍能在系统所在舱室提供微量氧气。]"
 
 #: src-en/data/events_special_storage.xml.append:2444
 msgid ""
@@ -2910,9 +2910,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/text"
 msgstr ""
 "您即将安装能量超载系统升级。\n"
-"\t【效果：当备用电池激活时，每级备用电池提供 +10% 武器充能速率、+20% 护盾充能"
+"\t[效果：当备用电池激活时，每级备用电池提供 +10% 武器充能速率、+20% 护盾充能"
 "速率及 +5% 闪避，但电池冷却时间延长 25%。\n"
-"与电池性能升级不兼容。】"
+"与电池性能升级不兼容。]"
 
 #: src-en/data/events_special_storage.xml.append:2519
 msgid ""
@@ -2963,7 +2963,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/text"
 msgstr ""
 "您即将安装太阳能电池阵列升级。\n"
-"\t【效果：当靠近恒星时，备用电池可持续无限期激活。】"
+"\t[效果：当靠近恒星时，备用电池可持续无限期激活。]"
 
 #: src-en/data/events_special_storage.xml.append:2566
 msgid ""
@@ -3054,7 +3054,7 @@ msgstr "活性金属支架。[消耗: 40~, 4|]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"1\"]/text"
-msgstr "结构力场发生器。【已安装】"
+msgstr "结构力场发生器。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2638
 msgid ""
@@ -3072,8 +3072,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/text"
 msgstr ""
 "你即将安装加固强化升级。\n"
-"\t【效果：系统防护支架所在舱室的友方船员受到的所有伤害减半，且敌方船员对该系"
-"统的破坏速度降低一半。】"
+"\t[效果：系统防护支架所在舱室的友方船员受到的所有伤害减半，且敌方船员对该系统"
+"的破坏速度降低一半。]"
 
 #: src-en/data/events_special_storage.xml.append:2657
 msgid ""
@@ -3124,7 +3124,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/text"
 msgstr ""
 "您即将安装热动能排导器升级。\n"
-"\t【效果：系统防护支架在吸收伤害时，有 50% 概率不损失耐久度，但会引发火灾。】"
+"\t[效果：系统防护支架在吸收伤害时，有 50% 概率不损失耐久度，但会引发火灾。]"
 
 #: src-en/data/events_special_storage.xml.append:2700
 msgid ""
@@ -3175,8 +3175,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
 "您即将安装活性金属支架升级。\n"
-"\t【效果：由能“记忆”形状的特殊金属制成，系统防护支架即使在无船员状态下也能缓"
-"慢自我修复。】"
+"\t[效果：由能“记忆”形状的特殊金属制成，系统防护支架即使在无船员状态下也能缓慢"
+"自我修复。]"
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
@@ -3227,8 +3227,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/text"
 msgstr ""
 "您即将安装结构力场发生器升级。\n"
-"\t【效果：系统防护支架现在可保护系统免受其他来源的伤害，例如破坏伤害与火灾。"
-"】"
+"\t[效果：系统防护支架现在可保护系统免受其他来源的伤害，例如破坏伤害与火灾。]"
 
 #: src-en/data/events_special_storage.xml.append:2789
 msgid ""
@@ -3279,8 +3278,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/text"
 msgstr ""
 "您即将安装以太结构力场升级。\n"
-"\t【效果：受系统防护支架保护的系统，其被破坏速度减半，并对入侵者造成 2 点生命"
-"值/秒 的伤害。】"
+"\t[效果：受系统防护支架保护的系统，其被破坏速度减半，并对入侵者造成 2 点生命"
+"值/秒 的伤害。]"
 
 #: src-en/data/events_special_storage.xml.append:2833
 msgid ""
@@ -3388,12 +3387,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/text"
 msgstr ""
+"您即将安装双重编织升级。\n"
+"\t[效果：纤维内衬层的防护效果现在提升一倍，但船员对其的修复速度减半。]"
 
 #: src-en/data/events_special_storage.xml.append:2922
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，4|]"
 
 #: src-en/data/events_special_storage.xml.append:2924
 msgid ""
@@ -3411,7 +3412,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要碳纤维内衬等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2940
 msgid ""
@@ -3437,12 +3438,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/text"
 msgstr ""
+"您即将安装危险物质防护层升级。\n"
+"\t[效果：碳纤维内衬现在还能降低击中船体的射弹与光束造成的异常状态（火灾、破舱"
+"、眩晕）概率。]"
 
 #: src-en/data/events_special_storage.xml.append:2966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，5{，3}]"
 
 #: src-en/data/events_special_storage.xml.append:2968
 msgid ""
@@ -3460,7 +3464,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要碳纤维内衬等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:2985
 msgid ""
@@ -3486,12 +3490,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/text"
 msgstr ""
+"您即将安装 动态优先级 升级。\n"
+"\t[效果：碳纤维内衬现在仅对存在己方船员的舱室提供保护（并因此承受损伤）。]"
 
 #: src-en/data/events_special_storage.xml.append:3011
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：25~，4|]"
 
 #: src-en/data/events_special_storage.xml.append:3013
 msgid ""
@@ -3509,7 +3515,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要碳纤维内衬等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:3029
 msgid ""
@@ -3535,12 +3541,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/text"
 msgstr ""
+"您即将安装活体纤维升级。\n"
+"\t[效果：一种特殊的活体纤维衬层材料能够从舰船的能量泄漏中汲取养分，即使在无船"
+"员状态下也能自然再生。]"
 
 #: src-en/data/events_special_storage.xml.append:3055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：80~，6{]"
 
 #: src-en/data/events_special_storage.xml.append:3057
 msgid ""
@@ -3558,7 +3567,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"lily_fiber_liner\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 碳纤维内衬等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:3073
 msgid ""
@@ -3584,12 +3593,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/text"
 msgstr ""
+"您即将安装以太纤维织物升级。\n"
+"\t[效果：由活体纤维与以太融合制成的特殊服装。为您的船员提供 20% 全伤害减免与"
+"持续的 2 点生命值/秒 再生效果。]"
 
 #: src-en/data/events_special_storage.xml.append:3100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，8{，6|]"
 
 #: src-en/data/events_special_storage.xml.append:3102
 msgid ""
@@ -3607,7 +3619,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。您需要先安装活体纤维内部升级（碳纤维内衬）"
 
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
@@ -3638,85 +3650,85 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_AUTOLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "预判锁定。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_AUTOLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "预判锁定。[消耗: 30~, 3}, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_STATUS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "武器强化调校。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_STATUS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "武器强化调校。[消耗: 60~, 6{, 6}]"
 
 #: src-en/data/events_special_storage.xml.append:3172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_RELOAD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "武器充能优化。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_RELOAD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "武器充能优化。[消耗: 60~, 10}]"
 
 #: src-en/data/events_special_storage.xml.append:3181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_HOMING\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "纳米制导系统。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_HOMING\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "纳米制导系统。[消耗: 40~, 5}, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_UPLINK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "弱点数据上行链路。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_UPLINK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "弱点数据上行链路。[消耗: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_OVERCLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "处理器超频。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_OVERCLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "处理器超频。[消耗: 30~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_MULTITHREAD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "多线程锁定。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[@req=\"UPG_LILY_TARGETING_MULTITHREAD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "多线程锁定。[消耗: 45~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3217
 msgid ""
@@ -3727,12 +3739,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/text"
 msgstr ""
+"您即将安装全频谱阵列升级。\n"
+"\t[效果：使专用定位核心的命中加成翻倍，且在目标隐身时，每级能量允许武器以 20%"
+" 常规速度充能。同时将提供的视野扩展至相邻舱室。]"
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：100~，8{，6|]"
 
 #: src-en/data/events_special_storage.xml.append:3230
 msgid ""
@@ -3750,7 +3765,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 专用定位核心等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:3247
 msgid ""
@@ -3776,12 +3791,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/text"
 msgstr ""
+"您即将安装预判锁定升级。\n"
+"\t[效果：若敌舰装备有隐身系统，将在战斗开始时自动并瞬间锁定其位置。]"
 
 #: src-en/data/events_special_storage.xml.append:3273
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：30~，3}，3|]"
 
 #: src-en/data/events_special_storage.xml.append:3275
 msgid ""
@@ -3825,12 +3842,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/text"
 msgstr ""
+"您即将安装武器强化调校升级。\n"
+"[效果：若武器具有触发火灾/破舱/眩晕的几率，此几率将提升（核心强度 * 5%）。（"
+"四舍五入至最近的10%）]"
 
 #: src-en/data/events_special_storage.xml.append:3318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：60~，6{，6}]"
 
 #: src-en/data/events_special_storage.xml.append:3320
 msgid ""
@@ -3874,6 +3894,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/text"
 msgstr ""
+"您即将安装武器充能优化升级。\n"
+"\t[效果：专用定位核心现在每点核心强度额外提供 5% 武器重装速度加成。]"
 
 #: src-en/data/events_special_storage.xml.append:3363
 msgid ""
@@ -3923,12 +3945,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/text"
 msgstr ""
+"您即将安装 纳米制导系统 升级。\n"
+"\t[效果：具有散射效果的武器（例如破片炮）现在会尝试更接近目标，每点核心强度使"
+"散布范围缩小 10 单位。]"
 
 #: src-en/data/events_special_storage.xml.append:3407
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，5}，2|]"
 
 #: src-en/data/events_special_storage.xml.append:3409
 msgid ""
@@ -3972,6 +3997,9 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/text"
 msgstr ""
+"您即将安装弱点数据上行链路升级。\n"
+"\t[效果：位于目标舱室内的己方船员，每点核心强度将造成 20% 额外破坏伤害与 10% "
+"额外战斗伤害。]"
 
 #: src-en/data/events_special_storage.xml.append:3452
 msgid ""
@@ -4021,12 +4049,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/text"
 msgstr ""
+"您即将安装处理器超频 升级。\n"
+"\t[效果：专用定位核心锁定舱室所需时间从 6 秒减少至 1.5 秒。]"
 
 #: src-en/data/events_special_storage.xml.append:3496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：30~，5{]"
 
 #: src-en/data/events_special_storage.xml.append:3498
 msgid ""
@@ -4070,12 +4100,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/text"
 msgstr ""
+"您即将安装多线程锁定升级。\n"
+"\t[效果：专用定位核心现在同样对其直接目标相邻的舱室施加全额效果。]"
 
 #: src-en/data/events_special_storage.xml.append:3540
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：45~，5|]"
 
 #: src-en/data/events_special_storage.xml.append:3542
 msgid ""
@@ -4093,7 +4125,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/choice[@req=\"lily_targeting_core\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 专用定位核心等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:3558
 msgid ""
@@ -4124,97 +4156,97 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ANTIDRONE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "冷却通讯干扰器。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ANTIDRONE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "冷却通讯干扰器。[消耗: 45~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "ECM 电容阵列。[最高等级 已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "ECM电容阵列 等级3。 [消耗：20~，2|]"
 
 #: src-en/data/events_special_storage.xml.append:3603
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "ECM电容阵列 等级2。 [消耗：20~，2|]"
 
 #: src-en/data/events_special_storage.xml.append:3607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_CAPACITY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "ECM电容阵列 等级1。 [消耗：20~，2|]"
 
 #: src-en/data/events_special_storage.xml.append:3612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_RETARGET\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "“忠嗣”反导系统。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_RETARGET\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "“忠嗣”反导系统。[消耗: 50~, 8}, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:3621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_SUPERCHARGE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "超载协议。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3625
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_SUPERCHARGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "超载协议。[消耗: 40~, 8{, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:3630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ASB_SCRAMBLER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "ASB 扰频器。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ASB_SCRAMBLER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "ASB扰频器. [消耗 80~, 10|]"
 
 #: src-en/data/events_special_storage.xml.append:3639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ELECTRO_FIELD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "离子反制力场。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3643
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_ELECTRO_FIELD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "离子反制力场。[消耗: 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_JAMMER_FIELD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "干扰屏障。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[@req=\"UPG_LILY_ECM_JAMMER_FIELD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "干扰屏障。[消耗: 60~, 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3657
 msgid ""
@@ -4225,12 +4257,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/text"
 msgstr ""
+"您即将安装冷却通讯干扰器升级。\n"
+"\t[效果：ECM套件的攻击性与防御性无人机干扰能力将拥有即时冷却。]"
 
 #: src-en/data/events_special_storage.xml.append:3668
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：45~，5|]"
 
 #: src-en/data/events_special_storage.xml.append:3670
 msgid ""
@@ -4274,12 +4308,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/text"
 msgstr ""
+"您即将安装 ECM电容阵列 升级。\n"
+"\t[效果：ECM套件最大充能数 +1，最多可安装 3 次。]"
 
 #: src-en/data/events_special_storage.xml.append:3713
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，2|]"
 
 #: src-en/data/events_special_storage.xml.append:3715
 msgid ""
@@ -4297,7 +4333,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 ECM套件等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:3731
 msgid ""
@@ -4323,12 +4359,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/text"
 msgstr ""
+"您即将安装 “忠嗣”反导系统升级。\n"
+"\t[效果：ECM套件的导弹干扰能力现在将敌方导弹重新锁定回其自身目标。]"
 
 #: src-en/data/events_special_storage.xml.append:3758
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：50~，8}，4|]"
 
 #: src-en/data/events_special_storage.xml.append:3760
 msgid ""
@@ -4372,12 +4410,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/text"
 msgstr ""
+"您即将安装超载协议升级。\n"
+"\t[效果：ECM获得一项能力，可暂时使其充能速度加倍，但在激活期间无法使用其他能"
+"力。]"
 
 #: src-en/data/events_special_storage.xml.append:3804
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，8{，2|]"
 
 #: src-en/data/events_special_storage.xml.append:3806
 msgid ""
@@ -4395,7 +4436,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 ECM套件等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:3823
 msgid ""
@@ -4421,12 +4462,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/text"
 msgstr ""
+"您即将安装 ASB扰频器 升级。\n"
+"\t[效果：当你的ECM系统处于供能状态时，可阻止敌对ASB命中你的舰船。]"
 
 #: src-en/data/events_special_storage.xml.append:3850
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：80~，10|]"
 
 #: src-en/data/events_special_storage.xml.append:3852
 msgid ""
@@ -4444,7 +4487,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 ECM套件等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:3868
 msgid ""
@@ -4470,12 +4513,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/text"
 msgstr ""
+"您即将安装离子反制力场升级。\n"
+"\t[效果：当你的ECM系统处于供能状态时，可降低敌方离子抗性50%。]"
 
 #: src-en/data/events_special_storage.xml.append:3896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：50~，5{]"
 
 #: src-en/data/events_special_storage.xml.append:3898
 msgid ""
@@ -4519,12 +4564,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/text"
 msgstr ""
+"您即将安装干扰屏障升级。\n"
+"\t[效果：当你的ECM系统处于供能状态时，被动降低敌方命中率10%、重装速度15%及护"
+"盾充能速度20%。然而，ECM套件的充能速度将减慢25%。]"
 
 #: src-en/data/events_special_storage.xml.append:3941
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：60~，8|]"
 
 #: src-en/data/events_special_storage.xml.append:3943
 msgid ""
@@ -4542,7 +4590,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 ECM套件等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:3959
 msgid ""
@@ -4568,12 +4616,12 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（ASB扰频器）将ASB重新定位，瞄准敌方开火！"
 
 #: src-en/data/events_special_storage.xml.append:3990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_ECM_ASB_RETARGET\"]/text"
-msgstr ""
+msgstr "你利用先进设备扰乱了ASB炮台，使其转而向敌舰开火！"
 
 #: src-en/data/events_special_storage.xml.append:3994
 msgid ""
@@ -4584,75 +4632,77 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "禁用烧蚀装甲渲染。"
 
 #: src-en/data/events_special_storage.xml.append:4011
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "启用烧蚀装甲渲染。"
 
 #: src-en/data/events_special_storage.xml.append:4018
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "禁用系统防护支架渲染。"
 
 #: src-en/data/events_special_storage.xml.append:4024
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "启用系统防护支架渲染。"
 
 #: src-en/data/events_special_storage.xml.append:4031
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "禁用碳纤维内衬层渲染。"
 
 #: src-en/data/events_special_storage.xml.append:4037
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "启用碳纤维内衬层渲染。"
 
 #: src-en/data/events_special_storage.xml.append:4044
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "禁用目标定位核心音效。"
 
 #: src-en/data/events_special_storage.xml.append:4050
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "启用目标定位核心音效。"
 
 #: src-en/data/events_special_storage.xml.append:4057
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "禁用ECM套件音效。"
 
 #: src-en/data/events_special_storage.xml.append:4063
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "启用ECM套件音效。"
 
 #: src-en/data/events_special_storage.xml.append:4076
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（星图测绘套件）测绘该星区。[1次舰队充能]"
 
 #: src-en/data/events_special_storage.xml.append:4080
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Ex. 星图测绘套件) 测绘该星区。[1次舰队充能]"
 
 #: src-en/data/events_special_storage.xml.append:4086
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_SENSORS_MAPWIDE_SCAN\"]/text"
 msgstr ""
+"你展开巨大的测绘传感器阵列，并保持低功率运行一段时间以避免干扰。这个漫长的过"
+"程无疑会给舰队一些时间追赶上来，但如今你已获取了整个星区的详细星图！"
