@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-10 04:05+0000\n"
+"PO-Revision-Date: 2026-02-10 05:56+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/datablueprintsxmlappend/zh_Hans/>\n"
@@ -99,7 +99,7 @@ msgstr "通过降低击中你舰船的弹体和光束对船员的伤害来保护
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
-msgstr "装甲防护支架"
+msgstr "装甲加固强化"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
@@ -109,14 +109,14 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/title"
-msgstr "装甲支架强化。[X]"
+msgstr "装甲加固强化。[X]"
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/desc"
 msgstr ""
-"位于装甲支架强化舱室内的我方船员受到的所有伤害减半，且敌方船员对该系统的破坏"
-"效率减半。\n"
+"系统防护支架所在舱室的友方船员受到的所有伤害减半，且敌方船员对该系统的破坏速"
+"度降低一半。\n"
 "…\n"
 "\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
 "理中，内部升级选项下的舰载设备类别中免费内置化。"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
-msgstr "高级气循[X]"
+msgstr "先进气循[X]"
 
 #: src-en/data/blueprints.xml.append:172
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
-msgstr "高级气循"
+msgstr "先进气循"
 
 #: src-en/data/blueprints.xml.append:183
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/desc"
@@ -240,7 +240,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
-msgstr "舱门加固系统"
+msgstr "舱门加固强化"
 
 #: src-en/data/blueprints.xml.append:248
 msgid ""
@@ -250,13 +250,16 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/title"
-msgstr "舱门加固系统。 [X]"
+msgstr "舱门加固强化。 [X]"
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"舱门舱室的己方船员受到的所有伤害减半，且敌方船员破坏速度减半。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
@@ -276,8 +279,11 @@ msgstr "备用供氧系统 [X]"
 #: src-en/data/blueprints.xml.append:272
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"氧气系统即使在损坏或停用状态下，仍能在系统所在舱室提供微量氧气。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:281
 msgid ""
@@ -297,8 +303,11 @@ msgstr "舱门紧急锁定装置 [X]"
 #: src-en/data/blueprints.xml.append:289
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
-msgstr "[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管理中"
-"，内部升级选项下的舰载设备类别中免费内置化。"
+msgstr ""
+"若舱门系统被摧毁或停用，所有舱门及气闸将自动关闭。\n"
+"\n"
+"\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
+"理中，内部升级选项下的舰载设备类别中免费内置化。"
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
@@ -569,7 +578,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:490
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/title"
-msgstr "强化工事"
+msgstr "加固强化"
 
 #: src-en/data/blueprints.xml.append:491
 msgid ""
@@ -579,7 +588,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/title"
-msgstr "强化工事[X]"
+msgstr "加固强化[X]"
 
 #: src-en/data/blueprints.xml.append:498
 msgid ""
@@ -834,7 +843,7 @@ msgstr "热动能排导器 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/desc"
 msgstr ""
-"系统增强支架在吸收伤害时，有50%几率不损失耐久度，但会因此起火。\n"
+"系统防护支架在吸收伤害时，有50%几率不损失耐久度，但会因此起火。\n"
 "\n"
 "\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
 "理中，内部升级选项下的舰载设备类别中免费内置化。"
@@ -858,7 +867,7 @@ msgstr "活性金属支架 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
 msgstr ""
-"由一种能够“记忆”形状的特殊金属制成，系统增强支架即便在没有船员的情况下也会缓"
+"由一种能够“记忆”形状的特殊金属制成，系统防护支架即便在没有船员的情况下也会缓"
 "慢自我修复。\n"
 "\n"
 "\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
@@ -883,7 +892,7 @@ msgstr "结构力场发生器 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
 msgstr ""
-"系统增强支架现在也可保护系统免受其他来源的损害，例如破坏伤害与火灾。\n"
+"系统防护支架现在也可保护系统免受其他来源的损害，例如破坏伤害与火灾。\n"
 "\n"
 "\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
 "理中，内部升级选项下的舰载设备类别中免费内置化。"
@@ -907,7 +916,7 @@ msgstr "以太结构力场 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
 msgstr ""
-"受系统增强支架保护的系统，其遭受破坏的速度减半，并对入侵的敌方船员造成每秒2点"
+"受系统防护支架保护的系统，其遭受破坏的速度减半，并对入侵的敌方船员造成每秒2点"
 "生命值的伤害。\n"
 "\n"
 "\t\t[外] - 作为外置部件，该部件将正常提供效果，但占用一个部件槽位。可在星舰管"
@@ -1402,7 +1411,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/title"
-msgstr "纤维强化工事"
+msgstr "纤维加固强化"
 
 #: src-en/data/blueprints.xml.append:1112
 msgid ""
