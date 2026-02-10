@@ -1,24 +1,31 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-10 03:13+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-innovations/dataevents_special_multiversexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_multiverse.xml.append:5
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "展示您的烧蚀装甲系统。"
 
 #: src-en/data/events_special_multiverse.xml.append:7
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "“烧蚀装甲——它确保防御流程！您驾驶的是一艘：防护良好的舰船！对于防护良好的舰船"
+"：我予礼剥离许可！留着它——以备未来之需！”"
 
 #: src-en/data/events_special_multiverse.xml.append:12
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
@@ -28,16 +35,16 @@ msgstr "继续。"
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "展示您的专用定位核心系统。"
 
 #: src-en/data/events_special_multiverse.xml.append:20
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "“专用定位核心——献给专注的神射手！现在，没有敌人能躲过您！为专注的神射手，我予"
+"礼瞄准许可！留着它——以备未来之需！”"
 
 #: src-en/data/events_special_multiverse.xml.append:25
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
@@ -47,16 +54,16 @@ msgstr "继续。"
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "展示您的ECM套件系统。"
 
 #: src-en/data/events_special_multiverse.xml.append:33
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "“ECM套件——如此多功能且创新！敌方无人机不再对您构成威胁！为您高效的反制措施，"
+"我予礼ECM许可！留着它——以备未来之需！”"
 
 #: src-en/data/events_special_multiverse.xml.append:38
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/choice/text"
@@ -66,16 +73,16 @@ msgstr "继续。"
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "展示您的强化注射舱系统。"
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "“注射舱——风险与回报！孰轻孰重？您作为一位船长：深谋远虑！为了深沉的思虑，与更"
+"重的潜能。我予礼注射许可！留着它——以备未来之需！”"
 
 #: src-en/data/events_special_multiverse.xml.append:51
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/choice/text"
@@ -85,16 +92,16 @@ msgstr "继续。"
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "展示您的震荡中和器子系统。"
 
 #: src-en/data/events_special_multiverse.xml.append:59
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/text"
-msgstr ""
+msgstr "“震荡中和器——用于防御离子冲击！一项科技——为了辅助其他的科技！为此，我自豪地予"
+"礼中和许可！留着它——以备未来之需！”"
 
 #: src-en/data/events_special_multiverse.xml.append:64
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/choice/text"
@@ -104,16 +111,16 @@ msgstr "继续。"
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "展示您的系统防护支架系统。"
 
 #: src-en/data/events_special_multiverse.xml.append:72
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/text"
-msgstr ""
+msgstr "“系统防护支架——用于防御系统伤害！您驾驶的是一艘：可靠的舰船！为可靠的舰船，我"
+"予礼加固许可！留着它——以备未来之需！”"
 
 #: src-en/data/events_special_multiverse.xml.append:77
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/choice/text"
@@ -123,16 +130,16 @@ msgstr "继续。"
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "展示您的碳纤维内衬子系统。"
 
 #: src-en/data/events_special_multiverse.xml.append:85
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/text"
-msgstr ""
+msgstr "“碳纤维内衬——用于保护您的船员免受伤害！您是一位仁慈的舰长！为了您的善心，我予"
+"礼纤维许可！留着它——以备未来之需！”"
 
 #: src-en/data/events_special_multiverse.xml.append:90
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/choice/text"
