@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-10 05:56+0000\n"
+"PO-Revision-Date: 2026-02-10 09:59+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -1269,7 +1269,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/choice[@req=\"UPG_LILY_STRONG_ARMOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。您需要先安装高强度复合装甲（烧蚀装甲）"
 
 #: src-en/data/events_special_storage.xml.append:1089
 msgid ""
@@ -1300,55 +1300,55 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_SECONDARY_ION_FIELD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "次级离子力场。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_SECONDARY_ION_FIELD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "次级离子场.。[消耗: 50~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:1124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_WIDE_NEUTRALIZE\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "扩展力场。 [最高等级 已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_WIDE_NEUTRALIZE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "扩展力场 等级2。 [消耗：80~，5{，5|]"
 
 #: src-en/data/events_special_storage.xml.append:1132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_WIDE_NEUTRALIZE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "扩展力场 等级1。 [消耗：80~，5{，5|]"
 
 #: src-en/data/events_special_storage.xml.append:1137
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_PLASMA_NEUTRALIZE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "电涌保护器。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1141
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_PLASMA_NEUTRALIZE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "电涌保护器。 [消耗: 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:1146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_STUN_NEUTRALIZE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "电涌保护器。 [已安装"
 
 #: src-en/data/events_special_storage.xml.append:1150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[@req=\"UPG_LILY_STUN_NEUTRALIZE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "神经中和器。 [消耗：30~，3{，3|]"
 
 #: src-en/data/events_special_storage.xml.append:1155
 msgid ""
@@ -1359,12 +1359,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/text"
 msgstr ""
+"您即将安装次级离子力场升级。\n"
+"\t【效果：保护您的舰船免受离子伤害，提供 30% 概率完全抵消离子伤害。效果可叠加"
+"。】"
 
 #: src-en/data/events_special_storage.xml.append:1166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/choice[@req=\"lily_shock_neutralizer\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：50~，2{]"
 
 #: src-en/data/events_special_storage.xml.append:1168
 msgid ""
@@ -1408,12 +1411,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/text"
 msgstr ""
+"您即将安装 扩展力场 升级。\n"
+"\t【效果：震荡中和器同时为目标相邻舱室提供一半增益。等级2时，对角舱室也可获得"
+"增益。】"
 
 #: src-en/data/events_special_storage.xml.append:1211
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/choice[@req=\"lily_shock_neutralizer\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：80~，5{，5|]"
 
 #: src-en/data/events_special_storage.xml.append:1213
 msgid ""
@@ -1431,7 +1437,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/choice[@req=\"lily_shock_neutralizer\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 震荡中和器等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:1230
 msgid ""
@@ -1457,12 +1463,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/text"
 msgstr ""
+"您即将安装 电涌保护器 升级。\n"
+"\t【效果：保护您的舰船免受离子伤害，对护盾命中时有 100% 概率抵消系统伤害，对"
+"直接命中时有 50% 概率抵消系统伤害。】"
 
 #: src-en/data/events_special_storage.xml.append:1257
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/choice[@req=\"lily_shock_neutralizer\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：30~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:1259
 msgid ""
@@ -1506,6 +1515,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/text"
 msgstr ""
+"您即将安装 神经中和器 升级。\n"
+"\t【效果：震荡中和器现在同时影响船员眩晕持续时间。】"
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
@@ -1559,31 +1570,31 @@ msgstr "你要安装什么升级？"
 #: src-en/data/events_special_storage.xml.append:1372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"INFUSION_BAY_FOURTH\"]/text"
-msgstr ""
+msgstr "为系统的第四个槽位安装额外注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_SICKNESS_RECOVERY\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "疾病治疗协议。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1381
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_SICKNESS_RECOVERY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "疾病治疗协议。[消耗: 40~, 3{]"
 
 #: src-en/data/events_special_storage.xml.append:1386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_INFUSION_HAVEN\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "安全港协议。【已安装】"
 
 #: src-en/data/events_special_storage.xml.append:1390
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"UPG_LILY_INFUSION_HAVEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "安全港协议。[消耗: 20~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:1395
 msgid ""
@@ -1594,30 +1605,31 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "选择用于注射舱第4槽位的注射剂类型。"
 
 #: src-en/data/events_special_storage.xml.append:1410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/text"
-msgstr ""
+msgstr "在此处，您可以选择注射舱第4槽位使用的注射剂类型。（您需要先安装相应的内部升级"
+"。）"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "过载注射剂。 [未安装]"
 
 #: src-en/data/events_special_storage.xml.append:1416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "过载注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "您已设置注射舱使用过载注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1421
 msgid ""
@@ -1629,19 +1641,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "混沌注射剂。 [未安装]"
 
 #: src-en/data/events_special_storage.xml.append:1431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "混沌注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1433
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "您已设置注射舱使用混沌注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1436
 msgid ""
@@ -1653,19 +1665,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "炎裔注射剂。 [未安装]"
 
 #: src-en/data/events_special_storage.xml.append:1446
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "炎裔注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "您已设置注射舱使用炎裔注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1451
 msgid ""
@@ -1677,19 +1689,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "爆破注射剂。【已安装】"
 
 #: src-en/data/events_special_storage.xml.append:1461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "爆破注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "您已设置注射舱使用爆破注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1466
 msgid ""
@@ -1701,19 +1713,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "凤凰注射剂。 [未安装]"
 
 #: src-en/data/events_special_storage.xml.append:1476
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "凤凰注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "您已设置注射舱使用凤凰注射剂。"
 
 #: src-en/data/events_special_storage.xml.append:1481
 msgid ""
@@ -1730,6 +1742,12 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/text"
 msgstr ""
+"您即将安装疾病治疗协议升级。\n"
+"\t【效果：注射舱内的船员会以加速速度从注射虚弱状态中恢复，恢复速度与其当前能"
+"量等级对应。\n"
+"1 能量：虚弱状态恢复速度提升 1.75 倍。\n"
+"2 能量：虚弱状态恢复速度提升 2.5 倍。\n"
+"3 能量：虚弱状态恢复速度提升 3.25 倍。】"
 
 #: src-en/data/events_special_storage.xml.append:1503
 msgid ""
@@ -1779,12 +1797,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/text"
 msgstr ""
+"您即将安装安全港协议升级。\n"
+"\t【效果：注射舱内的船员将免疫窒息与火焰伤害，并额外回复 1 点生命值/秒。】"
 
 #: src-en/data/events_special_storage.xml.append:1548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:1550
 msgid ""
@@ -1802,7 +1822,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/choice[@req=\"lily_infusion_bay\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 注射舱等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:1566
 msgid ""
@@ -1827,12 +1847,12 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_FOURTH\"]/text"
-msgstr ""
+msgstr "您确定要卸载第四个槽位的注射剂吗？款项不予退还。"
 
 #: src-en/data/events_special_storage.xml.append:1590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_FOURTH\"]/choice[1]/text"
-msgstr ""
+msgstr "是，我清楚后果，并希望继续。"
 
 #: src-en/data/events_special_storage.xml.append:1594
 msgid ""
@@ -1892,67 +1912,67 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/text"
-msgstr ""
+msgstr "您想要安装哪种注射剂？[安装多种后，您可在战斗外自由切换使用。]"
 
 #: src-en/data/events_special_storage.xml.append:1654
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "过载注射剂。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1658
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "过载注射剂。 [50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:1662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "混沌注射剂。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1666
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "混沌注射剂。 [消耗：20~，5{，5}，5|]"
 
 #: src-en/data/events_special_storage.xml.append:1670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "炎裔注射剂。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "炎裔注射剂。[40~, 3{, 4}]"
 
 #: src-en/data/events_special_storage.xml.append:1678
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "爆炸注射剂。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1682
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "爆炸注射剂。[50~, 8}]"
 
 #: src-en/data/events_special_storage.xml.append:1686
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "凤凰注射剂。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1690
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "凤凰注射剂。 [50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:1696
 msgid ""
@@ -1963,12 +1983,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/text"
 msgstr ""
+"您即将安装 过载注射剂 升级。\n"
+"\t【注射剂效果：使自身及周围所有船员晕眩5秒，并对系统造成2点离子伤害。（注："
+"若作用于己方舰船，则改为移除舰上系统1层离子效果。）\n"
+"治疗 30%生命值，附带 21秒 虚弱状态。】"
 
 #: src-en/data/events_special_storage.xml.append:1707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：50~，5{]"
 
 #: src-en/data/events_special_storage.xml.append:1709
 msgid ""
@@ -1997,12 +2021,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/text"
 msgstr ""
+"您即将安装 混沌注射剂 升级。\n"
+"\t【注射剂效果：应用另一种随机注射剂的效果。希望不会对你的船员产生任何不良反"
+"应。\n"
+"治疗 15% - 75% 生命值，附带 7秒 虚弱状态。】"
 
 #: src-en/data/events_special_storage.xml.append:1743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，5{，5}，5|]"
 
 #: src-en/data/events_special_storage.xml.append:1745
 msgid ""
@@ -2031,12 +2059,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/text"
 msgstr ""
+"您即将安装炎裔注射剂 升级。\n"
+"\t【注射剂效果：在当前舱室引发火灾。持续期间内获得从火焰中回复生命的能力，但"
+"同时会使你的船员快速窒息，即使他们通常免疫窒息效果。\n"
+"治疗 15%生命值，附带 21秒 虚弱状态。】"
 
 #: src-en/data/events_special_storage.xml.append:1782
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，3{，4}]"
 
 #: src-en/data/events_special_storage.xml.append:1784
 msgid ""
@@ -2065,12 +2097,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/text"
 msgstr ""
+"您即将安装 爆炸注射剂 升级。\n"
+"\t【注射剂效果：发生爆炸，对舱室内所有敌人造成 15点 伤害。敌方舰船上的系统受"
+"到 1点伤害，而己方舰船上的系统则改为修复 1格。"
 
 #: src-en/data/events_special_storage.xml.append:1819
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：50~，8}]"
 
 #: src-en/data/events_special_storage.xml.append:1821
 msgid ""
@@ -2099,6 +2134,12 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/text"
 msgstr ""
+"您即将安装 凤凰注射剂 升级。\n"
+"\t【注射剂效果：持续期间内船员不会死亡。若他们受到本应致命的伤害，则会恢复至"
+"满血并被传送至注射舱。此效果触发时，同舱室内的盟友将回复 30%生命值，且注射舱"
+"会受到1点无法抵抗的离子伤害，离子锁定时间加倍。若敌方舰船爆炸，则无法拯救你方"
+"登船船员。\n"
+"治疗 15%生命值，附带 14秒 虚弱状态。】"
 
 #: src-en/data/events_special_storage.xml.append:1855
 msgid ""
@@ -2163,49 +2204,49 @@ msgstr "先进气循 等级1。 [消耗：30~]"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "微粒扩散器 - 馨香花束。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1912
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "微粒扩散器 - 工业润滑剂。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1916
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "微粒扩散器 - 金属与火药。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1920
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "微粒扩散器 - 北极风。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1924
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "微粒扩散器 - 青金石。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1928
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "微粒扩散器 - 9伏电池。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1932
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "微粒扩散器 - α-甲基苯乙胺。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1936
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[13]/text"
-msgstr ""
+msgstr "微粒扩散器。"
 
 #: src-en/data/events_special_storage.xml.append:1942
 msgid ""
@@ -2257,42 +2298,42 @@ msgstr "先进气循 等级1。 [消耗：30~]"
 #: src-en/data/events_special_storage.xml.append:1978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_FLORAL\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 馨香花束。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_FACTORY\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 工业润滑剂。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_METAL\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 金属与火药。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1990
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_ARCTIC\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 北极风。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1994
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_LAZULI\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 青金石。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:1998
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_BATTERY\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 9伏电池。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_LILY_OXYGEN_ALPHA\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - α-甲基苯乙胺。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"OXYGEN_FLAVOR_ANY\"]/text"
-msgstr ""
+msgstr "微粒扩散器。"
 
 #: src-en/data/events_special_storage.xml.append:2012
 msgid ""
@@ -2315,41 +2356,45 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/text"
 msgstr ""
+"正在安装微粒扩散系统——此系统能为舰上己方船员提供多种士气与健康增益。\n"
+"请选择您希望安装的特定香型。\n"
+"【各选项互斥，将决定供氧系统获得的能量增益等级，且增益仅对您自身舰船内有氧气"
+"的舱室生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_FLORAL\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 馨香花束。 [消耗：20~，5{，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2041
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_FACTORY\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 工业润滑剂。 [消耗：20~，5{，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_METAL\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 金属与火药型。 [消耗：25~，5}，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_ARCTIC\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 北极风。 [消耗：25~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_LAZULI\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 青金石。 [消耗：50~，5|]"
 
 #: src-en/data/events_special_storage.xml.append:2057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_BATTERY\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - 9V电池。 [消耗：25~，7}，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2061
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[@req=\"UPG_LILY_OXYGEN_ALPHA\"]/text"
-msgstr ""
+msgstr "微粒扩散器 - α-甲基苯乙胺。 [消耗：15~，4}，4|]"
 
 #: src-en/data/events_special_storage.xml.append:2067
 msgid ""
@@ -2360,12 +2405,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/text"
 msgstr ""
+"您即将安装 微粒扩散器 - 馨香花束升级。\n"
+"这是一种由兰花族精心调配的馨香混合剂，旨在提升船员的健康状况。\n"
+"【效果：供氧系统每有一级能量，船员最大生命值 +5%，治疗速度 +10%。仅在您自身舰"
+"船内、氧气含量不低于20%的舱室中生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2079
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，5{，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2081
 msgid ""
@@ -2409,12 +2458,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/text"
 msgstr ""
+"您即将安装 微粒扩散器 - 工业润滑剂升级。\n"
+"一种常用于血兰花设施的混合剂，因被发现能激励工人提高生产效率而普及。\n"
+"【效果：供氧系统每有一级能量，船员修理速度 +10%，移动速度 +5%。仅在您自身舰船"
+"内、氧气含量不低于20%的舱室中生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：25~，6|]"
 
 #: src-en/data/events_special_storage.xml.append:2127
 msgid ""
@@ -2458,12 +2511,17 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/text"
 msgstr ""
+"您即将安装 微粒扩散器 - 金属与火药升级。\n"
+"这是一种在强悍海盗中广为人知的混合物，其浓烈的气味有助于让你的船员在战斗中更"
+"加坚韧。\n"
+"【效果：供氧系统每有一级能量，船员战斗伤害 +5%，所受战斗伤害 -5%。仅在您自身"
+"舰船内、氧气含量不低于20%的舱室中生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：25~，5}，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2172
 msgid ""
@@ -2507,12 +2565,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/text"
 msgstr ""
+"您即将安装 微粒扩散器 - 北极风升级。\n"
+"这种极为清爽的香型将使你的船员行动如风，并轻松应对火灾。\n"
+"【效果：供氧系统每有一级能量，船员移动速度 +10%，所受火焰伤害 -20%，灭火速度 "
+"+20%。仅在您自身舰船内、氧气含量不低于20%的舱室中生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2218
 msgid ""
@@ -2556,6 +2618,11 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/text"
 msgstr ""
+"您即将安装 微粒扩散器 - 青金石升级。\n"
+"这种昂贵混合剂的镇静与专注效果，将帮助你的船员心智如群山般不可动摇。\n"
+"【效果：供氧系统每有一级能量，船员眩晕持续时间 -20%。等级2时，船员抵抗疯狂；"
+"等级3时，船员抵抗心灵控制。（注：额外效果要求舱室氧气浓度不低于95%）仅在您自"
+"身舰船内、氧气含量不低于20%的舱室中生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
@@ -2605,12 +2672,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/text"
 msgstr ""
+"您即将安装 微粒扩散器 - 9V电池升级。\n"
+"尚不确定为何电池能被归为一种香型。但大多数测试对象都认为效果“令人振奋”。\n"
+"【效果：供氧系统每有一级能量，能量充能速率 +15%。等级3时，所有超能族船员额外"
+"提供一格能量。仅在您自身舰船内、氧气含量不低于20%的舱室中生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，7{，3|]"
 
 #: src-en/data/events_special_storage.xml.append:2308
 msgid ""
@@ -2654,12 +2725,19 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/text"
 msgstr ""
+"您即将安装 微粒扩散器 - α-甲基苯乙胺升级。\n"
+"一种经典且行之有效的解决方案，这绝对能为你的船员带来提升。\n"
+"副作用包括：过度攻击性、烦躁不安、睡眠障碍、成瘾、幻觉、磨牙及决策能力下降。"
+"不过嘛，只要管用就行。\n"
+"【效果：供氧系统每有一级能量，船员移动速度 +20%，伤害 +20%，破坏伤害 +50%，修"
+"理速度 +15%，能量充能速率 +5%；但同时船员最大生命值 -5%，治疗速度 -10%，所受"
+"战斗伤害 +10%。仅在您自身舰船内、氧气含量不低于10%的舱室中生效。】"
 
 #: src-en/data/events_special_storage.xml.append:2353
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：15~，4{，4}，4|]"
 
 #: src-en/data/events_special_storage.xml.append:2355
 msgid ""
