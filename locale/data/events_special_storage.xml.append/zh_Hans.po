@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-10 03:29+0000\n"
+"PO-Revision-Date: 2026-02-10 04:05+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -58,84 +58,86 @@ msgstr "纤维内衬层。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "氧气系统。"
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "传感器。"
 
 #: src-en/data/events_special_storage.xml.append:54
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "以太灌注装甲。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:58
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "以太灌注装甲。 [价格：65~，5|]"
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "以太结构力场。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:66
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "以太结构力场. [消耗: 50~, 5{, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:70
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "以太纤维织物。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_AETHER\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "以太纤维织物。[消耗: 40~, 8{, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:84
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DRONES\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "智能登舰。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:88
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DRONES\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "智能登舰。[消耗: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:95
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "备用维修协议。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:99
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "备用维修协议。 [消耗: 20~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:106
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/text"
 msgstr ""
+"您即将安装备用维修协议升级。\n"
+"\t【效果：即使在无船员状态下，也能缓慢修复克隆舱系统。】"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/choice[@req=\"BACKUP_DNA\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：20~，4|]"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
@@ -153,7 +155,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/choice[@req=\"BACKUP_DNA\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。您需要先安装备份基因库。"
 
 #: src-en/data/events_special_storage.xml.append:128
 msgid ""
@@ -179,36 +181,38 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "心智护盾。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:156
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "心智护盾.。[消耗: 30~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:160
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "集成神经链路网络。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_PILOT\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "集成神经链路网络. [消耗: 30~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/text"
 msgstr ""
+"您即将安装心智护盾升级。\n"
+"\t【效果：驾驶舱内的船员将免疫心灵控制与眩晕效果。】"
 
 #: src-en/data/events_special_storage.xml.append:175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/choice[@req=\"pilot\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：30~，4{]"
 
 #: src-en/data/events_special_storage.xml.append:177
 msgid ""
@@ -226,7 +230,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/choice[@req=\"pilot\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要驾驶等级达到2级。"
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
@@ -253,12 +257,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/text"
 msgstr ""
+"您即将安装集成神经链路网络升级。\n"
+"\t【效果：集成神经链路网络可在无船员状态下操作驾驶子系统。】"
 
 #: src-en/data/events_special_storage.xml.append:220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/choice[@req=\"pilot\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：30~，3|]"
 
 #: src-en/data/events_special_storage.xml.append:222
 msgid ""
@@ -276,7 +282,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/choice[@req=\"pilot\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要驾驶等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:238
 msgid ""
@@ -303,13 +309,13 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "紧急传送召回。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:268
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "紧急传送召回。[消耗: 30~, 3{, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
