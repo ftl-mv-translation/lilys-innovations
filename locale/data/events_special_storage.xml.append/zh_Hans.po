@@ -1,51 +1,58 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-10 03:29+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-innovations/dataevents_special_storagexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "烧蚀装甲。"
 
 #: src-en/data/events_special_storage.xml.append:9
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "专用定位核心。"
 
 #: src-en/data/events_special_storage.xml.append:13
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "ECM套件."
 
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "注射舱。"
 
 #: src-en/data/events_special_storage.xml.append:21
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "震荡中和器。"
 
 #: src-en/data/events_special_storage.xml.append:25
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "系统防护支架。"
 
 #: src-en/data/events_special_storage.xml.append:29
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "纤维内衬层。"
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
@@ -137,7 +144,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:118
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/choice[@req=\"BACKUP_DNA\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -160,13 +166,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:133
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/choice[@req=\"EX_LILY_CLONEBAY_REGEN\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:139
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -213,7 +217,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:183
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/choice[@req=\"pilot\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -236,13 +239,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:198
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/choice[@req=\"EX_LILY_PILOT_FOCUS\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:204
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_PILOT_FOCUS\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
@@ -266,7 +267,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:228
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/choice[@req=\"pilot\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -289,13 +289,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:243
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/choice[@req=\"EX_LILY_INN_PILOT\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:249
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
@@ -331,7 +329,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:287
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LILY_TELEPORT_RECALL\"]/choice[@req=\"teleporter\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -354,13 +351,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:302
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LILY_TELEPORT_RECALL\"]/choice[@req=\"EX_LILY_TELEPORT_RECALL\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:308
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LILY_TELEPORT_RECALL\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/text"
@@ -444,7 +439,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:376
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS\"]/choice[7]/text"
 msgstr "算了。"
@@ -467,7 +461,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:398
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -490,13 +483,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:413
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/choice[@req=\"EX_LILY_INN_SENSORS\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:419
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/text"
@@ -520,7 +511,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:443
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -543,13 +533,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:458
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/choice[@req=\"EX_LILY_SENSORS_MAPWIDE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:464
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SENSORS_MAPWIDE\"]/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/text"
@@ -573,7 +561,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:488
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -596,13 +583,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:503
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/choice[@req=\"EX_LILY_SECTOR_SCANNER\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:509
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_SECTOR_SCANNER\"]/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/text"
@@ -662,7 +647,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:564
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/choice[@req=\"doors\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -685,13 +669,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:579
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/choice[@req=\"EX_LILY_BUNKER_DOORS\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:585
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_BUNKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -714,7 +696,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:609
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/choice[@req=\"doors\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -737,13 +718,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:624
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/choice[@req=\"EX_LILY_DOORS_FAILSAFE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:630
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_DOORS_FAILSAFE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -766,7 +745,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:653
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/choice[@req=\"doors\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -789,13 +767,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:668
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/choice[@req=\"EX_LILY_INN_DOORS\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:674
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -818,7 +794,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:699
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/choice[@req=\"drones\""
 " and @lvl=\"4\"]/event/choice/text"
@@ -841,13 +816,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:714
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/choice[@req=\"EX_LILY_DRONE_BOARDING_SMART\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:720
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DRONES_LILY_DRONE_BOARDING_SMART\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -930,7 +903,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:790
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR\"]/choice[13]/text"
 msgstr "算了。"
@@ -953,7 +925,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:809
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -976,13 +947,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:824
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/choice[@req=\"EX_LILY_POLISHED_ARMOR\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:830
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_POLISHED\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1005,7 +974,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:855
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"5\"]/event/choice/text"
@@ -1028,13 +996,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:870
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/choice[@req=\"EX_LILY_REACTIVE_ARMOR\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:876
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REACTIVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1057,7 +1023,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:899
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"4\"]/event/choice/text"
@@ -1080,13 +1045,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:914
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/choice[@req=\"EX_LILY_STRONG_ARMOR\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:920
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_STRONG\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1109,7 +1072,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:944
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"4\"]/event/choice/text"
@@ -1132,13 +1094,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:959
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/choice[@req=\"EX_LILY_REGEN_ARMOR\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:965
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1161,7 +1121,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:989
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -1184,13 +1143,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1004
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/choice[@req=\"EX_LILY_VENGEANCE_ARMOR\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1010
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_VENGEANCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1213,7 +1170,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1034
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/choice[@req=\"lily_ablative_armor\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -1236,13 +1192,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1049
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/choice[@req=\"EX_LILY_BUNKER_ARMOR\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1055
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ABLATIVE_ARMOR_BUNKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1265,7 +1219,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1079
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/choice[@req=\"UPG_LILY_STRONG_ARMOR\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1288,13 +1241,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1094
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/choice[@req=\"EX_LILY_AETHER_ARMOR\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1100
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_AETHER_ARMOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1359,7 +1310,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1155
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER\"]/choice[10]/text"
 msgstr "算了。"
@@ -1382,7 +1332,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1174
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/choice[@req=\"lily_shock_neutralizer\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1405,13 +1354,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1189
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/choice[@req=\"EX_LILY_SECONDARY_ION_FIELD\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1195
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_ION_FIELD\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1434,7 +1381,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1220
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/choice[@req=\"lily_shock_neutralizer\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -1457,13 +1403,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1235
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/choice[@req=\"EX_LILY_WIDE_NEUTRALIZE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1241
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_WIDE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1486,7 +1430,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1265
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/choice[@req=\"lily_shock_neutralizer\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1509,13 +1452,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1280
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/choice[@req=\"EX_LILY_PLASMA_NEUTRALIZE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1286
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_PLASMA\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1538,7 +1479,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1311
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/choice[@req=\"lily_shock_neutralizer\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1561,13 +1501,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1326
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/choice[@req=\"EX_LILY_STUN_NEUTRALIZE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1332
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SHOCK_NEUTRALIZER_STUN\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1607,7 +1545,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1395
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1642,7 +1579,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1421
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1667,7 +1603,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1436
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1692,7 +1627,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1451
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1717,7 +1651,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1466
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1742,14 +1675,12 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1481
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1487
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1772,7 +1703,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1511
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -1795,13 +1725,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1526
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/choice[@req=\"EX_LILY_SICKNESS_RECOVERY\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1532
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_RECOVERY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1824,7 +1752,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1556
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -1847,13 +1774,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1571
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/choice[@req=\"EX_LILY_INFUSION_HAVEN\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:1577
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_HAVEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1869,7 +1794,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1594
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_FOURTH\"]/choice[2]/text"
 msgstr "算了。"
@@ -1880,7 +1804,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1613
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_OVERLOADED\"]/choice/text"
 msgstr "继续。"
@@ -1891,7 +1814,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1621
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_CHAOTIC\"]/choice/text"
 msgstr "继续。"
@@ -1902,7 +1824,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1629
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_FIREBORNE\"]/choice/text"
 msgstr "继续。"
@@ -1913,7 +1834,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1637
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_EXPLOSIVE\"]/choice/text"
 msgstr "继续。"
@@ -1924,7 +1844,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1645
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_UNINSTALL_PHOENIX\"]/choice/text"
 msgstr "继续。"
@@ -1995,7 +1914,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1696
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_INSTALL_FOURTH\"]/choice[11]/text"
 msgstr "算了。"
@@ -2018,7 +1936,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1715
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -2031,7 +1948,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1725
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_OVERLOADED\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2054,7 +1970,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1754
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -2067,7 +1982,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1764
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_CHAOTIC\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2090,7 +2004,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1791
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -2103,7 +2016,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1801
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_FIREBORNE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2126,7 +2038,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1827
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -2139,7 +2050,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1837
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_EXPLOSIVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2162,7 +2072,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:1863
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/choice[@req=\"lily_infusion_bay\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -2175,7 +2084,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1873
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_INFUSION_BAY_PHOENIX\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2358,7 +2266,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2021
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[16]/text"
 msgstr "算了。"
@@ -2404,7 +2311,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2067
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLAVOR\"]/choice[8]/text"
 msgstr "算了。"
@@ -2427,7 +2333,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2088
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2450,13 +2355,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2103
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/choice[@req=\"EX_LILY_OXYGEN_FLORAL\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2109
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FLORAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2479,7 +2382,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2133
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2502,13 +2404,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2148
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/choice[@req=\"EX_LILY_OXYGEN_FACTORY\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2154
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_FACTORY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2531,7 +2431,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2179
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2554,13 +2453,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2194
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/choice[@req=\"EX_LILY_OXYGEN_METAL\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2200
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_METAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2583,7 +2480,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2224
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2606,13 +2502,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2239
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/choice[@req=\"EX_LILY_OXYGEN_ARCTIC\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2245
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ARCTIC\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2635,7 +2529,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2269
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2658,13 +2551,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2284
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/choice[@req=\"EX_LILY_OXYGEN_LAZULI\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2290
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_LAZULI\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2687,7 +2578,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2315
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2710,13 +2600,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2330
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/choice[@req=\"EX_LILY_OXYGEN_BATTERY\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2336
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BATTERY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2739,7 +2627,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2363
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2762,13 +2649,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2378
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/choice[@req=\"EX_LILY_OXYGEN_ALPHA\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2384
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_ALPHA\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2791,7 +2676,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2408
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2814,13 +2698,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2423
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/choice[@req=\"CREW_OXYGEN\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2429
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2843,7 +2725,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2452
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2866,13 +2747,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2467
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/choice[@req=\"EX_LILY_OXYGEN_BACKUP\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2473
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2919,7 +2798,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2529
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/choice[@req=\"battery\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -2942,13 +2820,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2544
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/choice[@req=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2550
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -2971,7 +2847,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2574
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/choice[@req=\"battery\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -2994,13 +2869,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2589
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/choice[@req=\"EX_LILY_BATTERY_SOLAR_POWER\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2595
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3059,7 +2932,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2646
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[9]/text"
 msgstr "算了。"
@@ -3082,7 +2954,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2664
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3105,13 +2976,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2679
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/choice[@req=\"EX_LILY_BUNKER_BRACERS\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2685
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3134,7 +3003,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2708
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3157,13 +3025,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2723
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/choice[@req=\"EX_LILY_BRACERS_THERMAL\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2729
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3186,7 +3052,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2752
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -3209,13 +3074,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/choice[@req=\"EX_LILY_BRACERS_REGEN\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2773
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3238,7 +3101,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2797
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -3261,13 +3123,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2812
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/choice[@req=\"EX_LILY_BRACERS_COVERAGE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2818
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3290,7 +3150,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2842
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3313,13 +3172,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2857
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"EX_LILY_BRACERS_AETHER\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2863
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3378,7 +3235,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2912
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[9]/text"
 msgstr "算了。"
@@ -3401,7 +3257,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2930
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3424,13 +3279,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2945
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"EX_LILY_FIBER_STRONG\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2951
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_STRONG\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3453,7 +3306,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2975
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -3476,13 +3328,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:2990
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"EX_LILY_FIBER_HAZARD\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:2996
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_HAZARD\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3505,7 +3355,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3019
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3528,13 +3377,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3034
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"EX_LILY_FIBER_PRIORITY\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3040
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_PRIORITY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3557,7 +3404,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3063
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"lily_fiber_liner\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -3580,13 +3426,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3078
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"EX_LILY_FIBER_REGEN\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3084
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3609,7 +3453,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3109
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3632,13 +3475,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3124
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"EX_LILY_FIBER_AETHER\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3130
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_FIBER_AETHER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3733,7 +3574,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3217
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE\"]/choice[15]/text"
 msgstr "算了。"
@@ -3756,7 +3596,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3237
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -3779,13 +3618,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3252
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/choice[@req=\"EX_LILY_TARGETING_ANTICLOAK\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3258
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_ANTICLOAK\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3808,7 +3645,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3282
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3831,13 +3667,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3297
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/choice[@req=\"EX_LILY_TARGETING_AUTOLOCK\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3303
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_AUTOLOCK\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3860,7 +3694,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3327
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -3883,13 +3716,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3342
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/choice[@req=\"EX_LILY_TARGETING_STATUS\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3348
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_STATUS\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3912,7 +3743,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3371
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -3935,13 +3765,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3386
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/choice[@req=\"EX_LILY_TARGETING_RELOAD\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3392
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_RELOAD\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -3964,7 +3792,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3416
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -3987,13 +3814,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3431
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/choice[@req=\"EX_LILY_TARGETING_HOMING\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3437
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_HOMING\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4016,7 +3841,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3460
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -4039,13 +3863,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3475
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/choice[@req=\"EX_LILY_TARGETING_UPLINK\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3481
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_UPLINK\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4068,7 +3890,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3504
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -4091,13 +3912,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3519
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/choice[@req=\"EX_LILY_TARGETING_OVERCLOCK\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3525
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_OVERCLOCK\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4120,7 +3939,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3548
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/choice[@req=\"lily_targeting_core\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -4143,13 +3961,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3563
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/choice[@req=\"EX_LILY_TARGETING_MULTITHREAD\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3569
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_TARGETING_CORE_MULTITHREAD\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4256,7 +4072,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3657
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE\"]/choice[17]/text"
 msgstr "算了。"
@@ -4279,7 +4094,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3676
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -4302,13 +4116,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3691
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"EX_LILY_ECM_ANTIDRONE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3697
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ANTIDRONE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4331,7 +4143,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3721
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -4354,13 +4165,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3736
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"EX_LILY_ECM_CAPACITY\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3742
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_CAPACITY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4383,7 +4192,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -4406,13 +4214,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3782
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"EX_LILY_ECM_RETARGET\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3788
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_RETARGET\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4435,7 +4241,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3813
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"1\"]/event/choice/text"
@@ -4458,13 +4263,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3828
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"EX_LILY_ECM_SUPERCHARGE\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3834
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_SUPERCHARGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4487,7 +4290,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3858
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -4510,13 +4312,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3873
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3879
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ASB_SCRAMBLER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4539,7 +4339,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3904
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"2\"]/event/choice/text"
@@ -4562,13 +4361,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3919
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"EX_LILY_ECM_ELECTRO_FIELD\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3925
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_ELECTRO_FIELD\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4591,7 +4388,6 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3949
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"lily_ecm_suite\""
 " and @lvl=\"3\"]/event/choice/text"
@@ -4614,13 +4410,11 @@ msgid ""
 msgstr "安装完成。"
 
 #: src-en/data/events_special_storage.xml.append:3964
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"EX_LILY_ECM_JAMMER_FIELD\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3970
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_ECM_SUITE_JAMMER_FIELD\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4637,7 +4431,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3994
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LILY_ECM_ASB_RETARGET\"]/choice/text"
 msgstr "继续。"
