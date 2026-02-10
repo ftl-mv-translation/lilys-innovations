@@ -1,66 +1,73 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-10 03:13+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/lilys-innovations/datatext_miscxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ablative_armor\"]"
-msgstr ""
+msgstr "烧蚀装甲"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ablative_armor_installed\"]"
-msgstr ""
+msgstr "烧蚀装甲系统已安装"
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"lily_shock_neutralizer\"]"
-msgstr ""
+msgstr "震荡中和器"
 
 #: src-en/data/text_misc.xml.append:6
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"lily_shock_neutralizer_installed\"]"
-msgstr ""
+msgstr "震荡中和器系统已安装"
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"lily_infusion_bay\"]"
-msgstr ""
+msgstr "注射舱"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"lily_infusion_bay_installed\"]"
-msgstr ""
+msgstr "注射舱系统已安装"
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"lily_system_bracers\"]"
-msgstr ""
+msgstr "系统防护支架"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"lily_system_bracers_installed\"]"
-msgstr ""
+msgstr "系统防护支架子系统已安装"
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"lily_fiber_liner\"]"
-msgstr ""
+msgstr "碳纤维内衬"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"lily_fiber_liner_installed\"]"
-msgstr ""
+msgstr "碳纤维内衬子系统已安装"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"lily_targeting_core\"]"
-msgstr ""
+msgstr "专用定位核心"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"lily_targeting_core_installed\"]"
-msgstr ""
+msgstr "专用定位核心系统已安装"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ecm_suite\"]"
-msgstr ""
+msgstr "ECM套件"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ecm_suite_installed\"]"
-msgstr ""
+msgstr "ECM套件系统已安装"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_medbay1\"]"
@@ -68,34 +75,34 @@ msgstr "医疗舱"
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_medbay2\"]"
-msgstr ""
+msgstr "注射舱"
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_infusion_bay1\"]"
-msgstr ""
+msgstr "医疗舱"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_infusion_bay2\"]"
-msgstr ""
+msgstr "注射舱"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_pds_disable1\"]"
-msgstr ""
+msgstr "信号稀释器"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_suite1\"]"
-msgstr ""
+msgstr "ECM套件"
 
 #: src-en/data/text_misc.xml.append:26
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_salvage_choice\"]"
-msgstr ""
+msgstr "（ASB扰频器）无视ASB的威胁，继续前进。"
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_salvage\"]"
-msgstr ""
+msgstr "在你的先进电子对抗系统保护下，你成功安全地回收了一些资源。"
 
 #: src-en/data/text_misc.xml.append:28
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_retarget\"]"
-msgstr ""
+msgstr "（ASB扰频器）将ASB重新定位，瞄准敌方开火！"
