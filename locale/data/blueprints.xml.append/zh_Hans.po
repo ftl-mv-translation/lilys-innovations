@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-21 11:52+0000\n"
+"PO-Revision-Date: 2026-02-10 04:05+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/datablueprintsxmlappend/zh_Hans/>\n"
@@ -594,7 +594,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:507
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/title"
-msgstr "以太充能装甲"
+msgstr "以太灌注装甲"
 
 #: src-en/data/blueprints.xml.append:508
 msgid ""
@@ -604,7 +604,7 @@ msgstr "开发人员信息"
 #: src-en/data/blueprints.xml.append:514
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/title"
-msgstr "以太充能装甲 [X]"
+msgstr "以太灌注装甲 [X]"
 
 #: src-en/data/blueprints.xml.append:515
 msgid ""
