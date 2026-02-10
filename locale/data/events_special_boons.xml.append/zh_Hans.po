@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-21 12:06+0000\n"
+"PO-Revision-Date: 2026-02-10 03:13+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/dataevents_special_boonsxmlappend/zh_Hans/>\n"
@@ -21,7 +21,6 @@ msgstr ""
 "。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:6
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ABLATIVE_ARMOR\"]/choice/text"
 msgstr "继续。"
@@ -35,7 +34,6 @@ msgstr ""
 "请代我致谢。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:16
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_TARGETING_CORE\"]/choice/text"
 msgstr "继续。"
@@ -49,7 +47,6 @@ msgstr ""
 "遇见……上一位挑战者；请代我致谢。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:26
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ECM_SUITE\"]/choice/text"
 msgstr "继续。"
@@ -63,7 +60,6 @@ msgstr ""
 "。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:36
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SHOCK_NEUTRALIZER\"]/choice/text"
 msgstr "继续。"
@@ -77,7 +73,6 @@ msgstr ""
 "…上一位挑战者；请代我致谢。我也建议你……来拜访我。”"
 
 #: src-en/data/events_special_boons.xml.append:46
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_INFUSION_BAY\"]/choice/text"
 msgstr "继续。"
@@ -91,7 +86,6 @@ msgstr ""
 "致谢。我也建议你……来拜访我。」"
 
 #: src-en/data/events_special_boons.xml.append:56
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SYSTEM_BRACERS\"]/choice/text"
 msgstr "继续。"
@@ -105,7 +99,6 @@ msgstr ""
 "我致谢。我也建议你……来拜访我。”"
 
 #: src-en/data/events_special_boons.xml.append:66
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_FIBER_LINER\"]/choice/text"
 msgstr "继续。"
