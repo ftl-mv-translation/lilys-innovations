@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-10 09:59+0000\n"
+"PO-Revision-Date: 2026-02-10 10:50+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/lilys-innovations/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -2781,6 +2781,10 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/text"
 msgstr ""
+"您即将安装先进气循升级。\n"
+"\t【效果：氧气系统现在优先服务己方船员，在有船员存在的舱室内，氧气填充速度提"
+"升 80%。对敌方船员和火焰则产生相反效果，会加速氧气消耗。系统需要能量支持，效"
+"果随能量等级提升而增强。】"
 
 #: src-en/data/events_special_storage.xml.append:2401
 msgid ""
@@ -2830,12 +2834,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/text"
 msgstr ""
+"您即将安装备用供氧系统升级。\n"
+"\t【效果：氧气系统即使在损坏或停用状态下，仍能在系统所在舱室提供微量氧气。】"
 
 #: src-en/data/events_special_storage.xml.append:2444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：10~，2{]"
 
 #: src-en/data/events_special_storage.xml.append:2446
 msgid ""
@@ -2853,7 +2859,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_LILY_OXYGEN_BACKUP\"]/choice[@req=\"oxygen\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。你需要氧气系统达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2462
 msgid ""
@@ -2879,36 +2885,40 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "能量超载系统。 [不可用]"
 
 #: src-en/data/events_special_storage.xml.append:2499
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "能量超载系统。[消耗: 50~, 5{, 5}, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:2503
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "太阳能电池阵列。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2507
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "太阳能电池阵列。[消耗: 15~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:2514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/text"
 msgstr ""
+"您即将安装能量超载系统升级。\n"
+"\t【效果：当备用电池激活时，每级备用电池提供 +10% 武器充能速率、+20% 护盾充能"
+"速率及 +5% 闪避，但电池冷却时间延长 25%。\n"
+"与电池性能升级不兼容。】"
 
 #: src-en/data/events_special_storage.xml.append:2519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SURGE_OVERDRIVE\"]/choice[@req=\"battery\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：50~，5{，5}，5|]"
 
 #: src-en/data/events_special_storage.xml.append:2521
 msgid ""
@@ -2952,6 +2962,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/text"
 msgstr ""
+"您即将安装太阳能电池阵列升级。\n"
+"\t【效果：当靠近恒星时，备用电池可持续无限期激活。】"
 
 #: src-en/data/events_special_storage.xml.append:2566
 msgid ""
@@ -2975,7 +2987,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_SOLAR_POWER\"]/choice[@req=\"battery\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 备用电池等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2584
 msgid ""
@@ -3018,37 +3030,37 @@ msgstr "加固强化 。[消耗: 30~]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_THERMAL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "热动能排导器。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_THERMAL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "热动能排导器。 [消耗：15~，4}]"
 
 #: src-en/data/events_special_storage.xml.append:2626
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_REGEN\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "活性金属支架。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_REGEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "活性金属支架。[消耗: 40~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "结构力场发生器。【已安装】"
 
 #: src-en/data/events_special_storage.xml.append:2638
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "结构力场发生器。[消耗: 60~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:2646
 msgid ""
@@ -3085,7 +3097,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_BUNKER\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要系统防护支架等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2674
 msgid ""
@@ -3111,12 +3123,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/text"
 msgstr ""
+"您即将安装热动能排导器升级。\n"
+"\t【效果：系统防护支架在吸收伤害时，有 50% 概率不损失耐久度，但会引发火灾。】"
 
 #: src-en/data/events_special_storage.xml.append:2700
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：15~，4}]"
 
 #: src-en/data/events_special_storage.xml.append:2702
 msgid ""
@@ -3134,7 +3148,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_THERMAL\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要系统防护支架等级达到1级。"
 
 #: src-en/data/events_special_storage.xml.append:2718
 msgid ""
@@ -3160,12 +3174,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
+"您即将安装活性金属支架升级。\n"
+"\t【效果：由能“记忆”形状的特殊金属制成，系统防护支架即使在无船员状态下也能缓"
+"慢自我修复。】"
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：40~，4|]"
 
 #: src-en/data/events_special_storage.xml.append:2746
 msgid ""
@@ -3183,7 +3200,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 系统防护支架等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:2762
 msgid ""
@@ -3209,12 +3226,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/text"
 msgstr ""
+"您即将安装结构力场发生器升级。\n"
+"\t【效果：系统防护支架现在可保护系统免受其他来源的伤害，例如破坏伤害与火灾。"
+"】"
 
 #: src-en/data/events_special_storage.xml.append:2789
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/choice[@req=\"lily_system_bracers\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：60~，5{]"
 
 #: src-en/data/events_special_storage.xml.append:2791
 msgid ""
@@ -3232,7 +3252,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_COVERAGE\"]/choice[@req=\"lily_system_bracers\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "此升级不可用。您需要 系统防护支架等级达到3级。"
 
 #: src-en/data/events_special_storage.xml.append:2807
 msgid ""
@@ -3258,12 +3278,15 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/text"
 msgstr ""
+"您即将安装以太结构力场升级。\n"
+"\t【效果：受系统防护支架保护的系统，其被破坏速度减半，并对入侵者造成 2 点生命"
+"值/秒 的伤害。】"
 
 #: src-en/data/events_special_storage.xml.append:2833
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。 [消耗：50~，5{，5|]"
 
 #: src-en/data/events_special_storage.xml.append:2835
 msgid ""
@@ -3281,7 +3304,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AETHER_LILY_BRACERS_AETHER\"]/choice[@req=\"UPG_LILY_BRACERS_COVERAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。您需要先安装结构力场发生器内部升级（系统防护支架）"
 
 #: src-en/data/events_special_storage.xml.append:2852
 msgid ""
@@ -3312,49 +3335,49 @@ msgstr "你要安装什么升级？"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_STRONG\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "双重编织。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2882
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_STRONG\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "双重编织。[消耗: 40~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2886
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_HAZARD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "危险物质防护层。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2890
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_HAZARD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "危险物质防护层。[消耗: 40~, 5{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2894
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_PRIORITY\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "动态优先级。 [已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2898
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_PRIORITY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "动态优先级。[消耗: 25~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2902
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "活体纤维。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:2906
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_FIBER_LINER\"]/choice[@req=\"UPG_LILY_FIBER_REGEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "活体纤维。 [消耗：80~，6{]"
 
 #: src-en/data/events_special_storage.xml.append:2912
 msgid ""
