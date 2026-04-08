@@ -106,7 +106,9 @@ script.on_init(function()
 end)
 
 
-
+local aefCache = {}
+aefCache[0] = false
+aefCache[1] = true
 script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
     if shipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_fiber_liner")) then
         local lily_fiber_liner_system = shipManager:GetSystem(Hyperspace.ShipSystem.NameToSystemId(
@@ -136,15 +138,20 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
             lily_fiber_liner_system:PartialRepair(4, true)
             if lily_fiber_liner_system:Functioning() then
                 for sys in vter(shipManager.vSystemList) do
-                    ---@type Hyperspace.ShipSystem
-                    sys = sys
+                    ---@cast sys Hyperspace.ShipSystem?
                     if sys then
                         sys:PartialRepair(0.20 * lily_fiber_liner_system.healthState.first, true)
                     end
                 end
             end
         end
+    else
+        if shipManager.iShipId == 0 then
+            Hyperspace.playerVariables.lily_fiber_liner = 0
+        end
     end
+    aefCache[shipManager.iShipId] = shipManager:HasAugmentation("UPG_LILY_FIBER_AETHER") > 0 or
+    shipManager:HasAugmentation("EX_LILY_FIBER_AETHER") > 0
 end)
 
 
@@ -417,27 +424,23 @@ script.on_internal_event(Defines.InternalEvents.CALCULATE_STAT_POST, function(cr
         crew = crew
         ---@type Hyperspace.CrewStat
         stat = stat
-        if crew and (not crew.bOutOfGame) and (crew.currentShipId == 0 or crew.currentShipId == 1) then
-            local currentShipManager = Hyperspace.ships(crew.currentShipId)
-            local crewShipManager = Hyperspace.ships(crew.iShipId)
+        if crew and (not crew.bOutOfGame) and (crew.currentShipId == 0 or crew.currentShipId == 1) and aefCache[crew.iShipId] then
 
-            if currentShipManager and crewShipManager and not lily_recursionguard then
+            if not lily_recursionguard then
                 lily_recursionguard = true
-                if (crewShipManager:HasAugmentation("UPG_LILY_FIBER_AETHER") > 0 or crewShipManager:HasAugmentation("EX_LILY_FIBER_AETHER") > 0) and crew.iShipId then
-                    local power, unused = crew.extend:CalculateStat(Hyperspace.CrewStat.BONUS_POWER)
-                    if power and power > 0.5 then
-                        if stat == Hyperspace.CrewStat.DAMAGE_MULTIPLIER then
-                            amount = amount * 1.3
-                        end
-                        if stat == Hyperspace.CrewStat.SABOTAGE_SPEED_MULTIPLIER then
-                            amount = amount * 1.3
-                        end
-                        if stat == Hyperspace.CrewStat.DAMAGE_ENEMIES_AMOUNT then
-                            amount = amount * 1.3
-                        end
-                        if stat == Hyperspace.CrewStat.REPAIR_SPEED_MULTIPLIER then
-                            amount = amount * 1.3
-                        end
+                local power, unused = crew.extend:CalculateStat(Hyperspace.CrewStat.BONUS_POWER)
+                if power and power > 0.5 then
+                    if stat == Hyperspace.CrewStat.DAMAGE_MULTIPLIER then
+                        amount = amount * 1.3
+                    end
+                    if stat == Hyperspace.CrewStat.SABOTAGE_SPEED_MULTIPLIER then
+                        amount = amount * 1.3
+                    end
+                    if stat == Hyperspace.CrewStat.DAMAGE_ENEMIES_AMOUNT then
+                        amount = amount * 1.3
+                    end
+                    if stat == Hyperspace.CrewStat.REPAIR_SPEED_MULTIPLIER then
+                        amount = amount * 1.3
                     end
                 end
                 lily_recursionguard = false

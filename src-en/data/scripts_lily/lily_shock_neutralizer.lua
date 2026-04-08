@@ -507,6 +507,8 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 
         --print(targetroom, Hyperspace.metaVariables["mods_lilyinno_shockneutralizer_" .. shipManager.iShipId])
         --print("mods_lilyinno_shockneutralizer_" .. shipManager.iShipId)
+    elseif shipManager.iShipId == 0 then
+        Hyperspace.playerVariables.lily_shock_neutralizer = 0
     end
 end)
 

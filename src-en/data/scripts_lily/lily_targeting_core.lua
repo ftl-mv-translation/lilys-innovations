@@ -140,6 +140,18 @@ local skillTimers = {}
 skillTimers[0] = Hyperspace.TimerHelper(true)
 skillTimers[1] = Hyperspace.TimerHelper(true)
 
+local crewBoostCache = {}
+crewBoostCache[0] = false
+crewBoostCache[1] = true
+
+local roomTargetCache = {}
+roomTargetCache[0] = {}
+roomTargetCache[1] = {}
+
+local effLevelCache = {}
+effLevelCache[0] = {}
+effLevelCache[1] = {}
+
 --Handles tooltips and mousever descriptions per level
 local function get_level_description_lily_targeting_core(systemId, level, tooltip)
     if systemId == Hyperspace.ShipSystem.NameToSystemId("lily_targeting_core") then
@@ -301,7 +313,7 @@ local function lily_targeting_core_render(systemBox, ignoreStatus)
                 if Hyperspace.metaVariables.lily_targeting_core_hotkey_enabled == 0 then
                     Hyperspace.Mouse.bForceTooltip = true
                     Hyperspace.Mouse.tooltip = string.format(Hyperspace.Text:GetText("tooltip_lily_targeting_core_button"), "I")
-                    
+
                 else
                     Hyperspace.Mouse.bForceTooltip = true
                     Hyperspace.Mouse.tooltip = string.format(Hyperspace.Text:GetText("tooltip_lily_targeting_core_button"), "N/A")
@@ -592,7 +604,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                 if #systems > 0 then
                     selectRoom(shipManager, otherShipManager:GetSystem(systems[math.random(#systems)]).roomId)
                     userdata_table(shipManager, "mods.lilyinno.targetingcore").selectmode = false
-                    
+
                     --activationTimer[shipManager.iShipId] = 0
                     if not (Hyperspace.metaVariables.lily_targeting_core_sounds_disabled and Hyperspace.metaVariables.lily_targeting_core_sounds_disabled > 0) then
                         Hyperspace.Sounds:PlaySoundMix("lily_targeting_core_locked_on", -1, false)
@@ -624,6 +636,8 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                 end
             end
         end
+
+        crewBoostCache[shipManager.iShipId] = (shipManager:HasAugmentation("UPG_LILY_TARGETING_UPLINK") > 0 or shipManager:HasAugmentation("EX_LILY_TARGETING_UPLINK") > 0)
 
         if userdata_table(shipManager, "mods.lilyinno.targetingcore").hologram then
             ---@type Hyperspace.CrewMember
@@ -677,7 +691,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
             end
         end
 
-
+        effLevelCache[shipManager.iShipId] = getEffectiveTargetingLevel(lily_targeting_core_system)
 
         local bonusrooms = userdata_table(shipManager, "mods.lilyinno.targetingcore").bonusrooms
         --[[if bonusrooms and (shipManager:HasAugmentation("UPG_LILY_WIDE_NEUTRALIZE") > 0 or shipManager:HasAugmentation("EX_LILY_WIDE_NEUTRALIZE") > 0) then
@@ -690,9 +704,24 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                 end
             end
         end--]]
+
+        roomTargetCache[shipManager.iShipId] = {targetroom}
+        if shipManager:HasAugmentation("EX_LILY_TARGETING_MULTITHREAD") > 0 or shipManager:HasAugmentation("UPG_LILY_TARGETING_MULTITHREAD") > 0 then
+            for id, coord in pairs(bonusrooms) do
+                roomTargetCache[#roomTargetCache+1] = id
+            end
+        end
+
         if mods.lilyinno.checkVarsOK() and loadComplete[shipManager.iShipId] then
             Hyperspace.playerVariables["mods_lilyinno_targetingcore_" .. (shipManager.iShipId > 0.5 and "1" or "0")] = (targetroom and (targetroom + 1) or 0)
             --print("set", (targetroom + 1 or 0))
+        end
+    else
+        crewBoostCache[shipManager.iShipId] = false
+        roomTargetCache[shipManager.iShipId] = {}
+        effLevelCache[shipManager.iShipId] = 0
+        if shipManager.iShipId == 0 then
+            Hyperspace.playerVariables.lily_targeting_core = 0
         end
     end
 
@@ -704,9 +733,9 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
             "lily_targeting_core"))
 
 
-        if lily_targeting_core_system:CompletelyDestroyed() then
-            activationTimer[shipManager.iShipId] = 0
-        end
+        --if lily_targeting_core_system:CompletelyDestroyed() then
+        --    activationTimer[shipManager.iShipId] = 0
+        --end
 
 
 
@@ -787,7 +816,7 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projec
                     end
                     if not hitBonusRoom and bp.radius > 0 then
                         local maxdev = bp.radius * 2
-                        local correctionMag = math.min(maxdev, (efflevel * 5 + efflevel * 10 * math.random())) 
+                        local correctionMag = math.min(maxdev, (efflevel * 5 + efflevel * 10 * math.random()))
 
                         local dev = otherShipManager:GetRoomCenter(targetroom) - projectile.target
                         local devLength = math.sqrt(dev.x * dev.x + dev.y * dev.y)
@@ -928,7 +957,7 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_INITIALIZE, function(
                 math.ceil(getEffectiveTargetingLevel(sys) * 0.5)
                 --print("ST:", projectile.damage.stunChance)
             end
-            
+
         end
     end
 end)
@@ -963,10 +992,10 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                     if weapon.powered and weapon.subCooldown.second <= weapon.subCooldown.first and not weapon.table["mods.multiverse.manualDecharge"] then
                         local oldFirst = weapon.cooldown.first
                         local oldSecond = weapon.cooldown.second
-    
+
                         weapon.cooldown.first = weapon.cooldown.first + mult * time_increment()
                         weapon.cooldown.first = math.min(weapon.cooldown.first, weapon.cooldown.second)
-    
+
                         if weapon.cooldown.second == weapon.cooldown.first and oldFirst < oldSecond and weapon.chargeLevel < weapon.blueprint.chargeLevels then
                             weapon.chargeLevel = weapon.chargeLevel + 1
                             weapon.weaponVisual.boostLevel = 0
@@ -1097,35 +1126,26 @@ end, function() end)
 ---@diagnostic disable-next-line: undefined-field
 script.on_internal_event(Defines.InternalEvents.CALCULATE_STAT_PRE, function(crew, stat, def, amount, value)
     if mods.lilyinno.checkVarsOK() and mods.lilyinno.checkStartOK() then
-        
+
         ---@type Hyperspace.CrewMember
         crew = crew
         ---@type Hyperspace.CrewStat
         stat = stat
-        
-        local shipManager = Hyperspace.ships(crew.iShipId)
-        local otherShipManager = Hyperspace.ships(1 - crew.iShipId)
-        
-        if shipManager and otherShipManager then
-            if shipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_targeting_core")) and (shipManager:HasAugmentation("UPG_LILY_TARGETING_UPLINK") > 0 or shipManager:HasAugmentation("EX_LILY_TARGETING_UPLINK") > 0) and activationTimer[shipManager.iShipId] >= 1 then
-                if crew.currentShipId == otherShipManager.iShipId then
+
+        if stat == Hyperspace.CrewStat.DAMAGE_MULTIPLIER or stat == Hyperspace.CrewStat.DAMAGE_ENEMIES_AMOUNT or stat == Hyperspace.CrewStat.SABOTAGE_SPEED_MULTIPLIER then
+            if crewBoostCache[crew.iShipId] and activationTimer[crew.iShipId] >= 1 then
+                if crew.currentShipId ~= crew.iShipId then
                     local inRoom = false
-                    local targetroom = userdata_table(shipManager, "mods.lilyinno.targetingcore").targetroom
-                    local bonusrooms = userdata_table(shipManager, "mods.lilyinno.targetingcore").bonusrooms
-                    if targetroom and crew.iRoomId == targetroom then
-                        inRoom = true
-                    end
-                    if bonusrooms and activationTimer[otherShipManager.iShipId] >= 1 and (otherShipManager:HasAugmentation("UPG_LILY_TARGETING_MULTITHREAD") > 0 or otherShipManager:HasAugmentation("EX_LILY_TARGETING_MULTITHREAD") > 0) then
-                        for id, coords in pairs(bonusrooms or {}) do
-                            if crew.iRoomId == id then
-                                inRoom = true
-                            end
+                    local rooms = roomTargetCache[crew.iShipId]
+                    for id, coords in pairs(rooms or {}) do
+                        if crew.iRoomId == id then
+                            inRoom = true
                         end
                     end
+                    
 
                     if inRoom then
-                        local sys = shipManager:GetSystem(Hyperspace.ShipSystem.NameToSystemId("lily_targeting_core"))
-                        local effPower = getEffectiveTargetingLevel(sys)
+                        local effPower = effLevelCache[crew.iShipId]
                         if stat == Hyperspace.CrewStat.DAMAGE_MULTIPLIER then
                             amount = amount * (1 + effPower * 0.1)
                         end
@@ -1140,7 +1160,7 @@ script.on_internal_event(Defines.InternalEvents.CALCULATE_STAT_PRE, function(cre
             end
         end
     end
-    
+
 
 return Defines.Chain.CONTINUE, amount, value
 end)

@@ -357,7 +357,7 @@ Incompatible with performance upgrades.
 </augBlueprint>
 <augBlueprint name="EX_LILY_INN_PILOT">
     <title>I.N.N. (Pilot) [X]</title>
-    <desc>Integrated Neural Network can operate Piloting subsystem even in the absense of crew.
+    <desc>Integrated Neural Network can operate Piloting subsystem even in the absence of crew.
     
 		[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.</desc>
     <cost>30</cost>
@@ -374,7 +374,7 @@ Incompatible with performance upgrades.
 </augBlueprint>
 <augBlueprint name="EX_LILY_INN_SENSORS">
     <title>I.N.N. (Sensors) [X]</title>
-    <desc>Integrated Neural Network can operate Sensors subsystem even in the absense of crew.
+    <desc>Integrated Neural Network can operate Sensors subsystem even in the absence of crew.
     
 		[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.</desc>
     <cost>30</cost>
@@ -391,7 +391,7 @@ Incompatible with performance upgrades.
 </augBlueprint>
 <augBlueprint name="EX_LILY_INN_DOORS">
     <title>I.N.N. (Doors) [X]</title>
-    <desc>Integrated Neural Network can operate Doors subsystem even in the absense of crew.
+    <desc>Integrated Neural Network can operate Doors subsystem even in the absence of crew.
     
 		[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.</desc>
     <cost>30</cost>
@@ -712,7 +712,7 @@ Incompatible with performance upgrades.
 </augBlueprint>
 <augBlueprint name="EX_LILY_BRACERS_REGEN">
     <title>Living Metal Bracers [X]</title>
-    <desc>Made out of special metal that can "remember" shapes, System Bracers will slowly repair themselves even in the absense of crew.
+    <desc>Made out of special metal that can "remember" shapes, System Bracers will slowly repair themselves even in the absence of crew.
     
 		[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.</desc>
     <cost>50</cost>
@@ -818,7 +818,7 @@ Incompatible with performance upgrades.
 </augBlueprint>
 <augBlueprint name="EX_LILY_CLONEBAY_REGEN">
     <title>Backup Repair Protocols [X]</title>
-    <desc>Slowly repairs your clonebay system even with absense of crew.
+    <desc>Slowly repairs your clonebay system even with absence of crew.
     
 		[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.</desc>
     <cost>20</cost>

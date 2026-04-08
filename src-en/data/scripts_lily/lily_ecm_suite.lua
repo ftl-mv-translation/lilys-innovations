@@ -100,6 +100,17 @@ local loadComplete = {}
 loadComplete[0] = false
 loadComplete[1] = false
 
+---@type table<integer, table<abilities, number>>
+local statesCache = {}
+---@type table<abilities, number>
+statesCache[0] = {}
+---@type table<abilities, number>
+statesCache[1] = {}
+
+local uecmCache = {}
+uecmCache[0] = false
+uecmCache[1] = false
+
 
 --Handles tooltips and mousever descriptions per level
 local function get_level_description_lily_ecm_suite(systemId, level, tooltip)
@@ -1078,7 +1089,7 @@ local function lily_ecm_suite_render(systemBox, ignoreStatus)
             states.defdrones = activationTimeDefaults.defdrones
         end
         --]]
-        if shipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0 then
+        if uecmCache[shipManager.iShipId] then
             states.offdrones = activationTimeDefaults.offdrones
             states.defdrones = activationTimeDefaults.defdrones
         end
@@ -1306,6 +1317,16 @@ script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
         playerCursorRestore = nil
         playerCursorRestoreInvalid = nil
     end
+
+    local otherShipManager = Hyperspace.ships.enemy
+    if not shipManager then
+        statesCache[0] = {}
+        uecmCache[0] = false
+    end
+    if not otherShipManager then
+      statesCache[1] = {}
+      uecmCache[1] = false
+    end
 end)
 
 script.on_render_event(Defines.RenderEvents.MOUSE_CONTROL, function()
@@ -1451,6 +1472,8 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         ---@cast charges integer
 
         local states = mods.lilyinno.ecmsuite.getStateTable(shipManager)
+        statesCache[shipManager.iShipId] = states
+        uecmCache[shipManager.iShipId] = shipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0
 
         lily_ecm_suite_system.bBoostable = false
         local level = lily_ecm_suite_system.healthState.second
@@ -1468,7 +1491,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         if shipManager:HasAugmentation("UPG_LILY_ECM_JAMMER_FIELD") > 0 or shipManager:HasAugmentation("EX_LILY_ECM_JAMMER_FIELD") > 0 then
             multiplier = multiplier * 0.75
         end
-        if shipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0 then
+        if uecmCache[shipManager.iShipId] then
             multiplier = multiplier * 1.25
         end
 
@@ -1552,7 +1575,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         end
 
 
-        if states.offdrones > 0 or shipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0 then
+        if states.offdrones > 0 or uecmCache[shipManager.iShipId] then
             local spaceManager = Hyperspace.App.world.space
             for drone in vter(spaceManager.drones) do
                 ---@cast drone Hyperspace.SpaceDrone
@@ -1572,7 +1595,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                 end
             end
         end
-        if states.defdrones > 0 or shipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0 then
+        if states.defdrones > 0 or uecmCache[shipManager.iShipId] then
             if shipManager:HasAugmentation("LILY_ECM_TMP_SCRAMBLER") + shipManager:HasAugmentation("HIDDEN LILY_ECM_TMP_SCRAMBLER") < 1 then
                 shipManager:AddAugmentation("HIDDEN LILY_ECM_TMP_SCRAMBLER")
             end
@@ -1671,7 +1694,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                                             proj.ownerId,
                                             proj.heading)
                                     end
-                                    if proj:GetType() == 6 and ((shipManager.ship:GetSelectedRoomId(proj.target.x, proj.target.y, true) > -1) or shipManager:HasAugmentation("UPG_LILY_ECM_ASB_SCRAMBLER") > 0 or shipManager:HasAugmentation("EX_LILY_ECM_ASB_SCRAMBLER") > 0 or shipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0) then
+                                    if proj:GetType() == 6 and ((shipManager.ship:GetSelectedRoomId(proj.target.x, proj.target.y, true) > -1) or shipManager:HasAugmentation("UPG_LILY_ECM_ASB_SCRAMBLER") > 0 or shipManager:HasAugmentation("EX_LILY_ECM_ASB_SCRAMBLER") > 0 or uecmCache[shipManager.iShipId]) then
                                         local missile = spaceManager:CreatePDSFire(
                                             blueprint,
                                             Hyperspace.Point(math.floor(proj.position.x), math.floor(proj.position.y)),
@@ -1686,13 +1709,13 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
                                     if math.random() > 0.5 then
                                         proj.death_animation:Start(true)
                                         Hyperspace.Sounds:PlaySoundMix(proj.hitSolidSound, -1, false)
-                                        print("Boom!")
+                                        --print("Boom!")
                                     else
                                         proj.extend.customDamage.accuracyMod = -200
                                         local theta = math.random() * 2 * math.pi
                                         proj.target.x = proj.target.x + 100 * math.cos(theta)
                                         proj.target.y = proj.target.y + 100 * math.sin(theta)
-                                        print("Woosh!")
+                                        --print("Woosh!")
                                     end
                                 end
                             end
@@ -1770,6 +1793,12 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         if mods.lilyinno.checkVarsOK() and loadComplete[shipManager.iShipId] then
             mods.lilyinno.ecmsuite.saveStates(shipManager)
         end
+    else
+        statesCache[shipManager.iShipId] = {}
+        uecmCache[shipManager.iShipId] = false
+        if shipManager.iShipId == 0 then
+            Hyperspace.playerVariables.lily_ecm_suite = 0
+        end
     end
 
 
@@ -1835,7 +1864,7 @@ script.on_internal_event(Defines.InternalEvents.GET_AUGMENTATION_VALUE, function
             if augment == "ION_ARMOR" and otherShipManager:GetSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")):Functioning() and (otherShipManager:HasAugmentation("UPG_LILY_ECM_ELECTRO_FIELD") > 0 or otherShipManager:HasAugmentation("EX_LILY_ECM_ELECTRO_FIELD") > 0) then
                 value = value - 0.5
             end
-            if augment == "ION_ARMOR" and otherShipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0 then
+            if augment == "ION_ARMOR" and uecmCache[1 - shipManager.iShipId] then
                 value = value - 0.5
             end
 
@@ -1884,30 +1913,21 @@ end)
 script.on_internal_event(Defines.InternalEvents.CALCULATE_STAT_POST, function(crew, stat, def, amount, value)
     ---@cast crew Hyperspace.CrewMember
     ---@cast stat Hyperspace.CrewStat
-    if crew:IsDrone() and crew.iShipId ~= crew.currentShipId and mods.lilyinno.checkStartOK() then
-        local shipManager = Hyperspace.ships(crew.iShipId)
-        local otherShipManager = Hyperspace.ships(1 - crew.iShipId)
-
-        if shipManager and otherShipManager then
-            if otherShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")) then
-                if otherShipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0 or mods.lilyinno.ecmsuite.getState(otherShipManager, "offdrones") > 0 then
-                    if stat == Hyperspace.CrewStat.NO_AI then
-                        value = true
-                    elseif stat == Hyperspace.CrewStat.CONTROLLABLE then
-                        value = false
-                    elseif stat == Hyperspace.CrewStat.CAN_FIGHT then
-                        value = false
-                    elseif stat == Hyperspace.CrewStat.CAN_MOVE then
-                        value = false
-                    elseif stat == Hyperspace.CrewStat.CAN_SABOTAGE then
-                        value = false
-                    elseif stat == Hyperspace.CrewStat.CAN_REPAIR then
-                        value = false
-                    elseif stat == Hyperspace.CrewStat.SILENCED then
-                        value = true
-                    end
-                end
-            end
+    if crew:IsDrone() and crew.iShipId ~= crew.currentShipId and mods.lilyinno.checkStartOK() and ((statesCache[crew.currentShipId] and statesCache[crew.currentShipId].offdrones and statesCache[crew.currentShipId].offdrones > 0) or uecmCache[crew.currentShipId]) then
+        if stat == Hyperspace.CrewStat.NO_AI then
+            value = true
+        elseif stat == Hyperspace.CrewStat.CONTROLLABLE then
+            value = false
+        elseif stat == Hyperspace.CrewStat.CAN_FIGHT then
+            value = false
+        elseif stat == Hyperspace.CrewStat.CAN_MOVE then
+            value = false
+        elseif stat == Hyperspace.CrewStat.CAN_SABOTAGE then
+            value = false
+        elseif stat == Hyperspace.CrewStat.CAN_REPAIR then
+            value = false
+        elseif stat == Hyperspace.CrewStat.SILENCED then
+            value = true
         end
     end
     return Defines.Chain.CONTINUE, amount, value
@@ -1921,7 +1941,7 @@ script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projec
             if otherShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")) and otherShipManager:GetSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")):Functioning() and (otherShipManager:HasAugmentation("UPG_LILY_ECM_JAMMER_FIELD") > 0 or otherShipManager:HasAugmentation("EX_LILY_ECM_JAMMER_FIELD") > 0) then
                 projectile.extend.customDamage.accuracyMod = projectile.extend.customDamage.accuracyMod - 10
             end
-            if otherShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")) and (otherShipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0) then
+            if otherShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")) and (uecmCache[1 - shipManager.iShipId]) then
                 projectile.extend.customDamage.accuracyMod = projectile.extend.customDamage.accuracyMod - 15
             end
 
@@ -1953,7 +1973,7 @@ script.on_internal_event(Defines.InternalEvents.DRONE_FIRE, function(projectile,
             if otherShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")) and otherShipManager:GetSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")):Functioning() and (otherShipManager:HasAugmentation("UPG_LILY_ECM_JAMMER_FIELD") > 0 or otherShipManager:HasAugmentation("EX_LILY_ECM_JAMMER_FIELD") > 0) then
                 projectile.extend.customDamage.accuracyMod = projectile.extend.customDamage.accuracyMod - 10
             end
-            if otherShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")) and (otherShipManager:HasAugmentation("AUG_LILY_ULTRA_ECM") > 0) then
+            if otherShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_ecm_suite")) and (uecmCache[1 - shipManager.iShipId]) then
                 projectile.extend.customDamage.accuracyMod = projectile.extend.customDamage.accuracyMod - 15
             end
 

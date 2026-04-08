@@ -480,6 +480,8 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         if mods.lilyinno.checkVarsOK() and loadComplete[shipManager.iShipId] then
             Hyperspace.playerVariables["mods_lilyinno_ablativearmor_" .. (shipManager.iShipId > 0.5 and "1" or "0")] = currentLayers + 1
         end
+    elseif shipManager.iShipId == 0 then
+        Hyperspace.playerVariables.lily_ablative_armor = 0
     end
 end)
 

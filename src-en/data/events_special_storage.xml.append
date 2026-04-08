@@ -104,7 +104,7 @@
 
 <event name="STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN">
     <text>You are about to install the Backup Repair Protocols upgrade.
-	[Effects: Slowly repairs your clonebay system even with absense of crew.]</text>
+	[Effects: Slowly repairs your clonebay system even with absence of crew.]</text>
 
     <choice req="BACKUP_DNA" lvl="1" max_group="0" blue="false" hidden="true">
         <text>Perform the upgrade. [Cost: 20~, 4|]</text>
@@ -214,7 +214,7 @@
 
 <event name="STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT">
     <text>You are about to install the Integrated Neural Network upgrade.
-	[Effects: Integrated Neural Network can operate Pilot subsystem even in the absense of crew.]</text>
+	[Effects: Integrated Neural Network can operate Pilot subsystem even in the absence of crew.]</text>
 
     <choice req="pilot" lvl="3" max_group="0" blue="false" hidden="true">
         <text>Perform the upgrade. [Cost: 30~, 3|]</text>
@@ -384,7 +384,7 @@
 
 <event name="STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS">
     <text>You are about to install the Integrated Neural Network upgrade.
-	[Effects: Integrated Neural Network can operate Sensors subsystem even in the absense of crew.]</text>
+	[Effects: Integrated Neural Network can operate Sensors subsystem even in the absence of crew.]</text>
 
     <choice req="sensors" lvl="3" max_group="0" blue="false" hidden="true">
         <text>Perform the upgrade. [Cost: 30~, 3|]</text>
@@ -639,7 +639,7 @@
 
 <event name="STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS">
     <text>You are about to install the Integrated Neural Network upgrade.
-	[Effects: Integrated Neural Network can operate Doors subsystem even in the absense of crew.]</text>
+	[Effects: Integrated Neural Network can operate Doors subsystem even in the absence of crew.]</text>
 
     <choice req="doors" lvl="3" max_group="0" blue="false" hidden="true">
         <text>Perform the upgrade. [Cost: 30~, 3|]</text>
@@ -1407,7 +1407,7 @@
 
 
 <event name="STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH">
-    <text>Here you can select which infusion type to use for 4th slot of infusion bay. (You need to have intalled the corresponding internal upgrade first.)</text>
+    <text>Here you can select which infusion type to use for 4th slot of infusion bay. (You need to have installed the corresponding internal upgrade first.)</text>
     <choice req="UPG_LILY_INFUSION_OVERLOADED_UNLOCK" lvl="0" max_lvl="0" blue="false" hidden="true">
         <text>Overloaded Infusions. [NOT INSTALLED]</text>
         <event load="OPTION_INVALID"/>
@@ -2738,7 +2738,7 @@ Incompatible with battery performance upgrades.]</text>
 
 <event name="STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN">
     <text>You are about to install the Living Metal Bracers upgrade.
-	[Effects: Made out of special metal that can "remember" shapes, System Bracers will slowly repair themselves even in the absense of crew.]</text>
+	[Effects: Made out of special metal that can "remember" shapes, System Bracers will slowly repair themselves even in the absence of crew.]</text>
 
     <choice req="lily_system_bracers" lvl="3" max_group="0" blue="false" hidden="true">
         <text>Perform the upgrade. [Cost: 40~, 4|]</text>

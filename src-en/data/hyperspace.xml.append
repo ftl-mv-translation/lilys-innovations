@@ -1696,26 +1696,26 @@
 
 </mod:findLike>
 
-<mod-append:metaVariable name="prof_e_boon_lily_ablative_armor" op="set" val="0"/>
-<mod-append:variable name="ach_boon_lily_ablative_armor" op="set" val="0"/>
+<metaVariable name="prof_e_boon_lily_ablative_armor" op="set" val="0"/>
+<variable name="ach_boon_lily_ablative_armor" op="set" val="0"/>
 
-<mod-append:metaVariable name="prof_e_boon_lily_targeting_core" op="set" val="0"/>
-<mod-append:variable name="ach_boon_lily_targeting_core" op="set" val="0"/>
+<metaVariable name="prof_e_boon_lily_targeting_core" op="set" val="0"/>
+<variable name="ach_boon_lily_targeting_core" op="set" val="0"/>
 
-<mod-append:metaVariable name="prof_e_boon_lily_shock_neutralizer" op="set" val="0"/>
-<mod-append:variable name="ach_boon_lily_shock_neutralizer" op="set" val="0"/>
+<metaVariable name="prof_e_boon_lily_shock_neutralizer" op="set" val="0"/>
+<variable name="ach_boon_lily_shock_neutralizer" op="set" val="0"/>
 
-<mod-append:metaVariable name="prof_e_boon_lily_infusion_bay" op="set" val="0"/>
-<mod-append:variable name="ach_boon_lily_infusion_bay" op="set" val="0"/>
+<metaVariable name="prof_e_boon_lily_infusion_bay" op="set" val="0"/>
+<variable name="ach_boon_lily_infusion_bay" op="set" val="0"/>
 
-<mod-append:metaVariable name="prof_e_boon_lily_ecm_suite" op="set" val="0"/>
-<mod-append:variable name="ach_boon_lily_ecm_suite" op="set" val="0"/>
+<metaVariable name="prof_e_boon_lily_ecm_suite" op="set" val="0"/>
+<variable name="ach_boon_lily_ecm_suite" op="set" val="0"/>
 
-<mod-append:metaVariable name="prof_e_boon_lily_system_bracers" op="set" val="0"/>
-<mod-append:variable name="ach_boon_lily_system_bracers" op="set" val="0"/>
+<metaVariable name="prof_e_boon_lily_system_bracers" op="set" val="0"/>
+<variable name="ach_boon_lily_system_bracers" op="set" val="0"/>
 
-<mod-append:metaVariable name="prof_e_boon_lily_fiber_liner" op="set" val="0"/>
-<mod-append:variable name="ach_boon_lily_fiber_liner" op="set" val="0"/>
+<metaVariable name="prof_e_boon_lily_fiber_liner" op="set" val="0"/>
+<variable name="ach_boon_lily_fiber_liner" op="set" val="0"/>
 
 
 

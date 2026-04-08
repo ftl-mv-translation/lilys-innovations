@@ -65,6 +65,13 @@ end
 
 local vter = mods.multiverse.vter
 
+local bracersRoomCache = {}
+bracersRoomCache[0] = -1
+bracersRoomCache[1] = -1
+local aebCache = {}
+aebCache[0] = false
+aebCache[1] = false
+local hasBoon = false
 
 --Handles tooltips and mousever descriptions per level
 local function get_level_description_lily_system_bracers(systemId, level, tooltip)
@@ -134,7 +141,7 @@ script.on_init(function()
         "misc/lily_systembrace_aether_3.png", -36, -36, 0, Graphics.GL_Color(1, 1, 1, 1), 1, false)
     cornersAether[4] = Hyperspace.Resources:CreateImagePrimitiveString(
         "misc/lily_systembrace_aether_4.png", 1, -36, 0, Graphics.GL_Color(1, 1, 1, 1), 1, false)
-    
+
 end)
 
 
@@ -160,6 +167,11 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
             Hyperspace.playerVariables.lily_system_bracers = level
         end
 
+        bracersRoomCache[shipManager.iShipId] = lily_system_bracers_system.roomId
+        hasBoon = shipManager:HasAugmentation("BOON_LILY_SYSTEM_BRACERS") > 0
+        aebCache[shipManager.iShipId] = not lily_system_bracers_system:CompletelyDestroyed() and
+        (shipManager:HasAugmentation("UPG_LILY_BRACERS_AETHER") > 0 or shipManager:HasAugmentation("EX_LILY_BRACERS_AETHER") > 0)
+
         local absorbedDamage = 0
         if not userdata_table(shipManager, "mods.lilyinno.systembracers").absorbedDamage then
             userdata_table(shipManager, "mods.lilyinno.systembracers").absorbedDamage = 0
@@ -170,7 +182,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         end
         --absorbedDamage = userdata_table(shipManager, "mods.lilyinno.systembracers").absorbedDamage
 
-        
+
 
         if lily_system_bracers_system.healthState.first > 0 then
             local fixed = false
@@ -220,7 +232,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
         if shipManager:HasAugmentation("UPG_LILY_BRACERS_REGEN") > 0 or shipManager:HasAugmentation("EX_LILY_BRACERS_REGEN") > 0 then
             lily_system_bracers_system:PartialRepair(0.75, true)
         end
-        
+
         userdata_table(shipManager, "mods.lilyinno.systembracers").absorbedDamage = 0
         userdata_table(shipManager, "mods.lilyinno.systembracers").systemSaves = {}
 
@@ -233,6 +245,12 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
             end
         end
 
+    else
+        bracersRoomCache[shipManager.iShipId] = -1
+        aebCache[shipManager.iShipId] = false
+        if shipManager.iShipId == 0 then
+            Hyperspace.playerVariables.lily_system_bracers = 0
+        end
     end
 end)
 
@@ -302,7 +320,7 @@ local function render_system_bracers_effects(ship, experimental)
                 room = room
                 local sys = shipManager:GetSystemInRoom(room.iRoomId)
                 if sys and sys:GetId() ~= Hyperspace.ShipSystem.NameToSystemId("lily_system_bracers") then
-                    
+
                     local rect = room.rect
 
 
@@ -348,7 +366,7 @@ script.on_internal_event(Defines.InternalEvents.SYSTEM_ADD_DAMAGE, function(sys,
         if lily_system_bracers:GetRoomId() == sys:GetRoomId() then
             return Defines.Chain.CONTINUE, amount
         end
-        
+
         local absorbedDamage = math.max(0, math.min(lily_system_bracers.healthState.first, sys.healthState.first, amount))
 
         amount = amount - absorbedDamage
@@ -364,7 +382,7 @@ script.on_internal_event(Defines.InternalEvents.SYSTEM_ADD_DAMAGE, function(sys,
             if ship:HasAugmentation("UPG_LILY_BRACERS_THERMAL") > 0 or ship:HasAugmentation("EX_LILY_BRACERS_THERMAL") > 0 then
                 absorbed = math.random() < 0.5
             end
-            
+
             Hyperspace.Sounds:PlaySoundMix("lily_bracers_hit_1", -1, false)
             if absorbed then
                 ship:StartFire(lily_system_bracers.roomId)
@@ -398,7 +416,7 @@ script.on_internal_event(Defines.InternalEvents.DAMAGE_SYSTEM, function(shipMana
         if sys then
             table.insert(userdata_table(shipManager, "mods.lilyinno.systembracers").systemSaves,
                 { id = sys:GetId(), hp = math.min(sys.healthState.first, sys.healthState.second) })
-        end 
+        end
 
         if sys and shipManager.weaponSystem and sys:GetId() == Hyperspace.ShipSystem.NameToSystemId("weapons") then
             userdata_table(shipManager, "mods.lilyinno.systembracers").weaponRepower = true
@@ -461,24 +479,24 @@ script.on_internal_event(Defines.InternalEvents.CALCULATE_STAT_POST, function(cr
         crew = crew
         ---@type Hyperspace.CrewStat
         stat = stat
-        if crew and (not crew.bOutOfGame) and (crew.currentShipId == 0 or crew.currentShipId == 1) then
-            local currentShipManager = Hyperspace.ships(crew.currentShipId)
+        if crew and (not crew.bOutOfGame) and (crew.currentShipId == 0 or crew.currentShipId == 1) and bracersRoomCache[crew.currentShipId] >= 0 then
 
-            if currentShipManager and currentShipManager:HasSystem(Hyperspace.ShipSystem.NameToSystemId("lily_system_bracers")) then
-                local bracers = currentShipManager:GetSystem(Hyperspace.ShipSystem.NameToSystemId("lily_system_bracers"))
-                if crew.iRoomId >= 0 and crew.iRoomId == currentShipManager:GetSystemRoom(Hyperspace.ShipSystem.NameToSystemId("lily_system_bracers")) then
-                    if stat == Hyperspace.CrewStat.REPAIR_SPEED_MULTIPLIER and currentShipManager:HasAugmentation("BOON_LILY_SYSTEM_BRACERS") == 0 then
-                        amount = amount * 0.5
-                    end
-                    if stat == Hyperspace.CrewStat.FIRE_REPAIR_MULTIPLIER and currentShipManager:HasAugmentation("BOON_LILY_SYSTEM_BRACERS") == 0 then
-                        amount = amount * 2
-                    end
-                    if stat == Hyperspace.CrewStat.SABOTAGE_SPEED_MULTIPLIER then
-                        amount = amount * 0.5
-                    end
+            if bracersRoomCache[crew.currentShipId] == crew.iRoomId then
+                if stat == Hyperspace.CrewStat.REPAIR_SPEED_MULTIPLIER and (not hasBoon or crew.currentShipId == 1) then
+                    amount = amount * 0.5
                 end
-                if not bracers:CompletelyDestroyed() and (currentShipManager:HasAugmentation("UPG_LILY_BRACERS_AETHER") > 0 or currentShipManager:HasAugmentation("EX_LILY_BRACERS_AETHER") > 0) and crew.iShipId ~= currentShipManager.iShipId then
+                if stat == Hyperspace.CrewStat.FIRE_REPAIR_MULTIPLIER and (not hasBoon or crew.currentShipId == 1) then
+                    amount = amount * 2
+                end
+                if stat == Hyperspace.CrewStat.SABOTAGE_SPEED_MULTIPLIER then
+                    amount = amount * 0.5
+                end
+            end
+            if aebCache[crew.currentShipId] and crew.currentShipId ~= crew.iShipId then
+                if stat == Hyperspace.CrewStat.SABOTAGE_SPEED_MULTIPLIER or stat == Hyperspace.CrewStat.TRUE_HEAL_AMOUNT then
+
                     local crewRoom = crew.iRoomId
+                    local currentShipManager = Hyperspace.ships(crew.currentShipId)
                     local sys = currentShipManager:GetSystemInRoom(crewRoom)
                     if sys then
                         if stat == Hyperspace.CrewStat.SABOTAGE_SPEED_MULTIPLIER then
@@ -496,7 +514,7 @@ script.on_internal_event(Defines.InternalEvents.CALCULATE_STAT_POST, function(cr
 end)
 
 script.on_internal_event(Defines.InternalEvents.CONSTRUCT_SHIP_SYSTEM, function(system)
-    
+
     if system and system:GetId() == Hyperspace.ShipSystem.NameToSystemId("lily_system_bracers") then
         system:ForceDecreasePower(system.healthState.second)
         system.bNeedsPower = false
