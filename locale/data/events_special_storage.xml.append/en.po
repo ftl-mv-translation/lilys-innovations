@@ -124,7 +124,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/text"
 msgstr ""
 "You are about to install the Backup Repair Protocols upgrade.\n"
-"\t[Effects: Slowly repairs your clonebay system even with absense of crew.]"
+"\t[Effects: Slowly repairs your clonebay system even with absence of crew.]"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
@@ -251,7 +251,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/text"
 msgstr ""
 "You are about to install the Integrated Neural Network upgrade.\n"
-"\t[Effects: Integrated Neural Network can operate Pilot subsystem even in the absense of crew.]"
+"\t[Effects: Integrated Neural Network can operate Pilot subsystem even in the absence of crew.]"
 
 #: src-en/data/events_special_storage.xml.append:220
 msgid ""
@@ -449,7 +449,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/text"
 msgstr ""
 "You are about to install the Integrated Neural Network upgrade.\n"
-"\t[Effects: Integrated Neural Network can operate Sensors subsystem even in the absense of crew.]"
+"\t[Effects: Integrated Neural Network can operate Sensors subsystem even in the absence of crew.]"
 
 #: src-en/data/events_special_storage.xml.append:390
 msgid ""
@@ -743,7 +743,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/text"
 msgstr ""
 "You are about to install the Integrated Neural Network upgrade.\n"
-"\t[Effects: Integrated Neural Network can operate Doors subsystem even in the absense of crew.]"
+"\t[Effects: Integrated Neural Network can operate Doors subsystem even in the absence of crew.]"
 
 #: src-en/data/events_special_storage.xml.append:645
 msgid ""
@@ -1599,7 +1599,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/text"
 msgstr ""
 "Here you can select which infusion type to use for 4th slot of infusion bay."
-" (You need to have intalled the corresponding internal upgrade first.)"
+" (You need to have installed the corresponding internal upgrade first.)"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
@@ -3144,7 +3144,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
 "You are about to install the Living Metal Bracers upgrade.\n"
-"\t[Effects: Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absense of crew.]"
+"\t[Effects: Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absence of crew.]"
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
