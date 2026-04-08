@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-08 19:47+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1611,12 +1611,13 @@ msgstr ""
 "отсека."
 
 #: src-en/data/events_special_storage.xml.append:1410
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/text"
 msgstr ""
 "Здесь вы можете выбрать, какой тип инфузии использовать для 4-го слота "
-"инфузионного отсека. (Сначала необходимо установить соответствующее "
-"внутреннее улучшение)"
+"инфузионного отсека. "
+"(Сначала необходимо установить соответствующее внутреннее улучшение)"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
@@ -3159,11 +3160,14 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:2740
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
 "Вы собираетесь установить Наручи из живого металла.\n"
-"\t[Эффекты: Изготовленные из особого металла, способного \"запоминать\" формы, Система наручи будут медленно ремонтироваться даже в отсутствие экипажа]"
+"\t[Эффекты: Изготовленные из особого металла, способного \"запоминать\" "
+"формы, Система наручи будут медленно ремонтироваться даже в отсутствие "
+"экипажа]"
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
