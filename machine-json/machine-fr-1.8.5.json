@@ -1,7 +1,7 @@
 {
   "lang": "fr",
   "originalLang": "en",
-  "version": "1.8.2",
+  "version": "1.8.5",
   "translation": {
     "Ablative Armor": {
       "advanced": {
@@ -554,11 +554,11 @@
       "machine": "",
       "done": false
     },
-    "Integrated Neural Network can operate Piloting subsystem even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+    "Integrated Neural Network can operate Piloting subsystem even in the absence of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Pilotage même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+          "text": "Le Réseau Neural Intégré peut piloter le sous-système de Pilotage même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
         }
       },
       "deepl": "",
@@ -587,11 +587,11 @@
       "machine": "",
       "done": false
     },
-    "Integrated Neural Network can operate Sensors subsystem even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+    "Integrated Neural Network can operate Sensors subsystem even in the absence of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+          "text": "Le Réseau Neural Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
         }
       },
       "deepl": "",
@@ -620,11 +620,11 @@
       "machine": "",
       "done": false
     },
-    "Integrated Neural Network can operate Doors subsystem even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+    "Integrated Neural Network can operate Doors subsystem even in the absence of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+          "text": "Le Réseau Neural Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
         }
       },
       "deepl": "",
@@ -1170,11 +1170,11 @@
       "machine": "",
       "done": false
     },
-    "Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+    "Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absence of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Fabriqués à partir d'un métal spécial capable de \"mémoriser\" les formes, les Renforts de Système se répareront lentement même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+          "text": "Fabriqués à partir d'un métal spécial capable de \"mémoriser\" les formes, les Renforts de Système se répareront lentement même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
         }
       },
       "deepl": "",
@@ -1363,11 +1363,11 @@
       "machine": "",
       "done": false
     },
-    "Slowly repairs your clonebay system even with absense of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+    "Slowly repairs your clonebay system even with absence of crew.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Répare lentement votre salle des clones même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+          "text": "Répare lentement votre salle des clones même en l'absence d'équipage.\n    \n\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
         }
       },
       "deepl": "",
@@ -2862,7 +2862,7 @@
       "machine": "",
       "done": false
     },
-    "You are about to install the Backup Repair Protocols upgrade.\n\t[Effects: Slowly repairs your clonebay system even with absense of crew.]": {
+    "You are about to install the Backup Repair Protocols upgrade.\n\t[Effects: Slowly repairs your clonebay system even with absence of crew.]": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
@@ -2990,11 +2990,11 @@
       "machine": "",
       "done": false
     },
-    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Pilot subsystem even in the absense of crew.]": {
+    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Pilot subsystem even in the absence of crew.]": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Pilotage même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n\t[Effets : Le Réseau Neural Intégré peut piloter le sous-système de Pilotage même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -3118,11 +3118,11 @@
       "machine": "",
       "done": true
     },
-    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Sensors subsystem even in the absense of crew.]": {
+    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Sensors subsystem even in the absence of crew.]": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n\t[Effets : Le Réseau Neural Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -3300,11 +3300,11 @@
       "machine": "",
       "done": false
     },
-    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Doors subsystem even in the absense of crew.]": {
+    "You are about to install the Integrated Neural Network upgrade.\n\t[Effects: Integrated Neural Network can operate Doors subsystem even in the absence of crew.]": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n\t[Effets : Le Réseau Neural Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
@@ -3905,7 +3905,7 @@
       "machine": "",
       "done": false
     },
-    "Here you can select which infusion type to use for 4th slot of infusion bay. (You need to have intalled the corresponding internal upgrade first.)": {
+    "Here you can select which infusion type to use for 4th slot of infusion bay. (You need to have installed the corresponding internal upgrade first.)": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
@@ -5012,11 +5012,11 @@
       "machine": "",
       "done": false
     },
-    "You are about to install the Living Metal Bracers upgrade.\n\t[Effects: Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absense of crew.]": {
+    "You are about to install the Living Metal Bracers upgrade.\n\t[Effects: Made out of special metal that can \"remember\" shapes, System Bracers will slowly repair themselves even in the absence of crew.]": {
       "advanced": {
         "9": {
           "model": "gemini-2.5-flash",
-          "text": "Vous êtes sur le point d'installer l'amélioration Supports Métal Vivant.\n\t[Effets : Fabriqués à partir d'un métal spécial capable de \"se souvenir\" des formes, les Supports de Système se répareront lentement même en l'absence d'équipage.]"
+          "text": "Vous êtes sur le point d'installer l'amélioration Renforts en Métal Vivant.\n\t[Effets : Fabriqués à partir d'un métal spécial capable de \"mémoriser\" les formes, les Renforts de Système se répareront lentement même en l'absence d'équipage.]"
         }
       },
       "deepl": "",
