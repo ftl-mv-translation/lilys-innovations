@@ -254,8 +254,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n"
-"\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Pilotage même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n"
+"\t[Effets : Le Réseau Neural Intégré peut piloter le sous-système de Pilotage même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:220
 msgid ""
@@ -454,8 +454,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n"
-"\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n"
+"\t[Effets : Le Réseau Neural Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:390
 msgid ""
@@ -758,8 +758,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Réseau Neuronal Intégré.\n"
-"\t[Effets : Le Réseau Neuronal Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Réseau Neural Intégré.\n"
+"\t[Effets : Le Réseau Neural Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:645
 msgid ""
@@ -3232,8 +3232,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Supports Métal Vivant.\n"
-"\t[Effets : Fabriqués à partir d'un métal spécial capable de \"se souvenir\" des formes, les Supports de Système se répareront lentement même en l'absence d'équipage.]"
+"Vous êtes sur le point d'installer l'amélioration Renforts en Métal Vivant.\n"
+"\t[Effets : Fabriqués à partir d'un métal spécial capable de \"mémoriser\" les formes, les Renforts de Système se répareront lentement même en l'absence d'équipage.]"
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
