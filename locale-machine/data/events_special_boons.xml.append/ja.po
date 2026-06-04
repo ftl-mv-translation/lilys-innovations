@@ -9,74 +9,88 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ABLATIVE_ARMOR\"]/text"
 msgstr ""
-"どこからともなく、声が聞こえる。「[アブレーション]のグ、グラントを、い、インストールした。した！グラントの効果：ジャンプごとに船体ダメージを1ポイント修理。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+"どこからか、声が聞こえてきます。「[アブレーション]付与をイ-イ-"
+"インストールした。インストールした！付与の効果：ジャンプごとに船体ダメージを1（1）点回復する。もし-あなた-が前-"
+"の挑戦者を見かけたら、感謝を伝えてくれ。私-も-訪ねることをお勧めする。」"
 
 #: src-en/data/events_special_boons.xml.append:6
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ABLATIVE_ARMOR\"]/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_boons.xml.append:13
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_TARGETING_CORE\"]/text"
 msgstr ""
-"どこからともなく、声が聞こえる。「[照準]のグ、グラントを、い、インストールした。した！グラントの効果：全ての兵器とドローンの命中率が+10%追加される。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+"どこからか、声が聞こえてきます。「[ターゲット]付与をイ-イ-"
+"インストールした。インストールした！付与の効果：すべての武器とドローンの命中精度が+10（%）追加される。もし-あなた-が前-"
+"の挑戦者を見かけたら、感謝を伝えてくれ。私-も-訪ねることをお勧めする。」"
 
 #: src-en/data/events_special_boons.xml.append:16
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_TARGETING_CORE\"]/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_boons.xml.append:23
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ECM_SUITE\"]/text"
 msgstr ""
+"どこからか、声が聞こえてきます。「[ECM]付与をイ-イ-"
+"インストールした。インストールした！付与の効果：敵のシールド再充填速度を-20%、武器リロード速度を-10%にする。もし-あなた-が前-"
+"の挑戦者を見かけたら、感謝を伝えてくれ。私-も-訪ねることをお勧めする。」"
 
 #: src-en/data/events_special_boons.xml.append:26
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_ECM_SUITE\"]/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_boons.xml.append:33
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SHOCK_NEUTRALIZER\"]/text"
 msgstr ""
-"どこからともなく、声が聞こえる。「[中和]のグ、グラントを、い、インストールした。した！グラントの効果：船のイオン放散率が10%上昇する。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+"どこからか、声が聞こえてきます。「[中和]付与をイ-イ-インストールした。インストールした！付与の効果：船内のイオン消散率が10%増加する。もし-"
+"あなた-が前-の挑戦者を見かけたら、感謝を伝えてくれ。私-も-訪ねることをお勧めする。」"
 
 #: src-en/data/events_special_boons.xml.append:36
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SHOCK_NEUTRALIZER\"]/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_boons.xml.append:43
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_INFUSION_BAY\"]/text"
 msgstr ""
-"どこからともなく、声が聞こえる。「[注入]のグ、グラントを、い、インストールした。した！グラントの効果：医療室にいる味方のダメージ耐性0.5倍、最大体力0.75倍。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+"どこからか、声が聞こえてきます。「[インフュージョン]付与をイ-イ-"
+"インストールした。インストールした！付与の効果：医務室内の味方に0.5倍のダメージ耐性と0.75倍の最大HPを付与する。もし-あなた-が前-"
+"の挑戦者を見かけたら、感謝を伝えてくれ。私-も-訪ねることをお勧めする。」"
 
 #: src-en/data/events_special_boons.xml.append:46
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_INFUSION_BAY\"]/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_boons.xml.append:53
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SYSTEM_BRACERS\"]/text"
 msgstr ""
-"どこからともなく、声が聞こえる。「[ブレーシング]のグ、グラントを、い、インストールした。した！グラントの効果：システムブレーサーの修、修理速度ペナルティの除去。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+"どこからか、声が聞こえてきます。「[ブレーシング]付与をイ-イ-"
+"インストールした。インストールした！付与の効果：システム・ブレーサーの修理速度ペナルティを削除する。もし-あなた-が前-"
+"の挑戦者を見かけたら、感謝を伝えてくれ。私-も-訪ねることをお勧めする。」"
 
 #: src-en/data/events_special_boons.xml.append:56
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_SYSTEM_BRACERS\"]/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_boons.xml.append:63
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_FIBER_LINER\"]/text"
 msgstr ""
-"どこからともなく、声が聞こえる。「[ファイバー]のグ、グラントを、い、インストールした。した！グラントの効果：クルーが全てのダメージ源から受けるダメージが0.85倍になる。もし、も、前の挑戦者に会ったら、感謝を伝えてくれ。君も、私に、会いに来ることを勧める。」"
+"どこからか、声が聞こえてきます。「[ファイバー]付与をイ-イ-"
+"インストールした。インストールした！付与の効果：クルーが受けるすべてのダメージを0.85倍にする。もし-あなた-が前-"
+"の挑戦者を見かけたら、感謝を伝えてくれ。私-も-訪ねることをお勧めする。」"
 
 #: src-en/data/events_special_boons.xml.append:66
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_LILY_FIBER_LINER\"]/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"

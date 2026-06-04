@@ -9,10 +9,10 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
 "append:category[1]/customTitle"
-msgstr "イノベーションシステム"
+msgstr "イノベーション・システム"
 
 #: src-en/data/hyperspace.xml.append:1830
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
 "append:category[2]/customTitle"
-msgstr "イノベーションシステム"
+msgstr "イノベーション・システム"

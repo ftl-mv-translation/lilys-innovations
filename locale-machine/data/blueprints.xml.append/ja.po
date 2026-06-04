@@ -8,185 +8,185 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/title"
-msgstr "アブレーティブ装甲"
+msgstr "アブレイティブ・アーマー"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/desc"
 msgstr ""
-"船体にダメージが及ぶ前にそれを吸収する装甲層を船に提供し、ゆっくりと修復します。レベルが高いほど、より多くの装甲ポイント、より速い再生、イオン耐性が得られます。修理にはクルー配置レベルが影響します。"
+"船体に受けるダメージを吸収する装甲層を提供し、徐々に自己修復します。レベルが上がるごとに装甲ポイント、再生速度、イオン耐性が向上します。修理にはクルーの配置レベルが影響します。"
 
 #: src-en/data/blueprints.xml.append:40
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/title"
-msgstr "専用照準コア"
+msgstr "専用ターゲット・コア"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/desc"
 msgstr ""
-"敵船の部屋をロックオンします。ロックオンされた部屋はドローンに狙われやすくなり、常に視界が確保され、そこを狙う射撃には命中率ボーナスがつきます。\n"
-"コアストレングスごとに命中率が+5%され、内部アップグレードによって他の効果も得られる場合があります。\n"
-"敵がクローク中は、このシステムによる命中率ボーナスが2倍になり、武器はコアストレングス * 20%の速度でチャージされ、ホログラムが生成されて部屋の視界を提供します。"
+"敵船の部屋をロックオンします。ロックされた部屋はドローンに狙われやすくなり、常に視界が確保され、そこへ向かう投射物の命中精度にボーナスが加わります。\n"
+"コア強度が1上がるごとに命中精度が+5%され、内部アップグレードによって他の効果が付与される場合があります。\n"
+"敵がクローキング中は命中精度ボーナスが2倍になり、武器のチャージ速度がコア強度*20%分加速し、ホログラムが発生して部屋の視界を提供します。"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/title"
-msgstr "ショック中和装置"
+msgstr "ショック・ニュートライザー"
 
 #: src-en/data/blueprints.xml.append:58
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/desc"
 msgstr ""
-"対象の部屋のイオン放散率を増加させ、イオン兵器からの回復を助けたり、クールダウンを短縮したりします。また、イオンストームやパルサーの近くでは、ボーナスパワーを提供します。"
+"対象の部屋のイオン消散速度を向上させ、イオン兵器からの復帰やクールダウンの短縮を助けます。また、イオンスターム中やパルサー付近では、その部屋に追加の電力を供給します。"
 
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/title"
-msgstr "注入ベイ"
+msgstr "インフュージョン・ベイ"
 
 #: src-en/data/blueprints.xml.append:76
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/desc"
 msgstr ""
-"時間経過で注入剤を生成します。部屋に入ったクルーは、利用可能な注入剤があればそれを拾って持ち運びます。クルーが運ぶ注入剤は、後でUIを介して起動できます。"
+"時間経過でインフュージョンを生成します。部屋に入ったクルーは、利用可能なインフュージョンを拾って運ぶことができます。クルーが所持しているインフュージョンは、UIから後で有効化可能です。"
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/title"
-msgstr ""
+msgstr "ECMスイート"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/desc"
-msgstr ""
+msgstr "敵のドローン、投射物、システムを妨害する多様な起動型アビリティを付与します。特にドローンに対して有効です。"
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/title"
-msgstr "システムブレーサー"
+msgstr "システム・ブレーサー"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/desc"
 msgstr ""
-"システムの損傷を自身に転嫁することで、受動的にシステムを保護します（自身が破壊されていない限り）。ただし、他のシステムと比較して通常の半分の速度でしか修理されません。"
+"システムをダメージから受動的に保護し、代わりに自身がダメージを肩代わりします（破壊されていない限り）。ただし、他のシステムと比べて修理速度が半分です。"
 
 #: src-en/data/blueprints.xml.append:120
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/title"
-msgstr "ファイバーライナー"
+msgstr "ファイバー・ライナー"
 
 #: src-en/data/blueprints.xml.append:121
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/desc"
 msgstr ""
-"船に命中する射撃やビームによるクルーへのダメージを、システムレベルに応じて軽減することでクルーを保護します。吸収したクルーダメージ1点ごとに、20%の確率でシステムダメージを1点受けます。"
+"船体に命中した投射物やビームによるクルーへのダメージを、システムレベルに応じて軽減し、クルーを守ります。吸収したクルーへのダメージ1点につき、20%の確率でシステムが1ダメージを受けます。"
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
-msgstr "ブレーサー要塞化"
+msgstr "ブレーサー・フォートフィケーション"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/title"
-msgstr "ブレーサー要塞化 [X]"
+msgstr "ブレーサー・フォート [X]"
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/desc"
 msgstr ""
-"システムブレーサー室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"システム・ブレーサーの部屋にいる味方クルーが受けるダメージが半分になり、敵クルーによるサボタージュ速度が半分になります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/title"
-msgstr "スマートボーディング展開"
+msgstr "スマート・ボーディング展開"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/title"
-msgstr "スマートボーディング展開 [X]"
+msgstr "スマート・ボーディング展開 [X]"
 
 #: src-en/data/blueprints.xml.append:161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/desc"
 msgstr ""
-"ボーディングドローンが敵の重要な部屋への着陸を優先するようになります。\n"
-"    \n"
-"[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ボーディングドローンが重要な敵の部屋に優先的に着陸するようにします。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
-msgstr "高度換気装置 [X]"
+msgstr "高度換気システム [X]"
 
 #: src-en/data/blueprints.xml.append:172
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
 msgstr ""
-"生命維持装置がクルーを優先し、クルーがいる部屋の酸素を80%速く補充します。敵クルーや火災に対しては逆の効果があり、酸素を排出します。システムの電力供給が必要で、電力に応じて効果が変動します。\n"
+"生命維持システムがクルーを優先するようになり、クルーがいる部屋の酸素充填速度が80%速くなります。敵クルーや火災に対しては逆の効果を及ぼし、酸素を排出します。システムの電力供給が必要であり、電力レベルに応じて効果が向上します。\n"
 "\n"
-"[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
-msgstr "高度換気装置"
+msgstr "高度換気システム"
 
 #: src-en/data/blueprints.xml.append:183
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
-msgstr "花のブーケ"
+msgstr "フローラル・ブーケ"
 
 #: src-en/data/blueprints.xml.append:191
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:198
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/title"
-msgstr "工場のグリース"
+msgstr "ファクトリー・グリース"
 
 #: src-en/data/blueprints.xml.append:199
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:206
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
-msgstr "金属と火薬"
+msgstr "メタル・アンド・ガンパウダー"
 
 #: src-en/data/blueprints.xml.append:207
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
-msgstr "北極の風"
+msgstr "アークティック・ウィンド"
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
@@ -196,17 +196,17 @@ msgstr "ラピスラズリ"
 #: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
-msgstr "9V電池"
+msgstr "9Vバッテリー"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:238
 msgid ""
@@ -216,30 +216,30 @@ msgstr "α-メチルフェネチルアミン"
 #: src-en/data/blueprints.xml.append:239
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
-msgstr "ドア要塞化"
+msgstr "ドア・フォートフィケーション"
 
 #: src-en/data/blueprints.xml.append:248
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/title"
-msgstr "ドア要塞化 [X]"
+msgstr "ドア・フォート [X]"
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
 msgstr ""
-"ドア室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ドアの部屋にいる味方クルーが受けるダメージが半分になり、敵クルーによるサボタージュ速度が半分になります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
@@ -249,7 +249,7 @@ msgstr "バックアップ酸素"
 #: src-en/data/blueprints.xml.append:265
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:271
 msgid ""
@@ -260,102 +260,102 @@ msgstr "バックアップ酸素 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
 msgstr ""
-"酸素システムが破壊または無効化されても、システム室に微量の酸素を供給します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"酸素システムが破壊または無効化されていても、システムルームに少量の酸素を供給し続けます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:281
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/title"
-msgstr "ドアフェイルセーフ"
+msgstr "ドア・フェイルセーフ"
 
 #: src-en/data/blueprints.xml.append:282
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/title"
-msgstr "ドアフェイルセーフ [X]"
+msgstr "ドア・フェイルセーフ [X]"
 
 #: src-en/data/blueprints.xml.append:289
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
 msgstr ""
-"ドアシステムが破壊または無効化された場合、全てのドアとエアロックが自動的に閉鎖されます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ドアシステムが破壊または無効化されると、すべてのドアとエアロックが自動的に閉鎖されます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr "サージオーバードライブ"
+msgstr "サージ・オーバードライブ"
 
 #: src-en/data/blueprints.xml.append:299
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:305
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr "バッテリー サージオーバードライブ [X]"
+msgstr "バッテリー・サージ・オーバードライブ [X]"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
 msgstr ""
-"バックアップバッテリーが有効な間、バッテリーレベルごとに武器チャージ率+10%、シールド再充電率+20%、回避率+5%を得ます。\n"
-"性能アップグレードとは互換性がありません。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"バックアップバッテリーがアクティブな間、バッテリーレベルごとに武器チャージ速度+10%、シールド再充填速度+20%、回避率+5%を得ます。\n"
+"パフォーマンスアップグレードとは互換性がありません。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/title"
-msgstr "ソーラーバッテリー"
+msgstr "ソーラー・バッテリー"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:323
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/title"
-msgstr "ソーラーバッテリー [X]"
+msgstr "ソーラー・バッテリー [X]"
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/desc"
 msgstr ""
-"太陽の近くにいるとき、バックアップバッテリーを無期限に起動できます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"太陽の近くでは、バックアップバッテリーを無期限にアクティブにできます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:334
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/title"
-msgstr "精神シールド"
+msgstr "マインド・シールディング"
 
 #: src-en/data/blueprints.xml.append:335
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/title"
-msgstr "精神シールド [X]"
+msgstr "マインド・シールディング [X]"
 
 #: src-en/data/blueprints.xml.append:342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/desc"
 msgstr ""
-"操縦室のクルーが精神支配とスタンに耐性を得ます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"操縦室のクルーがマインドコントロールとスタンに対して免疫を得ます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:352
 msgid ""
@@ -365,20 +365,20 @@ msgstr "統合ニューラルネットワーク（操縦）"
 #: src-en/data/blueprints.xml.append:353
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:359
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/title"
-msgstr "I.N.N.（操縦）[X]"
+msgstr "INN（操縦） [X]"
 
 #: src-en/data/blueprints.xml.append:360
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/desc"
 msgstr ""
-"統合ニューラルネットワークは、クルーが不在でも操縦サブシステムを操作できます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"統合ニューラルネットワークにより、クルーがいなくても操縦サブシステムを操作できます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:369
 msgid ""
@@ -388,20 +388,20 @@ msgstr "統合ニューラルネットワーク（センサー）"
 #: src-en/data/blueprints.xml.append:370
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:376
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/title"
-msgstr "I.N.N.（センサー）[X]"
+msgstr "INN（センサー） [X]"
 
 #: src-en/data/blueprints.xml.append:377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/desc"
 msgstr ""
-"統合ニューラルネットワークは、クルーが不在でもセンサーサブシステムを操作できます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"統合ニューラルネットワークにより、クルーがいなくてもセンサーサブシステムを操作できます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:386
 msgid ""
@@ -411,89 +411,89 @@ msgstr "統合ニューラルネットワーク（ドア）"
 #: src-en/data/blueprints.xml.append:387
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:393
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/title"
-msgstr "I.N.N.（ドア）[X]"
+msgstr "INN（ドア） [X]"
 
 #: src-en/data/blueprints.xml.append:394
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/desc"
 msgstr ""
-"統合ニューラルネットワークは、クルーが不在でもドアサブシステムを操作できます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"統合ニューラルネットワークにより、クルーがいなくてもドアサブシステムを操作できます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/title"
-msgstr "研磨装甲"
+msgstr "磨かれた装甲"
 
 #: src-en/data/blueprints.xml.append:409
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:415
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/title"
-msgstr "研磨装甲 [X]"
+msgstr "磨かれた装甲 [X]"
 
 #: src-en/data/blueprints.xml.append:416
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/desc"
 msgstr ""
-"アブレーティブ装甲がビームから受けるダメージを1減少させます。\n"
-"    \n"
-"[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"アブレイティブ・アーマーが受けるビームダメージを1減らします。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:424
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/title"
-msgstr "反応装甲"
+msgstr "リアクティブ・アーマー"
 
 #: src-en/data/blueprints.xml.append:425
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:431
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/title"
-msgstr "反応装甲 [X]"
+msgstr "リアクティブ・アーマー [X]"
 
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/desc"
 msgstr ""
-"アブレーティブ装甲がダメージを吸収すると、飛来する射撃やドローンを妨害するためにデブリのバーストを放出します。\n"
-"    \n"
-"[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"アブレイティブ・アーマーがダメージを吸収した際、破片を放出して飛来する投射物やドローンを迎撃します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:440
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/title"
-msgstr "二重強度装甲"
+msgstr "二重強化装甲"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/title"
-msgstr "二重強度装甲 [X]"
+msgstr "二重強化装甲 [X]"
 
 #: src-en/data/blueprints.xml.append:448
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/desc"
 msgstr ""
-"アブレーティブ装甲がシステムまたはクルーのダメージを吸収する確率を向上させます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"アブレイティブ・アーマーがシステムやクルーへのダメージを吸収する確率を高めます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:456
 msgid ""
@@ -503,7 +503,7 @@ msgstr "修復装甲"
 #: src-en/data/blueprints.xml.append:457
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:463
 msgid ""
@@ -514,55 +514,55 @@ msgstr "修復装甲 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/desc"
 msgstr ""
-"アブレーティブ装甲システムが存在する場合、ジャンプごとに船体を2ポイント修理します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"アブレイティブ・アーマーシステムが存在する場合、ジャンプごとに船体ポイントを2回復します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/title"
-msgstr "報復アダプター"
+msgstr "ヴェンジェンス・アダプター"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/title"
-msgstr "報復アダプター [X]"
+msgstr "ヴェンジェンス・アダプター [X]"
 
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/desc"
 msgstr ""
-"船体ダメージでトリガーされる効果が、装甲ダメージでもトリガーされるようになります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"船体ダメージで発動する効果を、装甲へのダメージでも発動するようにします。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:490
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/title"
-msgstr "要塞化"
+msgstr "フォートフィケーション"
 
 #: src-en/data/blueprints.xml.append:491
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/title"
-msgstr "要塞化 [X]"
+msgstr "フォートフィケーション [X]"
 
 #: src-en/data/blueprints.xml.append:498
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/desc"
 msgstr ""
-"アブレーティブ装甲室にいる味方クルーは全てのダメージを半減し、敵クルーによる妨害工作の速度が半分になります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"アブレイティブ・アーマーの部屋にいる味方クルーが受けるダメージが半分になり、敵クルーによるサボタージュ速度が半分になります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:507
 msgid ""
@@ -572,7 +572,7 @@ msgstr "エーテル注入装甲"
 #: src-en/data/blueprints.xml.append:508
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:514
 msgid ""
@@ -583,32 +583,32 @@ msgstr "エーテル注入装甲 [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/desc"
 msgstr ""
-"装甲と船体ダメージへの抵抗確率を10%増加させ、アブレーティブ装甲層が抵抗確率の恩恵を受けられるようにします。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"装甲および船体ダメージへの抵抗確率を10%高め、アブレイティブ・アーマー層に抵抗確率を適用可能にします。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/title"
-msgstr "二次イオンフィールド"
+msgstr "セカンダリ・イオンフィールド"
 
 #: src-en/data/blueprints.xml.append:543
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/title"
-msgstr "二次イオンフィールド [X]"
+msgstr "セカンダリ・イオンフィールド [X]"
 
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/desc"
 msgstr ""
-"イオンダメージから船を保護し、30%の確率で完全に無効化します。効果は重複します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"イオンダメージから船を保護し、30%の確率で完全に無効化します。スタック可能です。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:559
 msgid ""
@@ -618,7 +618,7 @@ msgstr "拡張フィールド"
 #: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:566
 msgid ""
@@ -629,177 +629,175 @@ msgstr "拡張フィールド [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/desc"
 msgstr ""
-"ショック中和装置が、対象に隣接する部屋にもボーナスの半分を提供します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ショック・ニュートライザーの効果が、対象の隣接する部屋にも半分適用されます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:576
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/title"
-msgstr "サージプロテクター"
+msgstr "サージ・プロテクター"
 
 #: src-en/data/blueprints.xml.append:577
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:583
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/title"
-msgstr "サージプロテクター [X]"
+msgstr "サージ・プロテクター [X]"
 
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/desc"
 msgstr ""
-"プラズマダメージから船を保護し、シールドヒット時のシステムダメージを100%、直撃時のシステムダメージを50%の確率で無効化します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"プラズマダメージから船を保護し、シールドへの命中時は100%、直接命中時は50%の確率でシステムダメージを無効化します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/title"
-msgstr "神経中和装置"
+msgstr "ニューラル・ニュートライザー"
 
 #: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:600
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/title"
-msgstr "神経中和装置 [X]"
+msgstr "ニューラル・ニュートライザー [X]"
 
 #: src-en/data/blueprints.xml.append:601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/desc"
 msgstr ""
-"ショック中和装置がクルーのスタン時間にも影響を与えるようになります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ショック・ニュートライザーがクルーのスタン時間にも影響を及ぼすようになります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:612
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/title"
-msgstr "過負荷注入剤"
+msgstr "過負荷インフュージョン"
 
 #: src-en/data/blueprints.xml.append:613
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:619
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/title"
-msgstr "混沌注入剤"
+msgstr "カオス・インフュージョン"
 
 #: src-en/data/blueprints.xml.append:620
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:626
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/title"
-msgstr "火炎注入剤"
+msgstr "ファイヤーボーン・インフュージョン"
 
 #: src-en/data/blueprints.xml.append:627
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:633
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/title"
-msgstr "爆発注入剤"
+msgstr "爆発インフュージョン"
 
 #: src-en/data/blueprints.xml.append:634
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:640
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/title"
-msgstr "フェニックス注入剤"
+msgstr "フェニックス・インフュージョン"
 
 #: src-en/data/blueprints.xml.append:641
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:648
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/title"
-msgstr "後遺症治療"
+msgstr "不調治療"
 
 #: src-en/data/blueprints.xml.append:649
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:655
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/title"
-msgstr "後遺症治療 [X]"
+msgstr "不調治療 [X]"
 
 #: src-en/data/blueprints.xml.append:656
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/desc"
 msgstr ""
-"注入ベイにいるクルーは、現在の電力に応じた速度で注入剤の後遺症から回復します。\n"
-"1電力：1.75倍の注入後遺症回復速度。\n"
-"2電力：2.5倍の注入後遺症回復速度。\n"
-"3電力：3.25倍の注入後遺症回復速度。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"インフュージョン・ベイのクルーが、システムの現在の電力レベルに応じて速くインフュージョン不調から回復します。\n"
+"1電力：1.75倍、2電力：2.5倍、3電力：3.25倍の回復速度になります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:670
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/title"
-msgstr "セーフヘイブンプロトコル"
+msgstr "セーフヘイブン・プロトコル"
 
 #: src-en/data/blueprints.xml.append:671
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:677
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/title"
-msgstr "セーフヘイブンプロトコル [X]"
+msgstr "セーフヘイブン・プロトコル [X]"
 
 #: src-en/data/blueprints.xml.append:678
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/desc"
 msgstr ""
-"注入ベイのクルーは窒息と火災に耐性を得て、追加で毎秒1HP回復します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"インフュージョン・ベイのクルーが窒息と火災に対して免疫を得て、毎秒1HP追加で回復します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/title"
-msgstr "熱運動エネルギー放出装置"
+msgstr "熱運動放電器"
 
 #: src-en/data/blueprints.xml.append:690
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:696
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/title"
-msgstr "熱運動エネルギー放出装置 [X]"
+msgstr "熱運動放電器 [X]"
 
 #: src-en/data/blueprints.xml.append:697
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/desc"
 msgstr ""
-"システムブレーサーはダメージを吸収した際、50%の確率で耐久度を失わず、代わりに火災を発生させます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"システム・ブレーサーがダメージを吸収した際、耐久値を失う代わりに50%の確率で火災が発生します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:707
 msgid ""
@@ -809,7 +807,7 @@ msgstr "生体金属ブレーサー"
 #: src-en/data/blueprints.xml.append:708
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:714
 msgid ""
@@ -820,124 +818,124 @@ msgstr "生体金属ブレーサー [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
 msgstr ""
-"形状を「記憶」できる特殊な金属で作られており、システムブレーサーはクルーがいなくてもゆっくりと自己修復します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"形状を「記憶」できる特殊な金属製で、システム・ブレーサーはクルーがいなくても徐々に自己修復します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/title"
-msgstr "統合フィールドジェネレーター"
+msgstr "完全性フィールド発生器"
 
 #: src-en/data/blueprints.xml.append:726
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/title"
-msgstr "統合フィールドジェネレーター [X]"
+msgstr "完全性フィールド発生器 [X]"
 
 #: src-en/data/blueprints.xml.append:733
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
 msgstr ""
-"システムブレーサーが、妨害工作や火災など、他の原因によるシステムダメージからも保護するようになります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"システム・ブレーサーが、サボタージュや火災などの他のダメージ源からもシステムを保護します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/title"
-msgstr "エーテル統合フィールド"
+msgstr "エーテル完全性フィールド"
 
 #: src-en/data/blueprints.xml.append:744
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:750
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/title"
-msgstr "エーテル統合フィールド [X]"
+msgstr "エーテル完全性フィールド [X]"
 
 #: src-en/data/blueprints.xml.append:751
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
 msgstr ""
-"システムブレーサーで保護されたシステムは、妨害工作の速度が半分になり、侵入者に毎秒2HPのダメージを与えます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"システム・ブレーサーに保護されたシステムへのサボタージュ速度が半分になり、侵入者に対して毎秒2HPのダメージを与えます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:762
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr "マッピングスイート"
+msgstr "マッピング・スイート"
 
 #: src-en/data/blueprints.xml.append:763
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:769
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr "マッピングスイート [X]"
+msgstr "マッピング・スイート [X]"
 
 #: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/desc"
 msgstr ""
-"セクター全体のビーコンに関する情報を収集できます。船を一定時間静止させる必要があります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"宙域全体のビーコン情報を収集可能になります。船を一定時間静止させる必要があります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:779
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/title"
-msgstr "セクタースキャナー"
+msgstr "セクター・スキャナー"
 
 #: src-en/data/blueprints.xml.append:780
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:786
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/title"
-msgstr "セクタースキャナー [X]"
+msgstr "セクター・スキャナー [X]"
 
 #: src-en/data/blueprints.xml.append:787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/desc"
 msgstr ""
-"航海中のセクターに関する詳細な情報を収集し、セクター間ジャンプを行う際に全てのセクターの正確な名前を明らかにします。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"旅の途中でセクターに関する詳細情報を収集し、セクター間ジャンプ時にすべての正確な名前を表示できるようになります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:796
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/title"
-msgstr "緊急テレポートリコール"
+msgstr "緊急テレポート帰還"
 
 #: src-en/data/blueprints.xml.append:797
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/title"
-msgstr "緊急テレポートリコール [X]"
+msgstr "緊急テレポート帰還 [X]"
 
 #: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/desc"
 msgstr ""
-"敵船が破壊されたりジャンプしたりした場合、自動的にクルーを自船にテレポートさせます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"敵船が破壊またはジャンプする際、クルーを自動的に自船へテレポートさせます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:813
 msgid ""
@@ -947,7 +945,7 @@ msgstr "バックアップ修理プロトコル"
 #: src-en/data/blueprints.xml.append:814
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:820
 msgid ""
@@ -958,32 +956,32 @@ msgstr "バックアップ修理プロトコル [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
 msgstr ""
-"クルーがいなくても、クローンベイシステムをゆっくりと修理します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"クルーがいなくてもクローンベイ・システムを徐々に修理します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:831
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr "フルスペクトラムアレイ"
+msgstr "フルスペクトラム・アレイ"
 
 #: src-en/data/blueprints.xml.append:832
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:838
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr "フルスペクトラムアレイ [X]"
+msgstr "フルスペクトラム・アレイ [X]"
 
 #: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/desc"
 msgstr ""
-"専用照準コアの命中率ボーナスを2倍にし、対象がクローク中はコアストレングスごとに通常速度の20%で武器をチャージできます。また、提供される視界を隣接する部屋に拡大します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"専用ターゲット・コアの命中精度ボーナスを2倍にし、ターゲットがクローキング中もコア強度あたり通常速度の20%で武器をチャージ可能にします。また、視界を隣接する部屋に拡大します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:848
 msgid ""
@@ -993,7 +991,7 @@ msgstr "先制ロックオン"
 #: src-en/data/blueprints.xml.append:849
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:855
 msgid ""
@@ -1004,55 +1002,55 @@ msgstr "先制ロックオン [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/desc"
 msgstr ""
-"敵船がクローキングシステムを持っている場合、戦闘開始時に自動的かつ即座にそれをロックオンします。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"敵船がクローキングシステムを搭載している場合、戦闘開始時に自動かつ瞬時にロックオンします。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:866
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/title"
-msgstr "強化兵器チューニング"
+msgstr "武器強化チューニング"
 
 #: src-en/data/blueprints.xml.append:867
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:873
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/title"
-msgstr "強化兵器チューニング [X]"
+msgstr "武器強化チューニング [X]"
 
 #: src-en/data/blueprints.xml.append:874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/desc"
 msgstr ""
-"武器に火災/亀裂/スタン発生率がある場合、その確率がコアストレングス * 5%増加します。（最も近い10%に切り上げ）\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"武器に火災/船体破壊/スタン確率がある場合、その確率をコア強度*5%増加させます。（最も近い10%に切り上げ）\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/title"
-msgstr "兵器チャージ最適化"
+msgstr "武器チャージ最適化"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:892
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/title"
-msgstr "兵器チャージ最適化 [X]"
+msgstr "武器チャージ最適化 [X]"
 
 #: src-en/data/blueprints.xml.append:893
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/desc"
 msgstr ""
-"専用照準コアが、コアストレングスごとに武器リロード速度を5%追加でブーストします。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"専用ターゲット・コアがコア強度あたり5%の武器リロードブーストを提供します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
@@ -1062,7 +1060,7 @@ msgstr "ナノ誘導システム"
 #: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:910
 msgid ""
@@ -1073,9 +1071,9 @@ msgstr "ナノ誘導システム [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/desc"
 msgstr ""
-"拡散する武器（フラックなど）は、コアストレングスごとに10ユニット分、目標により近い位置に着弾しようとします。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"拡散する武器（フラックなど）が、コア強度あたり10ユニット分ターゲットの近くに着弾するように誘導されます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
@@ -1085,7 +1083,7 @@ msgstr "弱点データアップリンク"
 #: src-en/data/blueprints.xml.append:921
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:927
 msgid ""
@@ -1096,407 +1094,429 @@ msgstr "弱点データアップリンク [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/desc"
 msgstr ""
-"ターゲットされた部屋にいる味方クルーは、コアストレングスごとに妨害工作ダメージが20%、戦闘ダメージが5%増加します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ロックされた部屋にいる味方クルーが、コア強度あたり20%の追加サボタージュダメージと5%の追加戦闘ダメージを与えます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr "プロセッサオーバークロック"
+msgstr "プロセッサー・オーバークロック"
 
 #: src-en/data/blueprints.xml.append:938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:944
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr "プロセッサオーバークロック [X]"
+msgstr "プロセッサー・オーバークロック [X]"
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/desc"
 msgstr ""
-"専用照準コアが部屋をロックオンするのにかかる時間を6秒から1.5秒に短縮します。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"専用ターゲット・コアが部屋をロックする時間を6秒から1.5秒に短縮します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr "マルチスレッド照準"
+msgstr "マルチスレッド・ターゲット"
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:961
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr "マルチスレッド照準 [X]"
+msgstr "マルチスレッド・ターゲット [X]"
 
 #: src-en/data/blueprints.xml.append:962
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/desc"
 msgstr ""
-"専用照準コアが、直接ターゲットされた部屋に隣接する部屋にも完全な効果を適用するようになります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"専用ターゲット・コアの効果が、直接狙った部屋に隣接する部屋にも完全に適用されます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:973
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/title"
-msgstr ""
+msgstr "冷却通信妨害機"
 
 #: src-en/data/blueprints.xml.append:974
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:980
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/title"
-msgstr ""
+msgstr "冷却通信妨害機 [X]"
 
 #: src-en/data/blueprints.xml.append:981
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/desc"
 msgstr ""
+"ECMスイートの攻撃・防御ドローン妨害アビリティが即座にクールダウンを完了します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:990
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/title"
-msgstr ""
+msgstr "ECMキャパシタバンク"
 
 #: src-en/data/blueprints.xml.append:991
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:997
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/title"
-msgstr ""
+msgstr "ECMキャパシタバンク [X]"
 
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
 msgstr ""
+"ECMスイートの最大チャージ数が+1され、最大8まで増加します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1007
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/title"
-msgstr ""
+msgstr "「ロイヤリスト」対ミサイル"
 
 #: src-en/data/blueprints.xml.append:1008
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1014
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/title"
-msgstr ""
+msgstr "「ロイヤリスト」対ミサイル [X]"
 
 #: src-en/data/blueprints.xml.append:1015
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/desc"
 msgstr ""
+"ECMスイートのミサイル妨害アビリティが、敵のミサイルを敵自身へ再ターゲットするようにします。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1024
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr ""
+msgstr "スーパーチャージ・プロトコル"
 
 #: src-en/data/blueprints.xml.append:1025
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr ""
+msgstr "スーパーチャージ・プロトコル [X]"
 
 #: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/desc"
 msgstr ""
+"ECMに一時的に再充填速度を2倍にするアビリティを追加しますが、アクティブ中は他のアビリティを使用できなくなります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "ASBスクランブラー"
 
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1048
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "ASBスクランブラー [X]"
 
 #: src-en/data/blueprints.xml.append:1049
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/desc"
 msgstr ""
+"ECMシステムが動作中、敵のASBが自船に命中するのを防ぎます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1058
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr ""
+msgstr "イオン・カウンターフィールド"
 
 #: src-en/data/blueprints.xml.append:1059
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1065
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr ""
+msgstr "イオン・カウンターフィールド [X]"
 
 #: src-en/data/blueprints.xml.append:1066
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/desc"
 msgstr ""
+"ECMシステムが動作中、敵のイオン耐性を50%低下させます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr ""
+msgstr "ジャミング・スクリーン"
 
 #: src-en/data/blueprints.xml.append:1076
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1082
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr ""
+msgstr "ジャミング・スクリーン [X]"
 
 #: src-en/data/blueprints.xml.append:1083
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/desc"
 msgstr ""
+"ECMシステムが動作中、敵の命中精度、リロード速度、シールド再充填速度をそれぞれ10%、15%、20%受動的に低下させます。ただし、チャージ速度が25%低下します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1092
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/title"
-msgstr ""
+msgstr "ミンコフスキー・テンソル・エフェクター"
 
 #: src-en/data/blueprints.xml.append:1093
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/desc"
 msgstr ""
+"ベースクラスターの外で設計された高度なECMモジュール。相対論的効果を用いてシステム妨害を増幅します。ECMシステムが動作中、ドローン妨害アビリティが常時有効になります。さらに敵ASBの命中を阻止し、敵のイオン耐性を50%、武器命中精度を15%低下させます。"
 
 #: src-en/data/blueprints.xml.append:1101
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "一時スクランブラー"
 
 #: src-en/data/blueprints.xml.append:1102
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/title"
-msgstr "ファイバー要塞化"
+msgstr "ファイバー・フォートフィケーション"
 
 #: src-en/data/blueprints.xml.append:1112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1120
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/title"
-msgstr "二重織り"
+msgstr "ダブル・ウィービング"
 
 #: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/title"
-msgstr "二重織り [X]"
+msgstr "ダブル・ウィービング [X]"
 
 #: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
 msgstr ""
-"ファイバーライナーの保護効果が2倍になりますが、クルーによる修理速度は半分になります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ファイバー・ライナーの保護能力が2倍になりますが、クルーによる修理速度が半分になります。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/title"
-msgstr "危険物防護層"
+msgstr "ハズマット・レイヤー"
 
 #: src-en/data/blueprints.xml.append:1138
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/title"
-msgstr "危険物防護層 [X]"
+msgstr "ハズマット・レイヤー [X]"
 
 #: src-en/data/blueprints.xml.append:1145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
 msgstr ""
-"ファイバーライナーが、船体に命中する射撃やビームの状態異常（火災、亀裂、スタン）発生率も減少させるようになります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ファイバー・ライナーが、船体に命中する投射物やビームによる状態異常（火災、船体破壊、スタン）の発生率を軽減します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/title"
-msgstr "動的優先度"
+msgstr "ダイナミック・プライオリティ"
 
 #: src-en/data/blueprints.xml.append:1155
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/title"
-msgstr "動的優先度 [X]"
+msgstr "ダイナミック・プライオリティ [X]"
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
 msgstr ""
-"ファイバーライナーが、味方クルーがいる部屋にのみ保護効果を適用し（したがってダメージを受ける）ようになります。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"ファイバー・ライナーの保護（およびダメージ）が、味方クルーがいる部屋にのみ適用されます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/title"
-msgstr "生体ファイバー"
+msgstr "リビング・ファイバー"
 
 #: src-en/data/blueprints.xml.append:1172
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/title"
-msgstr "生体ファイバー [X]"
+msgstr "リビング・ファイバー [X]"
 
 #: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
 msgstr ""
-"特殊な生体ファイバーライナー素材は、船の電力漏れを栄養源とし、クルーがいなくても自然に自己再生することができます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"船内の電力漏れをエネルギー源とする特殊なリビングファイバー素材で、クルーがいなくても自然に自己再生します。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1189
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/title"
-msgstr "エーテルファイバー衣類"
+msgstr "エーテル・ファイバー服"
 
 #: src-en/data/blueprints.xml.append:1190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/title"
-msgstr "エーテルファイバー衣類 [X]"
+msgstr "エーテル・ファイバー服 [X]"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
 msgstr ""
-"エーテルを注入された生体ファイバーで作られた特殊な衣類。クルーに全てのダメージ源からの20%のダメージ軽減と、毎秒2HPの継続的な再生を提供します。ボーナスパワーを提供するクルーは、さらにダメージと修理が+30%されます。\n"
-"    \n"
-"\t\t[X] - 外部システムアップグレードとして、この増強パーツは通常の効果を提供しますが、増強スロットを1つ占有します。船内技術カテゴリの内部アップグレードメニューで、無料で内部バージョンに変換できます。"
+"エーテルを注入したリビングファイバー製の特殊な衣服です。全ダメージを20%軽減し、毎秒2HPの再生能力をクルーに付与します。電力を供給しているクルーは、追加でダメージと修理速度が+30%されます。\n"
+"\n"
+"[X] - 外部システムアップグレードとして、このオーグメントは通常の効果を発揮しますが、オーグメントスロットを1つ占有します。船内テクノロジーの内部アップグレードメニューから、無料で内部バージョンに変換可能です。"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/title"
-msgstr "アブレーティブ装甲グラント"
+msgstr "アブレイティブ・アーマー付与"
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/title"
-msgstr "アブレーティブ装甲グラント"
+msgstr "アブレイティブ・アーマー付与"
 
 #: src-en/data/blueprints.xml.append:1278
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/title"
-msgstr "専用照準コアグラント"
+msgstr "専用ターゲット・コア付与"
 
 #: src-en/data/blueprints.xml.append:1286
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1293
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/title"
-msgstr "注入ベイグラント"
+msgstr "インフュージョン・ベイ付与"
 
 #: src-en/data/blueprints.xml.append:1294
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1301
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/title"
-msgstr ""
+msgstr "ECMスイート付与"
 
 #: src-en/data/blueprints.xml.append:1302
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1309
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/title"
-msgstr "システムブレーサーグラント"
+msgstr "システム・ブレーサー付与"
 
 #: src-en/data/blueprints.xml.append:1310
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"
 
 #: src-en/data/blueprints.xml.append:1317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/title"
-msgstr "ファイバーライナーグラント"
+msgstr "ファイバー・ライナー付与"
 
 #: src-en/data/blueprints.xml.append:1318
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/desc"
-msgstr "これは表示されるべきではありません"
+msgstr "本来見ることのないテキストです"

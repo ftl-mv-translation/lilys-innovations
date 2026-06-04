@@ -9,24 +9,24 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[1]/text"
-msgstr "（注入ベイ）注入剤をいくつか渡す。"
+msgstr "（インフュージョン・ベイ）インフュージョンを与える。"
 
 #: src-en/data/events_sector_harmony.xml.append:11
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"あなたは注入ベイで作った刺激的な注入剤を、エンギとそのスラグの仲間たちに分け与える。パーティーの参加者たちはたちまち元気になり、興奮し始めた。目に見えて震えているエンギは、あなたに代金を支払うと、部屋中を跳ね回っているように見えるスラグの仲間たちに加わるために急いで去っていった。"
+"インフュージョン・ベイで作った刺激的なインフュージョンを、エンジとその仲間のスラッグに分け与えます。すぐにパーティー参加者たちはエネルギーに満ち、興奮し始めました。エンジは目に見えて震えながら対価を支払い、部屋中で飛び跳ねているスラッグの仲間たちのもとへ駆け寄っていきました。"
 
 #: src-en/data/events_sector_harmony.xml.append:16
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[2]/text"
-msgstr "（粒子分散）興奮剤をいくつか分け与える。"
+msgstr "（粒子散布）刺激剤を共有する。"
 
 #: src-en/data/events_sector_harmony.xml.append:18
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"興奮剤の粒子分散は申し分なく機能する――そしてあなたはその物質をエンギとそのスラグの仲間たちに分け与える。パーティーの参加者たちはたちまち元気になり、興奮し始めた。目に見えて震えているエンギは、あなたに代金を支払うと、部屋中を跳ね回っているように見えるスラグの仲間たちに加わるために急いで去っていった。"
+"刺激剤の粒子散布は完璧に機能し、エンジとスラッグの仲間にいくつか分け与えました。すぐにパーティー参加者たちはエネルギーに満ち、興奮し始めました。エンジは目に見えて震えながら対価を支払い、部屋中で飛び跳ねているスラッグの仲間たちのもとへ駆け寄っていきました。"

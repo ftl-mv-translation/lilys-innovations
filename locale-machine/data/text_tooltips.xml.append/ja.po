@@ -9,72 +9,75 @@ msgstr ""
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor\"]"
 msgstr ""
+"焼灼装甲: 船体、システム、クルーをダメージから保護する装甲層を提供します。損傷した装甲層は、システムやクルーへのダメージを吸収する確率を低下させます。"
 
 #: src-en/data/text_tooltips.xml.append:3
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_enemy\"]"
 msgstr ""
+"焼灼装甲: 船体、システム、クルーをダメージから保護する装甲層を提供します。損傷した装甲層は、システムやクルーへのダメージを吸収する確率を低下させます。"
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer\"]"
-msgstr ""
-"ショック中和装置：影響を受ける部屋のイオン放散率を増加させ、イオンストーム中にはボーナスパワーを提供します。影響を受ける部屋は緑青色の枠で表示されます。"
+msgstr "ショック中和器: 対象の部屋のイオン消散率を増加させ、イオ嵐の際にボーナスパワーを提供します。対象の部屋には緑青色の枠線が表示されます。"
 
 #: src-en/data/text_tooltips.xml.append:5
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_enemy\"]"
-msgstr ""
-"ショック中和装置：影響を受ける部屋のイオン放散率を増加させ、イオンストーム中にはボーナスパワーを提供します。影響を受ける部屋は緑青色の枠で表示されます。"
+msgstr "ショック中和器: 対象の部屋のイオン消散率を増加させ、イオ嵐の際にボーナスパワーを提供します。対象の部屋には緑青色の枠線が表示されます。"
 
 #: src-en/data/text_tooltips.xml.append:6
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay\"]"
-msgstr "注入ベイ：時間経過で注入剤を生成し、クルーがそれを拾って様々なバフに使用できます。"
+msgstr "インフュージョン・ベイ: 時間経過でインフュージョンを生成します。クルーはこれを拾い、様々なバフとして使用できます。"
 
 #: src-en/data/text_tooltips.xml.append:7
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_enemy\"]"
-msgstr "注入ベイ：時間経過で注入剤を生成し、クルーがそれを拾って様々なバフに使用できます。"
+msgstr "インフュージョン・ベイ: 時間経過でインフュージョンを生成します。クルーはこれを拾い、様々なバフとして使用できます。"
 
 #: src-en/data/text_tooltips.xml.append:8
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers\"]"
-msgstr "システムブレーサー：システムの損傷を代わりに受けることで保護します。通常の半分の速度で修理されます。"
+msgstr "システムブレース: システムの代わりにダメージを受けることでシステムを保護します。通常の半分の速度で修理されます。"
 
 #: src-en/data/text_tooltips.xml.append:9
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_system_bracers_enemy\"]"
-msgstr "システムブレーサー：敵のシステムの損傷を代わりに受けることで保護します。通常の半分の速度で修理されます。"
+msgstr "システムブレース: 敵システムの代わりにダメージを受けることで敵システムを保護します。通常の半分の速度で修理されます。"
 
 #: src-en/data/text_tooltips.xml.append:10
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner\"]"
 msgstr ""
-"ファイバーライナー：船体に命中する射撃によるクルーへのダメージを軽減することで保護します。吸収したクルーダメージに基づいてダメージを受けます。"
+"ファイバーライナー: 船体に命中する投射物によるクルーへのダメージを軽減し、クルーを保護します。吸収したクルーダメージ量に応じてダメージを受けます。"
 
 #: src-en/data/text_tooltips.xml.append:11
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_enemy\"]"
 msgstr ""
-"ファイバーライナー：敵船の船体に命中する射撃によるクルーへのダメージを軽減することで保護します。吸収したクルーダメージに基づいてダメージを受けます。"
+"ファイバーライナー: "
+"敵船体に命中する投射物による敵クルーへのダメージを軽減し、敵クルーを保護します。吸収したクルーダメージ量に応じてダメージを受けます。"
 
 #: src-en/data/text_tooltips.xml.append:12
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core\"]"
-msgstr "専用照準コア：敵船の部屋をマークします。マークされた部屋は狙われやすくなり、そこを狙う射撃には命中率ボーナスがつきます。"
+msgstr ""
+"専用ターゲティングコア: 敵艦内の部屋をマークします。マークされた部屋はターゲットされやすくなり、そこへ向けられた投射物は命中率ボーナスを得ます。"
 
 #: src-en/data/text_tooltips.xml.append:13
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_enemy\"]"
-msgstr "専用照準コア：自船の部屋をマークします。マークされた部屋は狙われやすくなり、そこを狙う射撃には命中率ボーナスがつきます。"
+msgstr ""
+"専用ターゲティングコア: 自艦内の部屋をマークします。マークされた部屋はターゲットされやすくなり、そこへ向けられた投射物は命中率ボーナスを得ます。"
 
 #: src-en/data/text_tooltips.xml.append:14
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite\"]"
-msgstr ""
+msgstr "ECMスイート: 敵ドローン、ミサイル、システムに影響を与える妨害信号を投影します。"
 
 #: src-en/data/text_tooltips.xml.append:15
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_enemy\"]"
-msgstr ""
+msgstr "ECMスイート: 自艦のドローン、ミサイル、システムに影響を与える妨害信号を投影します。"
 
 #: src-en/data/text_tooltips.xml.append:17
 msgid ""
@@ -84,7 +87,7 @@ msgstr "無効。"
 #: src-en/data/text_tooltips.xml.append:19
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_fiber_liner_level\"]"
-msgstr "保護： %s ダメージ"
+msgstr "保護: %s ダメージ"
 
 #: src-en/data/text_tooltips.xml.append:21
 msgid ""
@@ -94,27 +97,27 @@ msgstr "HP: %s"
 #: src-en/data/text_tooltips.xml.append:23
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_disabled\"]"
-msgstr "無効。注入剤は使用できません。"
+msgstr "無効。インフュージョンは起動できません。"
 
 #: src-en/data/text_tooltips.xml.append:24
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_level\"]"
-msgstr "最大チャージ %s、チャージあたり %ss"
+msgstr "最大チャージ数 %s、チャージ毎 %ss"
 
 #: src-en/data/text_tooltips.xml.append:26
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_level\"]"
-msgstr "コアストレングス: %s"
+msgstr "コア強度: %s"
 
 #: src-en/data/text_tooltips.xml.append:27
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_manning\"]"
-msgstr "クルー配置ボーナス：+0.5/0.75/1 コアストレングス。"
+msgstr "要員ボーナス: +0.5/0.75/1 コア強度。"
 
 #: src-en/data/text_tooltips.xml.append:29
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_level\"]"
-msgstr "レート： %sx / ボーナスパワー： %s"
+msgstr "レート: %sx / ボーナスパワー: %s"
 
 #: src-en/data/text_tooltips.xml.append:31
 msgid ""
@@ -129,218 +132,240 @@ msgstr "HP: %s /再生: %sx"
 #: src-en/data/text_tooltips.xml.append:33
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2\"]"
-msgstr "HP: %s/ 再生: %sx"
+msgstr "HP: %s /再生: %sx"
 
 #: src-en/data/text_tooltips.xml.append:34
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level_ion\"]"
-msgstr "HP: %s/再生: %sx/イオン耐性: %s"
+msgstr "HP: %s /再生: %sx /イオン耐性: %s"
 
 #: src-en/data/text_tooltips.xml.append:35
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_level2_ion\"]"
-msgstr "HP: %s / 再生: %sx / イオン耐性: %s"
+msgstr "HP: %s /再生: %sx /イオン耐性: %s"
 
 #: src-en/data/text_tooltips.xml.append:36
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ablative_armor_manning\"]"
-msgstr "クルー配置ボーナス：再生速度20/40/60%上昇。"
+msgstr "要員ボーナス: 20/40/60% 高速再生。"
 
 #: src-en/data/text_tooltips.xml.append:38
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_disabled\"]"
-msgstr ""
+msgstr "無効: アクティブおよびパッシブ効果は無効化されており、蓄積されたチャージを急速に失っています。"
 
 #: src-en/data/text_tooltips.xml.append:39
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_level\"]"
-msgstr "最大チャージ %s、チャージあたり %ss"
+msgstr "最大チャージ数 %s、チャージ毎 %ss"
 
 #: src-en/data/text_tooltips.xml.append:43
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_locked\"]"
-msgstr "この注入剤は現在ロックされています。"
+msgstr "このインフュージョンは現在ロックされています。"
 
 #: src-en/data/text_tooltips.xml.append:44
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_reconstitution\"]"
-msgstr "運んでいる再構成注入剤を起動する。効果："
+msgstr "所持している再構成インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:45
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_combatstimulant\"]"
-msgstr "運んでいる戦闘興奮剤を起動する。効果："
+msgstr "所持している戦闘刺激インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:46
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_gaseous\"]"
-msgstr "運んでいる気体注入剤を起動する。効果："
+msgstr "所持しているガス状インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:47
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_overloaded\"]"
-msgstr "運んでいる過負荷注入剤を起動する。効果："
+msgstr "所持しているオーバーロード・インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:48
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_chaotic\"]"
-msgstr "運んでいる混沌注入剤を起動する。効果："
+msgstr "所持しているカオス・インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:49
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_fireborne\"]"
-msgstr "運んでいる火炎注入剤を起動する。効果："
+msgstr "所持しているファイアボーン・インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:50
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_explosive\"]"
-msgstr "運んでいる爆発注入剤を起動する。効果："
+msgstr "所持している爆発インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:51
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_activate_phoenix\"]"
-msgstr "運んでいるフェニックス注入剤を起動する。効果："
+msgstr "所持しているフェニックス・インフュージョンを起動します。効果:"
 
 #: src-en/data/text_tooltips.xml.append:52
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_reconstitution\"]"
-msgstr "効果時間中、被戦闘ダメージ0.85倍、毎秒1.5HPの体力再生、移動速度0.5倍を付与。45 HP/% 回復、14秒の後遺症。"
+msgstr "効果時間中、0.85倍の戦闘ダメージ耐性、1.5HP/sの体力再生、0.5倍の移動速度を付与します。45 HP/% 回復、14秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:53
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_combatstimulant\"]"
 msgstr ""
-"戦闘ダメージ、ドアダメージ、移動速度を1.5倍にするが、効果時間中に減少する（5秒後1.25倍、10秒後1.1倍）。15 HP/% "
-"回復、21秒の後遺症。"
+"1.5倍の戦闘ダメージ、ドアダメージ、移動速度を付与します。効果時間中に徐々に減衰します（5秒後に1.25倍、10秒後に1.1倍）。15 HP/% "
+"回復、21秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:54
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_gaseous\"]"
-msgstr "窒息/火災/精神支配への耐性、同船内テレポートを付与するが、戦闘ダメージは0.5倍に減少する。30 HP/% 回復、7秒の後遺症。"
+msgstr ""
+"窒息/火災/マインドコントロール免疫、同艦内テレポートを付与しますが、戦闘ダメージは0.5倍に減少します。30 HP/% 回復、7秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:55
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_overloaded\"]"
 msgstr ""
-"自身と近くの全てのクルーを5秒間スタンさせ、システムに2イオンダメージを与えます。自船のシステムは代わりに1イオンが除去されます。30 HP/% "
-"回復、21秒の後遺症。"
+"自分自身と近くの全クルーを5秒間スタンさせ、システムに2イオンダメージを与えます。自艦のシステムからは逆にイオンが1取り除かれます。30 HP/% "
+"回復、21秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:56
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_chaotic\"]"
-msgstr "他の注入剤の効果をランダムに適用します。クルーに悪影響がないことを願います。15 - 75 HP/% 回復、7秒の後遺症。"
+msgstr "ランダムに別のインフュージョンの効果を適用します。クルーに悪影響がないことを祈りましょう。15 - 75 HP/% 回復、7秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:57
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_fireborne\"]"
 msgstr ""
-"現在の部屋で火災を発生させます。効果時間中、火災から回復する能力を得ますが、通常は耐性があっても急速に窒息します。15 HP/% 回復、21秒の後遺症。"
+"現在の部屋で火災を発生させます。効果中は火災から回復する能力を得ますが、通常は免疫を持つクルーであっても急速に窒息します。15 HP/% "
+"回復、21秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:58
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_explosive\"]"
 msgstr ""
-"爆発し、部屋にいる全ての敵に15HPのダメージを与えます。敵船のシステムは1ダメージを受け、自船のシステムは代わりに1バー修理されます。15 HP/% "
-"回復、14秒の後遺症。"
+"爆発し、部屋内の全敵に15HPのダメージを与えます。敵艦のシステムは1ダメージを受け、自艦のシステムは1バー修理されます。15 HP/% "
+"回復、14秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:59
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_infusion_bay_effect_phoenix\"]"
 msgstr ""
-"効果時間中、クルーは死にません。通常なら死亡するダメージを受けると、代わりに全快し、注入ベイにテレポートします。この効果が発動すると、同じ部屋にいる味方が30"
-" HP/%回復し、注入ベイは2倍のロックアウト時間を持つ抵抗不能な1イオンダメージを受けます。敵船が爆発してもボーダーは助かりません。15 HP/% "
-"回復、14秒の後遺症。"
+"効果中、クルーは死亡しません。致死ダメージを受けた場合、代わりに全回復し、インフュージョン・ベイへテレポートします。この効果が発動すると、同室の味方は30"
+" "
+"HP/%回復しますが、インフュージョン・ベイは耐性無視の1イオンダメージを受け、ロックアウト期間が倍になります。敵艦が爆発した場合、ボーダー（乗り込み隊員）を救うことはできません。15"
+" HP/% 回復、14秒間の病気。"
 
 #: src-en/data/text_tooltips.xml.append:61
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_shock_neutralizer_button\"]"
 msgstr ""
-"ショック中和装置の対象部屋を選択してください。\n"
+"ショック中和器の対象部屋を選択してください。\n"
 "ホットキー: %s"
 
 #: src-en/data/text_tooltips.xml.append:63
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button\"]"
 msgstr ""
-"照準コアでロックオンする部屋を選択してください。\n"
+"ターゲティングコアがロックオンする部屋を選択してください。\n"
 "ホットキー: %s"
 
 #: src-en/data/text_tooltips.xml.append:64
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_notready\"]"
-msgstr "システム準備未完了。"
+msgstr "システム準備完了していません。"
 
 #: src-en/data/text_tooltips.xml.append:65
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_targeting_core_button_noship\"]"
-msgstr "ターゲットする敵船が存在しません。"
+msgstr "ターゲット可能な敵艦がいません。"
 
 #: src-en/data/text_tooltips.xml.append:67
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge_locked\"]"
-msgstr ""
+msgstr "ロック済み。"
 
 #: src-en/data/text_tooltips.xml.append:68
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_supercharge\"]"
 msgstr ""
+"クリックしてスーパーチャージモードを有効化します。このモード中は全システムのアクティブ能力が無効化され起動できませんが、システムのチャージ速度が2倍になります。\n"
+"10秒間の持続時間、20秒間のクールダウン。最大チャージに達すると自動的に無効化されます。"
 
 #: src-en/data/text_tooltips.xml.append:70
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_offdrones\"]"
 msgstr ""
+"クリックして攻撃ドローン妨害を有効化します。\n"
+"アクティブ中は敵の攻撃ドローンが自艦をターゲットできなくなり、ボーディングドローンは攻撃や移動ができなくなります。10秒間の持続時間、5秒間のクールダウン。2チャージを消費します。"
 
 #: src-en/data/text_tooltips.xml.append:71
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_defdrones\"]"
 msgstr ""
+"クリックして防御ドローン妨害を有効化します。\n"
+"アクティブ中は敵の防御ドローンが何もターゲットできなくなります。\n"
+"10秒間の持続時間、5秒間のクールダウン。3チャージを消費します。"
 
 #: src-en/data/text_tooltips.xml.append:72
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_missiles\"]"
 msgstr ""
+"クリックしてミサイル妨害を有効化します。\n"
+"アクティブ中は自艦に発射された敵ミサイルが外れるか、飛行中に爆発します。5秒間の持続時間、10秒間のクールダウン。2チャージを消費します。"
 
 #: src-en/data/text_tooltips.xml.append:73
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_counter\"]"
 msgstr ""
+"クリックしてECCMモードを有効化します。\n"
+"アクティブ中は敵のECM能力を自動的にカウンターし、敵が消費したのと同じ量のチャージを消費します。チャージが不足している場合は効果がありません。また、敵のマインドコントロールやハッキングもカウンターし、それぞれ2および3チャージを消費します。20秒間の持続時間、10秒間のクールダウン。1チャージを消費します。"
 
 #: src-en/data/text_tooltips.xml.append:74
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_jammer\"]"
 msgstr ""
+"クリックしてシステム信号妨害の対象部屋を選択します。アクティブ中は対象の敵システムが妨害され、効率が低下するか、消費したチャージの半分に等しいバー数に制限されます。\n"
+"生命維持装置やレベル3（以上）のシステムを0バーに制限することはできません。\n"
+"10秒間の持続時間、15秒間のクールダウン。2/4/6/8チャージを必要とします（変動）。"
 
 #: src-en/data/text_tooltips.xml.append:75
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_button_electro\"]"
 msgstr ""
+"クリックしてシステムEM妨害の対象部屋を選択します。アクティブ中は対象の敵システムがイオン（クールダウンを含む）を50%遅く消散させます（イオンダメージ1あたり10秒）。\n"
+"20秒間の持続時間、10秒間のクールダウン。4チャージを消費します。"
 
 #: src-en/data/text_tooltips.xml.append:77
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_shields\"]"
-msgstr ""
+msgstr "シールド妨害: 2チャージ消費するごとに、敵シールド再チャージ速度を0.7倍に減少させます。乗算でスタックします。"
 
 #: src-en/data/text_tooltips.xml.append:78
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_weapons\"]"
 msgstr ""
+"武器妨害: 2チャージ消費するごとに、敵武器再チャージ速度を0.75倍に減少させます。乗算でスタックします。また、チャージ1消費するごとに命中率に "
+"-2.5% の加算ペナルティを与えます。"
 
 #: src-en/data/text_tooltips.xml.append:79
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_artillery\"]"
-msgstr ""
+msgstr "砲撃ジャミング：消費したチャージ量に応じて一時的にシステムを制限する。また、消費チャージごとに精度に-5%の加算ペナルティを与える。"
 
 #: src-en/data/text_tooltips.xml.append:80
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_drones\"]"
 msgstr ""
+"ドローンジャミング：消費したチャージ量に応じて一時的にシステムを制限する。また、消費チャージごとにドローンの精度に-5%の加算ペナルティを与える。"
 
 #: src-en/data/text_tooltips.xml.append:81
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_oxygen\"]"
-msgstr ""
+msgstr "酸素ジャミング：消費したチャージ量の半分だけ、一時的にシステムを制限する。1バー未満には制限できない。"
 
 #: src-en/data/text_tooltips.xml.append:82
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_lily_ecm_suite_jammer_misc\"]"
-msgstr ""
+msgstr "ジャミング：消費したチャージ量の半分だけ、一時的にシステムを制限する。システムレベルが3以上の場合、1バー未満に制限することはできない。"

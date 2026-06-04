@@ -9,130 +9,141 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr "アブレーティブ装甲システムを提示する。"
+msgstr "アブレイティブ・アーマーシステムを提示。"
 
 #: src-en/data/events_special_multiverse.xml.append:7
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"「アブレーティブ装甲――防、防御的な、て、手順を保証する！君が操縦するのは、よ、よく保護された船だ！よく保護された船だ！よく保護された船には、アブ、アブ、アブレーションのグラントを！アブレーションのグラントだ！未来のために、とっておけ！」"
+"「アブレイティブ・アーマー - 防御の手-手-"
+"手順を確実にする！お前は操縦している：非常によく保護された船を！よく保護された船を！このよく保護された船のために：アブ-アブ-"
+"アブレーションの付与を提供しよう！アブレーションの付与だ！未来のために-とっておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:12
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_multiverse.xml.append:18
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr "専用照準コアシステムを提示する。"
+msgstr "専用ターゲット・コアシステムを提示。"
 
 #: src-en/data/events_special_multiverse.xml.append:20
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"「専用照準コア――せ、専門の、しゃ、射手のため！もうどんな敵も君を、かわせない！専門の射手には、しょ、照準のグラントを！照準のグラントだ！未来のために、とっておけ！」"
+"「専用ターゲット・コア - 専-専-献身的な射手のためのものだ！もはや敵は：お前を回避できない！その専心的な射手のために：タ-タ-"
+"ターゲットの付与を提供しよう！ターゲットの付与だ！未来のために-とっておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_multiverse.xml.append:31
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "ECMスイートシステムを提示。"
 
 #: src-en/data/events_special_multiverse.xml.append:33
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"「ECMスイート - とても多-多-多機能で革新的！敵の[ドローン]：もはや脅威ではない！効果的な対-対-"
+"対策のために：ECMの付与を提供しよう！ECMの付与だ！未来のために-とっておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:38
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_multiverse.xml.append:44
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr "注入ベイシステムを提示する。"
+msgstr "インフュージョン・ベイシステムを提示。"
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
-"「注入ベイ――リスクと、報酬！リ、リ、リスク、り、り、報酬...どちらが重い？君は、ここにいる...船長は、可能性を、考慮している！重い考慮と、より重い、ぽ、ポテンシャルのために、ちゅ、注入のグラントを！注入のグラントだ！未来のために、とっておけ！」"
+"「インフュージョン・ベイ - リスクと報酬！リ-リ-リスク、リ-リ-リ-報酬…どちらが重い？お前は：ここにいる…艦長：可能性を-考慮する-"
+"者だ！その深い考慮、そしてさらなる重いポ-ポ-ポテンシャルのために：イ-イ-インフュージョンの付与を提供しよう！インフュージョンの付与だ！未来のために-"
+"とっておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:51
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_multiverse.xml.append:57
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr "ショック中和装置サブシステムを提示する。"
+msgstr "ショック・ニュートライザーサブシステムを提示。"
 
 #: src-en/data/events_special_multiverse.xml.append:59
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
-"「ショック中和装置――イオンに対する、ぼ、防御のため！イオン！他の技術を助けるための、技術だ！技術！！！そのために、私は誇りを持って、中和のグラントを！中和のグラントだ！未来のために、とっておけ！」"
+"「ショック・ニュートライザー - イオンへの防-防-"
+"防御！イオンだ！他の技術を[助ける]ための技術！技術だ！！そのために：私は[誇りを持って]中和の付与を提供しよう！中和の付与だ！未来のために-"
+"とっておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:64
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr "システムブレーサーサブシステムを提示する。"
+msgstr "システム・ブレーサーサブシステムを提示。"
 
 #: src-en/data/events_special_multiverse.xml.append:72
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/text"
 msgstr ""
-"「システムブレーサー――システムダメージに対する、ぼ、防御のため！君が操縦するのは、し、信頼できる船だ！信頼できる船だ！信頼できる船には、ブ、ブ、ブレーシングのグラントを！ブレーシングのグラントだ！未来のために、とっておけ！」"
+"「システム・ブレーサー - システムダメージからの防-防-防御！お前は操縦している：信頼できる船を！信頼できる船だ！その信頼できる船のために：ブ-ブ-"
+"ブレーシングの付与を提供しよう！ブレーシングの付与だ！未来のために-とっておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:77
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
 
 #: src-en/data/events_special_multiverse.xml.append:83
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/text"
-msgstr "ファイバーライナーサブシステムを提示する。"
+msgstr "ファイバー・ライナーサブシステムを提示。"
 
 #: src-en/data/events_special_multiverse.xml.append:85
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/text"
 msgstr ""
-"「ファイバーライナー――クルーを、き、危害から守るため！君は、じ、慈悲深い船長だ！その優しさのために、ふ、ファイバーのグラントを！ファイバーのグラントだ！未来のために、とっておけ！」"
+"「ファイバー・ライナー - クルーを危害から防-防-守るためのもの！お前は：慈-慈-"
+"慈悲深い艦長だ！その優しさのために：ファイバーの付与を提供しよう！ファイバーの付与だ！未来のために-とっておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:90
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/choice/text"
-msgstr "続ける..."
+msgstr "次へ…"
