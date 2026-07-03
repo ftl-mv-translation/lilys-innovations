@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-06 13:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-07-04 05:36+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -109,12 +109,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
-msgstr ""
+msgstr "Укрепление наручей"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:143
 msgid ""
@@ -135,12 +135,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/title"
-msgstr ""
+msgstr "Умное развертывание абордажа"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/desc"
-msgstr ""
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
