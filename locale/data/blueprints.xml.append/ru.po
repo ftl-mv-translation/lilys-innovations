@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-07-04 05:36+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
-msgstr "Расширенная вентиляция [В]"
+msgstr "Продвинутая вентиляция [В]"
 
 #: src-en/data/blueprints.xml.append:172
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
@@ -177,7 +177,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
-msgstr ""
+msgstr "Продв. вентиляция"
 
 #: src-en/data/blueprints.xml.append:183
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/desc"
@@ -186,7 +186,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
-msgstr ""
+msgstr "Рассеивание частиц"
 
 #: src-en/data/blueprints.xml.append:191
 msgid ""
@@ -196,7 +196,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:198
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/title"
-msgstr ""
+msgstr "Заводская смазка"
 
 #: src-en/data/blueprints.xml.append:199
 msgid ""
@@ -206,7 +206,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:206
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
-msgstr ""
+msgstr "Метал и порох"
 
 #: src-en/data/blueprints.xml.append:207
 msgid ""
@@ -216,7 +216,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
-msgstr ""
+msgstr "Арктический ветер"
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
@@ -226,7 +226,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/title"
-msgstr ""
+msgstr "Ляпис-лазурь"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
@@ -236,7 +236,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
-msgstr ""
+msgstr "9-вольтовая батарея"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -246,7 +246,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:238
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/title"
-msgstr ""
+msgstr "Альфа-метилфенил."
 
 #: src-en/data/blueprints.xml.append:239
 msgid ""
@@ -256,7 +256,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
-msgstr ""
+msgstr "Укрепление дверей"
 
 #: src-en/data/blueprints.xml.append:248
 msgid ""
@@ -282,7 +282,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/title"
-msgstr ""
+msgstr "Резервный кислород"
 
 #: src-en/data/blueprints.xml.append:265
 msgid ""
@@ -308,7 +308,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:281
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/title"
-msgstr ""
+msgstr "Дверная отказоуст."
 
 #: src-en/data/blueprints.xml.append:282
 msgid ""
@@ -334,7 +334,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr ""
+msgstr "Выброс-перегрузка бат."
 
 #: src-en/data/blueprints.xml.append:299
 msgid ""
@@ -427,7 +427,6 @@ msgid ""
 msgstr "И.Н.С. (Руль) [В]"
 
 #: src-en/data/blueprints.xml.append:360
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/desc"
 msgstr ""
@@ -454,7 +453,6 @@ msgid ""
 msgstr "И.Н.С. (Сенсоры) [В]"
 
 #: src-en/data/blueprints.xml.append:377
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/desc"
 msgstr ""
@@ -481,7 +479,6 @@ msgid ""
 msgstr "И.Н.С. (Двери) [В]"
 
 #: src-en/data/blueprints.xml.append:394
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/desc"
 msgstr ""
@@ -925,7 +922,6 @@ msgid ""
 msgstr "Наручи из живого металла [В]"
 
 #: src-en/data/blueprints.xml.append:715
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
 msgstr ""
@@ -1081,7 +1077,6 @@ msgid ""
 msgstr "Резервные протоколы ремонта [В]"
 
 #: src-en/data/blueprints.xml.append:821
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
 msgstr ""
