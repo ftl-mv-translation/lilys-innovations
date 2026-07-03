@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-08 19:47+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-07-04 05:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -128,12 +128,11 @@ msgid ""
 msgstr "Резервные протоколы ремонта. [Цена: 20~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:106
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_LILY_CLONEBAY_REGEN\"]/text"
 msgstr ""
 "Вы собираетесь установить Резервные протоколы ремонта.\n"
-"\t[Эффекты: Медленно ремонтирует ваш Клон-отсек даже при отсутствии экипажа.]"
+"\t[Эффекты: Медленно ремонтирует ваш Клон-отсек даже при отсутствии экипажа]"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
@@ -256,7 +255,6 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:216
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_PILOT_LILY_INN_PILOT\"]/text"
 msgstr ""
@@ -456,7 +454,6 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:386
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_SENSORS_LILY_INN_SENSORS\"]/text"
 msgstr ""
@@ -752,7 +749,6 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:641
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DOORS_LILY_INN_DOORS\"]/text"
 msgstr ""
@@ -1611,13 +1607,12 @@ msgstr ""
 "отсека."
 
 #: src-en/data/events_special_storage.xml.append:1410
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/text"
 msgstr ""
 "Здесь вы можете выбрать, какой тип инфузии использовать для 4-го слота "
-"инфузионного отсека. "
-"(Сначала необходимо установить соответствующее внутреннее улучшение)"
+"инфузионного отсека. (Сначала необходимо установить соответствующее "
+"внутреннее улучшение)"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
@@ -2179,31 +2174,31 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[1]/text"
-msgstr "Расширенная вентиляция. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
+msgstr "Продвинутая вентиляция. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
 
 #: src-en/data/events_special_storage.xml.append:1891
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[2]/text"
-msgstr "Расширенная вентиляция ур. 4. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 4. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1895
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[3]/text"
-msgstr "Расширенная вентиляция ур. 3. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 3. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[4]/text"
-msgstr "Расширенная вентиляция ур. 2. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 2. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1903
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice[5]/text"
-msgstr "Расширенная вентиляция ур. 1. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 1. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1908
 msgid ""
@@ -2274,31 +2269,31 @@ msgstr "Какое улучшение вы хотите установить?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"4\"]/text"
-msgstr "Расширенная вентиляция. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
+msgstr "Продвинутая вентиляция. [МАКС. УР. УЖЕ УСТАНОВЛЕН]"
 
 #: src-en/data/events_special_storage.xml.append:1961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"3\"]/text"
-msgstr "Расширенная вентиляция ур. 4. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 4. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"2\"]/text"
-msgstr "Расширенная вентиляция ур. 3. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 3. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"1\"]/text"
-msgstr "Расширенная вентиляция ур. 2. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 2. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"UPG_CREW_OXYGEN\""
 " and @lvl=\"0\"]/text"
-msgstr "Расширенная вентиляция ур. 1. [Цена: 30~]"
+msgstr "Продвинутая вентиляция ур. 1. [Цена: 30~]"
 
 #: src-en/data/events_special_storage.xml.append:1978
 msgid ""
@@ -2774,8 +2769,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OXYGEN_CREW_OXYGEN\"]/text"
 msgstr ""
-"Вы собираетесь установить Расширенная вентиляция.\n"
-"\t[Эффекты: Кислородная установка теперь уделяет приоритетное внимание вашему экипажу, пополняя запасы кислорода на 80% быстрее в отсеках, где находится экипаж. Оказывает противоположное воздействие на экипаж противника и пожары, истощая запасы кислорода. Требует питания от системы и масштабируется в зависимости от мощности]"
+"Вы собираетесь установить Продвинутую вентиляцию.\n"
+"\t[Эффекты: Кислородная установка теперь уделяет приоритетное внимание "
+"вашему экипажу, пополняя запасы кислорода на 80% быстрее в отсеках, где "
+"находится экипаж. Оказывает противоположное воздействие на экипаж противника "
+"и пожары, истощая запасы кислорода. Требует питания от системы и "
+"масштабируется в зависимости от мощности]"
 
 #: src-en/data/events_special_storage.xml.append:2401
 msgid ""
@@ -3160,7 +3159,6 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:2740
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
