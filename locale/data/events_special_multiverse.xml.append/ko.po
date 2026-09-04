@@ -1,136 +1,160 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-04 04:53+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-innovations/"
+"dataevents_special_multiversexmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_multiverse.xml.append:5
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "융제 장갑 시스템을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml.append:7
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"융제 장갑 - 방어 ㅈ-ㅈ-ㅈ-절차를 보장! 귀하가 모는 선박: 잘 보호됨! 잘 "
+"보호됨! 잘 보호된 선박을 위해: 융-융-융제의 지원을 제공! 융제의 지원! 미래를 "
+"위해 남겨둘 것!\""
 
 #: src-en/data/events_special_multiverse.xml.append:12
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:18
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "전용 조준 코어 시스템을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml.append:20
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"\"전용 조준 코어 - 명-명-명사수를 위한 것! 이제 어떤 적도 당신을 회피할 수 "
+"없음! 명사수를 위해: 조-조-조준의 지원을 제공! 조준의 지원! 미래를 위해 "
+"남겨둘 것!\""
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[2]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:31
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "전자전 제어실 시스템을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml.append:33
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"\"전자전 제어실 - ㄱ-ㄱ-ㄱ-가장 다재다능한 시스템, 적 드론은 더 이상 위협이 "
+"되지 않음! 효과적인 대-대-응책을 위해: 전자전의 지원을 제공! 전자전의 지원! "
+"미래를 위해 남겨둘 것!\""
 
 #: src-en/data/events_special_multiverse.xml.append:38
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[3]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:44
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "주입실 시스템을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"\"주입실 - 위험과 보상! 위-위-험, 보-보-보상... 어느 쪽이 더 무거울 것? "
+"귀하는 가능성을 '고려하는' 선장!! 신중한 고려와 더 큰 잠-잠-재력을 위해: 주-"
+"주-주입의 지원를 제공! 주입의 지원! 미래를 위해 남겨둘 것!\""
 
 #: src-en/data/events_special_multiverse.xml.append:51
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[4]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:57
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "충격 중화기 보조 시스템을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml.append:59
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
+"\"충격 중화기 - 이-이-이온에 맞서는 방어를 위해! 이온! 다른 기술을 돕기 위한 "
+"기술! 기술!!! 이것을 위해: 자랑스럽게 중화의 지원을 제공! 중화의 지원! "
+"미래를 위해 남겨둘 것!\""
 
 #: src-en/data/events_special_multiverse.xml.append:64
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[5]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "시스템 보강 장치 보조 시스템을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml.append:72
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/text"
 msgstr ""
+"\"시스템 보강 장치 - 시-시-시스템 피해 방어를 위해! 신뢰할 수 있는 함선을 "
+"조종하고 있음! 신뢰할 수 있는 함선! 신뢰할 수 있는 함선을 위해: 보-보-보강의 "
+"지원를 제공! 보강의 지원! 미래를 위해 남겨둘 것!\""
 
 #: src-en/data/events_special_multiverse.xml.append:77
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[6]/event/choice/text"
-msgstr ""
+msgstr "계속..."
 
 #: src-en/data/events_special_multiverse.xml.append:83
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "섬유 라이너 보조 시스템을 제시한다."
 
 #: src-en/data/events_special_multiverse.xml.append:85
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/text"
 msgstr ""
+"\"섬유 라이너 - 선-선-선원을 위해 피해를 방지! 귀하는 ㅈ-ㅈ-ㅈ-자비로운 "
+"선장! 선의를 위해: 섬-섬유의 지원를 제공! 섬유의 지원! 미래를 위해 남겨둘 "
+"것!\"</text>"
 
 #: src-en/data/events_special_multiverse.xml.append:90
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice[7]/event/choice/text"
-msgstr ""
+msgstr "계속..."
