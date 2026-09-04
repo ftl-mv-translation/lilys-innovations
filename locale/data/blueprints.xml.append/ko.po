@@ -1,1356 +1,1706 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-04 06:17+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-innovations/"
+"datablueprintsxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/title"
-msgstr ""
+msgstr "융제 장갑"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/desc"
 msgstr ""
+"선체가 피해를 입기 전에 충격을 흡수하며 천천히 재생되는 장갑 레이어를 "
+"제공합니다. 시스템 등급이 높을수록 장갑 내구도, 재생 속도, 이온 저항이 "
+"증가합니다. 수리 속도에는 선원 배치 보너스가 적용됩니다."
 
 #: src-en/data/blueprints.xml.append:40
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/title"
-msgstr ""
+msgstr "전용 조준 코어"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/desc"
 msgstr ""
+"적함의 특정 방을 고정 조준합니다. 조준된 방은 드론의 우선 공격 목표가 되고, "
+"시야가 상시 확보되며, 해당 방을 향하는 발사체의 명중률이 증가합니다.\n"
+"코어 출력이 1단계 상승할 때마다 명중률이 +5% 증가하며, 내부 업그레이드에 "
+"따라 추가 효과가 부여될 수 있습니다.\n"
+"적이 은폐장을 사용 중일 때 이 시스템이 제공하는 보너스 명중률이 2배로 "
+"증가하고, 무기 충전 속도가 (코어 출력 * 20%)만큼 유지되며, 홀로그램이 "
+"생성되어 해당 방의 시야를 확보합니다."
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/title"
-msgstr ""
+msgstr "충격 중화기"
 
 #: src-en/data/blueprints.xml.append:58
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/desc"
 msgstr ""
+"지정된 방의 이온 해소 속도를 촉진하여 이온 무기 피해로부터 빠르게 "
+"회복시키거나 쿨다운을 줄여줍니다. 또한 이온 폭풍이나 펄서 근처에서 작동 시 "
+"해당 방에 보너스 전력을 제공합니다."
 
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/title"
-msgstr ""
+msgstr "주입실"
 
 #: src-en/data/blueprints.xml.append:76
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/desc"
 msgstr ""
+"시간이 지남에 따라 주입물을 생성합니다. 방에 진입한 선원은 주입물이 "
+"남아있다면 이를 획득하여 소지합니다. 선원이 소지한 주입물은 나중에 UI를 통해 "
+"발동할 수 있습니다."
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/title"
-msgstr ""
+msgstr "전자전 제어실"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/desc"
 msgstr ""
+"적의 드론, 발사체, 시스템을 방해하는 다양한 수동 발동 능력을 제공합니다. "
+"특히 드론을 상대할 때 매우 효과적입니다."
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/title"
-msgstr ""
+msgstr "시스템 보강 장치"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/desc"
 msgstr ""
+"다른 시스템이 받을 피해를 자신에게 돌려 패시브로 시스템을 보호합니다(자신이 "
+"파괴되지 않은 동안 유지). 단, 다른 시스템에 비해 수리 속도가 절반으로 "
+"감소합니다."
 
 #: src-en/data/blueprints.xml.append:120
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/title"
-msgstr ""
+msgstr "섬유 라이너"
 
 #: src-en/data/blueprints.xml.append:121
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/desc"
 msgstr ""
+"아군 함선에 명중하는 발사체 및 빔의 선원 피해를 시스템 등급에 따라 감소시켜 "
+"선원을 보호합니다. 선원 피해를 1 흡수할 때마다 20% 확률로 1의 시스템 피해를 "
+"받습니다."
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
-msgstr ""
+msgstr "보강 장치 요새화"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/title"
-msgstr ""
+msgstr "보강 장치 요새화 [X]"
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/desc"
 msgstr ""
+"시스템 보강 장치 방에 있는 아군 선원이 받는 모든 피해가 절반으로 줄어들고, "
+"적 선원의 시스템 파괴 속도가 절반으로 감소합니다.\n"
+"    \n"
+"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/title"
-msgstr ""
+msgstr "지능형 강습 배치"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DRONE_BOARDING_SMART\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/title"
-msgstr ""
+msgstr "지능형 강습 배치 [X]"
 
 #: src-en/data/blueprints.xml.append:161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/desc"
 msgstr ""
+"강습 드론이 적함의 주요 중요 시설에 우선적으로 침투하도록 설정합니다.\n"
+"\n"
+"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
-msgstr ""
+msgstr "고급 환기 시스템 [X]"
 
 #: src-en/data/blueprints.xml.append:172
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
 msgstr ""
+"생명 유지 장치가 아군 선원을 우선시하여 선원이 있는 방의 산소를 80% 더 "
+"빠르게 채웁니다. 적 선원이나 화재 발생 구역에는 반대로 작용하여 산소를 "
+"빠르게 빼앗습니다. 전력이 공급되어야 작동하며, 공급 전력에 비례해 효과가 "
+"커집니다.\n"
+"\n"
+"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
-msgstr ""
+msgstr "고급 환기 시스템"
 
 #: src-en/data/blueprints.xml.append:183
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
-msgstr ""
+msgstr "꽃다발"
 
 #: src-en/data/blueprints.xml.append:191
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:198
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/title"
-msgstr ""
+msgstr "공장용 구리스"
 
 #: src-en/data/blueprints.xml.append:199
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FACTORY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:206
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
-msgstr ""
+msgstr "금속과 화약"
 
 #: src-en/data/blueprints.xml.append:207
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
-msgstr ""
+msgstr "북극의 바람"
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/title"
-msgstr ""
+msgstr "청금석"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_LAZULI\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
-msgstr ""
+msgstr "9V 건전지"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:238
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/title"
-msgstr ""
+msgstr "알파-메틸페네틸아민"
 
 #: src-en/data/blueprints.xml.append:239
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
-msgstr ""
+msgstr "문 제어실 요새화"
 
 #: src-en/data/blueprints.xml.append:248
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/title"
-msgstr ""
+msgstr "문 제어실 요새화 [X]"
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
 msgstr ""
+"문 제어실에 있는 아군 선원이 받는 모든 피해가 절반으로 줄어들고, 적 선원의 "
+"시스템 파괴 속도가 절반으로 감소합니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/title"
-msgstr ""
+msgstr "예비 산소 공급기"
 
 #: src-en/data/blueprints.xml.append:265
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:271
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/title"
-msgstr ""
+msgstr "예비 산소 공급기 [X]"
 
 #: src-en/data/blueprints.xml.append:272
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
 msgstr ""
+"산소 생성 시스템이 파괴되거나 무력화되어도 해당 방 내부에는 소량의 산소를 "
+"지속적으로 공급합니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:281
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/title"
-msgstr ""
+msgstr "문 긴급 차단장치"
 
 #: src-en/data/blueprints.xml.append:282
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/title"
-msgstr ""
+msgstr "문 긴급 차단장치 [X]"
 
 #: src-en/data/blueprints.xml.append:289
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
 msgstr ""
+"문 제어 시스템이 파괴되거나 무력화되면 모든 내부 문과 에어록이 자동으로 "
+"닫히고 잠깁니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr ""
+msgstr "배터리 파동 과충전"
 
 #: src-en/data/blueprints.xml.append:299
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:305
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr ""
+msgstr "배터리 파동 과충전 [X]"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
 msgstr ""
+"예비 배터리가 활성화된 동안 배터리 등급당 무기 충전 속도 +10%, 방어막 재생 "
+"속도 +20%, 회피율 +5%를 얻습니다.\n"
+"예비 배터리 성능 업그레이드와는 호환되지 않습니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/title"
-msgstr ""
+msgstr "태양광 배터리"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:323
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/title"
-msgstr ""
+msgstr "태양광 배터리 [X]"
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/desc"
 msgstr ""
+"항성(태양)에 인접한 지역에서 보조 배터리를 시간 제한 없이 무제한으로 "
+"활성화할 수 있습니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:334
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/title"
-msgstr ""
+msgstr "정신 차폐막"
 
 #: src-en/data/blueprints.xml.append:335
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/title"
-msgstr ""
+msgstr "정신 차폐막 [X]"
 
 #: src-en/data/blueprints.xml.append:342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/desc"
 msgstr ""
+"조종실에 위치한 선원이 정신 제어 및 기절 효과에 완전 면역이 됩니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:352
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/title"
-msgstr ""
+msgstr "통합 신경망 (조종실)"
 
 #: src-en/data/blueprints.xml.append:353
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:359
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/title"
-msgstr ""
+msgstr "통합 신경망 (조종실) [X]"
 
 #: src-en/data/blueprints.xml.append:360
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/desc"
 msgstr ""
+"통합 신경망이 작동하여 선원이 없어도 조종실 하위 시스템을 완벽하게 "
+"제어합니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:369
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/title"
-msgstr ""
+msgstr "통합 신경망 (센서실)"
 
 #: src-en/data/blueprints.xml.append:370
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:376
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/title"
-msgstr ""
+msgstr "통합 신경망 (센서실) [X]"
 
 #: src-en/data/blueprints.xml.append:377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/desc"
 msgstr ""
+"통합 신경망이 작동하여 선원이 없어도 센서 하위 시스템을 완벽하게 "
+"제어합니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:386
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/title"
-msgstr ""
+msgstr "통합 신경망 (문 제어실)"
 
 #: src-en/data/blueprints.xml.append:387
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:393
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/title"
-msgstr ""
+msgstr "통합 신경망 (문 제어실) [X]"
 
 #: src-en/data/blueprints.xml.append:394
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/desc"
 msgstr ""
+"통합 신경망이 작동하여 선원이 없어도 문 제어 하위 시스템을 완벽하게 "
+"제어합니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:408
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/title"
-msgstr ""
+msgstr "연마된 장갑"
 
 #: src-en/data/blueprints.xml.append:409
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_POLISHED_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:415
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/title"
-msgstr ""
+msgstr "연마된 장갑 [X]"
 
 #: src-en/data/blueprints.xml.append:416
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/desc"
 msgstr ""
+"융제 장갑이 빔 공격으로부터 받는 피해를 1 감소시킵니다.\n"
+"\n"
+"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:424
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/title"
-msgstr ""
+msgstr "반응 장갑"
 
 #: src-en/data/blueprints.xml.append:425
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:431
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/title"
-msgstr ""
+msgstr "반응 장갑 [X]"
 
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/desc"
 msgstr ""
+"융제 장갑이 피해를 흡수할 때 파편을 방출하여 날아오는 발사체나 적 드론을 "
+"격추합니다.\n"
+"\n"
+"[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:440
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/title"
-msgstr ""
+msgstr "고강도 이중 장갑"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/title"
-msgstr ""
+msgstr "고강도 이중 장갑 [X]"
 
 #: src-en/data/blueprints.xml.append:448
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/desc"
 msgstr ""
+"융제 장갑이 시스템 피해나 선원 피해를 대신 흡수할 확률을 높여줍니다. 또한 "
+"선체와 시스템 손상에 대한 저항력을 10% 더 높여줍니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/title"
-msgstr ""
+msgstr "자가 복구 장갑"
 
 #: src-en/data/blueprints.xml.append:457
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/title"
-msgstr ""
+msgstr "자가 복구 장갑 [X]"
 
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/desc"
 msgstr ""
+"융제 장갑 시스템이 탑재되어 있을 경우, 도약할 때마다 선체 체력을 2씩 "
+"복구합니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/title"
-msgstr ""
+msgstr "복수 어댑터"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/title"
-msgstr ""
+msgstr "복수 어댑터 [X]"
 
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/desc"
 msgstr ""
+"선체 피해 시 발동하는 각종 효과들이 장갑에 피해를 입었을 때도 동일하게 "
+"발동하도록 만듭니다.\n"
+"\n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:490
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/title"
-msgstr ""
+msgstr "융제 장갑 요새화"
 
 #: src-en/data/blueprints.xml.append:491
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:497
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/title"
-msgstr ""
+msgstr "융제 장갑 요새화 [X]"
 
 #: src-en/data/blueprints.xml.append:498
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/desc"
 msgstr ""
+"융제 장갑 방에 있는 아군 선원이 받는 모든 피해가 절반으로 줄어들고, 적 "
+"선원의 시스템 파괴 속도가 절반으로 감소합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:507
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/title"
-msgstr ""
+msgstr "아이테르 주입 장갑"
 
 #: src-en/data/blueprints.xml.append:508
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:514
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/title"
-msgstr ""
+msgstr "아이테르 주입 장갑 [X]"
 
 #: src-en/data/blueprints.xml.append:515
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/desc"
 msgstr ""
+"장갑 및 선체 피해 저항 확률이 10% 증가하며, 융제 장갑 레이어에도 피해 저항 "
+"확률이 적용되도록 합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/title"
-msgstr ""
+msgstr "보조 이온 반발장"
 
 #: src-en/data/blueprints.xml.append:543
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/title"
-msgstr ""
+msgstr "보조 이온 반발장 [X]"
 
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/desc"
 msgstr ""
+"이온 피해로부터 함선을 보호하여 30% 확률로 이온 피해를 완전히 무효화합니다. "
+"중첩 적용이 가능합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:559
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/title"
-msgstr ""
+msgstr "광역 중화장"
 
 #: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:566
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/title"
-msgstr ""
+msgstr "광역 중화장 [X]"
 
 #: src-en/data/blueprints.xml.append:567
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/desc"
 msgstr ""
+"충격 중화기의 보너스 효과 중 절반이 대상 방과 인접한 주변 방들에도 동일하게 "
+"적용됩니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:576
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/title"
-msgstr ""
+msgstr "과전류 보호기"
 
 #: src-en/data/blueprints.xml.append:577
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:583
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/title"
-msgstr ""
+msgstr "과전류 보호기 [X]"
 
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/desc"
 msgstr ""
+"플라즈마 피해로부터 함선을 보호합니다. 방어막 타격 시 시스템 피해를 100% "
+"무효화하며, 선체 직접 타격 시 50% 확률로 무효화합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/title"
-msgstr ""
+msgstr "신경 중화기"
 
 #: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:600
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/title"
-msgstr ""
+msgstr "신경 중화기 [X]"
 
 #: src-en/data/blueprints.xml.append:601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/desc"
 msgstr ""
+"충격 중화기가 선원의 기절 지속 시간 회복에도 영향을 주도록 강화됩니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:612
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/title"
-msgstr ""
+msgstr "과충전된 주입물"
 
 #: src-en/data/blueprints.xml.append:613
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:619
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/title"
-msgstr ""
+msgstr "혼돈의 주입물"
 
 #: src-en/data/blueprints.xml.append:620
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:626
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/title"
-msgstr ""
+msgstr "화염의 주입물"
 
 #: src-en/data/blueprints.xml.append:627
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:633
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/title"
-msgstr ""
+msgstr "폭발의 주입물"
 
 #: src-en/data/blueprints.xml.append:634
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:640
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/title"
-msgstr ""
+msgstr "불사조의 주입물"
 
 #: src-en/data/blueprints.xml.append:641
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:648
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/title"
-msgstr ""
+msgstr "후유증 치료기"
 
 #: src-en/data/blueprints.xml.append:649
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:655
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/title"
-msgstr ""
+msgstr "후유증 치료기 [X]"
 
 #: src-en/data/blueprints.xml.append:656
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/desc"
 msgstr ""
+"주입실 내부의 선원이 주입 후유증에서 회복되는 속도가 현재 공급된 전력에 "
+"비례하여 촉진됩니다.\n"
+"전력 1: 후유증 회복 속도 1.75배.\n"
+"전력 2: 후유증 회복 속도 2.5배.\n"
+"전력 3: 후유증 회복 속도 3.25배.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:670
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/title"
-msgstr ""
+msgstr "안전지대 프로토콜"
 
 #: src-en/data/blueprints.xml.append:671
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:677
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/title"
-msgstr ""
+msgstr "안전지대 프로토콜 [X]"
 
 #: src-en/data/blueprints.xml.append:678
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/desc"
 msgstr ""
+"주입실 내부의 선원이 질식 및 화재 피해에 완전 면역이 되며, 초당 1의 체력을 "
+"추가로 회복합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/title"
-msgstr ""
+msgstr "열운동 방출기"
 
 #: src-en/data/blueprints.xml.append:690
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:696
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/title"
-msgstr ""
+msgstr "열운동 방출기 [X]"
 
 #: src-en/data/blueprints.xml.append:697
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/desc"
 msgstr ""
+"시스템 보강 장치가 피해를 흡수할 때 내구도를 잃지 않는 대신 50% 확률로 방에 "
+"불이 붙습니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:707
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/title"
-msgstr ""
+msgstr "형상기억 합금 보강재"
 
 #: src-en/data/blueprints.xml.append:708
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:714
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/title"
-msgstr ""
+msgstr "형상기억 합금 보강재 [X]"
 
 #: src-en/data/blueprints.xml.append:715
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
 msgstr ""
+"형상을 기억하는 특수 금속으로 제작되어, 선원이 없어도 시스템 보강 장치가 "
+"스스로 천천히 자가 수리됩니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/title"
-msgstr ""
+msgstr "구조 유지장 발생기"
 
 #: src-en/data/blueprints.xml.append:726
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/title"
-msgstr ""
+msgstr "구조 유지장 발생기 [X]"
 
 #: src-en/data/blueprints.xml.append:733
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
 msgstr ""
+"시스템 보강 장치가 적 선원의 시스템 파괴나 화재 등 다른 원인으로 발생하는 "
+"시스템 피해까지 대신 보호합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/title"
-msgstr ""
+msgstr "아이테르 구조 유지장"
 
 #: src-en/data/blueprints.xml.append:744
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:750
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/title"
-msgstr ""
+msgstr "아이테르 구조 유지장 [X]"
 
 #: src-en/data/blueprints.xml.append:751
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
 msgstr ""
+"시스템 보강 장치의 보호를 받는 시스템들은 적 선원의 시스템 파괴 속도가 "
+"절반으로 줄어들며, 침입한 적에게 초당 2의 피해를 입힙니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:762
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr ""
+msgstr "광역 지도 제작기"
 
 #: src-en/data/blueprints.xml.append:763
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:769
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr ""
+msgstr "광역 지도 제작기 [X]"
 
 #: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/desc"
 msgstr ""
+"구역 전체에 있는 송신소들의 정보를 수집할 수 있게 해줍니다. 함선이 일정 시간 "
+"동안 정지해 있어야 작동합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:779
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/title"
-msgstr ""
+msgstr "구역 탐지기"
 
 #: src-en/data/blueprints.xml.append:780
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECTOR_SCANNER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:786
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/title"
-msgstr ""
+msgstr "구역 탐지기 [X]"
 
 #: src-en/data/blueprints.xml.append:787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/desc"
 msgstr ""
+"여정 중인 구역들에 대한 상세 정보를 수집하여, 구역 간 도약을 진행할 때 "
+"연결된 모든 섹터의 정확한 명칭을 드러내 줍니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:796
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/title"
-msgstr ""
+msgstr "긴급 순간이동 회수"
 
 #: src-en/data/blueprints.xml.append:797
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/title"
-msgstr ""
+msgstr "긴급 순간이동 회수 [X]"
 
 #: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/desc"
 msgstr ""
+"적함이 파괴되거나 도약할 때 아군 선원을 자동으로 자신의 함선으로 "
+"순간이동시켜 회수합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:813
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/title"
-msgstr ""
+msgstr "예비 수리 프로토콜"
 
 #: src-en/data/blueprints.xml.append:814
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:820
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/title"
-msgstr ""
+msgstr "예비 수리 프로토콜 [X]"
 
 #: src-en/data/blueprints.xml.append:821
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
 msgstr ""
+"선원이 없어도 클론 배양실 시스템을 천천히 자가 수리합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:831
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr ""
+msgstr "전파장 배열 조준기"
 
 #: src-en/data/blueprints.xml.append:832
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:838
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr ""
+msgstr "전파장 배열 조준기 [X]"
 
 #: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/desc"
 msgstr ""
+"전용 조준 코어의 명중률 보너스를 2배로 증가시키고, 표적이 은폐 중일 때 코어 "
+"출력당 일반 속도의 20%로 무기를 충전할 수 있게 합니다. 또한 시야 제공 범위가 "
+"인접한 방으로 확장됩니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:848
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/title"
-msgstr ""
+msgstr "선제 고정 조준"
 
 #: src-en/data/blueprints.xml.append:849
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_AUTOLOCK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:855
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/title"
-msgstr ""
+msgstr "선제 고정 조준 [X]"
 
 #: src-en/data/blueprints.xml.append:856
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/desc"
 msgstr ""
+"적함에 은폐장 시스템이 장착되어 있는 경우, 전투 시작 즉시 자동으로 표적을 "
+"고정 조준합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:866
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/title"
-msgstr ""
+msgstr "향상된 무기 조율"
 
 #: src-en/data/blueprints.xml.append:867
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:873
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/title"
-msgstr ""
+msgstr "향상된 무기 조율 [X]"
 
 #: src-en/data/blueprints.xml.append:874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/desc"
 msgstr ""
+"무기에 화재/균열/기절 확률이 있는 경우, 해당 확률이 (코어 출력 * 5%)만큼 "
+"증가합니다. (가장 가까운 10% 단위로 올림 처리)\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/title"
-msgstr ""
+msgstr "무기 장전 최적화"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:892
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/title"
-msgstr ""
+msgstr "무기 장전 최적화 [X]"
 
 #: src-en/data/blueprints.xml.append:893
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/desc"
 msgstr ""
+"전용 조준 코어가 코어 출력당 무기 재장전 속도 +5% 보너스를 추가로 "
+"제공합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/title"
-msgstr ""
+msgstr "나노 유도 시스템"
 
 #: src-en/data/blueprints.xml.append:904
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:910
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/title"
-msgstr ""
+msgstr "나노 유도 시스템 [X]"
 
 #: src-en/data/blueprints.xml.append:911
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/desc"
 msgstr ""
+"대공포처럼 탄착군 확산이 있는 무기가 코어 출력당 10유닛만큼 표적에 더 "
+"조밀하게 탄착하도록 유도합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/title"
-msgstr ""
+msgstr "약점 데이터 업링크"
 
 #: src-en/data/blueprints.xml.append:921
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:927
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/title"
-msgstr ""
+msgstr "약점 데이터 업링크 [X]"
 
 #: src-en/data/blueprints.xml.append:928
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/desc"
 msgstr ""
+"조준된 방에 진입한 아군 선원이 코어 출력당 20%의 추가 시스템 파괴 피해와 "
+"5%의 추가 전투 피해를 입힙니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr ""
+msgstr "프로세서 오버클럭"
 
 #: src-en/data/blueprints.xml.append:938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:944
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr ""
+msgstr "프로세서 오버클럭 [X]"
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/desc"
 msgstr ""
+"전용 조준 코어가 방을 고정 조준하는 데 걸리는 시간을 6초에서 1.5초로 대폭 "
+"단축시킵니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr ""
+msgstr "멀티스레드 조준"
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:961
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr ""
+msgstr "멀티스레드 조준 [X]"
 
 #: src-en/data/blueprints.xml.append:962
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/desc"
 msgstr ""
+"전용 조준 코어의 모든 효과가 직접 조준된 방뿐만 아니라 인접한 방에도 "
+"동일하게 적용됩니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:973
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/title"
-msgstr ""
+msgstr "냉각식 통신 교란기"
 
 #: src-en/data/blueprints.xml.append:974
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:980
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/title"
-msgstr ""
+msgstr "냉각식 통신 교란기 [X]"
 
 #: src-en/data/blueprints.xml.append:981
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/desc"
 msgstr ""
+"전자전 제어실의 공격 및 방어 드론 교란 능력의 재사용 대기시간이 즉시 "
+"초기화됩니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:990
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/title"
-msgstr ""
+msgstr "ECM 대용량 축전기"
 
 #: src-en/data/blueprints.xml.append:991
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:997
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/title"
-msgstr ""
+msgstr "ECM 대용량 축전기 [X]"
 
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
 msgstr ""
+"전자전 제어실의 최대 충전 횟수가 +1 증가합니다. (최대 8회).\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1007
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/title"
-msgstr ""
+msgstr "'충성파' 미사일 역제어기"
 
 #: src-en/data/blueprints.xml.append:1008
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1014
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/title"
-msgstr ""
+msgstr "'충성파' 미사일 역제어기 [X]"
 
 #: src-en/data/blueprints.xml.append:1015
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/desc"
 msgstr ""
+"전자전 제어실의 미사일 교란 능력이 적 미사일을 반전시켜 적함으로 "
+"역조종합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1024
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr ""
+msgstr "초충전 프로토콜"
 
 #: src-en/data/blueprints.xml.append:1025
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr ""
+msgstr "초충전 프로토콜 [X]"
 
 #: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/desc"
 msgstr ""
+"ECM 재충전 속도를 일시적으로 2배로 만듭니다. 단, 활성화되어 있는 동안에는 "
+"함선의 다른 능력을 사용할 수 없습니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "ASB 교란기"
 
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1048
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "ASB 교란기 [X]"
 
 #: src-en/data/blueprints.xml.append:1049
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/desc"
 msgstr ""
+"전자전 제어실에 전력이 공급되는 동안 적의 대함 포대(ASB)가 아군 함선을 "
+"타격하지 못하도록 방해합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1058
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr ""
+msgstr "이온 상쇄장"
 
 #: src-en/data/blueprints.xml.append:1059
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1065
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr ""
+msgstr "이온 상쇄장 [X]"
 
 #: src-en/data/blueprints.xml.append:1066
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/desc"
 msgstr ""
+"전자전 제어실에 전력이 공급되는 동안 적의 이온 저항력을 50% 감소시킵니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr ""
+msgstr "교란 장막"
 
 #: src-en/data/blueprints.xml.append:1076
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1082
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr ""
+msgstr "교란 장막 [X]"
 
 #: src-en/data/blueprints.xml.append:1083
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/desc"
 msgstr ""
+"전자전 제어실에 전력이 공급되는 동안 적의 명중률, 재장전 속도, 방어막 재생 "
+"속도를 각각 10%, 15%, 20% 감소시킵니다. 단, ECM 충전 속도가 25% 느려집니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1092
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/title"
-msgstr ""
+msgstr "민코프스키 텐서 이펙터"
 
 #: src-en/data/blueprints.xml.append:1093
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/desc"
 msgstr ""
+"기지 성단 외부에서 설계된 고급 ECM 모듈로, 상대론적 효과를 활용해 시스템 "
+"교란을 극대화합니다. 전자전 제어실에 전력이 공급되는 동안 드론 교란 능력이 "
+"상시 유지되며, 추가로 적의 ASB 포격을 방지하고 적의 이온 저항을 50%, 무기 "
+"명중률을 15% 감소시킵니다."
 
 #: src-en/data/blueprints.xml.append:1101
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/title"
-msgstr ""
+msgstr "임시 교란기"
 
 #: src-en/data/blueprints.xml.append:1102
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/title"
-msgstr ""
+msgstr "섬유 라이너 요새화"
 
 #: src-en/data/blueprints.xml.append:1112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1120
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/title"
-msgstr ""
+msgstr "이중 직조"
 
 #: src-en/data/blueprints.xml.append:1121
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/title"
-msgstr ""
+msgstr "이중 직조 [X]"
 
 #: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
 msgstr ""
+"섬유 라이너의 방어 효율이 2배로 증가하지만, 선원의 수리 속도가 절반으로 "
+"감소합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/title"
-msgstr ""
+msgstr "방호 레이어"
 
 #: src-en/data/blueprints.xml.append:1138
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/title"
-msgstr ""
+msgstr "방호 레이어 [X]"
 
 #: src-en/data/blueprints.xml.append:1145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
 msgstr ""
+"섬유 라이너가 선체에 명중하는 발사체 및 빔의 상태 이상(화재, 균열, 기절) "
+"발생 확률도 감소시킵니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/title"
-msgstr ""
+msgstr "동적 우선순위"
 
 #: src-en/data/blueprints.xml.append:1155
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/title"
-msgstr ""
+msgstr "동적 우선순위 [X]"
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
 msgstr ""
+"섬유 라이너가 아군 선원이 존재하는 방에만 방어 효과를 적용합니다 (피해 역시 "
+"해당 방에서만 대신 받습니다).\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/title"
-msgstr ""
+msgstr "생체 섬유"
 
 #: src-en/data/blueprints.xml.append:1172
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/title"
-msgstr ""
+msgstr "생체 섬유 [X]"
 
 #: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
 msgstr ""
+"함선의 누출 전력을 흡수하는 특수 생물 섬유 소재로 제작되어, 선원이 없어도 "
+"스스로 자연 재생됩니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1189
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/title"
-msgstr ""
+msgstr "아이테르 섬유 의복"
 
 #: src-en/data/blueprints.xml.append:1190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/title"
-msgstr ""
+msgstr "아이테르 섬유 의복 [X]"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
 msgstr ""
+"아이테르가 주입된 생물 섬유로 만든 특수 의복입니다. 선원이 받는 모든 피해를 "
+"20% 감소시키고 초당 2의 체력을 지속 복구합니다. 보너스 전력을 제공하는 "
+"선원은 추가로 전투 피해 및 수리 속도가 +30% 증가합니다.\n"
+"    \n"
+"\t\t[X] - 이 보조장비는 외장형 장비로, 정상적인 효과를 제공하지만 보조장비 "
+"슬롯을 차지합니다. 내부 업그레이드 창에서 비용 없이 내장형 장비로 전환할 수 "
+"있습니다."
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/title"
-msgstr ""
+msgstr "융제 장갑 지원"
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/title"
-msgstr ""
+msgstr "충격 중화기 지원"
 
 #: src-en/data/blueprints.xml.append:1278
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/title"
-msgstr ""
+msgstr "전용 조준 코어 지원"
 
 #: src-en/data/blueprints.xml.append:1286
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1293
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/title"
-msgstr ""
+msgstr "주입실 지원"
 
 #: src-en/data/blueprints.xml.append:1294
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1301
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/title"
-msgstr ""
+msgstr "전자전 제어실 지원"
 
 #: src-en/data/blueprints.xml.append:1302
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1309
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/title"
-msgstr ""
+msgstr "시스템 보강 장치 지원"
 
 #: src-en/data/blueprints.xml.append:1310
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:1317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/title"
-msgstr ""
+msgstr "섬유 라이너 지원"
 
 #: src-en/data/blueprints.xml.append:1318
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/desc"
-msgstr ""
+msgstr "YOU SHOULD NEVER SEE THIS"
