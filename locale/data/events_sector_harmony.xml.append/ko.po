@@ -1,34 +1,45 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-04 04:58+0000\n"
+"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-innovations/"
+"dataevents_sector_harmonyxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_harmony.xml.append:9
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(주입실) 그들에게 주입물을 조금 나누어 줍니다."
 
 #: src-en/data/events_sector_harmony.xml.append:11
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"주입실에서 제작한 자극제 주입물을 엔지와 슬러그 일행에게 나누어 줍니다. 파티 "
+"참석자들은 즉시 활력을 얻고 흥분하기 시작합니다. 눈에 띄게 몸을 떨고 있는 "
+"앤지는 대금을 지불한 뒤, 방 안을 방방 뛰어다니는 슬러그 동료들에게 급히 "
+"달려갑니다."
 
 #: src-en/data/events_sector_harmony.xml.append:16
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(미세 입자 분사기 - 알파-메틸페네틸아민) 자극제를 조금 나누어 줍니다."
 
 #: src-en/data/events_sector_harmony.xml.append:18
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findWithChildLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"자극제 미세 입자 분사기가 아주 잘 작동합니다. 엔지와 슬러그 일행에게 "
+"자극제를 살포하자 파티 참석자들이 즉시 활력을 얻고 흥분하기 시작합니다. 눈에 "
+"띄게 몸을 떨고 있는 앤지는 대금을 지불한 뒤, 방 안을 방방 뛰어다니는 슬러그 "
+"동료들에게 급히 달려갑니다."
