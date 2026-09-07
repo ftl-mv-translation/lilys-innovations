@@ -1,155 +1,180 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-09-08 17:36+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/lilys-innovations/"
+"datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/hyperspace.xml.append:1737
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "Дары Корби (LilyInno)"
 
 #: src-en/data/hyperspace.xml.append:1739
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/name"
-msgstr ""
+msgstr "Дар абляции"
 
 #: src-en/data/hyperspace.xml.append:1740
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар абляции от Корби."
 
 #: src-en/data/hyperspace.xml.append:1741
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную систему Абляционной брони. Пока "
+"действует; бесплатный ремонт 1 корпуса за каждый прыжок."
 
 #: src-en/data/hyperspace.xml.append:1742
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/header"
-msgstr ""
+msgstr "Дар получен"
 
 #: src-en/data/hyperspace.xml.append:1747
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/name"
-msgstr ""
+msgstr "Дар нацеливания"
 
 #: src-en/data/hyperspace.xml.append:1748
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар нацеливания от Корби."
 
 #: src-en/data/hyperspace.xml.append:1749
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную систему Специализированное ядро "
+"целенаведения. Пока действует; Предоставляет +10 к точности всех ваших "
+"оружий и дронов."
 
 #: src-en/data/hyperspace.xml.append:1750
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/header"
-msgstr ""
+msgstr "Дар получен"
 
 #: src-en/data/hyperspace.xml.append:1755
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/name"
-msgstr ""
+msgstr "Дар инфузии"
 
 #: src-en/data/hyperspace.xml.append:1756
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар инфузии от Корби."
 
 #: src-en/data/hyperspace.xml.append:1757
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную систему Инфузионный отсек. Пока "
+"действует; x0.75 максимального здоровья и x0.5 сопротивление урону в ваших "
+"медицинских помещениях."
 
 #: src-en/data/hyperspace.xml.append:1758
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/header"
-msgstr ""
+msgstr "Дар получен"
 
 #: src-en/data/hyperspace.xml.append:1763
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/name"
-msgstr ""
+msgstr "Дар РЭБ"
 
 #: src-en/data/hyperspace.xml.append:1764
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар РЭБ от Корби."
 
 #: src-en/data/hyperspace.xml.append:1765
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную систему РЭБ. Пока действует; -10% "
+"и -20% к скорости перезарядки и восстановления щитов противника "
+"соответственно."
 
 #: src-en/data/hyperspace.xml.append:1766
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/header"
-msgstr ""
+msgstr "Дар получен"
 
 #: src-en/data/hyperspace.xml.append:1771
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/name"
-msgstr ""
+msgstr "Дар нейтрализации"
 
 #: src-en/data/hyperspace.xml.append:1772
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар нейтрализации от Корби."
 
 #: src-en/data/hyperspace.xml.append:1773
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную подсистему Шоковый нейтрализатор. "
+"Пока действует; ионные таймеры на вашем корабле рассеиваются на 10% быстрее."
 
 #: src-en/data/hyperspace.xml.append:1774
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/header"
-msgstr ""
+msgstr "Дар получен"
 
 #: src-en/data/hyperspace.xml.append:1779
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/name"
-msgstr ""
+msgstr "Дар наручей"
 
 #: src-en/data/hyperspace.xml.append:1780
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар наручей от Корби."
 
 #: src-en/data/hyperspace.xml.append:1781
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную подсистему Систему наручи. Пока "
+"действует; штраф к скорости ремонта Системы наручи удален."
 
 #: src-en/data/hyperspace.xml.append:1782
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/header"
-msgstr ""
+msgstr "Дар получен"
 
 #: src-en/data/hyperspace.xml.append:1787
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/name"
-msgstr ""
+msgstr "Дар волокон"
 
 #: src-en/data/hyperspace.xml.append:1788
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар волокон от Корби."
 
 #: src-en/data/hyperspace.xml.append:1789
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/description"
 msgstr ""
+"Покажите Корби полностью модернизированную систему Волокнистый лайнер. Пока "
+"действует; ваш экипаж получает x0.85 урона от всех источников."
 
 #: src-en/data/hyperspace.xml.append:1790
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/header"
-msgstr ""
+msgstr "Дар получен"
 
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
