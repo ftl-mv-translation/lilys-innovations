@@ -24,11 +24,13 @@
         "//augBlueprint/title",
         "//augBlueprint/desc",
 		
-		"//mod:findLike/mod-append:page/mod-append:section/@text",
-		"//mod-append:achievement/name",
-        "//mod-append:achievement/description",
-        "//mod-append:achievement/secretDescription",
-		"//mod-append:achievement/header",
+		"//mod-append:page/section/@text",
+		"//mod-append:page/section/achievement/secretDescription",
+		"//mod-append:page/section/achievement/name",
+		"//mod-append:page/section/achievement/description",
+		"//mod-append:page/section/achievement/header",
+		
+
 		
 		"//mod-append:backgroundObject/tooltip",
 		"//mod:findLike/mod:findLike/mod-append:category/customTitle",
