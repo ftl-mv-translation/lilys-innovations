@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-08 19:47+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/lilys-innovations/dataevents_special_storagexmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -1607,8 +1600,7 @@ msgstr "选择用于注射舱第4槽位的注射剂类型。"
 #, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LILY_INFUSION_BAY_SELECT_FOURTH\"]/text"
-msgstr "在此处，您可以选择注射舱第4槽位使用的注射剂类型。（您需要先安装相应的内部升级"
-"。）"
+msgstr "在此处，您可以选择注射舱第4槽位使用的注射剂类型。（您需要先安装相应的内部升级。）"
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
@@ -3149,8 +3141,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_LILY_SYSTEM_BRACERS_REGEN\"]/text"
 msgstr ""
 "您即将安装活性金属支架升级。\n"
-"\t[效果：由能“记忆”形状的特殊金属制成，系统防护支架即使在无船员状态下也能缓慢"
-"自我修复。]"
+"\t[效果：由能“记忆”形状的特殊金属制成，系统防护支架即使在无船员状态下也能缓慢自我修复。]"
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-04 02:18+0000\n"
-"Last-Translator: TrpleA <wndhkswnqls2@naver.com>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/lilys-innovations/"
-"datatext_miscxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ablative_armor\"]"
@@ -100,13 +93,9 @@ msgstr "(전자전 제어실 - ASB 교란기) 대함 포대의 위협 없이 진
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_salvage\"]"
-msgstr ""
-"고성능 전자전 시스템이 대함 포대(ASB)로부터 함선을 보호해 준 덕분에 자원을 "
-"안전하게 회수했습니다."
+msgstr "고성능 전자전 시스템이 대함 포대(ASB)로부터 함선을 보호해 준 덕분에 자원을 안전하게 회수했습니다."
 
 #: src-en/data/text_misc.xml.append:28
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_retarget\"]"
-msgstr ""
-"(전자전 제어실 - ASB 교란기) 대함 포대(ASB)의 표적을 재설정하여 적함을 "
-"사격한다!"
+msgstr "(전자전 제어실 - ASB 교란기) 대함 포대(ASB)의 표적을 재설정하여 적함을 사격한다!"
