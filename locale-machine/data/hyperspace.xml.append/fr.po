@@ -5,6 +5,171 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: src-en/data/hyperspace.xml.append:1737
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[7]/mod-"
+"append:page/section/@text"
+msgstr "Dons de Corby (LilyInno)"
+
+#: src-en/data/hyperspace.xml.append:1739
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/name"
+msgstr "Don d'Ablation"
+
+#: src-en/data/hyperspace.xml.append:1740
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/secretDescription"
+msgstr "Recevez le Don d'Ablation de Corby."
+
+#: src-en/data/hyperspace.xml.append:1741
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/description"
+msgstr ""
+"Montrez un système de blindage ablatif amélioré à Corby. Tant qu'il est en "
+"effet ; Répare 1 point de coque gratuitement à chaque saut."
+
+#: src-en/data/hyperspace.xml.append:1742
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ABLATIVE_ARMOR\"]/header"
+msgstr "Don reçu"
+
+#: src-en/data/hyperspace.xml.append:1747
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/name"
+msgstr "Don de Ciblage"
+
+#: src-en/data/hyperspace.xml.append:1748
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/secretDescription"
+msgstr "Recevez le Don de Ciblage de Corby."
+
+#: src-en/data/hyperspace.xml.append:1749
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/description"
+msgstr ""
+"Montrez un système de cœur de ciblage dédié amélioré à Corby. Tant qu'il est"
+" en effet ; Accorde +10 de précision supplémentaire à toutes vos armes et "
+"drones."
+
+#: src-en/data/hyperspace.xml.append:1750
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_TARGETING_CORE\"]/header"
+msgstr "Don reçu"
+
+#: src-en/data/hyperspace.xml.append:1755
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/name"
+msgstr "Don d'Infusion"
+
+#: src-en/data/hyperspace.xml.append:1756
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/secretDescription"
+msgstr "Recevez le Don d'Infusion de Corby."
+
+#: src-en/data/hyperspace.xml.append:1757
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/description"
+msgstr ""
+"Montrez un système de baie d'infusion amélioré à Corby. Tant qu'il est en "
+"effet ; x0.75 santé max et x0.5 tous les dégâts subis dans vos installations"
+" médicales."
+
+#: src-en/data/hyperspace.xml.append:1758
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_INFUSION_BAY\"]/header"
+msgstr "Don reçu"
+
+#: src-en/data/hyperspace.xml.append:1763
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/name"
+msgstr "Don de GÉ"
+
+#: src-en/data/hyperspace.xml.append:1764
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/secretDescription"
+msgstr "Recevez le Don de GÉ de Corby."
+
+#: src-en/data/hyperspace.xml.append:1765
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/description"
+msgstr ""
+"Montrez un système de suite de GÉ amélioré à Corby. Tant qu'il est en effet "
+"; -10% et -20% sur la vitesse de recharge des armes et des boucliers ennemis"
+" respectivement."
+
+#: src-en/data/hyperspace.xml.append:1766
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_ECM_SUITE\"]/header"
+msgstr "Don reçu"
+
+#: src-en/data/hyperspace.xml.append:1771
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/name"
+msgstr "Don de Neutralisation"
+
+#: src-en/data/hyperspace.xml.append:1772
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/secretDescription"
+msgstr "Recevez le Don de Neutralisation de Corby."
+
+#: src-en/data/hyperspace.xml.append:1773
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/description"
+msgstr ""
+"Montrez un sous-système de neutraliseur de choc amélioré à Corby. Tant qu'il"
+" est en effet ; Les minuteurs d'ions sur votre vaisseau se dissipent 10% "
+"plus vite."
+
+#: src-en/data/hyperspace.xml.append:1774
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SHOCK_NEUTRALIZER\"]/header"
+msgstr "Don reçu"
+
+#: src-en/data/hyperspace.xml.append:1779
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/name"
+msgstr "Don de Renforcement"
+
+#: src-en/data/hyperspace.xml.append:1780
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/secretDescription"
+msgstr "Recevez le Don de Renforcement de Corby."
+
+#: src-en/data/hyperspace.xml.append:1781
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/description"
+msgstr ""
+"Montrez un sous-système de renforts système amélioré à Corby. Tant qu'il est"
+" en effet ; Le malus de vitesse de réparation des renforts système est "
+"supprimé."
+
+#: src-en/data/hyperspace.xml.append:1782
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_SYSTEM_BRACERS\"]/header"
+msgstr "Don reçu"
+
+#: src-en/data/hyperspace.xml.append:1787
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/name"
+msgstr "Don de Fibres"
+
+#: src-en/data/hyperspace.xml.append:1788
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/secretDescription"
+msgstr "Recevez le Don de Fibres de Corby."
+
+#: src-en/data/hyperspace.xml.append:1789
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/description"
+msgstr ""
+"Montrez un sous-système de doublure en fibre amélioré à Corby. Tant qu'il "
+"est en effet ; Votre équipage subit x0.85 dégâts de toutes les sources."
+
+#: src-en/data/hyperspace.xml.append:1790
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_LILY_FIBER_LINER\"]/header"
+msgstr "Don reçu"
+
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod:findLike/mod-"
