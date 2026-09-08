@@ -8,103 +8,103 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/title"
-msgstr "Blindage Ablatif"
+msgstr "Blindage ablatif"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ablative_armor\"]/desc"
 msgstr ""
 "Fournit à votre vaisseau une couche de blindage qui absorbe les dégâts avant"
-" la coque, et la répare lentement. Des niveaux plus élevés confèrent plus de"
-" points de blindage, une régénération plus rapide et une résistance aux "
+" votre coque et les répare lentement. Les niveaux supérieurs accordent plus "
+"de points de blindage, une régénération plus rapide et une résistance aux "
 "ions. Utilise les niveaux d'équipage pour les réparations."
 
 #: src-en/data/blueprints.xml.append:40
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/title"
-msgstr "Cœur de Ciblage Dédié"
+msgstr "Cœur de ciblage dédié"
 
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_targeting_core\"]/desc"
 msgstr ""
-"Verrouille les pièces du vaisseau ennemi. Les pièces verrouillées sont plus susceptibles d'être ciblées par les drones, sont toujours visibles, et les projectiles qui les visent ont un bonus de précision.\n"
-"Chaque niveau de Puissance du Cœur fournit +5% de précision, et peut avoir d'autres effets avec des améliorations internes.\n"
-"Lorsque l'ennemi est camouflé, le bonus de précision fourni par le système est doublé, les armes se chargent à un taux de Puissance du Cœur * 20%, et un hologramme est généré pour fournir la visibilité de la pièce."
+"Verrouille les salles du vaisseau ennemi. Les salles verrouillées sont plus susceptibles d'être ciblées par les drones, ont toujours une visibilité, et les projectiles visés sur elles ont un bonus de précision.\n"
+"Chaque niveau de force du cœur fournit +5% de précision, et peut avoir d'autres effets avec des améliorations internes.\n"
+"Lorsque l'ennemi est camouflé, le bonus de précision fourni par le système est doublé, les armes se chargent à une vitesse de force du cœur * 20%, et un hologramme est généré pour fournir une visibilité de la salle."
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/title"
-msgstr "Neutraliseur de Choc"
+msgstr "Neutraliseur de choc"
 
 #: src-en/data/blueprints.xml.append:58
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_shock_neutralizer\"]/desc"
 msgstr ""
-"Augmente le taux de dissipation ionique de la pièce ciblée, l'aidant à "
-"récupérer des armes ioniques ou réduisant le temps de recharge. Fournit "
-"également un bonus de puissance à celle-ci lors des tempêtes ioniques ou "
+"Augmente le taux de dissipation ionique de la salle ciblée, aidant soit à "
+"récupérer des armes ioniques, soit à réduire le temps de recharge. Fournit "
+"également de l'énergie bonus à cette salle pendant les tempêtes ioniques ou "
 "près des pulsars."
 
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/title"
-msgstr "Baie d'Infusion"
+msgstr "Baie d'infusion"
 
 #: src-en/data/blueprints.xml.append:76
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_infusion_bay\"]/desc"
 msgstr ""
-"Génère des infusions au fil du temps. Les membres d'équipage entrant dans la"
-" pièce ramasseront et transporteront l'infusion si elle est disponible. Les "
-"infusions transportées par l'équipage peuvent être activées ultérieurement "
-"via l'interface utilisateur."
+"Génère des infusions au fil du temps. L'équipage entrant dans la salle "
+"ramassera et transportera l'infusion si elle est disponible. Les infusions "
+"transportées par l'équipage peuvent être activées ultérieurement via "
+"l'interface utilisateur."
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/title"
-msgstr "Suite ECM"
+msgstr "Suite de guerre électronique"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_ecm_suite\"]/desc"
 msgstr ""
-"Confère un éventail de capacités activables pour perturber les drones, les "
-"projectiles ou les systèmes ennemis. Particulièrement efficace contre les "
+"Accorde une série de capacités activables pour perturber les drones, "
+"projectiles ou systèmes ennemis. Particulièrement efficace contre les "
 "drones."
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/title"
-msgstr "Renforts de Système"
+msgstr "Renforts système"
 
 #: src-en/data/blueprints.xml.append:105
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_system_bracers\"]/desc"
 msgstr ""
-"Protège passivement vos systèmes des dégâts, redirigeant les dégâts du "
-"système vers lui-même (tant qu'il n'est pas lui-même détruit). Cependant, il"
-" n'est réparé qu'à la moitié de la vitesse normale par rapport aux autres "
+"Protège passivement vos systèmes des dégâts, redirigeant les dégâts vers "
+"lui-même à la place (tant qu'il n'est pas lui-même détruit). Cependant, il "
+"n'est réparé qu'à la moitié de la vitesse normale par rapport aux autres "
 "systèmes."
 
 #: src-en/data/blueprints.xml.append:120
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/title"
-msgstr "Revêtement en Fibre"
+msgstr "Doublure en fibre"
 
 #: src-en/data/blueprints.xml.append:121
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"lily_fiber_liner\"]/desc"
 msgstr ""
-"Protège votre équipage des dégâts en réduisant les dégâts infligés à "
-"l'équipage par les projectiles et les rayons frappant votre vaisseau, la "
-"quantité dépendant du niveau du système. A 20% de chances de subir 1 point "
-"de dégâts au système par 1 dégât à l'équipage absorbé."
+"Protège votre équipage des dégâts en réduisant les dégâts d'équipage des "
+"projectiles et rayons frappant votre vaisseau, selon le niveau du système. A"
+" 20% de chance de subir 1 point de dégât système par point de dégât "
+"d'équipage absorbé."
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_BRACERS\"]/title"
-msgstr "Fortifications des Renforts"
+msgstr "Fortifications des renforts"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
@@ -114,15 +114,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:143
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/title"
-msgstr "Fort. des Renforts [X]"
+msgstr "Fortifications des renforts [X]"
 
 #: src-en/data/blueprints.xml.append:144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_BRACERS\"]/desc"
 msgstr ""
-"L'équipage allié dans la pièce des Renforts de Système subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"L'équipage allié dans la salle des renforts système subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à moitié vitesse.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:153
 msgid ""
@@ -143,9 +143,9 @@ msgstr "Déploiement d'abordage intelligent [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DRONE_BOARDING_SMART\"]/desc"
 msgstr ""
-"Permet à vos drones d'abordage de prioriser l'atterrissage dans les pièces ennemies importantes.\n"
-"    \n"
-"[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Fait en sorte que vos drones d'abordage privilégient l'atterrissage dans les salles ennemies importantes.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:171
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/title"
@@ -154,9 +154,9 @@ msgstr "Ventilation avancée [X]"
 #: src-en/data/blueprints.xml.append:172
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"CREW_OXYGEN\"]/desc"
 msgstr ""
-"Le Système de survie priorise désormais votre équipage, en remplissant l'oxygène 80% plus vite dans les pièces où des membres d'équipage sont présents. A l'effet inverse sur l'équipage ennemi et les incendies, drainant l'oxygène. Nécessite que le système soit alimenté et évolue avec la puissance.\n"
+"Le support de vie donne désormais la priorité à votre équipage, remplissant l'oxygène 80% plus vite dans les salles où l'équipage est présent. A l'effet inverse sur l'équipage ennemi et les incendies, drainant l'oxygène. Nécessite que le système soit alimenté, et évolue avec la puissance.\n"
 "\n"
-"[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:182
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_CREW_OXYGEN\"]/title"
@@ -169,7 +169,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_FLORAL\"]/title"
-msgstr "Bouquet Floral"
+msgstr "Bouquet floral"
 
 #: src-en/data/blueprints.xml.append:191
 msgid ""
@@ -189,7 +189,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:206
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_METAL\"]/title"
-msgstr "Métal et Poudre à Canon"
+msgstr "Métal et poudre à canon"
 
 #: src-en/data/blueprints.xml.append:207
 msgid ""
@@ -199,7 +199,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ARCTIC\"]/title"
-msgstr "Vent Arctique"
+msgstr "Vent arctique"
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
@@ -219,7 +219,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BATTERY\"]/title"
-msgstr "Pile 9V"
+msgstr "Batterie 9V"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -229,7 +229,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:238
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_ALPHA\"]/title"
-msgstr "Alpha-Méthylphénéthylamine"
+msgstr "Alpha-méthylphénethylamine"
 
 #: src-en/data/blueprints.xml.append:239
 msgid ""
@@ -239,7 +239,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:247
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_DOORS\"]/title"
-msgstr "Fortifications des Portes"
+msgstr "Fortifications des portes"
 
 #: src-en/data/blueprints.xml.append:248
 msgid ""
@@ -249,20 +249,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:254
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/title"
-msgstr "Fort. des Portes [X]"
+msgstr "Fortifications des portes [X]"
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_DOORS\"]/desc"
 msgstr ""
-"L'équipage allié dans la pièce des Portes subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"L'équipage allié dans la salle des portes subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à moitié vitesse.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_OXYGEN_BACKUP\"]/title"
-msgstr "Oxygène de Secours"
+msgstr "Oxygène de secours"
 
 #: src-en/data/blueprints.xml.append:265
 msgid ""
@@ -272,20 +272,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:271
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/title"
-msgstr "Oxygène de Secours [X]"
+msgstr "Oxygène de secours [X]"
 
 #: src-en/data/blueprints.xml.append:272
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_OXYGEN_BACKUP\"]/desc"
 msgstr ""
-"Le système d'oxygène fournit une petite quantité d'oxygène dans la pièce du système même s'il est détruit ou désactivé.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Le système d'oxygène fournit une petite quantité d'oxygène dans la salle du système même s'il est détruit ou désactivé.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:281
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_DOORS_FAILSAFE\"]/title"
-msgstr "Sécurité des Portes"
+msgstr "Sécurité des portes"
 
 #: src-en/data/blueprints.xml.append:282
 msgid ""
@@ -295,20 +295,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/title"
-msgstr "Sécurité des Portes [X]"
+msgstr "Sécurité des portes [X]"
 
 #: src-en/data/blueprints.xml.append:289
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_DOORS_FAILSAFE\"]/desc"
 msgstr ""
-"Toutes les portes et sas sont automatiquement fermés si le système de Portes est détruit ou désactivé.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Toutes les portes et sas sont automatiquement fermés si le système des portes est détruit ou désactivé.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr "Surtension d'Accélération"
+msgstr "Surcharge de puissance"
 
 #: src-en/data/blueprints.xml.append:299
 msgid ""
@@ -318,21 +318,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:305
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/title"
-msgstr "Surt. Accél. Bat. [X]"
+msgstr "Surcharge de batterie [X]"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SURGE_OVERDRIVE\"]/desc"
 msgstr ""
-"Tant que votre batterie de secours est active, recevez +10% de vitesse de recharge des armes, +20% de vitesse de recharge des boucliers et +5% d'évasion pour chaque niveau de batterie de secours. \n"
-"Incompatible avec les améliorations de performance.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Tant que votre batterie de secours est active, recevez +10% de vitesse de recharge des armes, +20% de taux de recharge des boucliers et +5% d'évasion pour chaque niveau de batterie de secours. Incompatible avec les améliorations de performance.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BATTERY_SOLAR_POWER\"]/title"
-msgstr "Batterie Solaire"
+msgstr "Batterie solaire"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
@@ -342,20 +341,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:323
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/title"
-msgstr "Batterie Solaire [X]"
+msgstr "Batterie solaire [X]"
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BATTERY_SOLAR_POWER\"]/desc"
 msgstr ""
-"Près d'un soleil, la batterie de secours peut être active indéfiniment.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Lorsqu'il est proche d'un soleil, la batterie de secours peut être active indéfiniment.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:334
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PILOT_FOCUS\"]/title"
-msgstr "Bouclier Mental"
+msgstr "Bouclier mental"
 
 #: src-en/data/blueprints.xml.append:335
 msgid ""
@@ -365,20 +364,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/title"
-msgstr "Bouclier Mental [X]"
+msgstr "Bouclier mental [X]"
 
 #: src-en/data/blueprints.xml.append:342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PILOT_FOCUS\"]/desc"
 msgstr ""
-"L'équipage en pilotage devient immunisé contre le contrôle mental et l'étourdissement.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"L'équipage au pilotage devient immunisé contre le contrôle mental et l'étourdissement.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:352
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_PILOT\"]/title"
-msgstr "Réseau Neuronal Intégré (Pilotage)"
+msgstr "Réseau neural intégré (pilotage)"
 
 #: src-en/data/blueprints.xml.append:353
 msgid ""
@@ -394,14 +393,14 @@ msgstr "R.N.I. (Pilotage) [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_PILOT\"]/desc"
 msgstr ""
-"Le Réseau Neural Intégré peut piloter le sous-système de Pilotage même en l'absence d'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
+"Le réseau neural intégré peut faire fonctionner le sous-système de pilotage même en l'absence d'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:369
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_SENSORS\"]/title"
-msgstr "Réseau Neuronal Intégré (Capteurs)"
+msgstr "Réseau neural intégré (capteurs)"
 
 #: src-en/data/blueprints.xml.append:370
 msgid ""
@@ -417,14 +416,14 @@ msgstr "R.N.I. (Capteurs) [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_SENSORS\"]/desc"
 msgstr ""
-"Le Réseau Neural Intégré peut faire fonctionner le sous-système de Capteurs même en l'absence d'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
+"Le réseau neural intégré peut faire fonctionner le sous-système des capteurs même en l'absence d'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:386
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INN_DOORS\"]/title"
-msgstr "Réseau Neuronal Intégré (Portes)"
+msgstr "Réseau neural intégré (portes)"
 
 #: src-en/data/blueprints.xml.append:387
 msgid ""
@@ -440,9 +439,9 @@ msgstr "R.N.I. (Portes) [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INN_DOORS\"]/desc"
 msgstr ""
-"Le Réseau Neural Intégré peut faire fonctionner le sous-système de Portes même en l'absence d'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
+"Le réseau neural intégré peut faire fonctionner le sous-système des portes même en l'absence d'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:408
 msgid ""
@@ -464,13 +463,13 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_POLISHED_ARMOR\"]/desc"
 msgstr ""
 "Diminue les dégâts subis par le blindage ablatif des rayons de 1.\n"
-"    \n"
-"[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:424
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REACTIVE_ARMOR\"]/title"
-msgstr "Blindage Réactif"
+msgstr "Blindage réactif"
 
 #: src-en/data/blueprints.xml.append:425
 msgid ""
@@ -480,20 +479,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:431
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/title"
-msgstr "Blindage Réactif [X]"
+msgstr "Blindage réactif [X]"
 
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REACTIVE_ARMOR\"]/desc"
 msgstr ""
-"Lorsque le Blindage Ablatif absorbe des dégâts, il libère également une rafale de débris pour intercepter les projectiles ou drones entrants.\n"
-"    \n"
-"[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Lorsque le blindage ablatif absorbe des dégâts, il libère également une rafale de débris pour intercepter les projectiles ou drones entrants.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:440
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STRONG_ARMOR\"]/title"
-msgstr "Blindage à Double Résistance"
+msgstr "Blindage renforcé"
 
 #: src-en/data/blueprints.xml.append:441
 msgid ""
@@ -503,20 +502,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/title"
-msgstr "Blindage à Double Résistance [X]"
+msgstr "Blindage renforcé [X]"
 
 #: src-en/data/blueprints.xml.append:448
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STRONG_ARMOR\"]/desc"
 msgstr ""
-"Améliore les chances du Blindage Ablatif d'absorber les dégâts au système ou à l'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Améliore les chances du blindage ablatif d'absorber les dégâts système ou d'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_REGEN_ARMOR\"]/title"
-msgstr "Blindage Réparateur"
+msgstr "Blindage réparateur"
 
 #: src-en/data/blueprints.xml.append:457
 msgid ""
@@ -526,20 +525,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/title"
-msgstr "Blindage Réparateur [X]"
+msgstr "Blindage réparateur [X]"
 
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_REGEN_ARMOR\"]/desc"
 msgstr ""
-"Si le système de Blindage Ablatif est présent, répare 2 points de coque par saut.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Si le système de blindage ablatif est présent, répare 2 points de coque par saut.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:473
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_VENGEANCE_ARMOR\"]/title"
-msgstr "Adaptateur de Vengeance"
+msgstr "Adaptateur de vengeance"
 
 #: src-en/data/blueprints.xml.append:474
 msgid ""
@@ -549,15 +548,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:480
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/title"
-msgstr "Adaptateur de Vengeance [X]"
+msgstr "Adaptateur de vengeance [X]"
 
 #: src-en/data/blueprints.xml.append:481
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_VENGEANCE_ARMOR\"]/desc"
 msgstr ""
 "Permet aux effets qui se déclenchent sur les dégâts de coque de se déclencher également sur les dégâts de blindage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:490
 msgid ""
@@ -578,14 +577,14 @@ msgstr "Fortifications [X]"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BUNKER_ARMOR\"]/desc"
 msgstr ""
-"L'équipage allié dans la pièce du Blindage Ablatif subit moitié moins de dégâts de toutes les sources, et l'équipage ennemi le sabote à moitié vitesse.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"L'équipage allié dans la salle du blindage ablatif subit la moitié des dégâts de toutes les sources, et l'équipage ennemi la sabote à moitié vitesse.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:507
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_AETHER_ARMOR\"]/title"
-msgstr "Blindage Inf. Éther"
+msgstr "Blindage infusé à l'éther"
 
 #: src-en/data/blueprints.xml.append:508
 msgid ""
@@ -595,20 +594,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:514
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/title"
-msgstr "Blindage Inf. Éther [X]"
+msgstr "Blindage infusé à l'éther [X]"
 
 #: src-en/data/blueprints.xml.append:515
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_AETHER_ARMOR\"]/desc"
 msgstr ""
-"Augmente les chances de résister aux dégâts de blindage et de coque de 10% et permet aux couches de Blindage Ablatif de bénéficier des chances de résistance.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Augmente les chances de résister aux dégâts de blindage et de coque de 10% et permet aux couches de blindage ablatif de bénéficier des chances de résistance.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:542
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SECONDARY_ION_FIELD\"]/title"
-msgstr "Champ Ionique Sec."
+msgstr "Champ ionique secondaire"
 
 #: src-en/data/blueprints.xml.append:543
 msgid ""
@@ -618,20 +617,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/title"
-msgstr "Champ Ionique Sec. [X]"
+msgstr "Champ ionique secondaire [X]"
 
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECONDARY_ION_FIELD\"]/desc"
 msgstr ""
-"Protège votre vaisseau des dégâts ioniques, donnant 30% de chances de les annuler entièrement. Se cumule.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Protège votre vaisseau contre les dégâts ioniques, donnant 30% de chance de les annuler totalement. Se cumule.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:559
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_WIDE_NEUTRALIZE\"]/title"
-msgstr "Champ Étendu"
+msgstr "Champ étendu"
 
 #: src-en/data/blueprints.xml.append:560
 msgid ""
@@ -641,20 +640,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:566
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/title"
-msgstr "Champ Étendu [X]"
+msgstr "Champ étendu [X]"
 
 #: src-en/data/blueprints.xml.append:567
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_WIDE_NEUTRALIZE\"]/desc"
 msgstr ""
-"Le Neutraliseur de Choc fournit également la moitié de son bonus aux pièces adjacentes à la cible.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Le neutraliseur de choc fournit également la moitié de son bonus aux salles adjacentes à la cible.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:576
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_PLASMA_NEUTRALIZE\"]/title"
-msgstr "Protecteurs de Surtension"
+msgstr "Protecteurs de surtension"
 
 #: src-en/data/blueprints.xml.append:577
 msgid ""
@@ -664,20 +663,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:583
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/title"
-msgstr "Protecteurs de Surtension [X]"
+msgstr "Protecteurs de surtension [X]"
 
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_PLASMA_NEUTRALIZE\"]/desc"
 msgstr ""
-"Protège votre vaisseau des dégâts plasmatiques, donnant 100% de chances d'annuler les dégâts au système sur les coups au bouclier et 50% sur les coups directs.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Protégez votre vaisseau contre les dégâts de plasma, donnant 100% de chance d'annuler les dégâts système sur les impacts de bouclier et 50% sur les impacts directs.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_STUN_NEUTRALIZE\"]/title"
-msgstr "Neutraliseur Neuronal"
+msgstr "Neutraliseur neural"
 
 #: src-en/data/blueprints.xml.append:594
 msgid ""
@@ -687,20 +686,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:600
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/title"
-msgstr "Neutraliseur Neuronal [X]"
+msgstr "Neutraliseur neural [X]"
 
 #: src-en/data/blueprints.xml.append:601
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_STUN_NEUTRALIZE\"]/desc"
 msgstr ""
-"Le Neutraliseur de Choc affecte désormais aussi les durées d'étourdissement de l'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Le neutraliseur de choc affecte désormais aussi les durées d'étourdissement de l'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:612
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_OVERLOADED_UNLOCK\"]/title"
-msgstr "Infusions Surchargées"
+msgstr "Infusions surchargées"
 
 #: src-en/data/blueprints.xml.append:613
 msgid ""
@@ -710,7 +709,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:619
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_CHAOTIC_UNLOCK\"]/title"
-msgstr "Infusions Chaotiques"
+msgstr "Infusions chaotiques"
 
 #: src-en/data/blueprints.xml.append:620
 msgid ""
@@ -720,7 +719,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:626
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_FIREBORNE_UNLOCK\"]/title"
-msgstr "Infusions Ignées"
+msgstr "Infusions ignées"
 
 #: src-en/data/blueprints.xml.append:627
 msgid ""
@@ -730,7 +729,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:633
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_EXPLOSIVE_UNLOCK\"]/title"
-msgstr "Infusions Explosives"
+msgstr "Infusions explosives"
 
 #: src-en/data/blueprints.xml.append:634
 msgid ""
@@ -740,7 +739,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:640
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_PHOENIX_UNLOCK\"]/title"
-msgstr "Infusions Phénix"
+msgstr "Infusions phénix"
 
 #: src-en/data/blueprints.xml.append:641
 msgid ""
@@ -750,7 +749,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:648
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SICKNESS_RECOVERY\"]/title"
-msgstr "Traitement des Maladies"
+msgstr "Traitement de maladie"
 
 #: src-en/data/blueprints.xml.append:649
 msgid ""
@@ -760,23 +759,23 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:655
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/title"
-msgstr "Traitement des Maladies [X]"
+msgstr "Traitement de maladie [X]"
 
 #: src-en/data/blueprints.xml.append:656
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SICKNESS_RECOVERY\"]/desc"
 msgstr ""
-"L'équipage dans la Baie d'Infusion se remet de sa Maladie d'Infusion à un rythme accru, correspondant à sa puissance actuelle.\n"
-"1 Puissance : Taux de récupération de Maladie d'Infusion x1,75.\n"
-"2 Puissance : Taux de récupération de Maladie d'Infusion x2,5.\n"
-"3 Puissance : Taux de récupération de Maladie d'Infusion x3,25.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"L'équipage dans la baie d'infusion récupère de sa maladie d'infusion à un taux accru, correspondant à sa puissance actuelle.\n"
+"1 Puissance : 1.75x taux de récupération de maladie d'infusion.\n"
+"2 Puissance : 2.5x taux de récupération de maladie d'infusion.\n"
+"3 Puissance : 3.25x taux de récupération de maladie d'infusion.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:670
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_INFUSION_HAVEN\"]/title"
-msgstr "Protocoles de Refuge Sûr"
+msgstr "Protocoles de havre de paix"
 
 #: src-en/data/blueprints.xml.append:671
 msgid ""
@@ -786,20 +785,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:677
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/title"
-msgstr "Protocoles de Refuge Sûr [X]"
+msgstr "Protocoles de havre de paix [X]"
 
 #: src-en/data/blueprints.xml.append:678
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_INFUSION_HAVEN\"]/desc"
 msgstr ""
-"L'équipage dans la Baie d'Infusion devient immunisé contre la suffocation et les incendies, et récupère 1 PV/s supplémentaire.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"L'équipage dans la baie d'infusion devient immunisé contre la suffocation et les incendies, et récupère 1 PV/s supplémentaire.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_THERMAL\"]/title"
-msgstr "Déchargeurs Thermo-Cinétiques"
+msgstr "Déchargeurs cinétiques thermiques"
 
 #: src-en/data/blueprints.xml.append:690
 msgid ""
@@ -809,20 +808,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:696
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/title"
-msgstr "Déchargeurs Thermo-Cinétiques [X]"
+msgstr "Déchargeurs cinétiques thermiques [X]"
 
 #: src-en/data/blueprints.xml.append:697
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_THERMAL\"]/desc"
 msgstr ""
-"Les Renforts de Système ont 50% de chances de ne pas perdre de durabilité mais de prendre feu en absorbant des dégâts.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Les renforts système ont 50% de chance de ne pas perdre de durabilité mais de prendre feu lorsqu'ils absorbent des dégâts.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:707
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_REGEN\"]/title"
-msgstr "Renforts en Métal Vivant"
+msgstr "Renforts en métal vivant"
 
 #: src-en/data/blueprints.xml.append:708
 msgid ""
@@ -832,20 +831,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:714
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/title"
-msgstr "Renforts en Métal Vivant [X]"
+msgstr "Renforts en métal vivant [X]"
 
 #: src-en/data/blueprints.xml.append:715
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_REGEN\"]/desc"
 msgstr ""
-"Fabriqués à partir d'un métal spécial capable de \"mémoriser\" les formes, les Renforts de Système se répareront lentement même en l'absence d'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
+"Fabriqués à partir d'un métal spécial capable de \"se souvenir\" des formes, les renforts système se répareront lentement même en l'absence d'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_COVERAGE\"]/title"
-msgstr "Générateur de Champ d'Intégrité"
+msgstr "Générateur de champ d'intégrité"
 
 #: src-en/data/blueprints.xml.append:726
 msgid ""
@@ -855,20 +854,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:732
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/title"
-msgstr "Générateur de Champ d'Intégrité [X]"
+msgstr "Générateur de champ d'intégrité [X]"
 
 #: src-en/data/blueprints.xml.append:733
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_COVERAGE\"]/desc"
 msgstr ""
-"Les Renforts de Système protègent désormais les systèmes d'autres sources de dégâts, tels que le sabotage et les incendies.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Les renforts système protègent désormais les systèmes contre d'autres sources de dégâts, telles que le sabotage et les incendies.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:743
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BRACERS_AETHER\"]/title"
-msgstr "Champ d'Intégrité Éther"
+msgstr "Champ d'intégrité à l'éther"
 
 #: src-en/data/blueprints.xml.append:744
 msgid ""
@@ -878,20 +877,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:750
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/title"
-msgstr "Champ d'Intégrité Éther [X]"
+msgstr "Champ d'intégrité à l'éther [X]"
 
 #: src-en/data/blueprints.xml.append:751
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_BRACERS_AETHER\"]/desc"
 msgstr ""
-"Les systèmes protégés par les Renforts de Système sont désormais sabotés à moitié vitesse, et infligent 2 PV/s de dégâts aux intrus.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Les systèmes protégés par les renforts système sont désormais sabotés à moitié vitesse et infligent 2 PV/s de dégâts aux intrus.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:762
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr "Suite de Cartographie"
+msgstr "Suite de cartographie"
 
 #: src-en/data/blueprints.xml.append:763
 msgid ""
@@ -901,15 +900,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:769
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/title"
-msgstr "Suite de Cartographie [X]"
+msgstr "Suite de cartographie [X]"
 
 #: src-en/data/blueprints.xml.append:770
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SENSORS_MAPWIDE\"]/desc"
 msgstr ""
-"Vous permet de recueillir des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Vous permet de collecter des informations sur les balises de tout le secteur. Nécessite que le vaisseau soit immobile pendant un certain temps.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:779
 msgid ""
@@ -924,20 +923,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:786
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/title"
-msgstr "Scanner de Secteur [X]"
+msgstr "Scanner de secteur [X]"
 
 #: src-en/data/blueprints.xml.append:787
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_SECTOR_SCANNER\"]/desc"
 msgstr ""
-"Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de tous lors d'un saut inter-secteurs.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Vous permet de collecter plus d'informations sur les secteurs de votre voyage, révélant les noms exacts de chacun lors d'un saut inter-secteur.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:796
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TELEPORT_RECALL\"]/title"
-msgstr "Rappel de Téléportation d'Urgence"
+msgstr "Rappel de téléportation d'urgence"
 
 #: src-en/data/blueprints.xml.append:797
 msgid ""
@@ -947,20 +946,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/title"
-msgstr "Rappel de Téléportation d'Urgence [X]"
+msgstr "Rappel de téléportation d'urgence [X]"
 
 #: src-en/data/blueprints.xml.append:804
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TELEPORT_RECALL\"]/desc"
 msgstr ""
-"Téléporte automatiquement votre équipage vers votre vaisseau si le vaisseau ennemi est détruit ou effectue un saut.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Téléporte automatiquement votre équipage vers votre vaisseau si le vaisseau ennemi est détruit ou en train de sauter.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:813
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_CLONEBAY_REGEN\"]/title"
-msgstr "Protocoles de Réparation de Secours"
+msgstr "Protocoles de réparation de secours"
 
 #: src-en/data/blueprints.xml.append:814
 msgid ""
@@ -970,20 +969,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:820
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/title"
-msgstr "Protocoles de Réparation de Secours [X]"
+msgstr "Protocoles de réparation de secours [X]"
 
 #: src-en/data/blueprints.xml.append:821
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_CLONEBAY_REGEN\"]/desc"
 msgstr ""
-"Répare lentement votre salle des clones même en l'absence d'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies de Bord."
+"Répare lentement votre système de salle des clones même en l'absence d'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:831
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr "Réseau à Spectre Complet"
+msgstr "Réseau à spectre complet"
 
 #: src-en/data/blueprints.xml.append:832
 msgid ""
@@ -993,15 +992,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:838
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/title"
-msgstr "Réseau à Spectre Complet [X]"
+msgstr "Réseau à spectre complet [X]"
 
 #: src-en/data/blueprints.xml.append:839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_ANTICLOAK\"]/desc"
 msgstr ""
-"Double le bonus de précision du Cœur de Ciblage Dédié et permet de charger les armes à 20% de la vitesse normale par Puissance du Cœur lorsque la cible est camouflée. Étend également la vision fournie aux pièces adjacentes.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Double le bonus de précision du Cœur de ciblage dédié et permet le chargement des armes à 20% de la vitesse normale par force du cœur lorsque la cible est camouflée. Étend également la vision fournie aux salles adjacentes.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:848
 msgid ""
@@ -1023,13 +1022,13 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_AUTOLOCK\"]/desc"
 msgstr ""
 "Si le vaisseau ennemi possède un système de camouflage, le verrouille automatiquement et instantanément au début de la bataille.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:866
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_STATUS\"]/title"
-msgstr "Optimisation Améliorée des Armes"
+msgstr "Réglage d'arme amélioré"
 
 #: src-en/data/blueprints.xml.append:867
 msgid ""
@@ -1039,20 +1038,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:873
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/title"
-msgstr "Optimisation Améliorée des Armes [X]"
+msgstr "Réglage d'arme amélioré [X]"
 
 #: src-en/data/blueprints.xml.append:874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_STATUS\"]/desc"
 msgstr ""
-"Si une arme a une chance d'incendie/brèche/étourdissement, cette chance est augmentée de Puissance du Cœur * 5%. (Arrondi au 10% le plus proche)\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Si une arme a une chance de feu/brèche/étourdissement, cette chance est augmentée par la force du cœur * 5%. (Arrondi à la dizaine la plus proche)\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_RELOAD\"]/title"
-msgstr "Optimisation de la Charge des Armes"
+msgstr "Optimisation du chargement des armes"
 
 #: src-en/data/blueprints.xml.append:886
 msgid ""
@@ -1062,20 +1061,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:892
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/title"
-msgstr "Optimisation de la Charge des Armes [X]"
+msgstr "Optimisation du chargement des armes [X]"
 
 #: src-en/data/blueprints.xml.append:893
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_RELOAD\"]/desc"
 msgstr ""
-"Le Cœur de Ciblage Dédié fournit désormais un bonus de rechargement des armes de 5% supplémentaire par Puissance du Cœur.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Le Cœur de ciblage dédié fournit désormais 5% de bonus de recharge d'arme supplémentaire par force du cœur.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_HOMING\"]/title"
-msgstr "Système de Nano-Guidage"
+msgstr "Système de nano-guidage"
 
 #: src-en/data/blueprints.xml.append:904
 msgid ""
@@ -1085,20 +1084,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:910
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/title"
-msgstr "Système de Nano-Guidage [X]"
+msgstr "Système de nano-guidage [X]"
 
 #: src-en/data/blueprints.xml.append:911
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_HOMING\"]/desc"
 msgstr ""
-"Les armes à dispersion (telles que le flak) tenteront désormais de frapper plus près de la cible, de 10 unités par Puissance du Cœur.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Les armes avec dispersion (comme le flak) tenteront désormais de frapper plus près de la cible, de 10 unités par force du cœur.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_UPLINK\"]/title"
-msgstr "Liaison de Données sur les Points Faibles"
+msgstr "Lien de données des points faibles"
 
 #: src-en/data/blueprints.xml.append:921
 msgid ""
@@ -1108,20 +1107,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:927
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/title"
-msgstr "Liaison de Données sur les Points Faibles [X]"
+msgstr "Lien de données des points faibles [X]"
 
 #: src-en/data/blueprints.xml.append:928
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_UPLINK\"]/desc"
 msgstr ""
-"L'équipage allié dans les pièces ciblées infligera 20% de dégâts de sabotage supplémentaires et 5% de dégâts de combat supplémentaires par Puissance du Cœur.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"L'équipage allié dans les salles ciblées infligera 20% de dégâts de sabotage en plus et 5% de dégâts de combat en plus par force du cœur.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr "Overclocking de Processeur"
+msgstr "Overclocking du processeur"
 
 #: src-en/data/blueprints.xml.append:938
 msgid ""
@@ -1131,20 +1130,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:944
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/title"
-msgstr "Overclocking de Processeur [X]"
+msgstr "Overclocking du processeur [X]"
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_OVERCLOCK\"]/desc"
 msgstr ""
-"Réduit le temps nécessaire au Cœur de Ciblage Dédié pour verrouiller une pièce de 6 à 1,5 secondes.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Réduit le temps nécessaire au Cœur de ciblage dédié pour verrouiller une salle de 6 à 1.5 secondes.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr "Ciblage Multithread"
+msgstr "Ciblage multifil"
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
@@ -1154,20 +1153,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:961
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/title"
-msgstr "Ciblage Multithread [X]"
+msgstr "Ciblage multifil [X]"
 
 #: src-en/data/blueprints.xml.append:962
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_TARGETING_MULTITHREAD\"]/desc"
 msgstr ""
-"Le Cœur de Ciblage Dédié applique désormais également ses effets complets aux pièces adjacentes à celles directement ciblées.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Le Cœur de ciblage dédié applique désormais aussi ses pleins effets aux salles adjacentes à celle directement ciblée.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:973
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ANTIDRONE\"]/title"
-msgstr "Brouilleur Comms. R. [X]"
+msgstr "Brouilleur de communications refroidi"
 
 #: src-en/data/blueprints.xml.append:974
 msgid ""
@@ -1177,20 +1176,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:980
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/title"
-msgstr "Brouilleur Comms. R. [X]"
+msgstr "Brouilleur de comm. refroidi [X]"
 
 #: src-en/data/blueprints.xml.append:981
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ANTIDRONE\"]/desc"
 msgstr ""
-"Les capacités de perturbation des drones offensives et défensives de la Suite ECM ont un temps de recharge instantané.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Les capacités de perturbation de drones offensifs et défensifs de la suite de guerre électronique ont un temps de recharge instantané.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:990
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_CAPACITY\"]/title"
-msgstr "Banque de Condensateurs ECM"
+msgstr "Banque de condensateurs de guerre électronique"
 
 #: src-en/data/blueprints.xml.append:991
 msgid ""
@@ -1200,20 +1199,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:997
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/title"
-msgstr "Banque de Condensateurs ECM [X]"
+msgstr "Banque de condensateurs GÉ [X]"
 
 #: src-en/data/blueprints.xml.append:998
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_CAPACITY\"]/desc"
 msgstr ""
-"La Suite ECM gagne +1 charge Max, jusqu'à 8.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"La suite de guerre électronique gagne +1 charge max, jusqu'à 8.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1007
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_RETARGET\"]/title"
-msgstr "Anti-Missile 'Loyaliste'"
+msgstr "Anti-missile 'Loyaliste'"
 
 #: src-en/data/blueprints.xml.append:1008
 msgid ""
@@ -1223,20 +1222,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1014
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/title"
-msgstr "Anti-Missile 'Loyaliste' [X]"
+msgstr "Anti-missile 'Loyaliste' [X]"
 
 #: src-en/data/blueprints.xml.append:1015
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_RETARGET\"]/desc"
 msgstr ""
-"La capacité de perturbation de missiles de la Suite ECM retargete désormais les missiles ennemis vers eux.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"La capacité de perturbation de missiles de la suite de guerre électronique renvoie désormais les missiles ennemis vers eux-mêmes.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1024
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr "Protocole de Surcharge"
+msgstr "Protocole de surcharge"
 
 #: src-en/data/blueprints.xml.append:1025
 msgid ""
@@ -1246,20 +1245,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/title"
-msgstr "Protocole de Surcharge [X]"
+msgstr "Protocole de surcharge [X]"
 
 #: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_SUPERCHARGE\"]/desc"
 msgstr ""
-"L'ECM gagne une capacité qui double temporairement sa vitesse de recharge, mais empêche l'utilisation d'autres capacités tant qu'elle est active.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"La suite de guerre électronique gagne une capacité qui double temporairement sa vitesse de recharge, mais empêche l'utilisation d'autres capacités tant qu'elle est active.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1041
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr "Brouilleur ASB"
+msgstr "Brouilleur de batterie anti-vaisseau"
 
 #: src-en/data/blueprints.xml.append:1042
 msgid ""
@@ -1269,20 +1268,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1048
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/title"
-msgstr "Brouilleur ASB [X]"
+msgstr "Brouilleur de BAV [X]"
 
 #: src-en/data/blueprints.xml.append:1049
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ASB_SCRAMBLER\"]/desc"
 msgstr ""
-"Empêche les Batteries Anti-Vaisseau (ASB) hostiles de frapper votre vaisseau tant que votre système ECM est alimenté.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Empêche les BAV hostiles de frapper votre vaisseau tant que votre système de guerre électronique est alimenté.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1058
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr "Contre-Champ Ionique"
+msgstr "Contre-champ ionique"
 
 #: src-en/data/blueprints.xml.append:1059
 msgid ""
@@ -1292,20 +1291,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1065
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/title"
-msgstr "Contre-Champ Ionique [X]"
+msgstr "Contre-champ ionique [X]"
 
 #: src-en/data/blueprints.xml.append:1066
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_ELECTRO_FIELD\"]/desc"
 msgstr ""
-"Réduit la résistance ionique ennemie de 50% tant que votre système ECM est alimenté.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Réduit la résistance ionique ennemie de 50% tant que votre système de guerre électronique est alimenté.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr "Écran de Brouillage"
+msgstr "Écran de brouillage"
 
 #: src-en/data/blueprints.xml.append:1076
 msgid ""
@@ -1315,36 +1314,36 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1082
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/title"
-msgstr "Écran de Brouillage [X]"
+msgstr "Écran de brouillage [X]"
 
 #: src-en/data/blueprints.xml.append:1083
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_ECM_JAMMER_FIELD\"]/desc"
 msgstr ""
-"Réduit passivement la précision, la vitesse de rechargement et la recharge des boucliers ennemis de 10%, 15% et 20% respectivement tant que votre système ECM est alimenté. Cependant, il gagne des charges 25% plus lentement.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Réduit passivement la précision, la vitesse de recharge et la recharge des boucliers ennemis de 10%, 15% et 20% respectivement tant que votre système de guerre électronique est alimenté. Cependant, il gagne des charges 25% plus lentement.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1092
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/title"
-msgstr "Effecteur Tensoriel de Minkowski"
+msgstr "Effecteur tenseur de Minkovsky"
 
 #: src-en/data/blueprints.xml.append:1093
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_LILY_ULTRA_ECM\"]/desc"
 msgstr ""
-"Un module ECM avancé conçu en dehors du cluster de base qui utilise des "
-"effets relativistes pour amplifier la perturbation du système. Tant que le "
-"système ECM est alimenté, les capacités de perturbation des drones sont "
-"toujours actives. De plus, empêche les Batteries Anti-Vaisseau (ASB) "
-"ennemies de frapper votre vaisseau, réduit la résistance ionique ennemie de "
-"50% et la précision de leurs armes de 15%."
+"Un module de guerre électronique avancé conçu en dehors du cluster de base "
+"qui utilise des effets relativistes pour amplifier la perturbation du "
+"système. Tant que le système de guerre électronique est alimenté, les "
+"capacités de perturbation de drones sont toujours actives. Empêche en outre "
+"les BAV ennemies de frapper votre vaisseau, réduit la résistance ionique "
+"ennemie de 50% et la précision de leurs armes de 15%."
 
 #: src-en/data/blueprints.xml.append:1101
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LILY_ECM_TMP_SCRAMBLER\"]/title"
-msgstr "Brouilleur Temporel"
+msgstr "Brouilleur temp"
 
 #: src-en/data/blueprints.xml.append:1102
 msgid ""
@@ -1354,7 +1353,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_BUNKER_FIBER\"]/title"
-msgstr "Fortifications en Fibre"
+msgstr "Fortifications en fibre"
 
 #: src-en/data/blueprints.xml.append:1112
 msgid ""
@@ -1364,7 +1363,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1120
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_STRONG\"]/title"
-msgstr "Double Tissage"
+msgstr "Double tissage"
 
 #: src-en/data/blueprints.xml.append:1121
 msgid ""
@@ -1374,20 +1373,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/title"
-msgstr "Double Tissage [X]"
+msgstr "Double tissage [X]"
 
 #: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_STRONG\"]/desc"
 msgstr ""
-"La protection du Revêtement en Fibre est désormais deux fois plus efficace, mais est réparée par l'équipage à moitié vitesse.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"La protection de la doublure en fibre est désormais deux fois plus efficace, mais est réparée par l'équipage à vitesse réduite de moitié.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_HAZARD\"]/title"
-msgstr "Couche Hazmat"
+msgstr "Couche de protection hazmat"
 
 #: src-en/data/blueprints.xml.append:1138
 msgid ""
@@ -1397,20 +1396,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/title"
-msgstr "Couche Hazmat [X]"
+msgstr "Couche de protection hazmat [X]"
 
 #: src-en/data/blueprints.xml.append:1145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_HAZARD\"]/desc"
 msgstr ""
-"Le Revêtement en Fibre réduit désormais également les chances d'état (incendie, brèche, étourdissement) des projectiles et des rayons frappant votre coque.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"La doublure en fibre réduit désormais aussi les chances d'altération (feu, brèche, étourdissement) des projectiles et rayons frappant votre coque.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_PRIORITY\"]/title"
-msgstr "Priorité Dynamique"
+msgstr "Priorité dynamique"
 
 #: src-en/data/blueprints.xml.append:1155
 msgid ""
@@ -1420,20 +1419,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/title"
-msgstr "Priorité Dynamique [X]"
+msgstr "Priorité dynamique [X]"
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_PRIORITY\"]/desc"
 msgstr ""
-"Le Revêtement en Fibre n'applique désormais sa protection (et ne subit donc des dégâts) qu'aux pièces où l'équipage allié est présent.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"La doublure en fibre n'applique désormais sa protection (et ne subit donc de dégâts) qu'aux salles où un équipage allié est présent.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1171
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_REGEN\"]/title"
-msgstr "Fibres Vivantes"
+msgstr "Fibres vivantes"
 
 #: src-en/data/blueprints.xml.append:1172
 msgid ""
@@ -1443,20 +1442,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/title"
-msgstr "Fibres Vivantes [X]"
+msgstr "Fibres vivantes [X]"
 
 #: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_REGEN\"]/desc"
 msgstr ""
-"Un matériau spécial de revêtement en fibre vivante est capable de se nourrir des fuites d'énergie de votre vaisseau, et de se régénérer naturellement même en l'absence d'équipage.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Un matériau de doublure en fibre vivante spécial capable de se nourrir des fuites d'énergie sur votre vaisseau, et de se régénérer naturellement même en l'absence d'équipage.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1189
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_LILY_FIBER_AETHER\"]/title"
-msgstr "Vêtements en Fibre Éther"
+msgstr "Vêtements en fibre d'éther"
 
 #: src-en/data/blueprints.xml.append:1190
 msgid ""
@@ -1466,20 +1465,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/title"
-msgstr "Vêtements en Fibre Éther [X]"
+msgstr "Vêtements en fibre d'éther [X]"
 
 #: src-en/data/blueprints.xml.append:1197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LILY_FIBER_AETHER\"]/desc"
 msgstr ""
-"Vêtements spéciaux faits de fibres vivantes infusées d'éther. Fournit à votre équipage 20% de réduction de dégâts de toutes les sources et une régénération constante de 2 PV/s. Les membres d'équipage qui fournissent un bonus de puissance gagnent en plus +30% de dégâts et de réparation.\n"
-"    \n"
-"\t\t[X] - Amélioration externe fournissant son effet mais occupant un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologies embarquées."
+"Vêtements spéciaux faits de fibres vivantes infusées à l'éther. Fournit à votre équipage 20% de réduction de dégâts de toutes les sources et une régénération constante de 2 PV/s. L'équipage qui fournit de l'énergie bonus gagne en plus +30% de dégâts et de réparation.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être converti gratuitement en version interne dans le menu des améliorations internes, dans la catégorie technologie de bord."
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ABLATIVE_ARMOR\"]/title"
-msgstr "Faveur de Blindage Ablatif"
+msgstr "Don de blindage ablatif"
 
 #: src-en/data/blueprints.xml.append:1270
 msgid ""
@@ -1489,7 +1488,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SHOCK_NEUTRALIZER\"]/title"
-msgstr "Faveur de Blindage Ablatif"
+msgstr "Don de blindage ablatif"
 
 #: src-en/data/blueprints.xml.append:1278
 msgid ""
@@ -1499,7 +1498,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_TARGETING_CORE\"]/title"
-msgstr "Faveur de Cœur de Ciblage Dédié"
+msgstr "Don de cœur de ciblage dédié"
 
 #: src-en/data/blueprints.xml.append:1286
 msgid ""
@@ -1509,7 +1508,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1293
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_INFUSION_BAY\"]/title"
-msgstr "Faveur de Baie d'Infusion"
+msgstr "Don de baie d'infusion"
 
 #: src-en/data/blueprints.xml.append:1294
 msgid ""
@@ -1519,7 +1518,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1301
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_ECM_SUITE\"]/title"
-msgstr "Faveur de Suite ECM"
+msgstr "Don de suite de guerre électronique"
 
 #: src-en/data/blueprints.xml.append:1302
 msgid ""
@@ -1529,7 +1528,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1309
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_SYSTEM_BRACERS\"]/title"
-msgstr "Faveur de Renforts de Système"
+msgstr "Don de renforts système"
 
 #: src-en/data/blueprints.xml.append:1310
 msgid ""
@@ -1539,7 +1538,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_LILY_FIBER_LINER\"]/title"
-msgstr "Faveur de Revêtement en Fibre"
+msgstr "Don de doublure en fibre"
 
 #: src-en/data/blueprints.xml.append:1318
 msgid ""

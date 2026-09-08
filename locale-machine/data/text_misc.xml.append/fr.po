@@ -7,60 +7,60 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ablative_armor\"]"
-msgstr "Blindage Ablatif"
+msgstr "Blindage ablatif"
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ablative_armor_installed\"]"
-msgstr "Système d'armure ablative installé"
+msgstr "Système de blindage ablatif installé"
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"lily_shock_neutralizer\"]"
-msgstr "Neutraliseur de Choc"
+msgstr "Neutraliseur de choc"
 
 #: src-en/data/text_misc.xml.append:6
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"lily_shock_neutralizer_installed\"]"
-msgstr "Sous-système de Neutralisation de Choc installé"
+msgstr "Sous-système de neutraliseur de choc installé"
 
 #: src-en/data/text_misc.xml.append:7
 msgid "data/text_misc.xml.append$//text[@name=\"lily_infusion_bay\"]"
-msgstr "Baie d'Infusion"
+msgstr "Baie d'infusion"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"lily_infusion_bay_installed\"]"
-msgstr "Système de Baie d'Infusion installé"
+msgstr "Système de baie d'infusion installé"
 
 #: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"lily_system_bracers\"]"
-msgstr "Renforts de Système"
+msgstr "Renforts système"
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"lily_system_bracers_installed\"]"
-msgstr "Sous-système de Supports de Système installé"
+msgstr "Sous-système de renforts système installé"
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"lily_fiber_liner\"]"
-msgstr "Revêtement en Fibre"
+msgstr "Doublure en fibre"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"lily_fiber_liner_installed\"]"
-msgstr "Sous-système de Revêtement en Fibres installé"
+msgstr "Sous-système de doublure en fibre installé"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"lily_targeting_core\"]"
-msgstr "Cœur de Ciblage Dédié"
+msgstr "Cœur de ciblage dédié"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"lily_targeting_core_installed\"]"
-msgstr "Système de Cœur de Ciblage Dédié installé"
+msgstr "Système de cœur de ciblage dédié installé"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ecm_suite\"]"
-msgstr "Suite ECM"
+msgstr "Suite de guerre électronique"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"lily_ecm_suite_installed\"]"
-msgstr "Système de Suite ECM installé"
+msgstr "Système de suite de GÉ installé"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_medbay1\"]"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_medbay2\"]"
-msgstr "Baie d'Infusion"
+msgstr "Baie d'infusion"
 
 #: src-en/data/text_misc.xml.append:21
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_infusion_bay1\"]"
@@ -84,23 +84,20 @@ msgstr "Dilueur de signal"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_suite1\"]"
-msgstr "Suite ECM"
+msgstr "Suite de guerre électronique"
 
 #: src-en/data/text_misc.xml.append:26
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_salvage_choice\"]"
-msgstr ""
-"(Brouilleur ASB) Procédez sans crainte des Batteries Anti-Vaisseau (ASB)."
+msgstr "(Brouilleur de BAV) Continuez sans crainte de la BAV."
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_salvage\"]"
 msgstr ""
-"Grâce à votre ECM avancé protégeant des Batteries Anti-Vaisseau (ASB), vous "
-"parvenez à récupérer quelques ressources en toute sécurité."
+"Avec votre GÉ avancée vous protégeant de la BAV, vous réussissez à récupérer"
+" des ressources en toute sécurité."
 
 #: src-en/data/text_misc.xml.append:28
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"lily_eventtext_ecm_asb_retarget\"]"
-msgstr ""
-"(Brouilleur ASB) Redirigez la Batterie Anti-Vaisseau (ASB) pour qu'elle tire"
-" sur l'ennemi !"
+msgstr "(Brouilleur de BAV) Reciblez la BAV pour tirer sur l'ennemi !"

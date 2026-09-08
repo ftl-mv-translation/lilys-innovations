@@ -17,31 +17,31 @@ msgid ""
 msgstr ""
 "Vous approchez de l'affiche promotionnelle pour l'examiner de plus près :\n"
 "Lily's Innovations présente :\n"
-"OFFRE PROMOTIONNELLE SPÉCIALE - OBTENEZ VOTRE NOUVEAU SYSTÈME INNOVANT DE VOTRE CHOIX GRATUITEMENT* AUJOURD'HUI !\n"
+"OFFRE PROMOTIONNELLE SPÉCIALE - OBTENEZ VOTRE NOUVEAU SYSTÈME INNOVANT AU CHOIX GRATUITEMENT* DÈS AUJOURD'HUI !\n"
 "\n"
 "Note : Règles de l'offre promotionnelle :\n"
-"1) Pour être éligible à l'offre, votre vaisseau doit déjà posséder l'un des systèmes \"standards\" - les systèmes inclus sont : Boucliers, Infirmerie, Salle des clones, Batterie de secours\n"
-"2) Le système correspondant, sauf cas spéciaux**, sera retiré pour faire de la place à votre nouveau système INNOVANT.\n"
-"3) L'offre s'applique UNE SEULE FOIS par vaisseau/capitaine.\n"
+"1) Pour être éligible à l'offre, votre vaisseau doit déjà posséder l'un des systèmes \"standard\" - les systèmes inclus sont : Boucliers, Infirmerie, Salle des clones, Batterie de secours\n"
+"2) Le système correspondant, sauf cas spéciaux**, sera supprimé pour faire place à votre nouveau système INNOVANT.\n"
+"3) L'offre ne s'applique qu'UNE SEULE FOIS par vaisseau/capitaine.\n"
 "\n"
 "OFFRE SUPPLÉMENTAIRE : EXTENSEUR DE SYSTÈME\n"
-"Une nouvelle technologie de pointe qui permettra à votre vaisseau de supporter un tout nouveau système supplémentaire !\n"
-"Obtenez-en un gratuitement aujourd'hui !\n"
-"(Note : l'emplacement supplémentaire se fait au détriment de l'intégrité de la coque, affaiblie de 1/3 pour faire la place nécessaire)\n"
+"Une nouvelle technologie de pointe qui permettra à votre vaisseau de supporter tout un système supplémentaire !\n"
+"Obtenez-en un gratuitement dès aujourd'hui !\n"
+"(Note : l'emplacement supplémentaire se fait au prix d'un affaiblissement de l'intégrité de la coque d'un tiers pour faire la place nécessaire)\n"
 "\n"
-"Vous remarquez une interface de saisie située sous l'affiche, qui vous a déjà reconnu ainsi que l'ID de votre vaisseau."
+"Vous remarquez une interface de saisie située sous l'affiche, qui vous a déjà reconnu, vous et l'identifiant de votre vaisseau."
 
 #: src-en/data/events_special_main.xml.append:48
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"1\"]/text"
-msgstr "Vous avez déjà bénéficié de l'offre promotionnelle."
+msgstr "Vous avez déjà reçu l'offre promotionnelle."
 
 #: src-en/data/events_special_main.xml.append:53
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/text"
-msgstr "Vérifier votre éligibilité..."
+msgstr "Vérifiez votre éligibilité..."
 
 #: src-en/data/events_special_main.xml.append:55
 msgid ""
@@ -61,7 +61,7 @@ msgstr "Votre vaisseau n'est pas éligible à l'offre."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"shields\"]/text"
-msgstr "(Boucliers) Installer le système de Blindage Ablatif."
+msgstr "(Boucliers) Installer le système de blindage ablatif."
 
 #: src-en/data/events_special_main.xml.append:64
 msgid ""
@@ -69,7 +69,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/text"
 msgstr ""
 "Vous demandez au terminal d'installer le nouveau système sur votre vaisseau.\n"
-"\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
+"\"Reçu. Le travail sur votre vaisseau commencera sous peu...\""
 
 #: src-en/data/events_special_main.xml.append:67
 msgid ""
@@ -82,14 +82,14 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"shields\"]/event/choice/event/text"
 msgstr ""
-"Le système commence à travailler sur le réaménagement de votre vaisseau, et se termine peu après.\n"
-"\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
+"Le système commence à travailler sur la réfection de votre vaisseau, et termine rapidement.\n"
+"\"Quota de travail établi : Terminé. Ravi de faire affaire avec vous.\""
 
 #: src-en/data/events_special_main.xml.append:80
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"hacking\"]/text"
-msgstr "(Piratage) Installer le système de Suite ECM."
+msgstr "(Piratage) Installer le système de suite de GÉ."
 
 #: src-en/data/events_special_main.xml.append:82
 msgid ""
@@ -97,7 +97,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
 "Vous demandez au terminal d'installer le nouveau système sur votre vaisseau.\n"
-"\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
+"\"Reçu. Le travail sur votre vaisseau commencera sous peu...\""
 
 #: src-en/data/events_special_main.xml.append:85
 msgid ""
@@ -110,14 +110,14 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"hacking\"]/event/choice/event/text"
 msgstr ""
-"Le système commence à travailler sur le réaménagement de votre vaisseau, et se termine peu après.\n"
-"\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
+"Le système commence à travailler sur la réfection de votre vaisseau, et termine rapidement.\n"
+"\"Quota de travail établi : Terminé. Ravi de faire affaire avec vous.\""
 
 #: src-en/data/events_special_main.xml.append:98
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/text"
-msgstr "(Infirmerie) Installer le système de Baie d'Infusion."
+msgstr "(Infirmerie) Installer le système de baie d'infusion."
 
 #: src-en/data/events_special_main.xml.append:100
 msgid ""
@@ -125,7 +125,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
 "Vous demandez au terminal d'installer le nouveau système sur votre vaisseau.\n"
-"\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
+"\"Reçu. Le travail sur votre vaisseau commencera sous peu...\""
 
 #: src-en/data/events_special_main.xml.append:103
 msgid ""
@@ -138,14 +138,14 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"medbay\"]/event/choice/event/text"
 msgstr ""
-"Le système commence à travailler sur le réaménagement de votre vaisseau, et se termine peu après.\n"
-"\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
+"Le système commence à travailler sur la réfection de votre vaisseau, et termine rapidement.\n"
+"\"Quota de travail établi : Terminé. Ravi de faire affaire avec vous.\""
 
 #: src-en/data/events_special_main.xml.append:116
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/text"
-msgstr "(Salle des clones) Installer le système de Baie d'Infusion."
+msgstr "(Salle des clones) Installer le système de baie d'infusion."
 
 #: src-en/data/events_special_main.xml.append:118
 msgid ""
@@ -153,7 +153,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
 "Vous demandez au terminal d'installer le nouveau système sur votre vaisseau.\n"
-"\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
+"\"Reçu. Le travail sur votre vaisseau commencera sous peu...\""
 
 #: src-en/data/events_special_main.xml.append:121
 msgid ""
@@ -166,15 +166,15 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"clonebay\"]/event/choice/event/text"
 msgstr ""
-"Le système commence à travailler sur le réaménagement de votre vaisseau, et se termine peu après.\n"
-"\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
+"Le système commence à travailler sur la réfection de votre vaisseau, et termine rapidement.\n"
+"\"Quota de travail établi : Terminé. Ravi de faire affaire avec vous.\""
 
 #: src-en/data/events_special_main.xml.append:134
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"battery\"]/text"
 msgstr ""
-"(Batterie de secours) Installer le sous-système de Neutraliseur de Choc."
+"(Batterie de secours) Installer le sous-système de neutraliseur de choc."
 
 #: src-en/data/events_special_main.xml.append:136
 msgid ""
@@ -182,7 +182,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/text"
 msgstr ""
 "Vous demandez au terminal d'installer le nouveau sous-système sur votre vaisseau.\n"
-"\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
+"\"Reçu. Le travail sur votre vaisseau commencera sous peu...\""
 
 #: src-en/data/events_special_main.xml.append:139
 msgid ""
@@ -195,8 +195,8 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"lilyinno_promo_used\""
 " and @lvl=\"0\"]/event/choice[@req=\"battery\"]/event/choice/event/text"
 msgstr ""
-"Le système commence à travailler sur le réaménagement de votre vaisseau, et se termine peu après.\n"
-"\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
+"Le système commence à travailler sur la réfection de votre vaisseau, et termine rapidement.\n"
+"\"Quota de travail établi : Terminé. Ravi de faire affaire avec vous.\""
 
 #: src-en/data/events_special_main.xml.append:153
 msgid ""
@@ -208,21 +208,21 @@ msgstr ""
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
 " and @lvl=\"1\"]/text"
-msgstr "Emplacement de système bonus déjà installé."
+msgstr "Emplacement système bonus déjà installé."
 
 #: src-en/data/events_special_main.xml.append:165
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
 " and @lvl=\"0\"]/text"
-msgstr "Installer un emplacement de système bonus."
+msgstr "Installer un emplacement système bonus."
 
 #: src-en/data/events_special_main.xml.append:167
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_PROMO_CLICKED\"]/choice[@req=\"mods_lilyinno_systemslotbonus\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Vous demandez au terminal d'augmenter la capacité de système de votre vaisseau.\n"
-"\"Reconnu. Les travaux sur votre vaisseau commenceront sous peu...\""
+"Vous demandez au terminal d'augmenter la capacité système de votre vaisseau.\n"
+"\"Reçu. Le travail sur votre vaisseau commencera sous peu...\""
 
 #: src-en/data/events_special_main.xml.append:170
 msgid ""
@@ -239,5 +239,5 @@ msgstr ""
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"LILYINNO_EXTRA_SYSSLOT\"]/text"
 msgstr ""
-"Le système commence à travailler sur la modification de votre vaisseau, et se termine peu après.\n"
-"\"Quota de travail établi : Terminé. Ce fut un plaisir de faire affaire avec vous.\""
+"Le système commence à travailler sur la modification de votre vaisseau, et termine rapidement.\n"
+"\"Quota de travail établi : Terminé. Ravi de faire affaire avec vous.\""
